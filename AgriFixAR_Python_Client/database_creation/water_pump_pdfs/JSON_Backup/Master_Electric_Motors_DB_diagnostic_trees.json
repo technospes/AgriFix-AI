@@ -1,0 +1,57 @@
+[
+  {
+    "symptom": "Pump fails to operate or operates poorly after initial installation",
+    "machine_family": "Submersible Pump",
+    "component": "Overall Installation",
+    "branches": [
+      {
+        "question": "Is the sump bottom flat and leveled?",
+        "yes_next": "Proceed to next check.",
+        "no_next": "Sump bottom uneven. Level the sump bottom. This can cause pump misalignment and vibration."
+      },
+      {
+        "question": "Is the support bracket and guide pipe assembly exactly vertical and securely fixed?",
+        "yes_next": "Proceed to next check.",
+        "no_next": "Guide pipe misaligned or loose. Adjust support bracket, ensure foundation bolts are tight, and re-grout guide pipe holder if necessary. Misalignment can cause binding and premature wear."
+      },
+      {
+        "question": "Is the unsupported length of the guide pipe less than or equal to 6 meters?",
+        "yes_next": "Proceed to next check.",
+        "no_next": "Unsupported guide pipe too long. Add intermediate supports to prevent bending and binding during pump operation."
+      },
+      {
+        "question": "Was the power cable free of sag and tension during pump lowering?",
+        "yes_next": "Proceed to next check.",
+        "no_next": "Cable may be damaged. Inspect cable for pinches, cuts, or excessive tension. A damaged cable can cause pump failure or trip breakers."
+      },
+      {
+        "question": "Is the pump seated exactly vertical and stable on its support bracket?",
+        "yes_next": "Proceed to next check.",
+        "no_next": "Pump not vertical. Re-seat the pump on the support bracket, ensuring it is stable and plumb. Improper seating leads to vibration and premature wear."
+      },
+      {
+        "question": "Is the sump bottom clear of loose solid pieces or debris?",
+        "yes_next": "Proceed to next check.",
+        "no_next": "Sump contains debris. Clean the sump thoroughly. Debris can clog or damage the pump impeller."
+      },
+      {
+        "question": "Was the pump lifted using a chain of adequate capacity, NOT the power cables?",
+        "yes_next": "Proceed to next check.",
+        "no_next": "Improper lifting method. If cables were used, inspect them for damage. If chain was undersized, check for pump damage from a drop. Always use a correctly sized lifting chain."
+      },
+      {
+        "question": "For portable installations, is the delivery pipe line well supported, with no weight on the pump casing?",
+        "yes_next": "Proceed to next check.",
+        "no_next": "Delivery pipe unsupported. Add supports to the delivery pipeline to prevent stress on the pump casing, which can cause leaks or damage."
+      },
+      {
+        "question": "Is a non-return valve installed in the delivery pipe line before the sluice valve?",
+        "yes_next": "Pump installation checks complete. If issues persist, investigate pump motor or electrical supply.",
+        "no_next": "Non-return valve missing or misplaced. Install or relocate the non-return valve to prevent water hammer and loss of prime."
+      }
+    ],
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "3.1.1 **Installation of support bracket & bend –**",
+    "embedding_text": "Pump fails to operate or operates poorly after initial installation Overall Installation Is the sump bottom flat and leveled? Is the support bracket and guide pipe assembly exactly vertical and securely fixed? Is the unsupported length of the guide pipe less than or equal to 6 meters? Was the power cable free of sag and tension during pump lowering? Is the pump seated exactly vertical and stable on its support bracket? Is the sump bottom clear of loose solid pieces or debris? Was the pump lifted using a chain of adequate capacity, NOT the power cables? For portable installations, is the delivery pipe line well supported, with no weight on the pump casing? Is a non-return valve installed in the delivery pipe line before the sluice valve?"
+  }
+]

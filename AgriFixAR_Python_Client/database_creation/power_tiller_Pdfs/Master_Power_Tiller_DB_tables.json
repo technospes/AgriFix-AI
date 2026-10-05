@@ -1,0 +1,62 @@
+[
+  {
+    "table_type": "torque_table",
+    "page_number": 0,
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "headers": [
+      "Name of Parts",
+      "Torque (N.m)"
+    ],
+    "rows": [
+      {
+        "Name of Parts": "Flange and Diesel Engine",
+        "Torque (N.m)": "20~25"
+      },
+      {
+        "Name of Parts": "Flange and Gear Box",
+        "Torque (N.m)": "35~40"
+      },
+      {
+        "Name of Parts": "Binding Bolts on Gear Box",
+        "Torque (N.m)": "10~12"
+      },
+      {
+        "Name of Parts": "Driving Shaft",
+        "Torque (N.m)": ""
+      },
+      {
+        "Name of Parts": "Binding Bolts On Reversing Gear",
+        "Torque (N.m)": "26~40"
+      },
+      {
+        "Name of Parts": "Shaft",
+        "Torque (N.m)": ""
+      },
+      {
+        "Name of Parts": "Binding Bolts between Engine and Step Box",
+        "Torque (N.m)": "35~40"
+      },
+      {
+        "Name of Parts": "Binding Bolts on Step Box Cover",
+        "Torque (N.m)": "10.6~15"
+      },
+      {
+        "Name of Parts": "Binding Bolts on Trailer Unit",
+        "Torque (N.m)": "50~60"
+      },
+      {
+        "Name of Parts": "Binding Bolts between Step Box and Gear Box",
+        "Torque (N.m)": "35~40"
+      },
+      {
+        "Name of Parts": "Binding Bolts on The Engine base",
+        "Torque (N.m)": "35~40"
+      },
+      {
+        "Name of Parts": "Binding Bolts on The Armrest",
+        "Torque (N.m)": "35~40"
+      }
+    ],
+    "raw_text_excerpt": "Name of Parts  Torque ( N.m)<br>Flange and Diesel Engine 20~25<br>Flange and Gear Box 35~40<br>Binding Bolts on Gear Box  10~12<br>Driving Shaft<br>Binding Bolts On Reversing Gear  26~40<br>Shaft<br>Binding Bolts between Engine  35~40<br>Supporter and Step Box<br>Binding Bolts on Step Box Cover 10.6~15<br>"
+  }
+]

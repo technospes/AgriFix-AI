@@ -1,0 +1,3065 @@
+[
+  {
+    "filename": "190_336_Mahindra_yuvo-service-manual95_p79_img1.png",
+    "page": 79,
+    "width": 1025,
+    "height": 913,
+    "manual_source": "190_336_Mahindra_yuvo-service-manual95.pdf",
+    "section_context": "General",
+    "surrounding_text": "268\nMechanical Steering\nFig. 1\nSTEERING-MECHANISM\nRANE MADRAS LTD.\n1.\nNut main\n2.\nTube transfer\n3.\nRetainer\n4.\nColumn inner\n5.\nBolt\n6.\nBall 5/16”\n7.\nBox cpte\n8.\nBush\n9.\nBolt\n10. Bolt\n11. Pin dowel\n12. Plate cover\n13. Plug\n14. Ball race adjustable\n15. Race inner\n16. Roller spherical\n17. Shaft rocker\n18. Column outer\n19. Bush rubber\n20. Bush nylon\n21. Nut lock\n22. Nut\n23. Oil seal\n24. Felt\n25. Lock washer\n26. Lock washer\n27. Ball race\n28. Adjusting screw\n29. Shims\n30. Gasket\n31. Drop arm",
+    "figure_references": [
+      "Fig. 1"
+    ],
+    "caption": "This exploded view of a Rane Madras mechanical steering assembly illustrates the internal components of the steering box, including the rocker shaft, column, and ball race mechanisms. It is essential for diagnosing steering play, binding, or oil leaks, and provides the necessary sequence for disassembling the steering box and adjusting the rocker shaft end play.",
+    "diagram_type": "exploded_view",
+    "diagram_type_classifier": "exploded_view",
+    "components_shown": [
+      "Nut main",
+      "Tube transfer",
+      "Retainer",
+      "Column inner",
+      "Bolt",
+      "Ball 5/16”",
+      "Box cpte",
+      "Bush",
+      "Bolt",
+      "Bolt",
+      "Pin dowel",
+      "Plate cover",
+      "Plug",
+      "Ball race adjustable",
+      "Race inner",
+      "Roller spherical",
+      "Shaft rocker",
+      "Column outer",
+      "Bush rubber",
+      "Bush nylon",
+      "Nut lock",
+      "Nut",
+      "Oil seal",
+      "Felt",
+      "Lock washer",
+      "Lock washer",
+      "Ball race",
+      "Adjusting screw",
+      "Shims",
+      "Gasket",
+      "Drop arm"
+    ],
+    "fault_relevance": [
+      "Excessive steering play due to worn ball race or rocker shaft",
+      "Oil leakage from steering box via oil seal",
+      "Binding steering due to worn bushings or lack of lubrication"
+    ],
+    "search_keywords": [
+      "mechanical steering",
+      "steering box repair",
+      "Rane Madras steering",
+      "rocker shaft",
+      "steering column assembly",
+      "steering play adjustment"
+    ],
+    "prev_context": "",
+    "next_context": "190_336_Mahindra_yuvo-service-manual95_p143_img1.png (p143, section: General)",
+    "priority_score": 8,
+    "components_visible": [
+      "Nut main",
+      "Tube transfer",
+      "Retainer",
+      "Column inner",
+      "Bolt",
+      "Ball 5/16”",
+      "Box cpte",
+      "Bush",
+      "Bolt",
+      "Bolt",
+      "Pin dowel",
+      "Plate cover",
+      "Plug",
+      "Ball race adjustable",
+      "Race inner",
+      "Roller spherical",
+      "Shaft rocker",
+      "Column outer",
+      "Bush rubber",
+      "Bush nylon",
+      "Nut lock",
+      "Nut",
+      "Oil seal",
+      "Felt",
+      "Lock washer",
+      "Lock washer",
+      "Ball race",
+      "Adjusting screw",
+      "Shims",
+      "Gasket",
+      "Drop arm"
+    ],
+    "labels_detected": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31-33",
+      "34"
+    ],
+    "arrows_point_to": [
+      {
+        "label": "1",
+        "points_to": "Nut main"
+      },
+      {
+        "label": "2",
+        "points_to": "Tube transfer"
+      },
+      {
+        "label": "3",
+        "points_to": "Retainer"
+      },
+      {
+        "label": "4",
+        "points_to": "Column inner"
+      },
+      {
+        "label": "5",
+        "points_to": "Bolt"
+      },
+      {
+        "label": "6",
+        "points_to": "Ball 5/16”"
+      },
+      {
+        "label": "7",
+        "points_to": "Box cpte"
+      },
+      {
+        "label": "8",
+        "points_to": "Bush"
+      },
+      {
+        "label": "9",
+        "points_to": "Bolt"
+      },
+      {
+        "label": "10",
+        "points_to": "Bolt"
+      },
+      {
+        "label": "11",
+        "points_to": "Pin dowel"
+      },
+      {
+        "label": "12",
+        "points_to": "Plate cover"
+      },
+      {
+        "label": "13",
+        "points_to": "Plug"
+      },
+      {
+        "label": "14",
+        "points_to": "Ball race adjustable"
+      },
+      {
+        "label": "15",
+        "points_to": "Race inner"
+      },
+      {
+        "label": "16",
+        "points_to": "Roller spherical"
+      },
+      {
+        "label": "17",
+        "points_to": "Shaft rocker"
+      },
+      {
+        "label": "18",
+        "points_to": "Column outer"
+      },
+      {
+        "label": "19",
+        "points_to": "Bush rubber"
+      },
+      {
+        "label": "20",
+        "points_to": "Bush nylon"
+      },
+      {
+        "label": "21",
+        "points_to": "Nut lock"
+      },
+      {
+        "label": "22",
+        "points_to": "Nut"
+      },
+      {
+        "label": "23",
+        "points_to": "Oil seal"
+      },
+      {
+        "label": "24",
+        "points_to": "Felt"
+      },
+      {
+        "label": "25",
+        "points_to": "Lock washer"
+      },
+      {
+        "label": "26",
+        "points_to": "Lock washer"
+      },
+      {
+        "label": "27",
+        "points_to": "Ball race"
+      },
+      {
+        "label": "28",
+        "points_to": "Adjusting screw"
+      },
+      {
+        "label": "29",
+        "points_to": "Shims"
+      },
+      {
+        "label": "30",
+        "points_to": "Gasket"
+      },
+      {
+        "label": "31-33",
+        "points_to": "Shims"
+      },
+      {
+        "label": "34",
+        "points_to": "Drop arm"
+      }
+    ],
+    "relationships": [
+      {
+        "from": "Plate cover",
+        "to": "Box cpte",
+        "type": "bolts_to"
+      },
+      {
+        "from": "Gasket",
+        "to": "Plate cover",
+        "type": "seals_against"
+      },
+      {
+        "from": "Shaft rocker",
+        "to": "Box cpte",
+        "type": "inserted_into"
+      },
+      {
+        "from": "Oil seal",
+        "to": "Box cpte",
+        "type": "inserted_into"
+      },
+      {
+        "from": "Drop arm",
+        "to": "Shaft rocker",
+        "type": "mounted_on"
+      },
+      {
+        "from": "Column inner",
+        "to": "Column outer",
+        "type": "inserted_into"
+      },
+      {
+        "from": "Ball race",
+        "to": "Column outer",
+        "type": "mounted_on"
+      }
+    ],
+    "specifications": [
+      "Ball size: 5/16 inch"
+    ],
+    "repair_relevance": [
+      "Steering box overhaul",
+      "Rocker shaft replacement",
+      "Steering column bushing replacement",
+      "Adjusting steering play via adjusting screw"
+    ],
+    "assembly_order": [
+      "Install bushings into box",
+      "Insert rocker shaft",
+      "Install ball race and column assembly",
+      "Secure plate cover with gasket",
+      "Install drop arm and lock nut"
+    ],
+    "connected_relationships": [
+      {
+        "from": "Plate cover",
+        "to": "Box cpte",
+        "relationship": "bolts_to"
+      },
+      {
+        "from": "Gasket",
+        "to": "Plate cover",
+        "relationship": "seals_against"
+      },
+      {
+        "from": "Shaft rocker",
+        "to": "Box cpte",
+        "relationship": "inserted_into"
+      },
+      {
+        "from": "Oil seal",
+        "to": "Box cpte",
+        "relationship": "inserted_into"
+      },
+      {
+        "from": "Drop arm",
+        "to": "Shaft rocker",
+        "relationship": "mounted_on"
+      },
+      {
+        "from": "Column inner",
+        "to": "Column outer",
+        "relationship": "inserted_into"
+      },
+      {
+        "from": "Ball race",
+        "to": "Column outer",
+        "relationship": "mounted_on"
+      }
+    ]
+  },
+  {
+    "filename": "190_336_Mahindra_yuvo-service-manual95_p143_img1.png",
+    "page": 143,
+    "width": 715,
+    "height": 468,
+    "manual_source": "190_336_Mahindra_yuvo-service-manual95.pdf",
+    "section_context": "General",
+    "surrounding_text": "332\nCircuit Diagram\nCircuits",
+    "figure_references": [],
+    "caption": "This wiring diagram illustrates the Air Filter Clog indicator circuit for the machine. It shows the electrical path from the battery through the ignition switch and air filter clog switch to the instrument cluster, which activates the warning light. A technician can use this to troubleshoot a non-functional or constantly illuminated air filter warning light.",
+    "diagram_type": "wiring_diagram",
+    "diagram_type_classifier": "wiring_diagram",
+    "components_shown": [
+      "Battery",
+      "40 A Fuse",
+      "Ignition Switch",
+      "Air Filter Clog Switch",
+      "Instrument Cluster",
+      "Warning Light/Indicator"
+    ],
+    "fault_relevance": [
+      "Air filter warning light not turning on",
+      "Air filter warning light staying on constantly",
+      "Blown fuse in the air filter circuit"
+    ],
+    "search_keywords": [
+      "air filter clog switch",
+      "instrument cluster wiring",
+      "air filter warning light",
+      "electrical circuit diagram",
+      "40A fuse"
+    ],
+    "prev_context": "190_336_Mahindra_yuvo-service-manual95_p79_img1.png (p79, section: General)",
+    "next_context": "190_336_Mahindra_yuvo-service-manual95_p143_img2.png (p143, section: General)",
+    "priority_score": 0,
+    "components_visible": [
+      "Battery",
+      "40 A Fuse",
+      "Ignition Switch",
+      "Air Filter Clog Switch",
+      "Instrument Cluster",
+      "Warning Light/Indicator"
+    ],
+    "labels_detected": [
+      "40 A",
+      "BATTERY",
+      "Air Filter Clog Switch",
+      "Ignition Switch",
+      "INSTRUMENT CLUSTER"
+    ],
+    "arrows_point_to": [],
+    "relationships": [
+      {
+        "from": "Battery",
+        "to": "40 A Fuse",
+        "type": "connects_to"
+      },
+      {
+        "from": "40 A Fuse",
+        "to": "Ignition Switch",
+        "type": "connects_to"
+      },
+      {
+        "from": "Ignition Switch",
+        "to": "Instrument Cluster",
+        "type": "connects_to"
+      },
+      {
+        "from": "Battery",
+        "to": "Air Filter Clog Switch",
+        "type": "connects_to"
+      },
+      {
+        "from": "Air Filter Clog Switch",
+        "to": "Instrument Cluster",
+        "type": "connects_to"
+      },
+      {
+        "from": "Instrument Cluster",
+        "to": "Warning Light/Indicator",
+        "type": "contains"
+      }
+    ],
+    "specifications": [
+      "fuse_rating: 40 A"
+    ],
+    "repair_relevance": [
+      "Troubleshooting electrical faults in the air filter monitoring system",
+      "Testing continuity of the air filter clog switch",
+      "Verifying power supply to the instrument cluster"
+    ],
+    "assembly_order": [],
+    "connected_relationships": [
+      {
+        "from": "Battery",
+        "to": "40 A Fuse",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "40 A Fuse",
+        "to": "Ignition Switch",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Ignition Switch",
+        "to": "Instrument Cluster",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Battery",
+        "to": "Air Filter Clog Switch",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Air Filter Clog Switch",
+        "to": "Instrument Cluster",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Instrument Cluster",
+        "to": "Warning Light/Indicator",
+        "relationship": "contains"
+      }
+    ]
+  },
+  {
+    "filename": "190_336_Mahindra_yuvo-service-manual95_p143_img2.png",
+    "page": 143,
+    "width": 717,
+    "height": 472,
+    "manual_source": "190_336_Mahindra_yuvo-service-manual95.pdf",
+    "section_context": "General",
+    "surrounding_text": "332\nCircuit Diagram\nCircuits",
+    "figure_references": [],
+    "caption": "This wiring diagram illustrates the coolant temperature indication circuit, showing the path from the battery through the ignition switch and a 5A fuse to the instrument cluster. It includes the temperature sensor input and the output indicators (LED/bulb and gauge) on the instrument cluster. Technicians can use this to troubleshoot open circuits, blown fuses, or faulty sensor readings.",
+    "diagram_type": "wiring_diagram",
+    "diagram_type_classifier": "wiring_diagram",
+    "components_shown": [
+      "Battery",
+      "Ignition Switch",
+      "Temperature Sensor",
+      "Instrument Cluster",
+      "40A Fuse",
+      "5A Fuse",
+      "LED/Bulb indicator",
+      "Temperature Gauge"
+    ],
+    "fault_relevance": [
+      "Open circuit in temperature sensor wiring",
+      "Blown 5A fuse causing loss of temperature indication",
+      "Faulty ignition switch power delivery",
+      "Instrument cluster internal failure"
+    ],
+    "search_keywords": [
+      "coolant temperature circuit",
+      "temperature sensor wiring",
+      "instrument cluster diagram",
+      "coolant gauge troubleshooting"
+    ],
+    "prev_context": "190_336_Mahindra_yuvo-service-manual95_p143_img1.png (p143, section: General)",
+    "next_context": "190_336_Mahindra_yuvo-service-manual95_p144_img1.png (p144, section: General)",
+    "priority_score": 0,
+    "components_visible": [
+      "Battery",
+      "Ignition Switch",
+      "Temperature Sensor",
+      "Instrument Cluster",
+      "40A Fuse",
+      "5A Fuse",
+      "LED/Bulb indicator",
+      "Temperature Gauge"
+    ],
+    "labels_detected": [
+      "40 A",
+      "5A",
+      "BATTERY",
+      "Ignition Switch",
+      "Temperature Sensor",
+      "INSTRUMENT CLUSTER"
+    ],
+    "arrows_point_to": [],
+    "relationships": [
+      {
+        "from": "Battery",
+        "to": "Ignition Switch",
+        "type": "connects_to"
+      },
+      {
+        "from": "Ignition Switch",
+        "to": "Instrument Cluster",
+        "type": "connects_to"
+      },
+      {
+        "from": "Temperature Sensor",
+        "to": "Instrument Cluster",
+        "type": "connects_to"
+      },
+      {
+        "from": "Instrument Cluster",
+        "to": "Battery",
+        "type": "connects_to"
+      }
+    ],
+    "specifications": [
+      "Main Fuse: 40 A",
+      "Circuit Fuse: 5 A"
+    ],
+    "repair_relevance": [
+      "Troubleshooting coolant temperature gauge failure",
+      "Testing sensor resistance",
+      "Verifying power supply to instrument cluster"
+    ],
+    "assembly_order": [],
+    "connected_relationships": [
+      {
+        "from": "Battery",
+        "to": "Ignition Switch",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Ignition Switch",
+        "to": "Instrument Cluster",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Temperature Sensor",
+        "to": "Instrument Cluster",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Instrument Cluster",
+        "to": "Battery",
+        "relationship": "connects_to"
+      }
+    ]
+  },
+  {
+    "filename": "190_336_Mahindra_yuvo-service-manual95_p144_img1.png",
+    "page": 144,
+    "width": 713,
+    "height": 471,
+    "manual_source": "190_336_Mahindra_yuvo-service-manual95.pdf",
+    "section_context": "General",
+    "surrounding_text": "333\nCircuit Diagram",
+    "figure_references": [],
+    "caption": "This wiring diagram illustrates the oil pressure monitoring system, showing the path from the battery through the ignition switch and instrument cluster to the oil pressure switch. It helps technicians trace electrical continuity for oil pressure warning light issues. The system includes a 40A main fuse and a 5A instrument cluster fuse.",
+    "diagram_type": "wiring_diagram",
+    "diagram_type_classifier": "wiring_diagram",
+    "components_shown": [
+      "Battery",
+      "Ignition Switch",
+      "Oil Pressure Switch",
+      "Instrument Cluster",
+      "40A Fuse",
+      "5A Fuse",
+      "Warning Light/Indicator"
+    ],
+    "fault_relevance": [
+      "Oil pressure warning light not illuminating",
+      "Oil pressure warning light staying on constantly",
+      "Blown 5A fuse in instrument cluster",
+      "Open circuit in oil pressure switch wiring"
+    ],
+    "search_keywords": [
+      "oil pressure circuit",
+      "oil pressure switch wiring",
+      "instrument cluster wiring",
+      "oil warning light troubleshooting"
+    ],
+    "prev_context": "190_336_Mahindra_yuvo-service-manual95_p143_img2.png (p143, section: General)",
+    "next_context": "190_336_Mahindra_yuvo-service-manual95_p144_img2.png (p144, section: General)",
+    "priority_score": 0,
+    "components_visible": [
+      "Battery",
+      "Ignition Switch",
+      "Oil Pressure Switch",
+      "Instrument Cluster",
+      "40A Fuse",
+      "5A Fuse",
+      "Warning Light/Indicator"
+    ],
+    "labels_detected": [
+      "40 A",
+      "5A",
+      "BATTERY",
+      "Ignition Switch",
+      "Oil Pressure Switch",
+      "INSTRUMENT CLUSTER"
+    ],
+    "arrows_point_to": [],
+    "relationships": [
+      {
+        "from": "Battery",
+        "to": "40A Fuse",
+        "type": "connects_to"
+      },
+      {
+        "from": "40A Fuse",
+        "to": "Ignition Switch",
+        "type": "connects_to"
+      },
+      {
+        "from": "Ignition Switch",
+        "to": "5A Fuse",
+        "type": "connects_to"
+      },
+      {
+        "from": "5A Fuse",
+        "to": "Instrument Cluster",
+        "type": "connects_to"
+      },
+      {
+        "from": "Instrument Cluster",
+        "to": "Oil Pressure Switch",
+        "type": "connects_to"
+      },
+      {
+        "from": "Oil Pressure Switch",
+        "to": "Ground",
+        "type": "connects_to"
+      },
+      {
+        "from": "Battery",
+        "to": "Ground",
+        "type": "connects_to"
+      }
+    ],
+    "specifications": [
+      "Main Fuse: 40 A",
+      "Instrument Cluster Fuse: 5 A"
+    ],
+    "repair_relevance": [
+      "Troubleshooting oil pressure warning system",
+      "Testing continuity of oil pressure sensor circuit",
+      "Verifying power supply to instrument cluster"
+    ],
+    "assembly_order": [],
+    "connected_relationships": [
+      {
+        "from": "Battery",
+        "to": "40A Fuse",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "40A Fuse",
+        "to": "Ignition Switch",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Ignition Switch",
+        "to": "5A Fuse",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "5A Fuse",
+        "to": "Instrument Cluster",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Instrument Cluster",
+        "to": "Oil Pressure Switch",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Oil Pressure Switch",
+        "to": "Ground",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Battery",
+        "to": "Ground",
+        "relationship": "connects_to"
+      }
+    ]
+  },
+  {
+    "filename": "190_336_Mahindra_yuvo-service-manual95_p144_img2.png",
+    "page": 144,
+    "width": 708,
+    "height": 471,
+    "manual_source": "190_336_Mahindra_yuvo-service-manual95.pdf",
+    "section_context": "General",
+    "surrounding_text": "333\nCircuit Diagram",
+    "figure_references": [],
+    "caption": "This is a basic power circuit diagram for the machine's electrical system. It illustrates the path from the battery through a 40A fuse, the ignition switch, a 15A fuse, and a power connection located at the RH fender, returning to the battery ground. Technicians can use this to trace power loss or short circuit issues within the main electrical supply line.",
+    "diagram_type": "wiring_diagram",
+    "diagram_type_classifier": "wiring_diagram",
+    "components_shown": [
+      "Battery",
+      "40 A fuse",
+      "Ignition Switch",
+      "15 A fuse",
+      "Power Connection RH Fender"
+    ],
+    "fault_relevance": [
+      "Open circuit (blown fuse)",
+      "Voltage drop at ignition switch",
+      "Ground fault at RH fender connection",
+      "Battery power supply failure"
+    ],
+    "search_keywords": [
+      "wiring diagram",
+      "power circuit",
+      "ignition switch wiring",
+      "fuse location",
+      "electrical troubleshooting"
+    ],
+    "prev_context": "190_336_Mahindra_yuvo-service-manual95_p144_img1.png (p144, section: General)",
+    "next_context": "190_336_Mahindra_yuvo-service-manual95_p145_img1.png (p145, section: General)",
+    "priority_score": 0,
+    "components_visible": [
+      "Battery",
+      "40 A fuse",
+      "Ignition Switch",
+      "15 A fuse",
+      "Power Connection RH Fender"
+    ],
+    "labels_detected": [
+      "40 A",
+      "15 A",
+      "B",
+      "BATTERY",
+      "Ignition Switch",
+      "Power Connection RH Fender",
+      "+",
+      "-"
+    ],
+    "arrows_point_to": [],
+    "relationships": [
+      {
+        "from": "Battery positive terminal",
+        "to": "40 A fuse",
+        "type": "connects_to"
+      },
+      {
+        "from": "40 A fuse",
+        "to": "Ignition Switch",
+        "type": "connects_to"
+      },
+      {
+        "from": "Ignition Switch",
+        "to": "15 A fuse",
+        "type": "connects_to"
+      },
+      {
+        "from": "15 A fuse",
+        "to": "Power Connection RH Fender",
+        "type": "connects_to"
+      },
+      {
+        "from": "Power Connection RH Fender",
+        "to": "Battery negative terminal",
+        "type": "connects_to"
+      },
+      {
+        "from": "Battery negative terminal",
+        "to": "Ground",
+        "type": "connects_to"
+      }
+    ],
+    "specifications": [
+      "Main fuse: 40 A",
+      "Secondary fuse: 15 A"
+    ],
+    "repair_relevance": [
+      "Troubleshooting electrical power loss",
+      "Testing ignition switch continuity",
+      "Verifying fuse integrity",
+      "Checking ground connections"
+    ],
+    "assembly_order": [],
+    "connected_relationships": [
+      {
+        "from": "Battery positive terminal",
+        "to": "40 A fuse",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "40 A fuse",
+        "to": "Ignition Switch",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Ignition Switch",
+        "to": "15 A fuse",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "15 A fuse",
+        "to": "Power Connection RH Fender",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Power Connection RH Fender",
+        "to": "Battery negative terminal",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Battery negative terminal",
+        "to": "Ground",
+        "relationship": "connects_to"
+      }
+    ]
+  },
+  {
+    "filename": "190_336_Mahindra_yuvo-service-manual95_p145_img1.png",
+    "page": 145,
+    "width": 713,
+    "height": 467,
+    "manual_source": "190_336_Mahindra_yuvo-service-manual95.pdf",
+    "section_context": "General",
+    "surrounding_text": "334\nCircuit Diagram",
+    "figure_references": [],
+    "caption": "This is a wiring diagram for the fuel level indicator system. It shows the electrical path from the battery through the ignition switch and fuses to the instrument cluster and fuel level sensor. Technicians can use this to troubleshoot fuel gauge inaccuracies or complete power loss to the instrument cluster.",
+    "diagram_type": "wiring_diagram",
+    "diagram_type_classifier": "wiring_diagram",
+    "components_shown": [
+      "Battery",
+      "Ignition Switch",
+      "Fuel Level Sensor",
+      "Instrument Cluster",
+      "40A Fuse",
+      "5A Fuse",
+      "Fuel Level Warning Light",
+      "Fuel Gauge Symbol"
+    ],
+    "fault_relevance": [
+      "Fuel gauge not reading",
+      "Fuel warning light failure",
+      "Blown 5A or 40A fuse",
+      "Open circuit in fuel sender wiring"
+    ],
+    "search_keywords": [
+      "fuel gauge wiring",
+      "fuel level sensor circuit",
+      "instrument cluster power",
+      "fuel indicator diagram"
+    ],
+    "prev_context": "190_336_Mahindra_yuvo-service-manual95_p144_img2.png (p144, section: General)",
+    "next_context": "190_336_Mahindra_yuvo-service-manual95_p145_img2.png (p145, section: General)",
+    "priority_score": 0,
+    "components_visible": [
+      "Battery",
+      "Ignition Switch",
+      "Fuel Level Sensor",
+      "Instrument Cluster",
+      "40A Fuse",
+      "5A Fuse",
+      "Fuel Level Warning Light",
+      "Fuel Gauge Symbol"
+    ],
+    "labels_detected": [
+      "40 A",
+      "5A",
+      "BATTERY",
+      "Fuel Level Sensor",
+      "INSTRUMENT CLUSTER",
+      "Ignition Switch"
+    ],
+    "arrows_point_to": [
+      {
+        "label": "Fuel Level Sensor",
+        "points_to": "variable resistor symbol"
+      }
+    ],
+    "relationships": [
+      {
+        "from": "Battery",
+        "to": "40A Fuse",
+        "type": "connects_to"
+      },
+      {
+        "from": "40A Fuse",
+        "to": "Ignition Switch",
+        "type": "connects_to"
+      },
+      {
+        "from": "Ignition Switch",
+        "to": "5A Fuse",
+        "type": "connects_to"
+      },
+      {
+        "from": "5A Fuse",
+        "to": "Instrument Cluster",
+        "type": "connects_to"
+      },
+      {
+        "from": "Instrument Cluster",
+        "to": "Fuel Level Sensor",
+        "type": "connects_to"
+      },
+      {
+        "from": "Fuel Level Sensor",
+        "to": "Ground",
+        "type": "connects_to"
+      }
+    ],
+    "specifications": [
+      "Main Fuse: 40 A",
+      "Instrument Cluster Fuse: 5 A"
+    ],
+    "repair_relevance": [
+      "Troubleshooting fuel gauge electrical circuit",
+      "Testing fuel level sensor resistance",
+      "Verifying power supply to instrument cluster"
+    ],
+    "assembly_order": [],
+    "connected_relationships": [
+      {
+        "from": "Battery",
+        "to": "40A Fuse",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "40A Fuse",
+        "to": "Ignition Switch",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Ignition Switch",
+        "to": "5A Fuse",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "5A Fuse",
+        "to": "Instrument Cluster",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Instrument Cluster",
+        "to": "Fuel Level Sensor",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Fuel Level Sensor",
+        "to": "Ground",
+        "relationship": "connects_to"
+      }
+    ]
+  },
+  {
+    "filename": "190_336_Mahindra_yuvo-service-manual95_p145_img2.png",
+    "page": 145,
+    "width": 715,
+    "height": 470,
+    "manual_source": "190_336_Mahindra_yuvo-service-manual95.pdf",
+    "section_context": "General",
+    "surrounding_text": "334\nCircuit Diagram",
+    "figure_references": [],
+    "caption": "This wiring diagram illustrates the electrical circuit for the RPM meter and hour counter system. It shows the connection path from the battery through a 40A fuse to the instrument cluster, which drives the hour meter and RPM meter, and its connection to the alternator via a 5A fuse. Technicians can use this to troubleshoot power supply issues to the instrument cluster or signal failures from the alternator.",
+    "diagram_type": "wiring_diagram",
+    "diagram_type_classifier": "wiring_diagram",
+    "components_shown": [
+      "Battery",
+      "40A Fuse",
+      "Terminal Block",
+      "Alternator",
+      "Instrument Cluster",
+      "Hour Meter",
+      "RPM Meter",
+      "5A Fuse"
+    ],
+    "fault_relevance": [
+      "Instrument cluster power failure",
+      "Hour meter not recording",
+      "RPM meter signal loss",
+      "Blown 40A or 5A fuse"
+    ],
+    "search_keywords": [
+      "RPM meter wiring",
+      "hour counter circuit",
+      "instrument cluster diagram",
+      "alternator wiring",
+      "electrical troubleshooting"
+    ],
+    "prev_context": "190_336_Mahindra_yuvo-service-manual95_p145_img1.png (p145, section: General)",
+    "next_context": "190_336_Mahindra_yuvo-service-manual95_p146_img1.png (p146, section: General)",
+    "priority_score": 0,
+    "components_visible": [
+      "Battery",
+      "40A Fuse",
+      "Terminal Block",
+      "Alternator",
+      "Instrument Cluster",
+      "Hour Meter",
+      "RPM Meter",
+      "5A Fuse"
+    ],
+    "labels_detected": [
+      "40 A",
+      "5A",
+      "W",
+      "Battery",
+      "Instrument Cluster",
+      "Hour Meter",
+      "RPM Meter",
+      "Alternator"
+    ],
+    "arrows_point_to": [],
+    "relationships": [
+      {
+        "from": "Battery",
+        "to": "40A Fuse",
+        "type": "connects_to"
+      },
+      {
+        "from": "40A Fuse",
+        "to": "Terminal Block",
+        "type": "connects_to"
+      },
+      {
+        "from": "Terminal Block",
+        "to": "Instrument Cluster",
+        "type": "connects_to"
+      },
+      {
+        "from": "Instrument Cluster",
+        "to": "Hour Meter",
+        "type": "connects_to"
+      },
+      {
+        "from": "Instrument Cluster",
+        "to": "RPM Meter",
+        "type": "connects_to"
+      },
+      {
+        "from": "Instrument Cluster",
+        "to": "Alternator",
+        "type": "connects_to"
+      },
+      {
+        "from": "Alternator",
+        "to": "5A Fuse",
+        "type": "connects_to"
+      },
+      {
+        "from": "5A Fuse",
+        "to": "Instrument Cluster",
+        "type": "connects_to"
+      }
+    ],
+    "specifications": [
+      "Battery fuse: 40 A",
+      "Alternator circuit fuse: 5 A"
+    ],
+    "repair_relevance": [
+      "Troubleshooting electrical power to instrument cluster",
+      "Diagnosing RPM signal issues from alternator",
+      "Replacing blown fuses",
+      "Verifying instrument cluster wiring integrity"
+    ],
+    "assembly_order": [],
+    "connected_relationships": [
+      {
+        "from": "Battery",
+        "to": "40A Fuse",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "40A Fuse",
+        "to": "Terminal Block",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Terminal Block",
+        "to": "Instrument Cluster",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Instrument Cluster",
+        "to": "Hour Meter",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Instrument Cluster",
+        "to": "RPM Meter",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Instrument Cluster",
+        "to": "Alternator",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Alternator",
+        "to": "5A Fuse",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "5A Fuse",
+        "to": "Instrument Cluster",
+        "relationship": "connects_to"
+      }
+    ]
+  },
+  {
+    "filename": "190_336_Mahindra_yuvo-service-manual95_p146_img1.png",
+    "page": 146,
+    "width": 716,
+    "height": 478,
+    "manual_source": "190_336_Mahindra_yuvo-service-manual95.pdf",
+    "section_context": "General",
+    "surrounding_text": "335\nCircuit Diagram",
+    "figure_references": [],
+    "caption": "This wiring diagram illustrates the starter circuit for the machine, including the battery, starter relay, transmission neutral safety switch, and instrument cluster. It is essential for diagnosing starting issues, such as a failure to crank, by tracing power flow from the battery through the fuses and safety interlocks to the starter solenoid.",
+    "diagram_type": "wiring_diagram",
+    "diagram_type_classifier": "wiring_diagram",
+    "components_shown": [
+      "Battery",
+      "40 A Maxi Fuse",
+      "Instrument Cluster",
+      "5A Fuse",
+      "Transmission Neutral Switch",
+      "Starter Relay",
+      "Starter Motor Solenoid",
+      "Starter Motor"
+    ],
+    "fault_relevance": [
+      "Engine fails to crank",
+      "Blown fuse diagnosis",
+      "Neutral safety switch failure",
+      "Starter relay malfunction"
+    ],
+    "search_keywords": [
+      "starter circuit",
+      "wiring diagram",
+      "starter relay",
+      "neutral safety switch",
+      "no crank",
+      "electrical troubleshooting"
+    ],
+    "prev_context": "190_336_Mahindra_yuvo-service-manual95_p145_img2.png (p145, section: General)",
+    "next_context": "190_336_Mahindra_yuvo-service-manual95_p146_img2.png (p146, section: General)",
+    "priority_score": 0,
+    "components_visible": [
+      "Battery",
+      "40 A Maxi Fuse",
+      "Instrument Cluster",
+      "5A Fuse",
+      "Transmission Neutral Switch",
+      "Starter Relay",
+      "Starter Motor Solenoid",
+      "Starter Motor"
+    ],
+    "labels_detected": [
+      "40 A Maxi Fuse",
+      "5A Fuse",
+      "Instrument Cluster",
+      "Transmission Neutral",
+      "Starter Relay",
+      "BATTERY",
+      "N",
+      "M"
+    ],
+    "arrows_point_to": [],
+    "relationships": [
+      {
+        "from": "Battery",
+        "to": "40 A Maxi Fuse",
+        "type": "connects_to"
+      },
+      {
+        "from": "40 A Maxi Fuse",
+        "to": "Instrument Cluster",
+        "type": "connects_to"
+      },
+      {
+        "from": "Instrument Cluster",
+        "to": "Transmission Neutral Switch",
+        "type": "connects_to"
+      },
+      {
+        "from": "Transmission Neutral Switch",
+        "to": "Starter Relay",
+        "type": "connects_to"
+      },
+      {
+        "from": "Starter Relay",
+        "to": "Starter Motor Solenoid",
+        "type": "connects_to"
+      },
+      {
+        "from": "Starter Motor Solenoid",
+        "to": "Starter Motor",
+        "type": "connects_to"
+      }
+    ],
+    "specifications": [
+      "Maxi Fuse: 40 A",
+      "Fuse: 5 A"
+    ],
+    "repair_relevance": [
+      "Troubleshooting electrical starting system",
+      "Testing continuity of safety interlocks",
+      "Replacing fuses",
+      "Verifying starter relay operation"
+    ],
+    "assembly_order": [],
+    "connected_relationships": [
+      {
+        "from": "Battery",
+        "to": "40 A Maxi Fuse",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "40 A Maxi Fuse",
+        "to": "Instrument Cluster",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Instrument Cluster",
+        "to": "Transmission Neutral Switch",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Transmission Neutral Switch",
+        "to": "Starter Relay",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Starter Relay",
+        "to": "Starter Motor Solenoid",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Starter Motor Solenoid",
+        "to": "Starter Motor",
+        "relationship": "connects_to"
+      }
+    ]
+  },
+  {
+    "filename": "190_336_Mahindra_yuvo-service-manual95_p146_img2.png",
+    "page": 146,
+    "width": 728,
+    "height": 480,
+    "manual_source": "190_336_Mahindra_yuvo-service-manual95.pdf",
+    "section_context": "General",
+    "surrounding_text": "335\nCircuit Diagram",
+    "figure_references": [],
+    "caption": "This is a simplified electrical circuit diagram for the horn system. It illustrates the power path from the battery through a 40A fuse, the ignition switch, a 10A fuse, and the combination switch to the horn. Technicians can use this to troubleshoot horn failure by checking for voltage at each connection point.",
+    "diagram_type": "wiring_diagram",
+    "diagram_type_classifier": "wiring_diagram",
+    "components_shown": [
+      "Battery",
+      "40 A fuse",
+      "Ignition Switch",
+      "10 A fuse",
+      "COMBI SW (Combination Switch)",
+      "Horn"
+    ],
+    "fault_relevance": [
+      "Horn not sounding",
+      "Blown fuse",
+      "Open circuit in ignition or combination switch",
+      "Loss of ground connection at horn"
+    ],
+    "search_keywords": [
+      "horn circuit",
+      "wiring diagram",
+      "horn switch",
+      "electrical troubleshooting",
+      "fuse location"
+    ],
+    "prev_context": "190_336_Mahindra_yuvo-service-manual95_p146_img1.png (p146, section: General)",
+    "next_context": "190_336_Mahindra_yuvo-service-manual95_p147_img1.png (p147, section: General)",
+    "priority_score": 0,
+    "components_visible": [
+      "Battery",
+      "40 A fuse",
+      "Ignition Switch",
+      "10 A fuse",
+      "COMBI SW (Combination Switch)",
+      "Horn"
+    ],
+    "labels_detected": [
+      "Horn Switch",
+      "40 A",
+      "10 A",
+      "BATTERY",
+      "Ignition Switch",
+      "COMBI SW",
+      "OFF",
+      "ON",
+      "Horn"
+    ],
+    "arrows_point_to": [],
+    "relationships": [
+      {
+        "from": "Battery",
+        "to": "40 A fuse",
+        "type": "connects_to"
+      },
+      {
+        "from": "40 A fuse",
+        "to": "Ignition Switch",
+        "type": "connects_to"
+      },
+      {
+        "from": "Ignition Switch",
+        "to": "10 A fuse",
+        "type": "connects_to"
+      },
+      {
+        "from": "10 A fuse",
+        "to": "COMBI SW",
+        "type": "connects_to"
+      },
+      {
+        "from": "COMBI SW",
+        "to": "Horn",
+        "type": "connects_to"
+      },
+      {
+        "from": "Horn",
+        "to": "Battery",
+        "type": "connects_to"
+      }
+    ],
+    "specifications": [
+      "fuse_1: 40 A",
+      "fuse_2: 10 A"
+    ],
+    "repair_relevance": [
+      "Troubleshooting horn electrical circuit",
+      "Testing continuity of ignition and combination switches",
+      "Verifying fuse integrity"
+    ],
+    "assembly_order": [],
+    "connected_relationships": [
+      {
+        "from": "Battery",
+        "to": "40 A fuse",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "40 A fuse",
+        "to": "Ignition Switch",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Ignition Switch",
+        "to": "10 A fuse",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "10 A fuse",
+        "to": "COMBI SW",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "COMBI SW",
+        "to": "Horn",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Horn",
+        "to": "Battery",
+        "relationship": "connects_to"
+      }
+    ]
+  },
+  {
+    "filename": "190_336_Mahindra_yuvo-service-manual95_p147_img1.png",
+    "page": 147,
+    "width": 780,
+    "height": 516,
+    "manual_source": "190_336_Mahindra_yuvo-service-manual95.pdf",
+    "section_context": "General",
+    "surrounding_text": "336\nCircuit Diagram",
+    "figure_references": [],
+    "caption": "This is a wiring diagram for the head lamp system, detailing the battery, fuse block, light switch terminal positions, and relay-controlled high/low beam circuits. It allows a technician to trace power flow from the battery through the 40A main fuse to the light switch and individual 15A beam fuses to troubleshoot lighting failures.",
+    "diagram_type": "wiring_diagram",
+    "diagram_type_classifier": "wiring_diagram",
+    "components_shown": [
+      "Battery",
+      "40 A Fuse",
+      "Light Switch",
+      "Low Beam Relay",
+      "High Beam Relay",
+      "Low Beam Lamps",
+      "High Beam Lamps",
+      "Instrument Cluster",
+      "5 A Fuses",
+      "15 A Fuses"
+    ],
+    "fault_relevance": [
+      "Blown fuses (40A, 15A, 5A)",
+      "Light switch contact failure",
+      "Relay failure",
+      "Open circuit in wiring harness",
+      "Instrument cluster indicator failure"
+    ],
+    "search_keywords": [
+      "headlamp wiring diagram",
+      "light switch terminal map",
+      "headlight relay circuit",
+      "tractor lighting system repair"
+    ],
+    "prev_context": "190_336_Mahindra_yuvo-service-manual95_p146_img2.png (p146, section: General)",
+    "next_context": "190_336_Mahindra_yuvo-service-manual95_p147_img2.png (p147, section: General)",
+    "priority_score": 0,
+    "components_visible": [
+      "Battery",
+      "40 A Fuse",
+      "Light Switch",
+      "Low Beam Relay",
+      "High Beam Relay",
+      "Low Beam Lamps",
+      "High Beam Lamps",
+      "Instrument Cluster",
+      "5 A Fuses",
+      "15 A Fuses"
+    ],
+    "labels_detected": [
+      "40 A Fuse",
+      "5 A",
+      "15 A",
+      "Terminal 1",
+      "Terminal 2",
+      "Terminal 3",
+      "Terminal 4",
+      "Terminal 5",
+      "OFF",
+      "PARK",
+      "LOW",
+      "HIGH",
+      "B",
+      "R",
+      "R-W"
+    ],
+    "arrows_point_to": [],
+    "relationships": [
+      {
+        "from": "Battery",
+        "to": "40 A Fuse",
+        "type": "connects_to"
+      },
+      {
+        "from": "40 A Fuse",
+        "to": "Light Switch",
+        "type": "connects_to"
+      },
+      {
+        "from": "Light Switch",
+        "to": "Low Beam Relay",
+        "type": "connects_to"
+      },
+      {
+        "from": "Light Switch",
+        "to": "High Beam Relay",
+        "type": "connects_to"
+      },
+      {
+        "from": "Low Beam Relay",
+        "to": "Low Beam Lamps",
+        "type": "connects_to"
+      },
+      {
+        "from": "High Beam Relay",
+        "to": "High Beam Lamps",
+        "type": "connects_to"
+      },
+      {
+        "from": "Instrument Cluster",
+        "to": "High Beam Relay",
+        "type": "connects_to"
+      }
+    ],
+    "specifications": [
+      "Main Fuse: 40 A",
+      "Control Circuit Fuse: 5 A",
+      "Beam Circuit Fuse: 15 A"
+    ],
+    "repair_relevance": [
+      "Troubleshooting headlamp non-operation",
+      "Testing light switch continuity",
+      "Verifying voltage at lamp sockets",
+      "Replacing blown fuses"
+    ],
+    "assembly_order": [],
+    "connected_relationships": [
+      {
+        "from": "Battery",
+        "to": "40 A Fuse",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "40 A Fuse",
+        "to": "Light Switch",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Light Switch",
+        "to": "Low Beam Relay",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Light Switch",
+        "to": "High Beam Relay",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Low Beam Relay",
+        "to": "Low Beam Lamps",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "High Beam Relay",
+        "to": "High Beam Lamps",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Instrument Cluster",
+        "to": "High Beam Relay",
+        "relationship": "connects_to"
+      }
+    ]
+  },
+  {
+    "filename": "190_336_Mahindra_yuvo-service-manual95_p147_img2.png",
+    "page": 147,
+    "width": 780,
+    "height": 512,
+    "manual_source": "190_336_Mahindra_yuvo-service-manual95.pdf",
+    "section_context": "General",
+    "surrounding_text": "336\nCircuit Diagram",
+    "figure_references": [],
+    "caption": "This wiring diagram illustrates the electrical circuit for the park and brake lights, including the battery, starter switch, combination switch, and instrument cluster. It allows a technician to trace power flow through the 40A, 10A, and 5A fuses to identify open circuits, blown fuses, or faulty switches. The diagram is essential for troubleshooting lighting failures or instrument cluster illumination issues.",
+    "diagram_type": "wiring_diagram",
+    "diagram_type_classifier": "wiring_diagram",
+    "components_shown": [
+      "Battery",
+      "40A Fuse",
+      "Starter Switch",
+      "Combination Switch",
+      "Brake Switch",
+      "Brake Lamp LH",
+      "Brake Lamp RH",
+      "Park Lamp LH",
+      "Park Lamp RH",
+      "Instrument Cluster",
+      "General Illumination"
+    ],
+    "fault_relevance": [
+      "Blown fuses",
+      "Open circuit in lighting system",
+      "Faulty brake switch",
+      "Combination switch contact failure",
+      "Instrument cluster illumination failure"
+    ],
+    "search_keywords": [
+      "wiring diagram",
+      "park light circuit",
+      "brake light circuit",
+      "electrical troubleshooting",
+      "fuse location",
+      "combination switch wiring"
+    ],
+    "prev_context": "190_336_Mahindra_yuvo-service-manual95_p147_img1.png (p147, section: General)",
+    "next_context": "",
+    "priority_score": 0,
+    "components_visible": [
+      "Battery",
+      "40A Fuse",
+      "Starter Switch",
+      "Combination Switch",
+      "Brake Switch",
+      "Brake Lamp LH",
+      "Brake Lamp RH",
+      "Park Lamp LH",
+      "Park Lamp RH",
+      "Instrument Cluster",
+      "General Illumination"
+    ],
+    "labels_detected": [
+      "40 A Fuse",
+      "5A",
+      "10A",
+      "Terminal 1",
+      "Terminal 2",
+      "Terminal 3",
+      "Terminal 4",
+      "Terminal 5",
+      "OFF",
+      "PARK",
+      "LOW",
+      "HIGH"
+    ],
+    "arrows_point_to": [],
+    "relationships": [
+      {
+        "from": "Battery",
+        "to": "40A Fuse",
+        "type": "connects_to"
+      },
+      {
+        "from": "40A Fuse",
+        "to": "Starter Switch",
+        "type": "connects_to"
+      },
+      {
+        "from": "Combination Switch",
+        "to": "Park Lamp LH",
+        "type": "connects_to"
+      },
+      {
+        "from": "Combination Switch",
+        "to": "Park Lamp RH",
+        "type": "connects_to"
+      },
+      {
+        "from": "Brake Switch",
+        "to": "Brake Lamp LH",
+        "type": "connects_to"
+      },
+      {
+        "from": "Brake Switch",
+        "to": "Brake Lamp RH",
+        "type": "connects_to"
+      },
+      {
+        "from": "Instrument Cluster",
+        "to": "General Illumination",
+        "type": "contains"
+      }
+    ],
+    "specifications": [
+      "Main Fuse: 40 A",
+      "Lighting Circuit Fuse: 10 A",
+      "Instrument Cluster Fuse: 5 A",
+      "Control Circuit Fuse: 5 A"
+    ],
+    "repair_relevance": [
+      "Troubleshooting lighting system electrical faults",
+      "Testing switch continuity",
+      "Verifying fuse integrity",
+      "Tracing power supply to lamps"
+    ],
+    "assembly_order": [],
+    "connected_relationships": [
+      {
+        "from": "Battery",
+        "to": "40A Fuse",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "40A Fuse",
+        "to": "Starter Switch",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Combination Switch",
+        "to": "Park Lamp LH",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Combination Switch",
+        "to": "Park Lamp RH",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Brake Switch",
+        "to": "Brake Lamp LH",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Brake Switch",
+        "to": "Brake Lamp RH",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Instrument Cluster",
+        "to": "General Illumination",
+        "relationship": "contains"
+      }
+    ]
+  },
+  {
+    "filename": "245DI_Parts_Catg_p4_img2.png",
+    "page": 4,
+    "width": 1438,
+    "height": 1482,
+    "manual_source": "245DI_Parts_Catg.pdf",
+    "section_context": "General",
+    "surrounding_text": "6\nCLUTCH HOUSING & CONNECTIONS\nTRANSMISSION GEARS & SHAFTS\n2\n4\n5\n1\n6\n7\n8\n2\n3\n10\n9\n11\n12",
+    "figure_references": [],
+    "caption": "This exploded view illustrates the assembly of the clutch housing and its associated mounting bracket. It highlights the hardware configuration, including bolts, washers, and nuts required to secure the bracket to the housing. Technicians should use this to verify correct fastener orientation and ensure proper alignment during reassembly.",
+    "diagram_type": "exploded_view",
+    "diagram_type_classifier": "exploded_view",
+    "components_shown": [
+      "clutch housing",
+      "mounting bracket",
+      "bolts",
+      "washers",
+      "nuts"
+    ],
+    "fault_relevance": [
+      "loose mounting hardware",
+      "vibration-induced fastener failure",
+      "misalignment of housing bracket"
+    ],
+    "search_keywords": [
+      "clutch housing",
+      "mounting bracket",
+      "transmission housing",
+      "fastener assembly",
+      "245DI"
+    ],
+    "prev_context": "",
+    "next_context": "245DI_Parts_Catg_p6_img0.png (p6, section: General)",
+    "priority_score": 2,
+    "components_visible": [
+      "clutch housing",
+      "mounting bracket",
+      "bolts",
+      "washers",
+      "nuts"
+    ],
+    "labels_detected": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "arrows_point_to": [
+      {
+        "label": "1",
+        "points_to": "clutch housing"
+      },
+      {
+        "label": "2",
+        "points_to": "mounting bracket"
+      },
+      {
+        "label": "3",
+        "points_to": "bolt"
+      },
+      {
+        "label": "4",
+        "points_to": "washer"
+      },
+      {
+        "label": "5",
+        "points_to": "nut"
+      }
+    ],
+    "relationships": [
+      {
+        "from": "mounting bracket",
+        "to": "clutch housing",
+        "type": "bolts_to"
+      },
+      {
+        "from": "bolt",
+        "to": "mounting bracket",
+        "type": "inserted_into"
+      },
+      {
+        "from": "washer",
+        "to": "bolt",
+        "type": "aligned_with"
+      },
+      {
+        "from": "nut",
+        "to": "bolt",
+        "type": "connects_to"
+      }
+    ],
+    "specifications": [],
+    "repair_relevance": [
+      "clutch housing removal",
+      "mounting bracket replacement",
+      "fastener torque verification"
+    ],
+    "assembly_order": [
+      "align mounting bracket with clutch housing mounting points",
+      "insert bolts through bracket and housing",
+      "install washers onto bolts",
+      "thread and tighten nuts onto bolts"
+    ],
+    "connected_relationships": [
+      {
+        "from": "mounting bracket",
+        "to": "clutch housing",
+        "relationship": "bolts_to"
+      },
+      {
+        "from": "bolt",
+        "to": "mounting bracket",
+        "relationship": "inserted_into"
+      },
+      {
+        "from": "washer",
+        "to": "bolt",
+        "relationship": "aligned_with"
+      },
+      {
+        "from": "nut",
+        "to": "bolt",
+        "relationship": "connects_to"
+      }
+    ]
+  },
+  {
+    "filename": "245DI_Parts_Catg_p6_img0.png",
+    "page": 6,
+    "width": 2132,
+    "height": 2488,
+    "manual_source": "245DI_Parts_Catg.pdf",
+    "section_context": "General",
+    "surrounding_text": "8\nDIFFERENTIAL\nREAR AXLE CARRIER AND REAR AXLE\n1",
+    "figure_references": [],
+    "caption": "This exploded view illustrates the assembly of a differential unit for a rear axle carrier. It details the arrangement of the ring gear, differential carrier halves, spider gears, and pinion shafts, providing a clear guide for reassembly and bearing alignment.",
+    "diagram_type": "exploded_view",
+    "diagram_type_classifier": "exploded_view",
+    "components_shown": [
+      "differential ring gear",
+      "differential carrier halves",
+      "spider gears",
+      "pinion shafts",
+      "tapered roller bearings",
+      "drive pinion shaft",
+      "locking plates",
+      "retaining bolts",
+      "gaskets"
+    ],
+    "fault_relevance": [
+      "wear on spider gear teeth",
+      "pitting on tapered roller bearing races",
+      "backlash adjustment between ring and pinion gears",
+      "looseness in differential carrier assembly"
+    ],
+    "search_keywords": [
+      "differential assembly",
+      "rear axle carrier",
+      "ring and pinion gear",
+      "spider gear replacement",
+      "differential bearing service"
+    ],
+    "prev_context": "245DI_Parts_Catg_p4_img2.png (p4, section: General)",
+    "next_context": "245DI_Parts_Catg_p8_img0.png (p8, section: General)",
+    "priority_score": 2,
+    "components_visible": [
+      "differential ring gear",
+      "differential carrier halves",
+      "spider gears",
+      "pinion shafts",
+      "tapered roller bearings",
+      "drive pinion shaft",
+      "locking plates",
+      "retaining bolts",
+      "gaskets"
+    ],
+    "labels_detected": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "arrows_point_to": [
+      {
+        "label": "1",
+        "points_to": "differential ring gear"
+      },
+      {
+        "label": "2",
+        "points_to": "locking plate"
+      },
+      {
+        "label": "3",
+        "points_to": "drive pinion shaft"
+      },
+      {
+        "label": "4",
+        "points_to": "differential assembly group"
+      },
+      {
+        "label": "5",
+        "points_to": "differential carrier housing half"
+      },
+      {
+        "label": "6",
+        "points_to": "differential carrier housing half"
+      }
+    ],
+    "relationships": [
+      {
+        "from": "differential ring gear",
+        "to": "differential carrier housing half",
+        "type": "bolts_to"
+      },
+      {
+        "from": "spider gears",
+        "to": "differential carrier housing half",
+        "type": "inserted_into"
+      },
+      {
+        "from": "tapered roller bearings",
+        "to": "drive pinion shaft",
+        "type": "surrounds"
+      },
+      {
+        "from": "locking plate",
+        "to": "retaining bolts",
+        "type": "secures"
+      },
+      {
+        "from": "differential carrier housing half",
+        "to": "differential carrier housing half",
+        "type": "aligned_with"
+      }
+    ],
+    "specifications": [],
+    "repair_relevance": [
+      "differential rebuild",
+      "ring and pinion gear replacement",
+      "bearing replacement",
+      "carrier housing inspection"
+    ],
+    "assembly_order": [
+      "install spider gears into carrier housing",
+      "join carrier housing halves",
+      "bolt ring gear to carrier assembly",
+      "install tapered bearings onto pinion shaft",
+      "secure locking plates"
+    ],
+    "connected_relationships": [
+      {
+        "from": "differential ring gear",
+        "to": "differential carrier housing half",
+        "relationship": "bolts_to"
+      },
+      {
+        "from": "spider gears",
+        "to": "differential carrier housing half",
+        "relationship": "inserted_into"
+      },
+      {
+        "from": "tapered roller bearings",
+        "to": "drive pinion shaft",
+        "relationship": "surrounds"
+      },
+      {
+        "from": "locking plate",
+        "to": "retaining bolts",
+        "relationship": "secures"
+      },
+      {
+        "from": "differential carrier housing half",
+        "to": "differential carrier housing half",
+        "relationship": "aligned_with"
+      }
+    ]
+  },
+  {
+    "filename": "245DI_Parts_Catg_p8_img0.png",
+    "page": 8,
+    "width": 1336,
+    "height": 1175,
+    "manual_source": "245DI_Parts_Catg.pdf",
+    "section_context": "General",
+    "surrounding_text": "10\nFRONT AXLE (ONE PIECE)\nFRONT AXLE SUPPORT (FOLDED)\n1\n2\n10\n9\n1\n4\n5\n6, 7, 8\n14\n12\n15\n1\n16\n2\n3\n13\n11\n3\n4\n5\n6\n1\n2",
+    "figure_references": [],
+    "caption": "This exploded view illustrates the assembly of a one-piece front axle and its support structure. It details the mounting points for steering components, the central pivot shaft, and the bushings required for axle articulation. Technicians should use this to identify wear points in the pivot bushings and steering linkage connections.",
+    "diagram_type": "exploded_view",
+    "diagram_type_classifier": "exploded_view",
+    "components_shown": [
+      "Front axle beam",
+      "Front axle support",
+      "Pivot shaft",
+      "Pivot bushings",
+      "Steering knuckles",
+      "Tie rod ends",
+      "Mounting bolts",
+      "Lock nuts"
+    ],
+    "fault_relevance": [
+      "Excessive play in front axle pivot",
+      "Worn steering knuckle bushings",
+      "Loose tie rod connections",
+      "Deformation of front axle beam"
+    ],
+    "search_keywords": [
+      "front axle assembly",
+      "axle pivot bushing",
+      "steering knuckle repair",
+      "245DI front axle",
+      "tractor front axle support"
+    ],
+    "prev_context": "245DI_Parts_Catg_p6_img0.png (p6, section: General)",
+    "next_context": "245DI_Parts_Catg_p8_img1.png (p8, section: General)",
+    "priority_score": 2,
+    "components_visible": [
+      "Front axle beam",
+      "Front axle support",
+      "Pivot shaft",
+      "Pivot bushings",
+      "Steering knuckles",
+      "Tie rod ends",
+      "Mounting bolts",
+      "Lock nuts"
+    ],
+    "labels_detected": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "arrows_point_to": [
+      {
+        "label": "1",
+        "points_to": "Steering linkage/tie rod end"
+      },
+      {
+        "label": "2",
+        "points_to": "Steering knuckle assembly"
+      },
+      {
+        "label": "3",
+        "points_to": "Axle pivot bushing"
+      },
+      {
+        "label": "4",
+        "points_to": "Front axle beam"
+      },
+      {
+        "label": "5",
+        "points_to": "Pivot shaft"
+      },
+      {
+        "label": "6, 7, 8",
+        "points_to": "Fasteners/hardware for steering"
+      },
+      {
+        "label": "9",
+        "points_to": "Front axle support"
+      },
+      {
+        "label": "10",
+        "points_to": "Upper steering mount"
+      }
+    ],
+    "relationships": [
+      {
+        "from": "Pivot shaft",
+        "to": "Front axle beam",
+        "type": "inserted_into"
+      },
+      {
+        "from": "Pivot bushings",
+        "to": "Front axle beam",
+        "type": "inserted_into"
+      },
+      {
+        "from": "Steering knuckles",
+        "to": "Front axle beam",
+        "type": "mounted_on"
+      },
+      {
+        "from": "Tie rod ends",
+        "to": "Steering knuckles",
+        "type": "connects_to"
+      }
+    ],
+    "specifications": [],
+    "repair_relevance": [
+      "Front axle pivot bushing replacement",
+      "Steering linkage overhaul",
+      "Axle beam removal and inspection"
+    ],
+    "assembly_order": [],
+    "connected_relationships": [
+      {
+        "from": "Pivot shaft",
+        "to": "Front axle beam",
+        "relationship": "inserted_into"
+      },
+      {
+        "from": "Pivot bushings",
+        "to": "Front axle beam",
+        "relationship": "inserted_into"
+      },
+      {
+        "from": "Steering knuckles",
+        "to": "Front axle beam",
+        "relationship": "mounted_on"
+      },
+      {
+        "from": "Tie rod ends",
+        "to": "Steering knuckles",
+        "relationship": "connects_to"
+      }
+    ]
+  },
+  {
+    "filename": "245DI_Parts_Catg_p8_img1.png",
+    "page": 8,
+    "width": 1352,
+    "height": 1195,
+    "manual_source": "245DI_Parts_Catg.pdf",
+    "section_context": "General",
+    "surrounding_text": "10\nFRONT AXLE (ONE PIECE)\nFRONT AXLE SUPPORT (FOLDED)\n1\n2\n10\n9\n1\n4\n5\n6, 7, 8\n14\n12\n15\n1\n16\n2\n3\n13\n11\n3\n4\n5\n6\n1\n2",
+    "figure_references": [],
+    "caption": "This exploded view illustrates the assembly of the front axle support and associated mounting components for the tractor chassis. It details the alignment of the main support housing, the lower mounting plate, and the hardware required for securing the axle assembly. Technicians should use this to verify the correct orientation of the support bracket and the placement of fasteners during reassembly.",
+    "diagram_type": "exploded_view",
+    "diagram_type_classifier": "exploded_view",
+    "components_shown": [
+      "FRONT AXLE (ONE PIECE)",
+      "FRONT AXLE SUPPORT (FOLDED)",
+      "Main support housing",
+      "Lower mounting plate",
+      "Mounting bolts",
+      "Pivot bushing"
+    ],
+    "fault_relevance": [
+      "Wear in pivot bushing causing axle play",
+      "Loosening of mounting bolts due to vibration",
+      "Structural fatigue or cracking in the folded support housing"
+    ],
+    "search_keywords": [
+      "front axle support",
+      "tractor axle assembly",
+      "folded axle support",
+      "axle pivot bushing",
+      "chassis mounting hardware"
+    ],
+    "prev_context": "245DI_Parts_Catg_p8_img0.png (p8, section: General)",
+    "next_context": "245DI_Parts_Catg_p10_img0.png (p10, section: General)",
+    "priority_score": 2,
+    "components_visible": [
+      "FRONT AXLE (ONE PIECE)",
+      "FRONT AXLE SUPPORT (FOLDED)",
+      "Main support housing",
+      "Lower mounting plate",
+      "Mounting bolts",
+      "Pivot bushing"
+    ],
+    "labels_detected": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "arrows_point_to": [
+      {
+        "label": "1",
+        "points_to": "Main axle support housing"
+      },
+      {
+        "label": "2",
+        "points_to": "Lower mounting plate"
+      },
+      {
+        "label": "3",
+        "points_to": "Mounting bolt"
+      },
+      {
+        "label": "4",
+        "points_to": "Pivot bushing"
+      },
+      {
+        "label": "5",
+        "points_to": "Support bracket flange"
+      }
+    ],
+    "relationships": [
+      {
+        "from": "Lower mounting plate",
+        "to": "Main support housing",
+        "type": "bolts_to"
+      },
+      {
+        "from": "Mounting bolt",
+        "to": "Main support housing",
+        "type": "inserted_into"
+      },
+      {
+        "from": "Pivot bushing",
+        "to": "Main support housing",
+        "type": "aligned_with"
+      }
+    ],
+    "specifications": [],
+    "repair_relevance": [
+      "Front axle removal and installation",
+      "Replacement of pivot bushings",
+      "Repair of front axle support housing"
+    ],
+    "assembly_order": [
+      "Align pivot bushing with main support housing",
+      "Position lower mounting plate",
+      "Secure assembly with mounting bolts"
+    ],
+    "connected_relationships": [
+      {
+        "from": "Lower mounting plate",
+        "to": "Main support housing",
+        "relationship": "bolts_to"
+      },
+      {
+        "from": "Mounting bolt",
+        "to": "Main support housing",
+        "relationship": "inserted_into"
+      },
+      {
+        "from": "Pivot bushing",
+        "to": "Main support housing",
+        "relationship": "aligned_with"
+      }
+    ]
+  },
+  {
+    "filename": "245DI_Parts_Catg_p10_img0.png",
+    "page": 10,
+    "width": 1990,
+    "height": 1886,
+    "manual_source": "245DI_Parts_Catg.pdf",
+    "section_context": "General",
+    "surrounding_text": "12\nSTEERING KNUCKLE, ARM, DRAG LINK AND TIE ROD\n2\n6\n10\n4\n3\n5\n8\n7\n12\n14\n11\n13\n9",
+    "figure_references": [],
+    "caption": "This exploded view illustrates the assembly sequence of a tractor steering knuckle, wheel hub, and spindle assembly. It details the arrangement of bearings, seals, and the hub mounting hardware, which is critical for diagnosing wheel play, bearing failure, or steering linkage issues.",
+    "diagram_type": "exploded_view",
+    "diagram_type_classifier": "exploded_view",
+    "components_shown": [
+      "steering knuckle",
+      "spindle",
+      "wheel hub",
+      "tapered roller bearings",
+      "oil seals",
+      "castle nut",
+      "cotter pin",
+      "hub cap",
+      "mounting bolts"
+    ],
+    "fault_relevance": [
+      "wheel bearing wear or play",
+      "seal leakage",
+      "spindle shaft scoring",
+      "loose steering linkage"
+    ],
+    "search_keywords": [
+      "steering knuckle assembly",
+      "tractor wheel hub repair",
+      "spindle bearing replacement",
+      "245DI steering linkage",
+      "front axle hub service"
+    ],
+    "prev_context": "245DI_Parts_Catg_p8_img1.png (p8, section: General)",
+    "next_context": "245DI_Parts_Catg_p16_img0.png (p16, section: General)",
+    "priority_score": 2,
+    "components_visible": [
+      "steering knuckle",
+      "spindle",
+      "wheel hub",
+      "tapered roller bearings",
+      "oil seals",
+      "castle nut",
+      "cotter pin",
+      "hub cap",
+      "mounting bolts"
+    ],
+    "labels_detected": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "arrows_point_to": [
+      {
+        "label": "2",
+        "points_to": "steering knuckle"
+      },
+      {
+        "label": "3",
+        "points_to": "spindle shaft"
+      },
+      {
+        "label": "4",
+        "points_to": "inner bearing"
+      },
+      {
+        "label": "5",
+        "points_to": "inner seal"
+      },
+      {
+        "label": "6",
+        "points_to": "wheel hub"
+      },
+      {
+        "label": "7",
+        "points_to": "outer bearing"
+      },
+      {
+        "label": "8",
+        "points_to": "outer bearing race"
+      },
+      {
+        "label": "9",
+        "points_to": "castle nut"
+      },
+      {
+        "label": "10",
+        "points_to": "cotter pin"
+      },
+      {
+        "label": "11",
+        "points_to": "hub cap"
+      },
+      {
+        "label": "12",
+        "points_to": "mounting bolts"
+      },
+      {
+        "label": "13",
+        "points_to": "steering arm"
+      },
+      {
+        "label": "14",
+        "points_to": "tie rod connection point"
+      }
+    ],
+    "relationships": [
+      {
+        "from": "inner bearing",
+        "to": "spindle shaft",
+        "type": "mounted_on"
+      },
+      {
+        "from": "inner seal",
+        "to": "inner bearing",
+        "type": "seals_against"
+      },
+      {
+        "from": "wheel hub",
+        "to": "spindle shaft",
+        "type": "rotates_on"
+      },
+      {
+        "from": "outer bearing",
+        "to": "spindle shaft",
+        "type": "mounted_on"
+      },
+      {
+        "from": "castle nut",
+        "to": "spindle shaft",
+        "type": "threads_onto"
+      },
+      {
+        "from": "cotter pin",
+        "to": "castle nut",
+        "type": "secures"
+      },
+      {
+        "from": "hub cap",
+        "to": "wheel hub",
+        "type": "inserted_into"
+      }
+    ],
+    "specifications": [],
+    "repair_relevance": [
+      "wheel bearing replacement",
+      "hub seal replacement",
+      "steering knuckle service",
+      "spindle inspection"
+    ],
+    "assembly_order": [
+      "press inner bearing and seal onto spindle",
+      "slide wheel hub onto spindle",
+      "install outer bearing",
+      "tighten castle nut to specified torque",
+      "install cotter pin",
+      "install hub cap"
+    ],
+    "connected_relationships": [
+      {
+        "from": "inner bearing",
+        "to": "spindle shaft",
+        "relationship": "mounted_on"
+      },
+      {
+        "from": "inner seal",
+        "to": "inner bearing",
+        "relationship": "seals_against"
+      },
+      {
+        "from": "wheel hub",
+        "to": "spindle shaft",
+        "relationship": "rotates_on"
+      },
+      {
+        "from": "outer bearing",
+        "to": "spindle shaft",
+        "relationship": "mounted_on"
+      },
+      {
+        "from": "castle nut",
+        "to": "spindle shaft",
+        "relationship": "threads_onto"
+      },
+      {
+        "from": "cotter pin",
+        "to": "castle nut",
+        "relationship": "secures"
+      },
+      {
+        "from": "hub cap",
+        "to": "wheel hub",
+        "relationship": "inserted_into"
+      }
+    ]
+  },
+  {
+    "filename": "245DI_Parts_Catg_p16_img0.png",
+    "page": 16,
+    "width": 2745,
+    "height": 1599,
+    "manual_source": "245DI_Parts_Catg.pdf",
+    "section_context": "General",
+    "surrounding_text": "18\nHYDRAULICS\n2\n1\n3\n4",
+    "figure_references": [],
+    "caption": "This exploded view illustrates the hydraulic pump assembly and its associated fluid lines. It details the connection points for the pump, the mounting flange, the drive gear, and the routing of the hydraulic supply and return lines. Technicians can use this to identify seal locations, fitting orientations, and the sequence for mounting the pump to the housing.",
+    "diagram_type": "exploded_view",
+    "diagram_type_classifier": "exploded_view",
+    "components_shown": [
+      "hydraulic pump",
+      "mounting flange",
+      "drive gear",
+      "hydraulic supply line",
+      "hydraulic return line",
+      "elbow fittings",
+      "mounting bolts",
+      "washers",
+      "nuts",
+      "protective sleeve"
+    ],
+    "fault_relevance": [
+      "hydraulic fluid leaks at elbow fittings",
+      "worn drive gear teeth",
+      "damaged or kinked hydraulic lines",
+      "loose mounting hardware causing pump vibration"
+    ],
+    "search_keywords": [
+      "hydraulic pump assembly",
+      "pump drive gear",
+      "hydraulic line routing",
+      "245DI hydraulics",
+      "pump mounting flange"
+    ],
+    "prev_context": "245DI_Parts_Catg_p10_img0.png (p10, section: General)",
+    "next_context": "245DI_Parts_Catg_p18_img0.png (p18, section: General)",
+    "priority_score": 5,
+    "components_visible": [
+      "hydraulic pump",
+      "mounting flange",
+      "drive gear",
+      "hydraulic supply line",
+      "hydraulic return line",
+      "elbow fittings",
+      "mounting bolts",
+      "washers",
+      "nuts",
+      "protective sleeve"
+    ],
+    "labels_detected": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "arrows_point_to": [
+      {
+        "label": "1",
+        "points_to": "hydraulic pump assembly"
+      },
+      {
+        "label": "2",
+        "points_to": "hydraulic supply line"
+      },
+      {
+        "label": "3",
+        "points_to": "hydraulic return line"
+      },
+      {
+        "label": "4",
+        "points_to": "mounting flange"
+      }
+    ],
+    "relationships": [
+      {
+        "from": "drive gear",
+        "to": "hydraulic pump",
+        "type": "drives"
+      },
+      {
+        "from": "hydraulic pump",
+        "to": "mounting flange",
+        "type": "mounted_on"
+      },
+      {
+        "from": "elbow fittings",
+        "to": "hydraulic pump",
+        "type": "connects_to"
+      },
+      {
+        "from": "hydraulic lines",
+        "to": "elbow fittings",
+        "type": "connects_to"
+      },
+      {
+        "from": "mounting bolts",
+        "to": "hydraulic pump",
+        "type": "bolts_to"
+      }
+    ],
+    "specifications": [],
+    "repair_relevance": [
+      "hydraulic pump replacement",
+      "hydraulic line routing and installation",
+      "drive gear inspection and replacement",
+      "sealing hydraulic connections"
+    ],
+    "assembly_order": [
+      "mount flange to housing",
+      "attach hydraulic pump to flange",
+      "install drive gear onto pump shaft",
+      "connect hydraulic lines with elbow fittings",
+      "secure lines with mounting brackets"
+    ],
+    "connected_relationships": [
+      {
+        "from": "drive gear",
+        "to": "hydraulic pump",
+        "relationship": "drives"
+      },
+      {
+        "from": "hydraulic pump",
+        "to": "mounting flange",
+        "relationship": "mounted_on"
+      },
+      {
+        "from": "elbow fittings",
+        "to": "hydraulic pump",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "hydraulic lines",
+        "to": "elbow fittings",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "mounting bolts",
+        "to": "hydraulic pump",
+        "relationship": "bolts_to"
+      }
+    ]
+  },
+  {
+    "filename": "245DI_Parts_Catg_p18_img0.png",
+    "page": 18,
+    "width": 1835,
+    "height": 2185,
+    "manual_source": "245DI_Parts_Catg.pdf",
+    "section_context": "General",
+    "surrounding_text": "20\nCRANKCASE ASSEMBLY",
+    "figure_references": [],
+    "caption": "This exploded view shows the crankcase assembly for the 245DI engine, detailing the installation of cylinder liners, main bearing shells, and main bearing caps. It illustrates the critical alignment of bearing inserts and the securing hardware for the crankshaft support structure. Technicians should use this to verify the correct orientation of thrust washers and bearing halves during engine overhaul.",
+    "diagram_type": "exploded_view",
+    "diagram_type_classifier": "exploded_view",
+    "components_shown": [
+      "Crankcase",
+      "Cylinder liner",
+      "Main bearing cap",
+      "Main bearing shell",
+      "Thrust washer",
+      "Studs",
+      "Nuts",
+      "Oil gallery plugs",
+      "Dipstick tube assembly"
+    ],
+    "fault_relevance": [
+      "Main bearing wear",
+      "Cylinder liner cavitation or seal failure",
+      "Crankcase stud thread damage",
+      "Loss of oil pressure due to bearing clearance issues"
+    ],
+    "search_keywords": [
+      "245DI crankcase assembly",
+      "engine block overhaul",
+      "main bearing installation",
+      "cylinder liner replacement",
+      "crankcase parts diagram"
+    ],
+    "prev_context": "245DI_Parts_Catg_p16_img0.png (p16, section: General)",
+    "next_context": "245DI_Parts_Catg_p20_img0.png (p20, section: General)",
+    "priority_score": 2,
+    "components_visible": [
+      "Crankcase",
+      "Cylinder liner",
+      "Main bearing cap",
+      "Main bearing shell",
+      "Thrust washer",
+      "Studs",
+      "Nuts",
+      "Oil gallery plugs",
+      "Dipstick tube assembly"
+    ],
+    "labels_detected": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "31",
+      "33",
+      "34",
+      "35"
+    ],
+    "arrows_point_to": [
+      {
+        "label": "28",
+        "points_to": "cylinder liner"
+      },
+      {
+        "label": "27",
+        "points_to": "liner seal ring"
+      },
+      {
+        "label": "26",
+        "points_to": "liner seal ring"
+      },
+      {
+        "label": "1",
+        "points_to": "crankcase block"
+      },
+      {
+        "label": "15",
+        "points_to": "thrust washer assembly"
+      },
+      {
+        "label": "10",
+        "points_to": "main bearing shell set"
+      },
+      {
+        "label": "2",
+        "points_to": "main bearing cap"
+      },
+      {
+        "label": "3",
+        "points_to": "main bearing cap"
+      },
+      {
+        "label": "4",
+        "points_to": "main bearing cap"
+      },
+      {
+        "label": "5",
+        "points_to": "main bearing stud"
+      },
+      {
+        "label": "6",
+        "points_to": "main bearing nut"
+      }
+    ],
+    "relationships": [
+      {
+        "from": "cylinder liner",
+        "to": "crankcase",
+        "type": "inserted_into"
+      },
+      {
+        "from": "liner seal rings",
+        "to": "cylinder liner",
+        "type": "seals_against"
+      },
+      {
+        "from": "main bearing shells",
+        "to": "crankcase",
+        "type": "mounted_in"
+      },
+      {
+        "from": "main bearing caps",
+        "to": "crankcase",
+        "type": "bolts_to"
+      },
+      {
+        "from": "main bearing studs",
+        "to": "crankcase",
+        "type": "screwed_into"
+      },
+      {
+        "from": "thrust washers",
+        "to": "crankcase",
+        "type": "aligned_with"
+      }
+    ],
+    "specifications": [],
+    "repair_relevance": [
+      "Engine block overhaul",
+      "Cylinder liner replacement",
+      "Main bearing replacement",
+      "Crankshaft installation"
+    ],
+    "assembly_order": [
+      "Install main bearing shells into crankcase and caps",
+      "Install thrust washers",
+      "Insert cylinder liners with seal rings",
+      "Position main bearing caps onto studs",
+      "Torque main bearing nuts"
+    ],
+    "connected_relationships": [
+      {
+        "from": "cylinder liner",
+        "to": "crankcase",
+        "relationship": "inserted_into"
+      },
+      {
+        "from": "liner seal rings",
+        "to": "cylinder liner",
+        "relationship": "seals_against"
+      },
+      {
+        "from": "main bearing shells",
+        "to": "crankcase",
+        "relationship": "mounted_in"
+      },
+      {
+        "from": "main bearing caps",
+        "to": "crankcase",
+        "relationship": "bolts_to"
+      },
+      {
+        "from": "main bearing studs",
+        "to": "crankcase",
+        "relationship": "screwed_into"
+      },
+      {
+        "from": "thrust washers",
+        "to": "crankcase",
+        "relationship": "aligned_with"
+      }
+    ]
+  },
+  {
+    "filename": "245DI_Parts_Catg_p20_img0.png",
+    "page": 20,
+    "width": 1980,
+    "height": 1469,
+    "manual_source": "245DI_Parts_Catg.pdf",
+    "section_context": "General",
+    "surrounding_text": "22\nCRANKCASE ASSEMBLY",
+    "figure_references": [],
+    "caption": "This exploded view of the crankcase assembly details the mounting of the front cover, oil pan, and water pump components. It provides critical guidance for sealing the engine block, replacing the front oil seal, and servicing the water pump drive assembly.",
+    "diagram_type": "exploded_view",
+    "diagram_type_classifier": "exploded_view",
+    "components_shown": [
+      "Crankcase",
+      "Front cover",
+      "Oil pan",
+      "Water pump",
+      "Oil seal",
+      "Gaskets",
+      "Drive gear",
+      "Mounting bolts",
+      "Oil pan rails"
+    ],
+    "fault_relevance": [
+      "Oil leaks at the front cover or oil pan gasket",
+      "Water pump bearing failure",
+      "Front crankshaft oil seal wear"
+    ],
+    "search_keywords": [
+      "crankcase assembly",
+      "engine front cover",
+      "oil pan gasket",
+      "water pump mounting",
+      "crankshaft oil seal"
+    ],
+    "prev_context": "245DI_Parts_Catg_p18_img0.png (p18, section: General)",
+    "next_context": "",
+    "priority_score": 2,
+    "components_visible": [
+      "Crankcase",
+      "Front cover",
+      "Oil pan",
+      "Water pump",
+      "Oil seal",
+      "Gaskets",
+      "Drive gear",
+      "Mounting bolts",
+      "Oil pan rails"
+    ],
+    "labels_detected": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49",
+      "50"
+    ],
+    "arrows_point_to": [
+      {
+        "label": "1",
+        "points_to": "Oil pan upper shield"
+      },
+      {
+        "label": "2",
+        "points_to": "Oil pan gasket"
+      },
+      {
+        "label": "3",
+        "points_to": "Oil pan"
+      },
+      {
+        "label": "4",
+        "points_to": "Oil pan side rail"
+      },
+      {
+        "label": "5",
+        "points_to": "Oil pan side rail"
+      },
+      {
+        "label": "12",
+        "points_to": "Front cover"
+      },
+      {
+        "label": "20",
+        "points_to": "Water pump housing"
+      },
+      {
+        "label": "47",
+        "points_to": "Water pump drive gear"
+      }
+    ],
+    "relationships": [
+      {
+        "from": "Front cover",
+        "to": "Crankcase",
+        "type": "bolts_to"
+      },
+      {
+        "from": "Oil pan",
+        "to": "Crankcase",
+        "type": "bolts_to"
+      },
+      {
+        "from": "Water pump",
+        "to": "Front cover",
+        "type": "mounted_on"
+      },
+      {
+        "from": "Oil seal",
+        "to": "Front cover",
+        "type": "inserted_into"
+      },
+      {
+        "from": "Water pump drive gear",
+        "to": "Water pump shaft",
+        "type": "drives"
+      }
+    ],
+    "specifications": [],
+    "repair_relevance": [
+      "Front cover removal and gasket replacement",
+      "Oil pan resealing",
+      "Water pump replacement",
+      "Crankshaft front oil seal installation"
+    ],
+    "assembly_order": [
+      "Install oil pan rails and gasket",
+      "Mount oil pan to crankcase",
+      "Install front cover with gasket",
+      "Mount water pump to front cover"
+    ],
+    "connected_relationships": [
+      {
+        "from": "Front cover",
+        "to": "Crankcase",
+        "relationship": "bolts_to"
+      },
+      {
+        "from": "Oil pan",
+        "to": "Crankcase",
+        "relationship": "bolts_to"
+      },
+      {
+        "from": "Water pump",
+        "to": "Front cover",
+        "relationship": "mounted_on"
+      },
+      {
+        "from": "Oil seal",
+        "to": "Front cover",
+        "relationship": "inserted_into"
+      },
+      {
+        "from": "Water pump drive gear",
+        "to": "Water pump shaft",
+        "relationship": "drives"
+      }
+    ]
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "filename": "Shaktiman_Rotavator_Guide_p1_img2.jpeg",
+    "page": 1,
+    "width": 750,
+    "height": 626,
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "section_context": "General",
+    "surrounding_text": "User manual\nROTARY TILLER\nShaktiman\nSHAKTIMAN SRT-1",
+    "figure_references": [],
+    "caption": "This image shows a Shaktiman SRT-1 Mini Series rotary tiller, a tractor-mounted implement used for soil cultivation. The view highlights the primary drive assembly, including the gearbox, PTO input shaft, and the chain-drive side housing. Technicians can use this to identify the main structural components, blade orientation, and the mounting points for the three-point hitch system.",
+    "diagram_type": "photo",
+    "diagram_type_classifier": "photo",
+    "components_shown": [
+      "gearbox",
+      "PTO input shaft",
+      "three-point hitch frame",
+      "rotary tiller blades",
+      "chain-drive side housing",
+      "depth control skids",
+      "rotor shaft"
+    ],
+    "fault_relevance": [
+      "worn or damaged tiller blades",
+      "gearbox oil leaks",
+      "chain drive tension issues",
+      "PTO shaft seal failure"
+    ],
+    "search_keywords": [
+      "Shaktiman SRT-1",
+      "rotary tiller gearbox",
+      "tiller blade replacement",
+      "mini series tiller maintenance",
+      "tractor implement repair"
+    ],
+    "prev_context": "",
+    "next_context": "",
+    "priority_score": 0,
+    "components_visible": [
+      "gearbox",
+      "PTO input shaft",
+      "three-point hitch frame",
+      "rotary tiller blades",
+      "chain-drive side housing",
+      "depth control skids",
+      "rotor shaft"
+    ],
+    "labels_detected": [
+      "MINI SERIES"
+    ],
+    "arrows_point_to": [],
+    "relationships": [
+      {
+        "from": "gearbox",
+        "to": "PTO input shaft",
+        "type": "drives"
+      },
+      {
+        "from": "three-point hitch frame",
+        "to": "gearbox",
+        "type": "mounted_on"
+      },
+      {
+        "from": "chain-drive side housing",
+        "to": "rotor shaft",
+        "type": "drives"
+      },
+      {
+        "from": "rotary tiller blades",
+        "to": "rotor shaft",
+        "type": "mounted_on"
+      }
+    ],
+    "specifications": [],
+    "repair_relevance": [
+      "blade replacement",
+      "gearbox maintenance",
+      "chain drive inspection",
+      "three-point hitch adjustment"
+    ],
+    "assembly_order": [],
+    "connected_relationships": [
+      {
+        "from": "gearbox",
+        "to": "PTO input shaft",
+        "relationship": "drives"
+      },
+      {
+        "from": "three-point hitch frame",
+        "to": "gearbox",
+        "relationship": "mounted_on"
+      },
+      {
+        "from": "chain-drive side housing",
+        "to": "rotor shaft",
+        "relationship": "drives"
+      },
+      {
+        "from": "rotary tiller blades",
+        "to": "rotor shaft",
+        "relationship": "mounted_on"
+      }
+    ],
+    "embedding_text": "IMAGE:\nThis image shows a Shaktiman SRT-1 Mini Series rotary tiller, a tractor-mounted implement used for soil cultivation. The view highlights the primary drive assembly, including the gearbox, PTO input shaft, and the chain-drive side housing. Technicians can use this to identify the main structural components, blade orientation, and the mounting points for the three-point hitch system.\nVISIBLE COMPONENTS:\n- gearbox\n- PTO input shaft\n- three-point hitch frame\n- rotary tiller blades\n- chain-drive side housing\n- depth control skids\n- rotor shaft\nKEYWORDS:\n- Shaktiman SRT-1\n- rotary tiller gearbox\n- tiller blade replacement\n- mini series tiller maintenance\n- tractor implement repair\nUSEFUL FOR:\nREPAIR:\n- blade replacement\n- gearbox maintenance\n- chain drive inspection\n- three-point hitch adjustment\nFAULTS:\n- worn or damaged tiller blades\n- gearbox oil leaks\n- chain drive tension issues\n- PTO shaft seal failure\n"
+  }
+]

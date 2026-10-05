@@ -1,0 +1,1520 @@
+[
+  {
+    "filename": "submersible_manual_p1_img1.jpeg",
+    "page": 1,
+    "width": 1349,
+    "height": 905,
+    "manual_source": "submersible_manual.pdf",
+    "section_context": "**Instructions on Installation, Operation and Maintenance Manual for Kirloskar Non Clog Submersible series**",
+    "surrounding_text": "0 \nThis is a proprietary document of Kirloskar Brothers Limited, Kirloskarvadi-416308, Dist-Sangli (India)\nNS IOM MANUAL \n1 July 2016\n \nInstructions on Installation, \nOperation and Maintenance  \nManual for Kirloskar Non Clog  \nSubmersible series",
+    "figure_references": [],
+    "caption": "This image displays three different sizes of Kirloskar Non Clog Submersible pumps, providing a visual reference for the series. Each pump features a cylindrical motor housing, a coiled power cable secured by brackets, and a flanged discharge port at the bottom. A lifting eye is visible on top of each unit, indicating how they are handled during installation or removal.",
+    "diagram_type": "photo",
+    "diagram_type_classifier": "photo",
+    "components_shown": [
+      "Submersible pump",
+      "Motor housing",
+      "Power cable",
+      "Cable management bracket",
+      "Lifting eye",
+      "Discharge flange",
+      "Base stand",
+      "Fasteners/bolts"
+    ],
+    "fault_relevance": [
+      "Visual identification of the pump model for correct troubleshooting",
+      "Initial visual inspection for external damage to the motor housing, cable, or discharge flange"
+    ],
+    "search_keywords": [
+      "Kirloskar submersible pump",
+      "Non Clog pump",
+      "submersible pump models",
+      "pump identification",
+      "pump external view",
+      "pump sizes"
+    ],
+    "prev_context": "",
+    "next_context": "submersible_manual_p21_img0.png (p21, section: General)",
+    "priority_score": 9,
+    "components_visible": [
+      "Submersible pump",
+      "Motor housing",
+      "Power cable",
+      "Cable management bracket",
+      "Lifting eye",
+      "Discharge flange",
+      "Base stand",
+      "Fasteners/bolts"
+    ],
+    "labels_detected": [],
+    "arrows_point_to": [],
+    "relationships": [],
+    "specifications": [],
+    "repair_relevance": [
+      "General orientation to the external components of the Kirloskar Non Clog Submersible series",
+      "Locating the power cable entry point for electrical checks",
+      "Identifying the discharge port for connection or inspection",
+      "Understanding the general design for handling and installation (e.g., using the lifting eye)"
+    ],
+    "assembly_order": [],
+    "connected_relationships": [],
+    "embedding_text": "IMAGE:\nThis image displays three different sizes of Kirloskar Non Clog Submersible pumps, providing a visual reference for the series. Each pump features a cylindrical motor housing, a coiled power cable secured by brackets, and a flanged discharge port at the bottom. A lifting eye is visible on top of each unit, indicating how they are handled during installation or removal.\nVISIBLE COMPONENTS:\n- Submersible pump\n- Motor housing\n- Power cable\n- Cable management bracket\n- Lifting eye\n- Discharge flange\n- Base stand\n- Fasteners/bolts\nKEYWORDS:\n- Kirloskar submersible pump\n- Non Clog pump\n- submersible pump models\n- pump identification\n- pump external view\n- pump sizes\nUSEFUL FOR:\nREPAIR:\n- General orientation to the external components of the Kirloskar Non Clog Submersible series\n- Locating the power cable entry point for electrical checks\n- Identifying the discharge port for connection or inspection\n- Understanding the general design for handling and installation (e.g., using the lifting eye)\nFAULTS:\n- Visual identification of the pump model for correct troubleshooting\n- Initial visual inspection for external damage to the motor housing, cable, or discharge flange\n"
+  },
+  {
+    "filename": "submersible_manual_p21_img0.png",
+    "page": 21,
+    "width": 736,
+    "height": 592,
+    "manual_source": "submersible_manual.pdf",
+    "section_context": "General",
+    "surrounding_text": "20\nThis is a proprietary document of Kirloskar Brothers Limited, Kirloskarvadi-416308, Dist-Sangli (India)\nNS IOM MANUAL \n1 July 2016\n \n6 \nCROSS SECTIONAL DRAWING \n \n \n \n \n \n \nCROSS SECTIONAL VIEW OF iNS PUMP",
+    "figure_references": [],
+    "caption": "This cross-sectional drawing of an iNS submersible pump provides a detailed view of its internal components, crucial for diagnosis and repair. Technicians can identify the motor section with its rotor, stator, and bearings, the mechanical seal assembly, and the pump section with the impeller and volute casing. It also shows external connections like the cable entry, discharge elbow, and mounting structure, aiding in component identification for replacement or troubleshooting leaks and mechanical failures.",
+    "diagram_type": "sectional_view",
+    "diagram_type_classifier": "sectional_view",
+    "components_shown": [
+      "Cable/Conduit",
+      "Cable entry gland",
+      "Top motor cover",
+      "Top cover bolt",
+      "Cooling coil",
+      "Stator winding",
+      "Rotor",
+      "Motor shaft",
+      "Upper motor bearing",
+      "Motor casing",
+      "Lower motor bearing",
+      "Upper mechanical seal part",
+      "Lower mechanical seal part",
+      "Seal chamber housing",
+      "Oil chamber",
+      "Oil fill/drain plug",
+      "Impeller retaining nut",
+      "Impeller key",
+      "Impeller vane (upper)",
+      "Impeller vane (lower)",
+      "Suction casing",
+      "Lifting eye",
+      "Motor housing",
+      "Motor housing O-ring",
+      "Electrical connection box",
+      "Discharge elbow",
+      "Discharge flange gasket",
+      "Discharge flange",
+      "Discharge flange bolt",
+      "Pump volute casing",
+      "Volute casing bolt",
+      "Volute casing gasket",
+      "Pump mounting plate",
+      "Mounting plate bolt",
+      "Support leg",
+      "Support leg bolt (upper)",
+      "Support leg bolt (lower)",
+      "Base foot",
+      "Foundation bolt hole"
+    ],
+    "fault_relevance": [
+      "Worn or failed bearings (Upper motor bearing, Lower motor bearing) causing vibration or noise.",
+      "Failed mechanical seals (Upper mechanical seal part, Lower mechanical seal part) leading to water ingress into the motor or oil leakage.",
+      "Damaged or worn impeller (Impeller vane (upper), Impeller vane (lower)) resulting in reduced pump performance or cavitation.",
+      "Motor winding (Stator winding) failure due to overheating or electrical short circuits.",
+      "Leaking gaskets (Discharge flange gasket, Volute casing gasket) or O-rings (Motor housing O-ring) causing fluid loss or ingress.",
+      "Bent or broken motor shaft (Motor shaft) leading to catastrophic pump failure.",
+      "Clogged cooling coil (Cooling coil) causing motor overheating."
+    ],
+    "search_keywords": [
+      "submersible pump cross-section",
+      "iNS pump parts",
+      "Kirloskar pump diagram",
+      "motor assembly",
+      "impeller replacement",
+      "mechanical seal repair",
+      "pump bearings",
+      "stator winding",
+      "pump volute",
+      "submersible motor components",
+      "pump maintenance",
+      "sectional view"
+    ],
+    "prev_context": "submersible_manual_p1_img1.jpeg (p1, section: **Instructions on Installation, Operation and Maintenance Manual for Kirloskar Non Clog Submersible series**)",
+    "next_context": "submersible_manual_p29_img0.png (p29, section: General)",
+    "priority_score": 0,
+    "components_visible": [
+      "Cable/Conduit",
+      "Cable entry gland",
+      "Top motor cover",
+      "Top cover bolt",
+      "Cooling coil",
+      "Stator winding",
+      "Rotor",
+      "Motor shaft",
+      "Upper motor bearing",
+      "Motor casing",
+      "Lower motor bearing",
+      "Upper mechanical seal part",
+      "Lower mechanical seal part",
+      "Seal chamber housing",
+      "Oil chamber",
+      "Oil fill/drain plug",
+      "Impeller retaining nut",
+      "Impeller key",
+      "Impeller vane (upper)",
+      "Impeller vane (lower)",
+      "Suction casing",
+      "Lifting eye",
+      "Motor housing",
+      "Motor housing O-ring",
+      "Electrical connection box",
+      "Discharge elbow",
+      "Discharge flange gasket",
+      "Discharge flange",
+      "Discharge flange bolt",
+      "Pump volute casing",
+      "Volute casing bolt",
+      "Volute casing gasket",
+      "Pump mounting plate",
+      "Mounting plate bolt",
+      "Support leg",
+      "Support leg bolt (upper)",
+      "Support leg bolt (lower)",
+      "Base foot",
+      "Foundation bolt hole"
+    ],
+    "labels_detected": [
+      "9130416",
+      "9780409",
+      "9100414",
+      "9140404",
+      "9120304",
+      "2600105",
+      "5090305",
+      "9110302",
+      "1640101",
+      "2710102",
+      "2600103",
+      "4860104",
+      "4440204",
+      "2300202",
+      "5110505",
+      "3500208",
+      "1530502",
+      "6820504",
+      "523550B",
+      "523550C",
+      "1070506",
+      "3000420",
+      "9090401",
+      "5230402",
+      "1300301",
+      "9410607",
+      "5230209",
+      "1450602",
+      "9320203",
+      "2320201",
+      "9180601",
+      "5250207",
+      "3200501",
+      "2830606",
+      "3300503",
+      "9190603",
+      "9170604",
+      "9390605",
+      "4600507"
+    ],
+    "arrows_point_to": [
+      {
+        "label": "9130416",
+        "points_to": "Cable/Conduit"
+      },
+      {
+        "label": "9780409",
+        "points_to": "Cable entry gland"
+      },
+      {
+        "label": "9100414",
+        "points_to": "Top motor cover"
+      },
+      {
+        "label": "9140404",
+        "points_to": "Top cover bolt"
+      },
+      {
+        "label": "9120304",
+        "points_to": "Cooling coil"
+      },
+      {
+        "label": "2600105",
+        "points_to": "Stator winding"
+      },
+      {
+        "label": "5090305",
+        "points_to": "Rotor"
+      },
+      {
+        "label": "9110302",
+        "points_to": "Motor shaft"
+      },
+      {
+        "label": "1640101",
+        "points_to": "Upper motor bearing"
+      },
+      {
+        "label": "2710102",
+        "points_to": "Motor casing"
+      },
+      {
+        "label": "2600103",
+        "points_to": "Lower motor bearing"
+      },
+      {
+        "label": "4860104",
+        "points_to": "Upper mechanical seal part"
+      },
+      {
+        "label": "4440204",
+        "points_to": "Lower mechanical seal part"
+      },
+      {
+        "label": "2300202",
+        "points_to": "Seal chamber housing"
+      },
+      {
+        "label": "5110505",
+        "points_to": "Oil chamber"
+      },
+      {
+        "label": "3500208",
+        "points_to": "Oil fill/drain plug"
+      },
+      {
+        "label": "1530502",
+        "points_to": "Impeller retaining nut"
+      },
+      {
+        "label": "6820504",
+        "points_to": "Impeller key"
+      },
+      {
+        "label": "523550B",
+        "points_to": "Impeller vane (upper)"
+      },
+      {
+        "label": "523550C",
+        "points_to": "Impeller vane (lower)"
+      },
+      {
+        "label": "1070506",
+        "points_to": "Suction casing"
+      },
+      {
+        "label": "3000420",
+        "points_to": "Lifting eye"
+      },
+      {
+        "label": "9090401",
+        "points_to": "Motor housing"
+      },
+      {
+        "label": "5230402",
+        "points_to": "Motor housing O-ring"
+      },
+      {
+        "label": "1300301",
+        "points_to": "Electrical connection box"
+      },
+      {
+        "label": "9410607",
+        "points_to": "Discharge elbow"
+      },
+      {
+        "label": "5230209",
+        "points_to": "Discharge flange gasket"
+      },
+      {
+        "label": "1450602",
+        "points_to": "Discharge flange"
+      },
+      {
+        "label": "9320203",
+        "points_to": "Discharge flange bolt"
+      },
+      {
+        "label": "2320201",
+        "points_to": "Pump volute casing"
+      },
+      {
+        "label": "9180601",
+        "points_to": "Volute casing bolt"
+      },
+      {
+        "label": "5250207",
+        "points_to": "Volute casing gasket"
+      },
+      {
+        "label": "3200501",
+        "points_to": "Pump mounting plate"
+      },
+      {
+        "label": "2830606",
+        "points_to": "Mounting plate bolt"
+      },
+      {
+        "label": "3300503",
+        "points_to": "Support leg"
+      },
+      {
+        "label": "9190603",
+        "points_to": "Support leg bolt (upper)"
+      },
+      {
+        "label": "9170604",
+        "points_to": "Support leg bolt (lower)"
+      },
+      {
+        "label": "9390605",
+        "points_to": "Base foot"
+      },
+      {
+        "label": "4600507",
+        "points_to": "Foundation bolt hole"
+      }
+    ],
+    "relationships": [
+      {
+        "from": "Motor shaft",
+        "to": "Rotor",
+        "type": "drives"
+      },
+      {
+        "from": "Rotor",
+        "to": "Stator winding",
+        "type": "surrounds"
+      },
+      {
+        "from": "Motor shaft",
+        "to": "Upper motor bearing",
+        "type": "supported_by"
+      },
+      {
+        "from": "Motor shaft",
+        "to": "Lower motor bearing",
+        "type": "supported_by"
+      },
+      {
+        "from": "Lower motor bearing",
+        "to": "Seal chamber housing",
+        "type": "housed_in"
+      },
+      {
+        "from": "Upper mechanical seal part",
+        "to": "Motor shaft",
+        "type": "seals_against"
+      },
+      {
+        "from": "Lower mechanical seal part",
+        "to": "Motor shaft",
+        "type": "seals_against"
+      },
+      {
+        "from": "Upper mechanical seal part",
+        "to": "Seal chamber housing",
+        "type": "seals_against"
+      },
+      {
+        "from": "Lower mechanical seal part",
+        "to": "Seal chamber housing",
+        "type": "seals_against"
+      },
+      {
+        "from": "Impeller vane (upper)",
+        "to": "Motor shaft",
+        "type": "mounted_on"
+      },
+      {
+        "from": "Impeller vane (lower)",
+        "to": "Motor shaft",
+        "type": "mounted_on"
+      },
+      {
+        "from": "Impeller retaining nut",
+        "to": "Motor shaft",
+        "type": "secures"
+      },
+      {
+        "from": "Impeller retaining nut",
+        "to": "Impeller vane (lower)",
+        "type": "secures"
+      },
+      {
+        "from": "Impeller key",
+        "to": "Motor shaft",
+        "type": "aligns_with"
+      },
+      {
+        "from": "Impeller key",
+        "to": "Impeller vane (lower)",
+        "type": "aligns_with"
+      },
+      {
+        "from": "Impeller vane (upper)",
+        "to": "Suction casing",
+        "type": "housed_within"
+      },
+      {
+        "from": "Impeller vane (lower)",
+        "to": "Suction casing",
+        "type": "housed_within"
+      },
+      {
+        "from": "Impeller vane (upper)",
+        "to": "Pump volute casing",
+        "type": "housed_within"
+      },
+      {
+        "from": "Impeller vane (lower)",
+        "to": "Pump volute casing",
+        "type": "housed_within"
+      },
+      {
+        "from": "Pump volute casing",
+        "to": "Discharge flange",
+        "type": "connects_to"
+      },
+      {
+        "from": "Discharge flange",
+        "to": "Discharge elbow",
+        "type": "connects_to"
+      },
+      {
+        "from": "Discharge flange gasket",
+        "to": "Discharge flange",
+        "type": "seals_against"
+      },
+      {
+        "from": "Discharge flange gasket",
+        "to": "Pump volute casing",
+        "type": "seals_against"
+      },
+      {
+        "from": "Discharge flange bolt",
+        "to": "Discharge flange",
+        "type": "fastens"
+      },
+      {
+        "from": "Discharge flange bolt",
+        "to": "Pump volute casing",
+        "type": "fastens"
+      },
+      {
+        "from": "Pump volute casing",
+        "to": "Pump mounting plate",
+        "type": "bolts_to"
+      },
+      {
+        "from": "Volute casing gasket",
+        "to": "Pump volute casing",
+        "type": "seals_against"
+      },
+      {
+        "from": "Volute casing gasket",
+        "to": "Pump mounting plate",
+        "type": "seals_against"
+      },
+      {
+        "from": "Volute casing bolt",
+        "to": "Pump volute casing",
+        "type": "fastens"
+      },
+      {
+        "from": "Volute casing bolt",
+        "to": "Pump mounting plate",
+        "type": "fastens"
+      },
+      {
+        "from": "Pump mounting plate",
+        "to": "Support leg",
+        "type": "supports"
+      },
+      {
+        "from": "Support leg bolt (upper)",
+        "to": "Support leg",
+        "type": "fastens"
+      },
+      {
+        "from": "Support leg bolt (upper)",
+        "to": "Pump mounting plate",
+        "type": "fastens"
+      },
+      {
+        "from": "Support leg bolt (lower)",
+        "to": "Support leg",
+        "type": "fastens"
+      },
+      {
+        "from": "Support leg bolt (lower)",
+        "to": "Base foot",
+        "type": "fastens"
+      },
+      {
+        "from": "Base foot",
+        "to": "Foundation bolt hole",
+        "type": "contains"
+      },
+      {
+        "from": "Motor housing",
+        "to": "Motor housing O-ring",
+        "type": "sealed_by"
+      },
+      {
+        "from": "Cable/Conduit",
+        "to": "Cable entry gland",
+        "type": "inserted_into"
+      },
+      {
+        "from": "Cable entry gland",
+        "to": "Motor housing",
+        "type": "mounted_on"
+      },
+      {
+        "from": "Electrical connection box",
+        "to": "Motor housing",
+        "type": "part_of"
+      },
+      {
+        "from": "Cooling coil",
+        "to": "Motor casing",
+        "type": "surrounds"
+      },
+      {
+        "from": "Oil fill/drain plug",
+        "to": "Oil chamber",
+        "type": "accesses"
+      }
+    ],
+    "specifications": [],
+    "repair_relevance": [
+      "Identification of components for replacement (bearings, seals, impeller, gaskets).",
+      "Guidance for disassembly and reassembly sequence of pump and motor sections.",
+      "Understanding the sealing arrangements to prevent leaks (mechanical seals, O-rings, gaskets).",
+      "Locating the oil chamber and drain/fill plug for maintenance (Oil chamber, Oil fill/drain plug).",
+      "Visual inspection points for wear and damage on internal components.",
+      "Proper orientation of parts during reassembly, such as the impeller on the shaft with the key."
+    ],
+    "assembly_order": [],
+    "connected_relationships": [
+      {
+        "from": "Motor shaft",
+        "to": "Rotor",
+        "relationship": "drives"
+      },
+      {
+        "from": "Rotor",
+        "to": "Stator winding",
+        "relationship": "surrounds"
+      },
+      {
+        "from": "Motor shaft",
+        "to": "Upper motor bearing",
+        "relationship": "supported_by"
+      },
+      {
+        "from": "Motor shaft",
+        "to": "Lower motor bearing",
+        "relationship": "supported_by"
+      },
+      {
+        "from": "Lower motor bearing",
+        "to": "Seal chamber housing",
+        "relationship": "housed_in"
+      },
+      {
+        "from": "Upper mechanical seal part",
+        "to": "Motor shaft",
+        "relationship": "seals_against"
+      },
+      {
+        "from": "Lower mechanical seal part",
+        "to": "Motor shaft",
+        "relationship": "seals_against"
+      },
+      {
+        "from": "Upper mechanical seal part",
+        "to": "Seal chamber housing",
+        "relationship": "seals_against"
+      },
+      {
+        "from": "Lower mechanical seal part",
+        "to": "Seal chamber housing",
+        "relationship": "seals_against"
+      },
+      {
+        "from": "Impeller vane (upper)",
+        "to": "Motor shaft",
+        "relationship": "mounted_on"
+      },
+      {
+        "from": "Impeller vane (lower)",
+        "to": "Motor shaft",
+        "relationship": "mounted_on"
+      },
+      {
+        "from": "Impeller retaining nut",
+        "to": "Motor shaft",
+        "relationship": "secures"
+      },
+      {
+        "from": "Impeller retaining nut",
+        "to": "Impeller vane (lower)",
+        "relationship": "secures"
+      },
+      {
+        "from": "Impeller key",
+        "to": "Motor shaft",
+        "relationship": "aligns_with"
+      },
+      {
+        "from": "Impeller key",
+        "to": "Impeller vane (lower)",
+        "relationship": "aligns_with"
+      },
+      {
+        "from": "Impeller vane (upper)",
+        "to": "Suction casing",
+        "relationship": "housed_within"
+      },
+      {
+        "from": "Impeller vane (lower)",
+        "to": "Suction casing",
+        "relationship": "housed_within"
+      },
+      {
+        "from": "Impeller vane (upper)",
+        "to": "Pump volute casing",
+        "relationship": "housed_within"
+      },
+      {
+        "from": "Impeller vane (lower)",
+        "to": "Pump volute casing",
+        "relationship": "housed_within"
+      },
+      {
+        "from": "Pump volute casing",
+        "to": "Discharge flange",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Discharge flange",
+        "to": "Discharge elbow",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Discharge flange gasket",
+        "to": "Discharge flange",
+        "relationship": "seals_against"
+      },
+      {
+        "from": "Discharge flange gasket",
+        "to": "Pump volute casing",
+        "relationship": "seals_against"
+      },
+      {
+        "from": "Discharge flange bolt",
+        "to": "Discharge flange",
+        "relationship": "fastens"
+      },
+      {
+        "from": "Discharge flange bolt",
+        "to": "Pump volute casing",
+        "relationship": "fastens"
+      },
+      {
+        "from": "Pump volute casing",
+        "to": "Pump mounting plate",
+        "relationship": "bolts_to"
+      },
+      {
+        "from": "Volute casing gasket",
+        "to": "Pump volute casing",
+        "relationship": "seals_against"
+      },
+      {
+        "from": "Volute casing gasket",
+        "to": "Pump mounting plate",
+        "relationship": "seals_against"
+      },
+      {
+        "from": "Volute casing bolt",
+        "to": "Pump volute casing",
+        "relationship": "fastens"
+      },
+      {
+        "from": "Volute casing bolt",
+        "to": "Pump mounting plate",
+        "relationship": "fastens"
+      },
+      {
+        "from": "Pump mounting plate",
+        "to": "Support leg",
+        "relationship": "supports"
+      },
+      {
+        "from": "Support leg bolt (upper)",
+        "to": "Support leg",
+        "relationship": "fastens"
+      },
+      {
+        "from": "Support leg bolt (upper)",
+        "to": "Pump mounting plate",
+        "relationship": "fastens"
+      },
+      {
+        "from": "Support leg bolt (lower)",
+        "to": "Support leg",
+        "relationship": "fastens"
+      },
+      {
+        "from": "Support leg bolt (lower)",
+        "to": "Base foot",
+        "relationship": "fastens"
+      },
+      {
+        "from": "Base foot",
+        "to": "Foundation bolt hole",
+        "relationship": "contains"
+      },
+      {
+        "from": "Motor housing",
+        "to": "Motor housing O-ring",
+        "relationship": "sealed_by"
+      },
+      {
+        "from": "Cable/Conduit",
+        "to": "Cable entry gland",
+        "relationship": "inserted_into"
+      },
+      {
+        "from": "Cable entry gland",
+        "to": "Motor housing",
+        "relationship": "mounted_on"
+      },
+      {
+        "from": "Electrical connection box",
+        "to": "Motor housing",
+        "relationship": "part_of"
+      },
+      {
+        "from": "Cooling coil",
+        "to": "Motor casing",
+        "relationship": "surrounds"
+      },
+      {
+        "from": "Oil fill/drain plug",
+        "to": "Oil chamber",
+        "relationship": "accesses"
+      }
+    ],
+    "embedding_text": "IMAGE:\nThis cross-sectional drawing of an iNS submersible pump provides a detailed view of its internal components, crucial for diagnosis and repair. Technicians can identify the motor section with its rotor, stator, and bearings, the mechanical seal assembly, and the pump section with the impeller and volute casing. It also shows external connections like the cable entry, discharge elbow, and mounting structure, aiding in component identification for replacement or troubleshooting leaks and mechanical failures.\nVISIBLE COMPONENTS:\n- Cable/Conduit\n- Cable entry gland\n- Top motor cover\n- Top cover bolt\n- Cooling coil\n- Stator winding\n- Rotor\n- Motor shaft\n- Upper motor bearing\n- Motor casing\n- Lower motor bearing\n- Upper mechanical seal part\n- Lower mechanical seal part\n- Seal chamber housing\n- Oil chamber\n- Oil fill/drain plug\n- Impeller retaining nut\n- Impeller key\n- Impeller vane (upper)\n- Impeller vane (lower)\n- Suction casing\n- Lifting eye\n- Motor housing\n- Motor housing O-ring\n- Electrical connection box\n- Discharge elbow\n- Discharge flange gasket\n- Discharge flange\n- Discharge flange bolt\n- Pump volute casing\n- Volute casing bolt\n- Volute casing gasket\n- Pump mounting plate\n- Mounting plate bolt\n- Support leg\n- Support leg bolt (upper)\n- Support leg bolt (lower)\n- Base foot\n- Foundation bolt hole\nKEYWORDS:\n- submersible pump cross-section\n- iNS pump parts\n- Kirloskar pump diagram\n- motor assembly\n- impeller replacement\n- mechanical seal repair\n- pump bearings\n- stator winding\n- pump volute\n- submersible motor components\n- pump maintenance\n- sectional view\nUSEFUL FOR:\nREPAIR:\n- Identification of components for replacement (bearings, seals, impeller, gaskets).\n- Guidance for disassembly and reassembly sequence of pump and motor sections.\n- Understanding the sealing arrangements to prevent leaks (mechanical seals, O-rings, gaskets).\n- Locating the oil chamber and drain/fill plug for maintenance (Oil chamber, Oil fill/drain plug).\n- Visual inspection points for wear and damage on internal components.\n- Proper orientation of parts during reassembly, such as the impeller on the shaft with the key.\nFAULTS:\n- Worn or failed bearings (Upper motor bearing, Lower motor bearing) causing vibration or noise.\n- Failed mechanical seals (Upper mechanical seal part, Lower mechanical seal part) leading to water ingress into the motor or oil leakage.\n- Damaged or worn impeller (Impeller vane (upper), Impeller vane (lower)) resulting in reduced pump performance or cavitation.\n- Motor winding (Stator winding) failure due to overheating or electrical short circuits.\n- Leaking gaskets (Discharge flange gasket, Volute casing gasket) or O-rings (Motor housing O-ring) causing fluid loss or ingress.\n- Bent or broken motor shaft (Motor shaft) leading to catastrophic pump failure.\n- Clogged cooling coil (Cooling coil) causing motor overheating.\n"
+  },
+  {
+    "filename": "submersible_manual_p29_img0.png",
+    "page": 29,
+    "width": 852,
+    "height": 1196,
+    "manual_source": "submersible_manual.pdf",
+    "section_context": "General",
+    "surrounding_text": "28\nThis is a proprietary document of Kirloskar Brothers Limited, Kirloskarvadi-416308, Dist-Sangli (India)\nNS IOM MANUAL \n1 July 2016\n \n9 OUTLINE DRAWING & DIMENSIONS SHEET (iNS)",
+    "figure_references": [],
+    "caption": "This dimension drawing provides critical measurements for various Kirloskar INS pump models, essential for installation and component replacement. It details overall dimensions (A-L), flange drilling specifications (M, N, P, Q), and key features like the oil filling plug, suction/delivery ports, and minimum water level. Technicians can use this to ensure proper fitment, plan installation, and verify component compatibility.",
+    "diagram_type": "dimension_drawing",
+    "diagram_type_classifier": "dimension_drawing",
+    "components_shown": [
+      "PLAN view",
+      "FRONT VIEW",
+      "OIL FILLING PLUG",
+      "SUC. (Suction)",
+      "DEL. (Delivery)",
+      "MIN. WATER LEVEL",
+      "DELIVERY BEND FLANGE"
+    ],
+    "fault_relevance": [
+      "Incorrect installation due to misaligned dimensions can lead to leaks or structural stress.",
+      "Failure to maintain minimum water level can cause pump damage (e.g., overheating, cavitation).",
+      "Improper suspension can lead to pump instability or failure."
+    ],
+    "search_keywords": [
+      "Kirloskar INS pump dimensions",
+      "submersible pump installation drawing",
+      "pump flange specifications",
+      "oil filling plug location",
+      "minimum water level for pump",
+      "pump suspension points",
+      "delivery bend flange dimensions",
+      "IS:6392-TABLE 15 drilling"
+    ],
+    "prev_context": "submersible_manual_p21_img0.png (p21, section: General)",
+    "next_context": "submersible_manual_p37_img0.png (p37, section: General)",
+    "priority_score": 2,
+    "components_visible": [
+      "PLAN view",
+      "FRONT VIEW",
+      "OIL FILLING PLUG",
+      "SUC. (Suction)",
+      "DEL. (Delivery)",
+      "MIN. WATER LEVEL",
+      "DELIVERY BEND FLANGE"
+    ],
+    "labels_detected": [
+      "A",
+      "B",
+      "C",
+      "F",
+      "G",
+      "H",
+      "J",
+      "K",
+      "L",
+      "M",
+      "N",
+      "P",
+      "Q",
+      "P.C.D.",
+      "ØM",
+      "N HOLES ØP DRILL THRO.",
+      "portable",
+      "unit I",
+      "unit II",
+      "unit III",
+      "40/20QT",
+      "40/32QT",
+      "50/26N/B/Q",
+      "50/26N/QMB/QT",
+      "50/26N/Q",
+      "50/26N/V/Q",
+      "50/26M/QMB/QT",
+      "50/32N",
+      "50/32N/Q",
+      "50/32N/QT",
+      "50/32QMB/QT",
+      "50/36M",
+      "65/32N/B/Q",
+      "65/32N/QMB/QT",
+      "65/32N/Q",
+      "65/32N/QT",
+      "80/26N/Q",
+      "80/26N/QT",
+      "80/26M/Q",
+      "80/26M/QT",
+      "100/26N/B/Q",
+      "100/26N/Q",
+      "100/26M/Q",
+      "100/26M/QT",
+      "100/32N/Q",
+      "100/32N/QT",
+      "100/32M/Q",
+      "100/32M/QT",
+      "150/26N/B/NM/Q",
+      "150/26N/QMB/QN",
+      "150/26N/Q",
+      "150/26N/QT",
+      "150/32N/Q",
+      "150/32N/QT",
+      "150/32M/Q",
+      "150/32M/QT",
+      "150/36M",
+      "150/36M/Q",
+      "150/36M/QT",
+      "80/40N/NM/Q",
+      "80/40N/QNM/QT"
+    ],
+    "arrows_point_to": [
+      {
+        "label": "OIL FILLING PLUG",
+        "points_to": "Oil filling plug on top of pump"
+      },
+      {
+        "label": "SUC.",
+        "points_to": "Suction port"
+      },
+      {
+        "label": "DEL.",
+        "points_to": "Delivery port"
+      },
+      {
+        "label": "P.C.D.",
+        "points_to": "Pitch Circle Diameter of flange bolts"
+      },
+      {
+        "label": "ØM",
+        "points_to": "Diameter of bolt holes on flange"
+      },
+      {
+        "label": "N HOLES ØP DRILL THRO.",
+        "points_to": "Bolt holes on flange"
+      },
+      {
+        "label": "MIN. WATER LEVEL",
+        "points_to": "Minimum water level line"
+      },
+      {
+        "label": "TO BE SUSPENDED FROM SUITABLE SUPPORT.",
+        "points_to": "Suspension points on pump"
+      },
+      {
+        "label": "DELIVERY BEND FLANGE WITH PLAIN FACE AND DRILLING AS PER IS:6392-TABLE 15",
+        "points_to": "Delivery flange"
+      }
+    ],
+    "relationships": [
+      {
+        "from": "Pump",
+        "to": "Suitable support",
+        "type": "to_be_suspended_from"
+      },
+      {
+        "from": "Delivery bend flange",
+        "to": "N holes ØP drill thro.",
+        "type": "has"
+      },
+      {
+        "from": "Delivery bend flange",
+        "to": "P.C.D.",
+        "type": "has"
+      },
+      {
+        "from": "Delivery bend flange",
+        "to": "ØM",
+        "type": "has"
+      },
+      {
+        "from": "Pump",
+        "to": "Oil filling plug",
+        "type": "includes"
+      },
+      {
+        "from": "Pump",
+        "to": "Suction port",
+        "type": "includes"
+      },
+      {
+        "from": "Pump",
+        "to": "Delivery port",
+        "type": "includes"
+      }
+    ],
+    "specifications": [
+      "PUMP: 40/20QT, A: 633 mm, B: 150 mm, C: 76 mm, F: 213 mm, G: 200 mm, H: 425 mm, J: 110 mm, K: 150 mm, L: 4 mm, M: 18 mm, N: 4, P: 400 mm, Q: 550 mm, portable: unit I",
+      "PUMP: 40/32QT, A: 681 mm, B: 149 mm, C: 49 mm, F: 260 mm, G: 275 mm, H: 520 mm, J: 125 mm, K: 150 mm, L: 4 mm, M: 18 mm, N: 4, P: 400 mm, Q: 550 mm, portable: unit I",
+      "PUMP: 50/26N/B/Q, A: 634 mm, B: 250 mm, C: 180 mm, F: 213 mm, G: 230 mm, H: 425 mm, J: 110 mm, K: 150 mm, L: 4 mm, M: 18 mm, N: 4, P: 400 mm, Q: 550 mm, portable: unit I",
+      "PUMP: 50/26N/QMB/QT, A: 671 mm, B: 250 mm, C: 170 mm, F: 230 mm, G: 245 mm, H: 460 mm, J: 125 mm, K: 165 mm, L: 4 mm, M: 18 mm, N: 4, P: 450 mm, Q: 600 mm, portable: unit I",
+      "PUMP: 50/26N/Q, A: 686 mm, B: 250 mm, C: 170 mm, F: 230 mm, G: 245 mm, H: 460 mm, J: 125 mm, K: 165 mm, L: 4 mm, M: 18 mm, N: 4, P: 450 mm, Q: 600 mm, portable: unit I",
+      "PUMP: 50/26N/V/Q, A: 696 mm, B: 250 mm, C: 170 mm, F: 230 mm, G: 245 mm, H: 460 mm, J: 125 mm, K: 165 mm, L: 4 mm, M: 18 mm, N: 4, P: 450 mm, Q: 600 mm, portable: unit I",
+      "PUMP: 50/26M/QMB/QT, A: 799 mm, B: 290 mm, C: 180 mm, F: 230 mm, G: 275 mm, H: 450 mm, J: 125 mm, K: 165 mm, L: 4 mm, M: 18 mm, N: 4, P: 450 mm, Q: 750 mm, portable: unit II",
+      "PUMP: 50/32N, A: 793 mm, B: 290 mm, C: 180 mm, F: 230 mm, G: 275 mm, H: 450 mm, J: 125 mm, K: 165 mm, L: 4 mm, M: 18 mm, N: 4, P: 450 mm, Q: 750 mm, portable: unit II",
+      "PUMP: 50/32N/Q, A: 799 mm, B: 290 mm, C: 180 mm, F: 235 mm, G: 280 mm, H: 450 mm, J: 125 mm, K: 165 mm, L: 4 mm, M: 18 mm, N: 4, P: 450 mm, Q: 750 mm, portable: unit II",
+      "PUMP: 50/32N/QT, A: 821 mm, B: 290 mm, C: 180 mm, F: 235 mm, G: 280 mm, H: 450 mm, J: 125 mm, K: 165 mm, L: 4 mm, M: 18 mm, N: 4, P: 450 mm, Q: 750 mm, portable: unit II",
+      "PUMP: 50/32QMB/QT, A: 763 mm, B: 250 mm, C: 155 mm, F: 270 mm, G: 280 mm, H: 540 mm, J: 125 mm, K: 165 mm, L: 4 mm, M: 18 mm, N: 4, P: 500 mm, Q: 700 mm, portable: unit II",
+      "PUMP: 50/36M, A: 774 mm, B: 250 mm, C: 155 mm, F: 270 mm, G: 280 mm, H: 540 mm, J: 125 mm, K: 165 mm, L: 4 mm, M: 18 mm, N: 4, P: 500 mm, Q: 700 mm, portable: unit II",
+      "PUMP: 65/32N/B/Q, A: 780 mm, B: 250 mm, C: 135 mm, F: 308 mm, G: 330 mm, H: 615 mm, J: 125 mm, K: 165 mm, L: 4 mm, M: 18 mm, N: 4, P: 500 mm, Q: 700 mm, portable: unit II",
+      "PUMP: 65/32N/QMB/QT, A: 764 mm, B: 250 mm, C: 150 mm, F: 270 mm, G: 275 mm, H: 540 mm, J: 145 mm, K: 185 mm, L: 4 mm, M: 18 mm, N: 4, P: 500 mm, Q: 700 mm, portable: unit II",
+      "PUMP: 65/32N/Q, A: 779 mm, B: 265 mm, C: 235 mm, F: 230 mm, G: 250 mm, H: 460 mm, J: 160 mm, K: 200 mm, L: 8 mm, M: 18 mm, N: 4, P: 500 mm, Q: 700 mm, portable: unit II",
+      "PUMP: 65/32N/QT, A: 801 mm, B: 265 mm, C: 180 mm, F: 230 mm, G: 245 mm, H: 460 mm, J: 160 mm, K: 200 mm, L: 8 mm, M: 18 mm, N: 4, P: 500 mm, Q: 700 mm, portable: unit II",
+      "PUMP: 80/26N/Q, A: 900 mm, B: 250 mm, C: 180 mm, F: 275 mm, G: 275 mm, H: 550 mm, J: 180 mm, K: 220 mm, L: 8 mm, M: 18 mm, N: 4, P: 500 mm, Q: 850 mm, portable: unit II",
+      "PUMP: 80/26N/QT, A: 894 mm, B: 250 mm, C: 180 mm, F: 275 mm, G: 275 mm, H: 550 mm, J: 180 mm, K: 220 mm, L: 8 mm, M: 18 mm, N: 4, P: 500 mm, Q: 850 mm, portable: unit II",
+      "PUMP: 80/26M/Q, A: 900 mm, B: 250 mm, C: 180 mm, F: 275 mm, G: 275 mm, H: 550 mm, J: 180 mm, K: 220 mm, L: 8 mm, M: 18 mm, N: 4, P: 500 mm, Q: 850 mm, portable: unit II",
+      "PUMP: 80/26M/QT, A: 900 mm, B: 250 mm, C: 180 mm, F: 275 mm, G: 275 mm, H: 550 mm, J: 180 mm, K: 220 mm, L: 8 mm, M: 18 mm, N: 4, P: 500 mm, Q: 850 mm, portable: unit II",
+      "PUMP: 100/26N/B/Q, A: 829 mm, B: 325 mm, C: 190 mm, F: 230 mm, G: 288 mm, H: 575 mm, J: 240 mm, K: 285 mm, L: 8 mm, M: 23 mm, N: 8, P: 475 mm, Q: 800 mm, portable: unit II",
+      "PUMP: 100/26N/Q, A: 829 mm, B: 325 mm, C: 190 mm, F: 230 mm, G: 288 mm, H: 575 mm, J: 240 mm, K: 285 mm, L: 8 mm, M: 23 mm, N: 8, P: 475 mm, Q: 800 mm, portable: unit II",
+      "PUMP: 100/26M/Q, A: 921 mm, B: 325 mm, C: 293 mm, F: 250 mm, G: 275 mm, H: 550 mm, J: 240 mm, K: 285 mm, L: 8 mm, M: 23 mm, N: 8, P: 475 mm, Q: 900 mm, portable: unit II",
+      "PUMP: 100/26M/QT, A: 921 mm, B: 325 mm, C: 293 mm, F: 250 mm, G: 275 mm, H: 550 mm, J: 240 mm, K: 285 mm, L: 8 mm, M: 23 mm, N: 8, P: 475 mm, Q: 900 mm, portable: unit II",
+      "PUMP: 100/32N/Q, A: 931 mm, B: 325 mm, C: 200 mm, F: 288 mm, G: 395 mm, H: 575 mm, J: 240 mm, K: 285 mm, L: 8 mm, M: 23 mm, N: 8, P: 500 mm, Q: 900 mm, portable: unit II",
+      "PUMP: 100/32N/QT, A: 875 mm, B: 250 mm, C: 225 mm, F: 250 mm, G: 280 mm, H: 540 mm, J: 125 mm, K: 165 mm, L: 4 mm, M: 18 mm, N: 4, P: 500 mm, Q: 800 mm, portable: unit II",
+      "PUMP: 100/32M/Q, A: 881 mm, B: 250 mm, C: 135 mm, F: 308 mm, G: 330 mm, H: 615 mm, J: 125 mm, K: 165 mm, L: 4 mm, M: 18 mm, N: 4, P: 500 mm, Q: 800 mm, portable: unit II",
+      "PUMP: 100/32M/QT, A: 881 mm, B: 250 mm, C: 135 mm, F: 308 mm, G: 330 mm, H: 615 mm, J: 125 mm, K: 165 mm, L: 4 mm, M: 18 mm, N: 4, P: 500 mm, Q: 800 mm, portable: unit II",
+      "PUMP: 150/26N/B/NM/Q, A: 928 mm, B: 285 mm, C: 235 mm, F: 250 mm, G: 275 mm, H: 540 mm, J: 145 mm, K: 185 mm, L: 4 mm, M: 18 mm, N: 4, P: 500 mm, Q: 800 mm, portable: unit III",
+      "PUMP: 150/26N/QMB/QN, A: 875 mm, B: 250 mm, C: 210 mm, F: 250 mm, G: 275 mm, H: 540 mm, J: 145 mm, K: 185 mm, L: 4 mm, M: 18 mm, N: 4, P: 500 mm, Q: 800 mm, portable: unit III",
+      "PUMP: 150/26N/Q, A: 880 mm, B: 265 mm, C: 235 mm, F: 230 mm, G: 250 mm, H: 460 mm, J: 160 mm, K: 200 mm, L: 8 mm, M: 18 mm, N: 4, P: 500 mm, Q: 800 mm, portable: unit III",
+      "PUMP: 150/26N/QT, A: 880 mm, B: 265 mm, C: 235 mm, F: 230 mm, G: 250 mm, H: 460 mm, J: 160 mm, K: 200 mm, L: 8 mm, M: 18 mm, N: 4, P: 500 mm, Q: 800 mm, portable: unit III",
+      "PUMP: 150/32N/Q, A: 902 mm, B: 265 mm, C: 180 mm, F: 230 mm, G: 245 mm, H: 460 mm, J: 160 mm, K: 200 mm, L: 8 mm, M: 18 mm, N: 4, P: 500 mm, Q: 800 mm, portable: unit III",
+      "PUMP: 150/32N/QT, A: 902 mm, B: 265 mm, C: 180 mm, F: 230 mm, G: 245 mm, H: 460 mm, J: 160 mm, K: 200 mm, L: 8 mm, M: 18 mm, N: 4, P: 500 mm, Q: 800 mm, portable: unit III",
+      "PUMP: 150/32M/Q, A: 880 mm, B: 265 mm, C: 235 mm, F: 275 mm, G: 350 mm, H: 550 mm, J: 160 mm, K: 200 mm, L: 8 mm, M: 18 mm, N: 4, P: 500 mm, Q: 800 mm, portable: unit III",
+      "PUMP: 150/32M/QT, A: 907 mm, B: 285 mm, C: 490 mm, F: 325 mm, G: 350 mm, H: 650 mm, J: 160 mm, K: 200 mm, L: 8 mm, M: 18 mm, N: 4, P: 500 mm, Q: 800 mm, portable: unit III",
+      "PUMP: 150/36M, A: 907 mm, B: 285 mm, C: 490 mm, F: 325 mm, G: 350 mm, H: 650 mm, J: 160 mm, K: 200 mm, L: 8 mm, M: 18 mm, N: 4, P: 500 mm, Q: 800 mm, portable: unit III",
+      "PUMP: 150/36M/Q, A: 907 mm, B: 285 mm, C: 490 mm, F: 325 mm, G: 350 mm, H: 650 mm, J: 160 mm, K: 200 mm, L: 8 mm, M: 18 mm, N: 4, P: 500 mm, Q: 800 mm, portable: unit III",
+      "PUMP: 150/36M/QT, A: 907 mm, B: 285 mm, C: 490 mm, F: 325 mm, G: 350 mm, H: 650 mm, J: 160 mm, K: 200 mm, L: 8 mm, M: 18 mm, N: 4, P: 500 mm, Q: 800 mm, portable: unit III"
+    ],
+    "repair_relevance": [
+      "Guides correct installation and mounting of the pump.",
+      "Provides dimensions for fabricating or selecting compatible piping and flanges.",
+      "Assists in verifying correct component dimensions during replacement.",
+      "Indicates location of oil filling plug for maintenance.",
+      "Specifies minimum water level for safe operation."
+    ],
+    "assembly_order": [],
+    "connected_relationships": [
+      {
+        "from": "Pump",
+        "to": "Suitable support",
+        "relationship": "to_be_suspended_from"
+      },
+      {
+        "from": "Delivery bend flange",
+        "to": "N holes ØP drill thro.",
+        "relationship": "has"
+      },
+      {
+        "from": "Delivery bend flange",
+        "to": "P.C.D.",
+        "relationship": "has"
+      },
+      {
+        "from": "Delivery bend flange",
+        "to": "ØM",
+        "relationship": "has"
+      },
+      {
+        "from": "Pump",
+        "to": "Oil filling plug",
+        "relationship": "includes"
+      },
+      {
+        "from": "Pump",
+        "to": "Suction port",
+        "relationship": "includes"
+      },
+      {
+        "from": "Pump",
+        "to": "Delivery port",
+        "relationship": "includes"
+      }
+    ],
+    "embedding_text": "IMAGE:\nThis dimension drawing provides critical measurements for various Kirloskar INS pump models, essential for installation and component replacement. It details overall dimensions (A-L), flange drilling specifications (M, N, P, Q), and key features like the oil filling plug, suction/delivery ports, and minimum water level. Technicians can use this to ensure proper fitment, plan installation, and verify component compatibility.\nVISIBLE COMPONENTS:\n- PLAN view\n- FRONT VIEW\n- OIL FILLING PLUG\n- SUC. (Suction)\n- DEL. (Delivery)\n- MIN. WATER LEVEL\n- DELIVERY BEND FLANGE\nKEYWORDS:\n- Kirloskar INS pump dimensions\n- submersible pump installation drawing\n- pump flange specifications\n- oil filling plug location\n- minimum water level for pump\n- pump suspension points\n- delivery bend flange dimensions\n- IS:6392-TABLE 15 drilling\nUSEFUL FOR:\nREPAIR:\n- Guides correct installation and mounting of the pump.\n- Provides dimensions for fabricating or selecting compatible piping and flanges.\n- Assists in verifying correct component dimensions during replacement.\n- Indicates location of oil filling plug for maintenance.\n- Specifies minimum water level for safe operation.\nFAULTS:\n- Incorrect installation due to misaligned dimensions can lead to leaks or structural stress.\n- Failure to maintain minimum water level can cause pump damage (e.g., overheating, cavitation).\n- Improper suspension can lead to pump instability or failure.\n"
+  },
+  {
+    "filename": "submersible_manual_p37_img0.png",
+    "page": 37,
+    "width": 936,
+    "height": 642,
+    "manual_source": "submersible_manual.pdf",
+    "section_context": "General",
+    "surrounding_text": "36\nThis is a proprietary document of Kirloskar Brothers Limited, Kirloskarvadi-416308, Dist-Sangli (India)\nNS IOM MANUAL \n1 July 2016\n \n \n \nAs we are constantly endeavoring to improve the performance our products/ equipment, we reserve \nthe right to make alterations from time to time and as such our products/ equipment may differ from that \ndetailed in this publication. For latest information you may get in touch with our Regional Sales Office.",
+    "figure_references": [],
+    "caption": "This drawing provides critical installation dimensions for stationary pump/motor units (IV, V, VI series), including various base dimensions (A-A1), bolt hole patterns (19Ø1, 23Ø1), and foundation bolt specifications (M27, M30) for different machine sizes. It helps technicians ensure correct foundation preparation and component alignment for proper installation.",
+    "diagram_type": "dimension_drawing",
+    "diagram_type_classifier": "dimension_drawing",
+    "components_shown": [
+      "Stationary Installation IV",
+      "Stationary Installation V",
+      "Stationary Installation VI",
+      "Foundation Bolt",
+      "Guide Pipe",
+      "Mounting Holes",
+      "Foundation"
+    ],
+    "fault_relevance": [],
+    "search_keywords": [
+      "installation dimensions",
+      "foundation bolt size",
+      "guide pipe dimensions",
+      "stationary pump installation",
+      "submersible pump installation",
+      "electric motor installation",
+      "mounting dimensions",
+      "base plate dimensions",
+      "bolt pattern"
+    ],
+    "prev_context": "submersible_manual_p29_img0.png (p29, section: General)",
+    "next_context": "submersible_manual_p37_img1.png (p37, section: General)",
+    "priority_score": 2,
+    "components_visible": [
+      "Stationary Installation IV",
+      "Stationary Installation V",
+      "Stationary Installation VI",
+      "Foundation Bolt",
+      "Guide Pipe",
+      "Mounting Holes",
+      "Foundation"
+    ],
+    "labels_detected": [
+      "GENERAL DIMENSIONS",
+      "STATIONARY INSTALLATION IV, V & VI",
+      "DIMENSIONS ON ARROW X",
+      "19Ø1 HOLES",
+      "2 HOLES, 23Ø1 DRILL THRO.",
+      "35-75",
+      "400",
+      "W",
+      "W1",
+      "AND SIZE",
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "J DIA. P.C.D.",
+      "K",
+      "L/M",
+      "P",
+      "Q1 CRS.",
+      "R CRS.",
+      "S",
+      "T",
+      "U",
+      "V",
+      "W",
+      "W1",
+      "A1",
+      "GUIDE PIPE I.D./O. D.",
+      "FOUNDATION BOLT SIZE",
+      "100",
+      "150",
+      "200",
+      "250",
+      "300",
+      "M27 x 500 LONG",
+      "M30 x 500 LONG",
+      "51/61",
+      "66/77",
+      "78/89",
+      "90/102",
+      "* FOR SR. No. 14 TO 19"
+    ],
+    "arrows_point_to": [
+      {
+        "label": "19Ø1 HOLES",
+        "points_to": "Mounting Holes (top diagram)"
+      },
+      {
+        "label": "35-75",
+        "points_to": "Flange thickness/depth"
+      },
+      {
+        "label": "W",
+        "points_to": "Base width"
+      },
+      {
+        "label": "W1",
+        "points_to": "Overall base width"
+      },
+      {
+        "label": "2 HOLES, 23Ø1 DRILL THRO.",
+        "points_to": "Mounting Holes (bottom diagram)"
+      },
+      {
+        "label": "400",
+        "points_to": "Center-to-center distance between W sections"
+      }
+    ],
+    "relationships": [],
+    "specifications": [
+      "AND SIZE 100: A: 170 mm, B: 170 mm, C: 468 mm, D: 198 mm, E: 384 mm, F: 350 mm, G: 80 mm, H: 660 mm, J DIA. P.C.D.: 220 mm, K: 180 mm, L/M: 8/18, P: 550 mm, Q1 CRS.: 225 mm, R CRS.: 360 mm, S: 280 mm, T: 30 mm, U: 850 mm, V: 680 mm, W: 130 mm, W1: 440 mm, A1: 500 mm",
+      "AND SIZE 150: A: 180 mm, B: 190 mm, C: 553 mm, D: 248 mm, E: 435 mm, F: 350 mm, G: 80 mm, H: 660 mm, J DIA. P.C.D.: 220 mm, K: 180 mm, L/M: 8/18, P: 550 mm, Q1 CRS.: 225 mm, R CRS.: 360 mm, S: 280 mm, T: 30 mm, U: 850 mm, V: 680 mm, W: 130 mm, W1: 440 mm, A1: 500 mm",
+      "AND SIZE 150: A: 180 mm, B: 1965 mm, C: 553 mm, D: 248 mm, E: 435 mm, F: 350 mm, G: 80 mm, H: 660 mm, J DIA. P.C.D.: 220 mm, K: 180 mm, L/M: 8/18, P: 550 mm, Q1 CRS.: 225 mm, R CRS.: 360 mm, S: 280 mm, T: 30 mm, U: 850 mm, V: 680 mm, W: 130 mm, W1: 440 mm, A1: 500 mm",
+      "AND SIZE 150: A: 190 mm, B: 2055 mm, C: 553 mm, D: 248 mm, E: 435 mm, F: 350 mm, G: 80 mm, H: 660 mm, J DIA. P.C.D.: 220 mm, K: 180 mm, L/M: 8/18, P: 550 mm, Q1 CRS.: 225 mm, R CRS.: 360 mm, S: 280 mm, T: 30 mm, U: 850 mm, V: 680 mm, W: 130 mm, W1: 440 mm, A1: 500 mm",
+      "AND SIZE 150: A: 170 mm, B: 2335 mm, C: 553 mm, D: 248 mm, E: 435 mm, F: 350 mm, G: 80 mm, H: 660 mm, J DIA. P.C.D.: 220 mm, K: 180 mm, L/M: 8/18, P: 550 mm, Q1 CRS.: 225 mm, R CRS.: 360 mm, S: 280 mm, T: 30 mm, U: 850 mm, V: 680 mm, W: 130 mm, W1: 440 mm, A1: 500 mm",
+      "AND SIZE 200: A: 170 mm, B: 2445 mm, C: 553 mm, D: 248 mm, E: 490 mm, F: 420 mm, G: 135 mm, H: 685 mm, J DIA. P.C.D.: 285 mm, K: 240 mm, L/M: 8/23, P: 650 mm, Q1 CRS.: 275 mm, R CRS.: 450 mm, S: 350 mm, T: 30 mm, U: 950 mm, V: 750 mm, W: 205 mm, W1: 590 mm, A1: 600 mm",
+      "AND SIZE 200: A: 195 mm, B: 1995 mm, C: 640 mm, D: 300 mm, E: 435 mm, F: 350 mm, G: 110 mm, H: 660 mm, J DIA. P.C.D.: 285 mm, K: 240 mm, L/M: 8/23, P: 650 mm, Q1 CRS.: 275 mm, R CRS.: 450 mm, S: 350 mm, T: 30 mm, U: 950 mm, V: 750 mm, W: 205 mm, W1: 590 mm, A1: 600 mm",
+      "AND SIZE 200: A: 195 mm, B: 2190 mm, C: 640 mm, D: 300 mm, E: 435 mm, F: 350 mm, G: 110 mm, H: 660 mm, J DIA. P.C.D.: 285 mm, K: 240 mm, L/M: 8/23, P: 650 mm, Q1 CRS.: 275 mm, R CRS.: 450 mm, S: 350 mm, T: 30 mm, U: 950 mm, V: 750 mm, W: 205 mm, W1: 590 mm, A1: 600 mm",
+      "AND SIZE 200: A: 195 mm, B: 2250 mm, C: 640 mm, D: 300 mm, E: 435 mm, F: 350 mm, G: 110 mm, H: 660 mm, J DIA. P.C.D.: 285 mm, K: 240 mm, L/M: 8/23, P: 650 mm, Q1 CRS.: 275 mm, R CRS.: 450 mm, S: 350 mm, T: 30 mm, U: 950 mm, V: 750 mm, W: 205 mm, W1: 590 mm, A1: 600 mm",
+      "AND SIZE 250: A: 195 mm, B: 1950 mm, C: 900 mm, D: 375 mm, E: 505 mm, F: 350 mm, G: 135 mm, H: 690 mm, J DIA. P.C.D.: 405 mm, K: 355 mm, L/M: 12/23, P: 800 mm, Q1 CRS.: 300 mm, R CRS.: 430 mm, S: 350 mm, T: 30 mm, U: 950 mm, V: 750 mm, W: 225 mm, W1: 630 mm, A1: 800 mm",
+      "AND SIZE 250: A: 342 mm, B: 2080 mm, C: 900 mm, D: 375 mm, E: 505 mm, F: 365 mm, G: 135 mm, H: 695 mm, J DIA. P.C.D.: 405 mm, K: 355 mm, L/M: 12/26, P: 800 mm, Q1 CRS.: 350 mm, R CRS.: 500 mm, S: 400 mm, T: 33 mm, U: 1100 mm, V: 800 mm, W: 210 mm, W1: 820 mm, A1: 800 mm",
+      "AND SIZE 250: A: 342 mm, B: 2140 mm, C: 900 mm, D: 375 mm, E: 505 mm, F: 420 mm, G: 135 mm, H: 750 mm, J DIA. P.C.D.: 405 mm, K: 355 mm, L/M: 12/26, P: 800 mm, Q1 CRS.: 350 mm, R CRS.: 500 mm, S: 400 mm, T: 33 mm, U: 1100 mm, V: 800 mm, W: 210 mm, W1: 820 mm, A1: 800 mm",
+      "AND SIZE 250: A: 330 mm, B: 2185 mm, C: 900 mm, D: 375 mm, E: 655 mm, F: 370 mm, G: 135 mm, H: 790 mm, J DIA. P.C.D.: 405 mm, K: 355 mm, L/M: 12/26, P: 800 mm, Q1 CRS.: 350 mm, R CRS.: 500 mm, S: 400 mm, T: 33 mm, U: 1100 mm, V: 800 mm, W: 210 mm, W1: 820 mm, A1: 800 mm",
+      "AND SIZE 250: A: 330 mm, B: 2250 mm, C: 900 mm, D: 375 mm, E: 655 mm, F: 420 mm, G: 135 mm, H: 840 mm, J DIA. P.C.D.: 405 mm, K: 355 mm, L/M: 12/26, P: 800 mm, Q1 CRS.: 350 mm, R CRS.: 500 mm, S: 400 mm, T: 33 mm, U: 1100 mm, V: 800 mm, W: 210 mm, W1: 820 mm, A1: 800 mm",
+      "AND SIZE 250: A: 330 mm, B: 2305 mm, C: 900 mm, D: 375 mm, E: 655 mm, F: 480 mm, G: 135 mm, H: 860 mm, J DIA. P.C.D.: 405 mm, K: 355 mm, L/M: 12/26, P: 800 mm, Q1 CRS.: 350 mm, R CRS.: 500 mm, S: 400 mm, T: 33 mm, U: 1100 mm, V: 800 mm, W: 210 mm, W1: 820 mm, A1: 800 mm",
+      "AND SIZE 300: A: 370 mm, B: 1950 mm, C: 981 mm, D: 406 mm, E: 655 mm, F: 370 mm, G: 175 mm, H: 790 mm, J DIA. P.C.D.: 460 mm, K: 410 mm, L/M: 12/26, P: 850 mm, Q1 CRS.: 375 mm, R CRS.: 550 mm, S: 33 mm, T: 1150 mm, U: 950 mm, V: 250 mm, W: 900 mm, W1: 800 mm, A1: 800 mm",
+      "AND SIZE 300: A: 370 mm, B: 2080 mm, C: 981 mm, D: 406 mm, E: 655 mm, F: 460 mm, G: 175 mm, H: 860 mm, J DIA. P.C.D.: 460 mm, K: 410 mm, L/M: 12/26, P: 850 mm, Q1 CRS.: 375 mm, R CRS.: 550 mm, S: 33 mm, T: 1150 mm, U: 950 mm, V: 250 mm, W: 900 mm, W1: 800 mm, A1: 800 mm",
+      "AND SIZE 300: A: 370 mm, B: 2185 mm, C: 981 mm, D: 406 mm, E: 655 mm, F: 420 mm, G: 175 mm, H: 860 mm, J DIA. P.C.D.: 460 mm, K: 410 mm, L/M: 12/26, P: 850 mm, Q1 CRS.: 375 mm, R CRS.: 550 mm, S: 33 mm, T: 1150 mm, U: 950 mm, V: 250 mm, W: 900 mm, W1: 800 mm, A1: 800 mm",
+      "AND SIZE 300: A: 370 mm, B: 2285 mm, C: 981 mm, D: 406 mm, E: 655 mm, F: 480 mm, G: 175 mm, H: 860 mm, J DIA. P.C.D.: 460 mm, K: 410 mm, L/M: 12/26, P: 850 mm, Q1 CRS.: 375 mm, R CRS.: 550 mm, S: 33 mm, T: 1150 mm, U: 950 mm, V: 250 mm, W: 900 mm, W1: 800 mm, A1: 800 mm",
+      "AND SIZE 300: A: 370 mm, B: 2390 mm, C: 981 mm, D: 406 mm, E: 655 mm, F: 410 mm, G: 175 mm, H: 860 mm, J DIA. P.C.D.: 460 mm, K: 410 mm, L/M: 12/26, P: 850 mm, Q1 CRS.: 375 mm, R CRS.: 550 mm, S: 33 mm, T: 1150 mm, U: 950 mm, V: 250 mm, W: 900 mm, W1: 800 mm, A1: 800 mm",
+      "GUIDE PIPE I.D./O. D.: 51/61, FOUNDATION BOLT SIZE: M27 x 500 LONG",
+      "GUIDE PIPE I.D./O. D.: 66/77, FOUNDATION BOLT SIZE: M30 x 500 LONG",
+      "GUIDE PIPE I.D./O. D.: 78/89, FOUNDATION BOLT SIZE: M30 x 500 LONG",
+      "GUIDE PIPE I.D./O. D.: 90/102, FOUNDATION BOLT SIZE: M30 x 500 LONG"
+    ],
+    "repair_relevance": [
+      "Planning foundation dimensions for new installations",
+      "Verifying existing foundation dimensions for replacement units",
+      "Selecting correct foundation bolt sizes",
+      "Ensuring proper guide pipe dimensions for installation"
+    ],
+    "assembly_order": [],
+    "connected_relationships": [],
+    "embedding_text": "IMAGE:\nThis drawing provides critical installation dimensions for stationary pump/motor units (IV, V, VI series), including various base dimensions (A-A1), bolt hole patterns (19Ø1, 23Ø1), and foundation bolt specifications (M27, M30) for different machine sizes. It helps technicians ensure correct foundation preparation and component alignment for proper installation.\nVISIBLE COMPONENTS:\n- Stationary Installation IV\n- Stationary Installation V\n- Stationary Installation VI\n- Foundation Bolt\n- Guide Pipe\n- Mounting Holes\n- Foundation\nKEYWORDS:\n- installation dimensions\n- foundation bolt size\n- guide pipe dimensions\n- stationary pump installation\n- submersible pump installation\n- electric motor installation\n- mounting dimensions\n- base plate dimensions\n- bolt pattern\nUSEFUL FOR:\nREPAIR:\n- Planning foundation dimensions for new installations\n- Verifying existing foundation dimensions for replacement units\n- Selecting correct foundation bolt sizes\n- Ensuring proper guide pipe dimensions for installation\n"
+  },
+  {
+    "filename": "submersible_manual_p37_img1.png",
+    "page": 37,
+    "width": 936,
+    "height": 642,
+    "manual_source": "submersible_manual.pdf",
+    "section_context": "General",
+    "surrounding_text": "36\nThis is a proprietary document of Kirloskar Brothers Limited, Kirloskarvadi-416308, Dist-Sangli (India)\nNS IOM MANUAL \n1 July 2016\n \n \n \nAs we are constantly endeavoring to improve the performance our products/ equipment, we reserve \nthe right to make alterations from time to time and as such our products/ equipment may differ from that \ndetailed in this publication. For latest information you may get in touch with our Regional Sales Office.",
+    "figure_references": [],
+    "caption": "This drawing provides critical dimensions for various submersible pump and motor unit types, along with detailed civil engineering specifications for foundation construction. It includes a plan view of the pump and connector unit, a side elevation, and cross-sectional views of the foundation, guiding technicians on proper installation, bolt placement, and minimum water level requirements for different pump models.",
+    "diagram_type": "dimension_drawing",
+    "diagram_type_classifier": "dimension_drawing",
+    "components_shown": [
+      "Pump",
+      "Motor Unit",
+      "Delivery Bend Flange",
+      "Foundation",
+      "Foundation Bolts",
+      "Oil Plug",
+      "Suction Inlet",
+      "Delivery Outlet"
+    ],
+    "fault_relevance": [
+      "Incorrect foundation dimensions leading to pump misalignment or instability.",
+      "Improper foundation bolt installation causing pump vibration or detachment.",
+      "Failure to maintain minimum water level, resulting in pump cavitation or dry running damage.",
+      "Incorrect delivery flange drilling causing leaks or improper pipe connection.",
+      "Temporary foundation aligning pipe not removed, potentially obstructing pump or causing damage."
+    ],
+    "search_keywords": [
+      "submersible pump dimensions",
+      "pump foundation plan",
+      "motor unit installation",
+      "delivery flange specifications",
+      "suction size",
+      "NWS (Nominal Water Suction)",
+      "foundation bolt layout",
+      "oil plug location",
+      "pump installation guide",
+      "Kirloskar pump dimensions"
+    ],
+    "prev_context": "submersible_manual_p37_img0.png (p37, section: General)",
+    "next_context": "",
+    "priority_score": 2,
+    "components_visible": [
+      "Pump",
+      "Motor Unit",
+      "Delivery Bend Flange",
+      "Foundation",
+      "Foundation Bolts",
+      "Oil Plug",
+      "Suction Inlet",
+      "Delivery Outlet"
+    ],
+    "labels_detected": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "J",
+      "K",
+      "L",
+      "M",
+      "P",
+      "Q1",
+      "R",
+      "S",
+      "T",
+      "U",
+      "V",
+      "W",
+      "X",
+      "100",
+      "150",
+      "200",
+      "550",
+      "75",
+      "1/4 B.S.P.",
+      "MIN. WATER LEVEL",
+      "6 HOLES Ø 'T' DRILL THRO.",
+      "'L' HOLES 'M' ØDRILL THRO.",
+      "Q1 CRS",
+      "5 FOUNDATION BOLTS",
+      "DEL.",
+      "SUC.",
+      "PCD",
+      "25 AT 45° ALL SIDES",
+      "CRS = 3",
+      "SR. No.",
+      "PUMP TYPE",
+      "MOTOR UNIT",
+      "NWS",
+      "DEL. SIZE",
+      "SUC. SIZE"
+    ],
+    "arrows_point_to": [
+      {
+        "label": "100",
+        "points_to": "distance from top of foundation to A1 line"
+      },
+      {
+        "label": "150",
+        "points_to": "distance from top of foundation to X line"
+      },
+      {
+        "label": "MIN. WATER LEVEL",
+        "points_to": "line indicating minimum water level"
+      },
+      {
+        "label": "OIL PLUG 1/4 B.S.P.",
+        "points_to": "oil plug on pump body"
+      },
+      {
+        "label": "DELIVERY BEND FLANGE WITH PLAIN FACE AND DRILLING AS PER IS:6392-1971 TABLE 15",
+        "points_to": "delivery bend flange"
+      },
+      {
+        "label": "5 FOUNDATION BOLTS",
+        "points_to": "foundation bolts"
+      },
+      {
+        "label": "SUC.",
+        "points_to": "suction inlet"
+      },
+      {
+        "label": "DEL.",
+        "points_to": "delivery outlet"
+      },
+      {
+        "label": "PCD",
+        "points_to": "pitch circle diameter for flange bolts"
+      },
+      {
+        "label": "J Ø",
+        "points_to": "delivery flange diameter"
+      },
+      {
+        "label": "K",
+        "points_to": "delivery flange dimension"
+      },
+      {
+        "label": "6 HOLES Ø 'T' DRILL THRO.",
+        "points_to": "holes on pump base for foundation bolts"
+      },
+      {
+        "label": "'L' HOLES 'M' ØDRILL THRO.",
+        "points_to": "holes on delivery flange"
+      },
+      {
+        "label": "Q1 CRS",
+        "points_to": "center line for Q1 dimension"
+      },
+      {
+        "label": "25 AT 45° ALL SIDES",
+        "points_to": "chamfer detail on foundation"
+      },
+      {
+        "label": "PLAN OF PUMP AND CONNECTOR UNIT ONLY",
+        "points_to": "top view of pump"
+      },
+      {
+        "label": "THE CIVIL ENGINEERING DETAILS SHOWN IN THIS DRAWING ARE TENTATIVE AND THOSE SHOULD BE DECIDED AND FINALISED AT CUSTOMERS END PLEASE NOTE",
+        "points_to": "text box regarding civil engineering details"
+      },
+      {
+        "label": "DEPTH OF FOUNDATION BELOW SOIL TO BE DECIDED AT SITE",
+        "points_to": "text box regarding foundation depth"
+      },
+      {
+        "label": "6 FOUNDATION HOLES MAKE FOUNDATION ALLIGNING 200Ø PIPE BUT IT SHOULD BE REMOVED BEFORE SETTING",
+        "points_to": "text box regarding temporary foundation pipe"
+      }
+    ],
+    "relationships": [
+      {
+        "from": "Pump unit",
+        "to": "Foundation",
+        "type": "bolts_to"
+      },
+      {
+        "from": "Delivery Bend Flange",
+        "to": "Pump",
+        "type": "connects_to"
+      },
+      {
+        "from": "Foundation Bolts",
+        "to": "Foundation",
+        "type": "inserted_into"
+      },
+      {
+        "from": "Oil Plug",
+        "to": "Pump body",
+        "type": "inserted_into"
+      }
+    ],
+    "specifications": [
+      {
+        "Oil Plug Thread": "1/4 B.S.P."
+      },
+      {
+        "Foundation Depth (typical)": "200 mm"
+      },
+      {
+        "Foundation Bolt Spacing (V)": "200 mm"
+      },
+      {
+        "Foundation Bolt Spacing (S)": "200 mm"
+      },
+      {
+        "Foundation Bolt Spacing (U)": "200 mm"
+      },
+      {
+        "Foundation Width (between bolts)": "550 mm"
+      },
+      {
+        "Foundation Edge to Bolt (horizontal)": "75 mm"
+      },
+      {
+        "Foundation Edge to Bolt (vertical)": "100 mm"
+      },
+      {
+        "Chamfer on Foundation": "25 mm at 45° (all sides)"
+      },
+      {
+        "Temporary Foundation Holes": "6 holes for 200Ø pipe (to be removed before setting)"
+      },
+      {
+        "Delivery Bend Flange Drilling Standard": "IS:6392-1971 TABLE 15"
+      }
+    ],
+    "repair_relevance": [
+      "Installation of pump and motor unit, including foundation preparation.",
+      "Verification of foundation bolt placement and dimensions for new installations or replacements.",
+      "Checking and maintaining the specified minimum water level for optimal pump operation.",
+      "Ensuring correct delivery flange connection and sealing using specified drilling standards.",
+      "Dimension verification for ordering replacement parts or fabricating custom components."
+    ],
+    "assembly_order": [
+      "Construct foundation according to specified dimensions (U, V, S, 200, 100, 75, 550) and chamfer details (25 at 45°).",
+      "Install foundation bolts, ensuring proper spacing and depth.",
+      "Place pump and connector unit onto the foundation, aligning with foundation bolts.",
+      "Connect the delivery bend flange to the pump, ensuring drilling conforms to IS:6392-1971 TABLE 15.",
+      "Remove temporary 200Ø pipes from foundation holes before final setting.",
+      "Ensure the operating water level is maintained above the 'MIN. WATER LEVEL' mark."
+    ],
+    "connected_relationships": [
+      {
+        "from": "Pump unit",
+        "to": "Foundation",
+        "relationship": "bolts_to"
+      },
+      {
+        "from": "Delivery Bend Flange",
+        "to": "Pump",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "Foundation Bolts",
+        "to": "Foundation",
+        "relationship": "inserted_into"
+      },
+      {
+        "from": "Oil Plug",
+        "to": "Pump body",
+        "relationship": "inserted_into"
+      }
+    ],
+    "embedding_text": "IMAGE:\nThis drawing provides critical dimensions for various submersible pump and motor unit types, along with detailed civil engineering specifications for foundation construction. It includes a plan view of the pump and connector unit, a side elevation, and cross-sectional views of the foundation, guiding technicians on proper installation, bolt placement, and minimum water level requirements for different pump models.\nVISIBLE COMPONENTS:\n- Pump\n- Motor Unit\n- Delivery Bend Flange\n- Foundation\n- Foundation Bolts\n- Oil Plug\n- Suction Inlet\n- Delivery Outlet\nKEYWORDS:\n- submersible pump dimensions\n- pump foundation plan\n- motor unit installation\n- delivery flange specifications\n- suction size\n- NWS (Nominal Water Suction)\n- foundation bolt layout\n- oil plug location\n- pump installation guide\n- Kirloskar pump dimensions\nUSEFUL FOR:\nREPAIR:\n- Installation of pump and motor unit, including foundation preparation.\n- Verification of foundation bolt placement and dimensions for new installations or replacements.\n- Checking and maintaining the specified minimum water level for optimal pump operation.\n- Ensuring correct delivery flange connection and sealing using specified drilling standards.\n- Dimension verification for ordering replacement parts or fabricating custom components.\nFAULTS:\n- Incorrect foundation dimensions leading to pump misalignment or instability.\n- Improper foundation bolt installation causing pump vibration or detachment.\n- Failure to maintain minimum water level, resulting in pump cavitation or dry running damage.\n- Incorrect delivery flange drilling causing leaks or improper pipe connection.\n- Temporary foundation aligning pipe not removed, potentially obstructing pump or causing damage.\n"
+  }
+]

@@ -1,0 +1,2184 @@
+[
+  {
+    "symptom": "Tiller blade does not rotate",
+    "problem_description": "The tiller blade is not rotating due to a jammed or damaged blade.",
+    "likely_causes": [
+      "Blade jammed with debris",
+      "Blade damaged or worn"
+    ],
+    "understanding": "The tiller blade is not rotating due to a mechanical issue.",
+    "verify": [
+      "Check for debris accumulation and clean before reattempting removal."
+    ],
+    "repair": [
+      "Replace tiller blade if necessary."
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Tiller Blade",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**II. OBJECTIVES**",
+    "embedding_text": "FAULT: Tiller blade does not rotate\nSYMPTOM: The tiller blade is not rotating due to a jammed or damaged blade.\nCOMPONENT: Tiller Blade\nLIKELY CAUSES:\n- Blade jammed with debris\n- Blade damaged or worn\nVERIFY:\n- Check for debris accumulation and clean before reattempting removal.\nREPAIR:\n- Replace tiller blade if necessary.\n",
+    "fault_id": "fault_tiller_blade_does_not_dff02c30",
+    "component_id": "tiller_blade_f3d103"
+  },
+  {
+    "symptom": "Power tiller will not start",
+    "problem_description": "The power tiller is not starting due to a faulty ignition coil.",
+    "likely_causes": [
+      "Faulty ignition coil"
+    ],
+    "understanding": "The power tiller is not starting due to an electrical issue.",
+    "verify": [
+      "Check ignition coil voltage using multimeter."
+    ],
+    "repair": [
+      "Replace ignition coil if voltage is outside specified range."
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Ignition Coil",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**II. OBJECTIVES**",
+    "embedding_text": "FAULT: Power tiller will not start\nSYMPTOM: The power tiller is not starting due to a faulty ignition coil.\nCOMPONENT: Ignition Coil\nLIKELY CAUSES:\n- Faulty ignition coil\nVERIFY:\n- Check ignition coil voltage using multimeter.\nREPAIR:\n- Replace ignition coil if voltage is outside specified range.\n",
+    "fault_id": "fault_power_tiller_will_not_622c8ff9",
+    "component_id": "ignition_coil_061ff9"
+  },
+  {
+    "symptom": "Tiller blade does not rotate",
+    "problem_description": "The tiller blade is jammed with debris.",
+    "likely_causes": [
+      "Blade jammed with debris"
+    ],
+    "understanding": "The tiller blade is not rotating due to a blockage.",
+    "verify": [
+      "Check for debris in blade"
+    ],
+    "repair": [
+      "Remove debris from blade"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Tiller Blade",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**IV. PROCEDURE**",
+    "embedding_text": "FAULT: Tiller blade does not rotate\nSYMPTOM: The tiller blade is jammed with debris.\nCOMPONENT: Tiller Blade\nLIKELY CAUSES:\n- Blade jammed with debris\nVERIFY:\n- Check for debris in blade\nREPAIR:\n- Remove debris from blade\n",
+    "fault_id": "fault_tiller_blade_does_not_dff02c30",
+    "component_id": "tiller_blade_f3d103"
+  },
+  {
+    "symptom": "Tiller does not move",
+    "problem_description": "The hydraulic pressure is low.",
+    "likely_causes": [
+      "Low hydraulic pressure"
+    ],
+    "understanding": "The tiller is not moving due to low hydraulic pressure.",
+    "verify": [
+      "Check hydraulic pressure"
+    ],
+    "repair": [
+      "Bleed hydraulic system"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Hydraulic Pump",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**IV. PROCEDURE**",
+    "embedding_text": "FAULT: Tiller does not move\nSYMPTOM: The hydraulic pressure is low.\nCOMPONENT: Hydraulic Pump\nLIKELY CAUSES:\n- Low hydraulic pressure\nVERIFY:\n- Check hydraulic pressure\nREPAIR:\n- Bleed hydraulic system\n",
+    "fault_id": "fault_tiller_does_not_move_31dd4141",
+    "component_id": "hydraulic_pump_94eea3"
+  },
+  {
+    "symptom": "Engine sputters and loses power",
+    "problem_description": "The engine is not receiving enough power due to a clogged primary filter.",
+    "likely_causes": [
+      "Dirt and debris entering engine cylinders"
+    ],
+    "understanding": "The primary filter is designed to prevent dirt and debris from entering the engine cylinders.",
+    "verify": [
+      "Check the primary filter for any blockages or damage."
+    ],
+    "repair": [
+      "Replace the primary filter with a new one."
+    ],
+    "machine_family": "Rotavator",
+    "component": "Primary filter",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Different parts and functions of a power tiller:**",
+    "embedding_text": "FAULT: Engine sputters and loses power\nSYMPTOM: The engine is not receiving enough power due to a clogged primary filter.\nCOMPONENT: Primary filter\nLIKELY CAUSES:\n- Dirt and debris entering engine cylinders\nVERIFY:\n- Check the primary filter for any blockages or damage.\nREPAIR:\n- Replace the primary filter with a new one.\n",
+    "fault_id": "fault_engine_sputters_and_loses_870d60a0",
+    "component_id": "primary_filter_f7b96d"
+  },
+  {
+    "symptom": "Engine does not engage with transmission gears",
+    "problem_description": "The hand clutch is not properly engaged, preventing the engine from connecting with the transmission gears.",
+    "likely_causes": [
+      "Hand clutch not properly engaged"
+    ],
+    "understanding": "The hand clutch is designed to connect or disconnect the engine from the transmission gears.",
+    "verify": [
+      "Check the hand clutch lever for any blockages or damage."
+    ],
+    "repair": [
+      "Engage the hand clutch lever to connect the engine with the transmission gears."
+    ],
+    "machine_family": "Rotavator",
+    "component": "Hand clutch",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Different parts and functions of a power tiller:**",
+    "embedding_text": "FAULT: Engine does not engage with transmission gears\nSYMPTOM: The hand clutch is not properly engaged, preventing the engine from connecting with the transmission gears.\nCOMPONENT: Hand clutch\nLIKELY CAUSES:\n- Hand clutch not properly engaged\nVERIFY:\n- Check the hand clutch lever for any blockages or damage.\nREPAIR:\n- Engage the hand clutch lever to connect the engine with the transmission gears.\n",
+    "fault_id": "fault_engine_does_not_engage_433438c8",
+    "component_id": "hand_clutch_b5c0ef"
+  },
+  {
+    "symptom": "Clutch-brake handle does not disengage",
+    "problem_description": "The clutch-brake handle is not functioning properly.",
+    "likely_causes": [
+      "Loose or damaged clutch-brake handle"
+    ],
+    "understanding": "The clutch-brake handle is a critical component that needs to be functioning correctly for the machine to operate safely.",
+    "verify": [
+      "Check the tightness of the bolts at the clutch-brake handle"
+    ],
+    "repair": [
+      "Replace clutch-brake handle if damaged or worn out"
+    ],
+    "machine_family": "",
+    "component": "",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Step-by-step procedure of operating a power tiller: BEFORE STARTING**",
+    "embedding_text": "FAULT: Clutch-brake handle does not disengage\nSYMPTOM: The clutch-brake handle is not functioning properly.\nCOMPONENT: \nLIKELY CAUSES:\n- Loose or damaged clutch-brake handle\nVERIFY:\n- Check the tightness of the bolts at the clutch-brake handle\nREPAIR:\n- Replace clutch-brake handle if damaged or worn out\n",
+    "fault_id": "fault_clutchbrake_handle_does_not_924b41a1",
+    "component_id": "unknown"
+  },
+  {
+    "symptom": "Speed-changing lever does not shift to neutral",
+    "problem_description": "The speed-changing lever is not functioning properly.",
+    "likely_causes": [
+      "Loose or damaged speed-changing lever"
+    ],
+    "understanding": "The speed-changing lever is a critical component that needs to be functioning correctly for the machine to operate safely.",
+    "verify": [
+      "Check the tightness of the bolts at the speed-changing lever"
+    ],
+    "repair": [
+      "Replace speed-changing lever if damaged or worn out"
+    ],
+    "machine_family": "",
+    "component": "",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Step-by-step procedure of operating a power tiller: BEFORE STARTING**",
+    "embedding_text": "FAULT: Speed-changing lever does not shift to neutral\nSYMPTOM: The speed-changing lever is not functioning properly.\nCOMPONENT: \nLIKELY CAUSES:\n- Loose or damaged speed-changing lever\nVERIFY:\n- Check the tightness of the bolts at the speed-changing lever\nREPAIR:\n- Replace speed-changing lever if damaged or worn out\n",
+    "fault_id": "fault_speedchanging_lever_does_not_186f0cdf",
+    "component_id": "unknown"
+  },
+  {
+    "symptom": "Throttle does not respond",
+    "problem_description": "The throttle is not functioning properly.",
+    "likely_causes": [
+      "Loose or damaged throttle"
+    ],
+    "understanding": "The throttle is a critical component that needs to be functioning correctly for the machine to operate safely.",
+    "verify": [
+      "Check the tightness of the bolts at the throttle"
+    ],
+    "repair": [
+      "Replace throttle if damaged or worn out"
+    ],
+    "machine_family": "",
+    "component": "",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Step-by-step procedure of operating a power tiller: BEFORE STARTING**",
+    "embedding_text": "FAULT: Throttle does not respond\nSYMPTOM: The throttle is not functioning properly.\nCOMPONENT: \nLIKELY CAUSES:\n- Loose or damaged throttle\nVERIFY:\n- Check the tightness of the bolts at the throttle\nREPAIR:\n- Replace throttle if damaged or worn out\n",
+    "fault_id": "fault_throttle_does_not_respond_c778191d",
+    "component_id": "unknown"
+  },
+  {
+    "symptom": "Steering is affected on flat road",
+    "problem_description": "Incorrect operation of steering hand grip",
+    "likely_causes": [
+      "Incorrect operation of steering hand grip"
+    ],
+    "understanding": "Steering hand grip must be operated correctly",
+    "verify": [
+      "Check operation of steering hand grip"
+    ],
+    "repair": [
+      "Operate steering hand grip correctly"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Steering Hand Grip",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**STEERING**",
+    "embedding_text": "FAULT: Steering is affected on flat road\nSYMPTOM: Incorrect operation of steering hand grip\nCOMPONENT: Steering Hand Grip\nLIKELY CAUSES:\n- Incorrect operation of steering hand grip\nVERIFY:\n- Check operation of steering hand grip\nREPAIR:\n- Operate steering hand grip correctly\n",
+    "fault_id": "fault_steering_is_affected_on_d62683f1",
+    "component_id": "steering_hand_aab612"
+  },
+  {
+    "symptom": "Steering is affected on steep slope",
+    "problem_description": "Incorrect operation of handlebars",
+    "likely_causes": [
+      "Incorrect operation of handlebars"
+    ],
+    "understanding": "Handlebars must be pushed or pulled correctly",
+    "verify": [
+      "Check operation of handlebars"
+    ],
+    "repair": [
+      "Push or pull handlebars leftwards and rightwards"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Handlebars",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**STEERING**",
+    "embedding_text": "FAULT: Steering is affected on steep slope\nSYMPTOM: Incorrect operation of handlebars\nCOMPONENT: Handlebars\nLIKELY CAUSES:\n- Incorrect operation of handlebars\nVERIFY:\n- Check operation of handlebars\nREPAIR:\n- Push or pull handlebars leftwards and rightwards\n",
+    "fault_id": "fault_steering_is_affected_on_7aadee77",
+    "component_id": "handlebars_b644d7"
+  },
+  {
+    "symptom": "Steering is affected on flat road",
+    "problem_description": "Incorrect operation of pedals",
+    "likely_causes": [
+      "Incorrect operation of pedals"
+    ],
+    "understanding": "Pedals must be applied correctly",
+    "verify": [
+      "Check operation of pedals"
+    ],
+    "repair": [
+      "Apply pedals correctly"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Pedals of the wheel",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**STEERING**",
+    "embedding_text": "FAULT: Steering is affected on flat road\nSYMPTOM: Incorrect operation of pedals\nCOMPONENT: Pedals of the wheel\nLIKELY CAUSES:\n- Incorrect operation of pedals\nVERIFY:\n- Check operation of pedals\nREPAIR:\n- Apply pedals correctly\n",
+    "fault_id": "fault_steering_is_affected_on_d62683f1",
+    "component_id": "pedals_of_6edc3a"
+  },
+  {
+    "symptom": "Operating at high speed",
+    "problem_description": "Operating at high speed",
+    "likely_causes": [
+      "Operating at high speed"
+    ],
+    "understanding": "Power tiller must be operated at low speed",
+    "verify": [
+      "Check speed of power tiller"
+    ],
+    "repair": [
+      "Operate at very low speed"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Power Tiller",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**STEERING**",
+    "embedding_text": "FAULT: Operating at high speed\nSYMPTOM: Operating at high speed\nCOMPONENT: Power Tiller\nLIKELY CAUSES:\n- Operating at high speed\nVERIFY:\n- Check speed of power tiller\nREPAIR:\n- Operate at very low speed\n",
+    "fault_id": "fault_operating_at_high_speed_1bca1e82",
+    "component_id": "power_tiller_3c67a3"
+  },
+  {
+    "symptom": "Clutch engages but does not disengage",
+    "problem_description": "The clutch is not disengaging properly, which can cause damage to the transmission.",
+    "likely_causes": [
+      "Worn or damaged clutch components"
+    ],
+    "understanding": "The clutch is not disengaging because of worn or damaged components.",
+    "verify": [
+      "Check clutch adjustment"
+    ],
+    "repair": [
+      "Adjust or replace clutch components"
+    ],
+    "machine_family": "Rotavator",
+    "component": "Clutch",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "embedding_text": "FAULT: Clutch engages but does not disengage\nSYMPTOM: The clutch is not disengaging properly, which can cause damage to the transmission.\nCOMPONENT: Clutch\nLIKELY CAUSES:\n- Worn or damaged clutch components\nVERIFY:\n- Check clutch adjustment\nREPAIR:\n- Adjust or replace clutch components\n",
+    "fault_id": "fault_clutch_engages_but_does_9ca2803b",
+    "component_id": "clutch_22275a"
+  },
+  {
+    "symptom": "Engine does not start",
+    "problem_description": "The engine is not starting, which can be caused by a faulty spark plug.",
+    "likely_causes": [
+      "Faulty spark plug"
+    ],
+    "understanding": "The engine is not starting because of a faulty spark plug.",
+    "verify": [
+      "Check spark plug wire connection"
+    ],
+    "repair": [
+      "Replace spark plug"
+    ],
+    "machine_family": "Rotavator",
+    "component": "Spark Plug",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "embedding_text": "FAULT: Engine does not start\nSYMPTOM: The engine is not starting, which can be caused by a faulty spark plug.\nCOMPONENT: Spark Plug\nLIKELY CAUSES:\n- Faulty spark plug\nVERIFY:\n- Check spark plug wire connection\nREPAIR:\n- Replace spark plug\n",
+    "fault_id": "fault_engine_does_not_start_9434987c",
+    "component_id": "spark_plug_2c738e"
+  },
+  {
+    "symptom": "Wheels turning but tines not turning",
+    "problem_description": "The tiller transmission is not functioning correctly.",
+    "likely_causes": [
+      "Fitting clearance incorrect",
+      "bearing shells or bushings are seized"
+    ],
+    "understanding": "The tiller transmission is not engaging the tines.",
+    "verify": [
+      "Check the fitting clearance and adjust if necessary."
+    ],
+    "repair": [
+      "Replace the bushing if necessary."
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Tiller Transmission",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "embedding_text": "FAULT: Wheels turning but tines not turning\nSYMPTOM: The tiller transmission is not functioning correctly.\nCOMPONENT: Tiller Transmission\nLIKELY CAUSES:\n- Fitting clearance incorrect\n- bearing shells or bushings are seized\nVERIFY:\n- Check the fitting clearance and adjust if necessary.\nREPAIR:\n- Replace the bushing if necessary.\n",
+    "fault_id": "fault_wheels_turning_but_tines_adc65f87",
+    "component_id": "tiller_transmission_d889ee"
+  },
+  {
+    "symptom": "Engine not starting at all",
+    "problem_description": "The carburetor is not functioning correctly.",
+    "likely_causes": [
+      "Decompression device failure",
+      "Fuel system troubles"
+    ],
+    "understanding": "The engine is not receiving the correct fuel mixture.",
+    "verify": [
+      "Check the decompression device and adjust or repair if necessary."
+    ],
+    "repair": [
+      "Replace the carburetor if necessary."
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Carburetor",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "embedding_text": "FAULT: Engine not starting at all\nSYMPTOM: The carburetor is not functioning correctly.\nCOMPONENT: Carburetor\nLIKELY CAUSES:\n- Decompression device failure\n- Fuel system troubles\nVERIFY:\n- Check the decompression device and adjust or repair if necessary.\nREPAIR:\n- Replace the carburetor if necessary.\n",
+    "fault_id": "fault_engine_not_starting_at_a2ab2392",
+    "component_id": "carburetor_e6d299"
+  },
+  {
+    "symptom": "not turning",
+    "problem_description": "The tiller transmission is not turning.",
+    "likely_causes": [
+      "Fitting clearance incorrect"
+    ],
+    "understanding": "The tiller transmission is not turning due to incorrect fitting clearance.",
+    "verify": [
+      "Check the fitting clearance."
+    ],
+    "repair": [
+      "Adjust the fitting clearance."
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Tiller Transmission",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "embedding_text": "FAULT: not turning\nSYMPTOM: The tiller transmission is not turning.\nCOMPONENT: Tiller Transmission\nLIKELY CAUSES:\n- Fitting clearance incorrect\nVERIFY:\n- Check the fitting clearance.\nREPAIR:\n- Adjust the fitting clearance.\n",
+    "fault_id": "fault_not_turning_66f644df",
+    "component_id": "tiller_transmission_d889ee"
+  },
+  {
+    "symptom": "Decompression device failure",
+    "problem_description": "The decompression device is not working.",
+    "likely_causes": [
+      "Decompression device failure"
+    ],
+    "understanding": "The decompression device is not working due to failure.",
+    "verify": [
+      "Check the decompression device."
+    ],
+    "repair": [
+      "Adjust the decompression stroke or repair the device."
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Decompression Device",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "embedding_text": "FAULT: Decompression device failure\nSYMPTOM: The decompression device is not working.\nCOMPONENT: Decompression Device\nLIKELY CAUSES:\n- Decompression device failure\nVERIFY:\n- Check the decompression device.\nREPAIR:\n- Adjust the decompression stroke or repair the device.\n",
+    "fault_id": "fault_decompression_device_failure_abc43a96",
+    "component_id": "decompression_device_8c0b33"
+  },
+  {
+    "symptom": "The fuel system develops troubles",
+    "problem_description": "The fuel system is not working properly.",
+    "likely_causes": [
+      "Air has entered the fuel line",
+      "Fuel line or fine fuel filter choked",
+      "Fuel injection pump fails to deliver fuel or injection timing is incorrect",
+      "Fuel injector fails to work properly"
+    ],
+    "understanding": "The fuel system is not working properly due to various reasons.",
+    "verify": [
+      "Check the fuel line and fine fuel filter."
+    ],
+    "repair": [
+      "Release the air, check and clean the fuel line or fine fuel filter, check and adjust the fuel injection pump, check the atomization and injection pressure."
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Fuel System",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "embedding_text": "FAULT: The fuel system develops troubles\nSYMPTOM: The fuel system is not working properly.\nCOMPONENT: Fuel System\nLIKELY CAUSES:\n- Air has entered the fuel line\n- Fuel line or fine fuel filter choked\n- Fuel injection pump fails to deliver fuel or injection timing is incorrect\n- Fuel injector fails to work properly\nVERIFY:\n- Check the fuel line and fine fuel filter.\nREPAIR:\n- Release the air, check and clean the fuel line or fine fuel filter, check and adjust the fuel injection pump, check the atomization and injection pressure.\n",
+    "fault_id": "fault_the_fuel_system_develops_923a2e21",
+    "component_id": "fuel_system_c71de4"
+  },
+  {
+    "symptom": "Compression pressure in the cylinder is insufficient",
+    "problem_description": "The compression pressure in the cylinder is low.",
+    "likely_causes": [
+      "Cylinder head gasket is damaged",
+      "Piston ring gaps line up or excessive wearing of cylinder and piston rings"
+    ],
+    "understanding": "The compression pressure in the cylinder is low due to damaged cylinder head gasket or worn piston rings.",
+    "verify": [
+      "Check the cylinder head gasket and piston rings."
+    ],
+    "repair": [
+      "Replace the cylinder head gasket or piston rings."
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Cylinder Head Gasket",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "embedding_text": "FAULT: Compression pressure in the cylinder is insufficient\nSYMPTOM: The compression pressure in the cylinder is low.\nCOMPONENT: Cylinder Head Gasket\nLIKELY CAUSES:\n- Cylinder head gasket is damaged\n- Piston ring gaps line up or excessive wearing of cylinder and piston rings\nVERIFY:\n- Check the cylinder head gasket and piston rings.\nREPAIR:\n- Replace the cylinder head gasket or piston rings.\n",
+    "fault_id": "fault_compression_pressure_in_the_57d96a64",
+    "component_id": "cylinder_head_5cd6b8"
+  },
+  {
+    "symptom": "Air filter choked up",
+    "problem_description": "The air filter is clogged.",
+    "likely_causes": [
+      "Air filter choked up"
+    ],
+    "understanding": "The air filter is clogged due to dirt and debris.",
+    "verify": [
+      "Check the air filter."
+    ],
+    "repair": [
+      "Clean or replace the air filter."
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Air Filter",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "embedding_text": "FAULT: Air filter choked up\nSYMPTOM: The air filter is clogged.\nCOMPONENT: Air Filter\nLIKELY CAUSES:\n- Air filter choked up\nVERIFY:\n- Check the air filter.\nREPAIR:\n- Clean or replace the air filter.\n",
+    "fault_id": "fault_air_filter_choked_up_1552ab66",
+    "component_id": "air_filter_74d1b9"
+  },
+  {
+    "symptom": "Engine speed is too low",
+    "problem_description": "The engine speed is too low.",
+    "likely_causes": [
+      "Engine speed is too low"
+    ],
+    "understanding": "The engine speed is too low due to incorrect governor spring adjustment.",
+    "verify": [
+      "Check the governor spring."
+    ],
+    "repair": [
+      "Re-set the adjusting screw of the governor spring."
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Governor Spring",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "embedding_text": "FAULT: Engine speed is too low\nSYMPTOM: The engine speed is too low.\nCOMPONENT: Governor Spring\nLIKELY CAUSES:\n- Engine speed is too low\nVERIFY:\n- Check the governor spring.\nREPAIR:\n- Re-set the adjusting screw of the governor spring.\n",
+    "fault_id": "fault_engine_speed_is_too_ea02e548",
+    "component_id": "governor_spring_c5d12f"
+  },
+  {
+    "symptom": "tines jarring up or becoming rusted",
+    "problem_description": "tines are not moving smoothly due to lack of lubrication",
+    "likely_causes": [
+      "lack of lubrication"
+    ],
+    "understanding": "tines need regular lubrication to prevent rust and jarring",
+    "verify": [
+      "check for rust or debris"
+    ],
+    "repair": [
+      "apply lubricant and clean the tines"
+    ],
+    "machine_family": "Rotavator",
+    "component": "Tines",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Proper care and maintenance of an agricultural power tiller:**",
+    "embedding_text": "FAULT: tines jarring up or becoming rusted\nSYMPTOM: tines are not moving smoothly due to lack of lubrication\nCOMPONENT: Tines\nLIKELY CAUSES:\n- lack of lubrication\nVERIFY:\n- check for rust or debris\nREPAIR:\n- apply lubricant and clean the tines\n",
+    "fault_id": "fault_tines_jarring_up_or_43335fc9",
+    "component_id": "tines_52eca5"
+  },
+  {
+    "symptom": "engine performance decreases",
+    "problem_description": "engine performance is decreasing due to a clogged fuel filter",
+    "likely_causes": [
+      "clogged fuel filter"
+    ],
+    "understanding": "fuel filter needs to be replaced regularly to maintain engine performance",
+    "verify": [
+      "check for blockages in fuel line"
+    ],
+    "repair": [
+      "replace the fuel filter"
+    ],
+    "machine_family": "Rotavator",
+    "component": "Fuel Filter",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Proper care and maintenance of an agricultural power tiller:**",
+    "embedding_text": "FAULT: engine performance decreases\nSYMPTOM: engine performance is decreasing due to a clogged fuel filter\nCOMPONENT: Fuel Filter\nLIKELY CAUSES:\n- clogged fuel filter\nVERIFY:\n- check for blockages in fuel line\nREPAIR:\n- replace the fuel filter\n",
+    "fault_id": "fault_engine_performance_decreases_44cce3ca",
+    "component_id": "fuel_filter_7ae732"
+  },
+  {
+    "symptom": "Tiller blade does not rotate",
+    "problem_description": "The tiller blade is not rotating due to a jammed blade.",
+    "likely_causes": [
+      "Debris jammed in the blade"
+    ],
+    "understanding": "The tiller blade is not rotating because it is jammed with debris.",
+    "verify": [
+      "Check for debris jamming the blade"
+    ],
+    "repair": [
+      "Remove any debris from the tiller blade"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Tiller Blade",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**VI. CONCLUSION**",
+    "embedding_text": "FAULT: Tiller blade does not rotate\nSYMPTOM: The tiller blade is not rotating due to a jammed blade.\nCOMPONENT: Tiller Blade\nLIKELY CAUSES:\n- Debris jammed in the blade\nVERIFY:\n- Check for debris jamming the blade\nREPAIR:\n- Remove any debris from the tiller blade\n",
+    "fault_id": "fault_tiller_blade_does_not_dff02c30",
+    "component_id": "tiller_blade_f3d103"
+  },
+  {
+    "symptom": "Tiller blade does not rotate",
+    "problem_description": "The tiller blade is jammed with debris",
+    "likely_causes": [
+      "Debris around the blade"
+    ],
+    "understanding": "The tiller blade is not rotating due to debris jamming it",
+    "verify": [
+      "Check for debris around the blade"
+    ],
+    "repair": [
+      "Use a wrench to loosen the blade"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Tiller Blade",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**VII. REFERENCE(S)**",
+    "embedding_text": "FAULT: Tiller blade does not rotate\nSYMPTOM: The tiller blade is jammed with debris\nCOMPONENT: Tiller Blade\nLIKELY CAUSES:\n- Debris around the blade\nVERIFY:\n- Check for debris around the blade\nREPAIR:\n- Use a wrench to loosen the blade\n",
+    "fault_id": "fault_tiller_blade_does_not_dff02c30",
+    "component_id": "tiller_blade_f3d103"
+  },
+  {
+    "symptom": "Engine does not start",
+    "problem_description": "The engine is not receiving a spark",
+    "likely_causes": [
+      "Faulty spark plug"
+    ],
+    "understanding": "The engine is not starting due to a faulty spark plug",
+    "verify": [
+      "Check spark plug wire for damage"
+    ],
+    "repair": [
+      "Replace spark plug"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Spark Plug",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**VII. REFERENCE(S)**",
+    "embedding_text": "FAULT: Engine does not start\nSYMPTOM: The engine is not receiving a spark\nCOMPONENT: Spark Plug\nLIKELY CAUSES:\n- Faulty spark plug\nVERIFY:\n- Check spark plug wire for damage\nREPAIR:\n- Replace spark plug\n",
+    "fault_id": "fault_engine_does_not_start_9434987c",
+    "component_id": "spark_plug_2c738e"
+  },
+  {
+    "symptom": "machine shakes violently",
+    "problem_description": "loose gear teeth cause vibration",
+    "likely_causes": [
+      "loose gear teeth"
+    ],
+    "understanding": "loose gear teeth can cause vibration and damage to transmission",
+    "verify": [
+      "check gear teeth for looseness"
+    ],
+    "repair": [
+      "tighten gear teeth using torque wrench"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Gearbox",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**PREFACE**",
+    "embedding_text": "FAULT: machine shakes violently\nSYMPTOM: loose gear teeth cause vibration\nCOMPONENT: Gearbox\nLIKELY CAUSES:\n- loose gear teeth\nVERIFY:\n- check gear teeth for looseness\nREPAIR:\n- tighten gear teeth using torque wrench\n",
+    "fault_id": "fault_machine_shakes_violently_40883cca",
+    "component_id": "gearbox_61a729"
+  },
+  {
+    "symptom": "machine does not start",
+    "problem_description": "dead battery prevents engine start",
+    "likely_causes": [
+      "dead battery"
+    ],
+    "understanding": "dead battery can prevent engine start and cause damage to starter motor",
+    "verify": [
+      "check battery voltage using multimeter"
+    ],
+    "repair": [
+      "charge battery if dead"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Battery",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**PREFACE**",
+    "embedding_text": "FAULT: machine does not start\nSYMPTOM: dead battery prevents engine start\nCOMPONENT: Battery\nLIKELY CAUSES:\n- dead battery\nVERIFY:\n- check battery voltage using multimeter\nREPAIR:\n- charge battery if dead\n",
+    "fault_id": "fault_machine_does_not_start_0cfcbac1",
+    "component_id": "battery_20c1d1"
+  },
+  {
+    "symptom": "Motor hums",
+    "problem_description": "The motor is humming due to incorrect capacitor value",
+    "likely_causes": [
+      "Incorrect capacitor value"
+    ],
+    "understanding": "The capacitor value is critical for motor performance",
+    "verify": [
+      "Check capacitor value"
+    ],
+    "repair": [
+      "Replace capacitor"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Capacitor",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Content**",
+    "embedding_text": "FAULT: Motor hums\nSYMPTOM: The motor is humming due to incorrect capacitor value\nCOMPONENT: Capacitor\nLIKELY CAUSES:\n- Incorrect capacitor value\nVERIFY:\n- Check capacitor value\nREPAIR:\n- Replace capacitor\n",
+    "fault_id": "fault_motor_hums_2ddf36dc",
+    "component_id": "capacitor_e271ca"
+  },
+  {
+    "symptom": "Clutch failure",
+    "problem_description": "The clutch is failing due to incorrect adjustment",
+    "likely_causes": [
+      "Incorrect clutch adjustment"
+    ],
+    "understanding": "The clutch adjustment is critical for clutch performance",
+    "verify": [
+      "Check clutch adjustment"
+    ],
+    "repair": [
+      "Adjust clutch"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Clutch",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Content**",
+    "embedding_text": "FAULT: Clutch failure\nSYMPTOM: The clutch is failing due to incorrect adjustment\nCOMPONENT: Clutch\nLIKELY CAUSES:\n- Incorrect clutch adjustment\nVERIFY:\n- Check clutch adjustment\nREPAIR:\n- Adjust clutch\n",
+    "fault_id": "fault_clutch_failure_bc404352",
+    "component_id": "clutch_22275a"
+  },
+  {
+    "symptom": "Motor hums but does not rotate",
+    "problem_description": "The tractor's motor is not rotating due to a faulty alternator belt.",
+    "likely_causes": [
+      "Faulty alternator belt",
+      "Worn or damaged alternator"
+    ],
+    "understanding": "The alternator belt is responsible for powering the tractor's electrical system.",
+    "verify": [
+      "Check alternator belt tension, inspect belt for signs of wear"
+    ],
+    "repair": [
+      "Replace alternator belt, inspect and replace alternator if damaged"
+    ],
+    "machine_family": "Tractor",
+    "component": "Alternator",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅱ Preparation**",
+    "embedding_text": "FAULT: Motor hums but does not rotate\nSYMPTOM: The tractor's motor is not rotating due to a faulty alternator belt.\nCOMPONENT: Alternator\nLIKELY CAUSES:\n- Faulty alternator belt\n- Worn or damaged alternator\nVERIFY:\n- Check alternator belt tension, inspect belt for signs of wear\nREPAIR:\n- Replace alternator belt, inspect and replace alternator if damaged\n",
+    "fault_id": "fault_motor_hums_but_does_e2de0bb6",
+    "component_id": "alternator_da9c10"
+  },
+  {
+    "symptom": "Shift bar does not move to neutral position",
+    "problem_description": "The shift bar is not functioning properly.",
+    "likely_causes": [
+      "Worn-out or damaged shift bar"
+    ],
+    "understanding": "The shift bar is a critical component that needs to be in good working condition.",
+    "verify": [
+      "Check if shift bar is properly aligned and lubricated"
+    ],
+    "repair": [
+      "Replace shift bar"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Shift Bar",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅲ Operating**",
+    "embedding_text": "FAULT: Shift bar does not move to neutral position\nSYMPTOM: The shift bar is not functioning properly.\nCOMPONENT: Shift Bar\nLIKELY CAUSES:\n- Worn-out or damaged shift bar\nVERIFY:\n- Check if shift bar is properly aligned and lubricated\nREPAIR:\n- Replace shift bar\n",
+    "fault_id": "fault_shift_bar_does_not_69bef715",
+    "component_id": "shift_bar_69b46e"
+  },
+  {
+    "symptom": "Abnormal shaking of the machine",
+    "problem_description": "The machine is shaking abnormally.",
+    "likely_causes": [
+      "Loose or damaged engine mounts"
+    ],
+    "understanding": "The engine mounts need to be secure and undamaged to prevent abnormal shaking.",
+    "verify": [
+      "Check engine mounts for looseness or damage"
+    ],
+    "repair": [
+      "Tighten or replace engine mounts"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Engine",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅲ Operating**",
+    "embedding_text": "FAULT: Abnormal shaking of the machine\nSYMPTOM: The machine is shaking abnormally.\nCOMPONENT: Engine\nLIKELY CAUSES:\n- Loose or damaged engine mounts\nVERIFY:\n- Check engine mounts for looseness or damage\nREPAIR:\n- Tighten or replace engine mounts\n",
+    "fault_id": "fault_abnormal_shaking_of_the_2b8c2393",
+    "component_id": "engine_ad1943"
+  },
+  {
+    "symptom": "Machine does not start",
+    "problem_description": "The machine fails to start due to a mechanical or electrical issue.",
+    "likely_causes": [
+      "Loose bolts",
+      "Dead battery"
+    ],
+    "understanding": "The machine may not start due to a mechanical or electrical issue.",
+    "verify": [
+      "Check all bolts for tightness",
+      "Check battery voltage"
+    ],
+    "repair": [
+      "Tighten loose bolts",
+      "Replace dead battery"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Bolts",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅳ Maintenance and Storage**",
+    "embedding_text": "FAULT: Machine does not start\nSYMPTOM: The machine fails to start due to a mechanical or electrical issue.\nCOMPONENT: Bolts\nLIKELY CAUSES:\n- Loose bolts\n- Dead battery\nVERIFY:\n- Check all bolts for tightness\n- Check battery voltage\nREPAIR:\n- Tighten loose bolts\n- Replace dead battery\n",
+    "fault_id": "fault_machine_does_not_start_0cfcbac1",
+    "component_id": "bolts_af996f"
+  },
+  {
+    "symptom": "Machine does not start",
+    "problem_description": "The machine fails to start due to a mechanical or electrical issue.",
+    "likely_causes": [
+      "Loose bolts",
+      "Dead battery"
+    ],
+    "understanding": "The machine may not start due to a mechanical or electrical issue.",
+    "verify": [
+      "Check all bolts for tightness",
+      "Check battery voltage"
+    ],
+    "repair": [
+      "Tighten loose bolts",
+      "Replace dead battery"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Battery",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅳ Maintenance and Storage**",
+    "embedding_text": "FAULT: Machine does not start\nSYMPTOM: The machine fails to start due to a mechanical or electrical issue.\nCOMPONENT: Battery\nLIKELY CAUSES:\n- Loose bolts\n- Dead battery\nVERIFY:\n- Check all bolts for tightness\n- Check battery voltage\nREPAIR:\n- Tighten loose bolts\n- Replace dead battery\n",
+    "fault_id": "fault_machine_does_not_start_0cfcbac1",
+    "component_id": "battery_20c1d1"
+  },
+  {
+    "symptom": "Blades do not rotate",
+    "problem_description": "The blades on the rotavator are not rotating due to a mechanical issue.",
+    "likely_causes": [
+      "Worn gear teeth",
+      "Loose gear cover"
+    ],
+    "understanding": "The blades are not rotating because the gear teeth are worn out or the gear cover is loose.",
+    "verify": [
+      "Check the gear teeth for wear",
+      "Check if the gear cover is properly seated"
+    ],
+    "repair": [
+      "Replace the gear using a gear puller",
+      "Tighten the gear cover using a 10mm socket"
+    ],
+    "machine_family": "Rotavator",
+    "component": "Gear Transmission",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅰ.Main technical data**",
+    "embedding_text": "FAULT: Blades do not rotate\nSYMPTOM: The blades on the rotavator are not rotating due to a mechanical issue.\nCOMPONENT: Gear Transmission\nLIKELY CAUSES:\n- Worn gear teeth\n- Loose gear cover\nVERIFY:\n- Check the gear teeth for wear\n- Check if the gear cover is properly seated\nREPAIR:\n- Replace the gear using a gear puller\n- Tighten the gear cover using a 10mm socket\n",
+    "fault_id": "fault_blades_do_not_rotate_098a2d51",
+    "component_id": "gear_transmission_776822"
+  },
+  {
+    "symptom": "vibration",
+    "problem_description": "The rotavator is vibrating excessively.",
+    "likely_causes": [
+      "misaligned speeder rod"
+    ],
+    "understanding": "A misaligned speeder rod can cause the rotavator to vibrate excessively.",
+    "verify": [
+      "check the speeder rod's length"
+    ],
+    "repair": [
+      "adjust the speeder rod to 19.5 inches"
+    ],
+    "machine_family": "Rotavator",
+    "component": "Speeder Rod",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅱ**",
+    "embedding_text": "FAULT: vibration\nSYMPTOM: The rotavator is vibrating excessively.\nCOMPONENT: Speeder Rod\nLIKELY CAUSES:\n- misaligned speeder rod\nVERIFY:\n- check the speeder rod's length\nREPAIR:\n- adjust the speeder rod to 19.5 inches\n",
+    "fault_id": "fault_vibration_036f0ff1",
+    "component_id": "speeder_rod_531225"
+  },
+  {
+    "symptom": "motor hums",
+    "problem_description": "The motor is humming excessively.",
+    "likely_causes": [
+      "low battery voltage"
+    ],
+    "understanding": "A low battery voltage can cause the motor to hum excessively.",
+    "verify": [
+      "check the battery voltage"
+    ],
+    "repair": [
+      "replace the battery"
+    ],
+    "machine_family": "Rotavator",
+    "component": "Battery",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅱ**",
+    "embedding_text": "FAULT: motor hums\nSYMPTOM: The motor is humming excessively.\nCOMPONENT: Battery\nLIKELY CAUSES:\n- low battery voltage\nVERIFY:\n- check the battery voltage\nREPAIR:\n- replace the battery\n",
+    "fault_id": "fault_motor_hums_2ddf36dc",
+    "component_id": "battery_20c1d1"
+  },
+  {
+    "symptom": "vibration",
+    "problem_description": "Misaligned shaft causes vibration.",
+    "likely_causes": [
+      "misaligned shaft"
+    ],
+    "understanding": "Misaligned shaft causes vibration due to uneven rotation.",
+    "verify": [
+      "Check shaft alignment."
+    ],
+    "repair": [
+      "Adjust shaft alignment."
+    ],
+    "machine_family": "Rotavator",
+    "component": "Shaft",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "TABLE 1",
+    "embedding_text": "FAULT: vibration\nSYMPTOM: Misaligned shaft causes vibration.\nCOMPONENT: Shaft\nLIKELY CAUSES:\n- misaligned shaft\nVERIFY:\n- Check shaft alignment.\nREPAIR:\n- Adjust shaft alignment.\n",
+    "fault_id": "fault_vibration_036f0ff1",
+    "component_id": "shaft_b95ff8"
+  },
+  {
+    "symptom": "motor hums",
+    "problem_description": "Wiring issue causes motor hums.",
+    "likely_causes": [
+      "wiring issue"
+    ],
+    "understanding": "Wiring issue causes motor hums due to electrical imbalance.",
+    "verify": [
+      "Check wiring for 25µF capacitor."
+    ],
+    "repair": [
+      "Replace capacitor."
+    ],
+    "machine_family": "Rotavator",
+    "component": "Motor",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "TABLE 1",
+    "embedding_text": "FAULT: motor hums\nSYMPTOM: Wiring issue causes motor hums.\nCOMPONENT: Motor\nLIKELY CAUSES:\n- wiring issue\nVERIFY:\n- Check wiring for 25µF capacitor.\nREPAIR:\n- Replace capacitor.\n",
+    "fault_id": "fault_motor_hums_2ddf36dc",
+    "component_id": "motor_594171"
+  },
+  {
+    "symptom": "Ditcher does not adjust to proper width and height",
+    "problem_description": "Ditcher installation error",
+    "likely_causes": [
+      "Incorrect installation"
+    ],
+    "understanding": "Ditcher adjustment requires proper installation",
+    "verify": [
+      "Check if speed adjusting bar is removed"
+    ],
+    "repair": [
+      "Adjust ditcher to proper width and height"
+    ],
+    "machine_family": "Tractor",
+    "component": "Ditcher",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅱ  Ditching & Ridging**",
+    "embedding_text": "FAULT: Ditcher does not adjust to proper width and height\nSYMPTOM: Ditcher installation error\nCOMPONENT: Ditcher\nLIKELY CAUSES:\n- Incorrect installation\nVERIFY:\n- Check if speed adjusting bar is removed\nREPAIR:\n- Adjust ditcher to proper width and height\n",
+    "fault_id": "fault_ditcher_does_not_adjust_7dfecb11",
+    "component_id": "ditcher_a1e2f5"
+  },
+  {
+    "symptom": "machine can do the transportation job",
+    "problem_description": "wagon box forearm not mounted on trailer",
+    "likely_causes": [
+      "wagon box forearm not mounted"
+    ],
+    "understanding": "wagon box forearm must be mounted on trailer for transportation job",
+    "verify": [
+      "check wagon box forearm mounting"
+    ],
+    "repair": [
+      "mount wagon box forearm on trailer"
+    ],
+    "machine_family": "Rotavator",
+    "component": "Transmission Shaft",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅲ  Short distance transport**",
+    "embedding_text": "FAULT: machine can do the transportation job\nSYMPTOM: wagon box forearm not mounted on trailer\nCOMPONENT: Transmission Shaft\nLIKELY CAUSES:\n- wagon box forearm not mounted\nVERIFY:\n- check wagon box forearm mounting\nREPAIR:\n- mount wagon box forearm on trailer\n",
+    "fault_id": "fault_machine_can_do_the_9cf490fe",
+    "component_id": "transmission_shaft_83378e"
+  },
+  {
+    "symptom": "vibration",
+    "problem_description": "The power tiller is vibrating excessively.",
+    "likely_causes": [
+      "misaligned gear-box",
+      "misaligned belt pulley or coupling"
+    ],
+    "understanding": "Vibration can be caused by misalignment of the gear-box or belt pulley or coupling.",
+    "verify": [
+      "Check the gear-box protection cover is securely fastened.",
+      "Check the belt pulley or coupling is properly aligned."
+    ],
+    "repair": [
+      "Re-tighten the bolts.",
+      "Adjust the alignment."
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Gear-Box",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅳ  Multi-Functional Working**",
+    "embedding_text": "FAULT: vibration\nSYMPTOM: The power tiller is vibrating excessively.\nCOMPONENT: Gear-Box\nLIKELY CAUSES:\n- misaligned gear-box\n- misaligned belt pulley or coupling\nVERIFY:\n- Check the gear-box protection cover is securely fastened.\n- Check the belt pulley or coupling is properly aligned.\nREPAIR:\n- Re-tighten the bolts.\n- Adjust the alignment.\n",
+    "fault_id": "fault_vibration_036f0ff1",
+    "component_id": "gearbox_61a729"
+  },
+  {
+    "symptom": "noise",
+    "problem_description": "The power tiller is making excessive noise.",
+    "likely_causes": [
+      "misaligned gear-box",
+      "misaligned belt pulley or coupling"
+    ],
+    "understanding": "Noise can be caused by misalignment of the gear-box or belt pulley or coupling.",
+    "verify": [
+      "Check the gear-box protection cover is securely fastened.",
+      "Check the belt pulley or coupling is properly aligned."
+    ],
+    "repair": [
+      "Re-tighten the bolts.",
+      "Adjust the alignment."
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Gear-Box",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅳ  Multi-Functional Working**",
+    "embedding_text": "FAULT: noise\nSYMPTOM: The power tiller is making excessive noise.\nCOMPONENT: Gear-Box\nLIKELY CAUSES:\n- misaligned gear-box\n- misaligned belt pulley or coupling\nVERIFY:\n- Check the gear-box protection cover is securely fastened.\n- Check the belt pulley or coupling is properly aligned.\nREPAIR:\n- Re-tighten the bolts.\n- Adjust the alignment.\n",
+    "fault_id": "fault_noise_aaddc345",
+    "component_id": "gearbox_61a729"
+  },
+  {
+    "symptom": "Machine does not move",
+    "problem_description": "The machine is not functioning due to a mechanical issue.",
+    "likely_causes": [
+      "Loose hexagonal axle",
+      "Faulty step box axle hole"
+    ],
+    "understanding": "The machine's mechanical system is not functioning properly.",
+    "verify": [
+      "Check if hexagonal axle is loose"
+    ],
+    "repair": [
+      "Tighten hexagonal axle with hex key (M6*16)"
+    ],
+    "machine_family": "Rotavator",
+    "component": "Hexagonal axle",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**ⅠAssembly after unpacking ( refer to Picture Ⅳ)**",
+    "embedding_text": "FAULT: Machine does not move\nSYMPTOM: The machine is not functioning due to a mechanical issue.\nCOMPONENT: Hexagonal axle\nLIKELY CAUSES:\n- Loose hexagonal axle\n- Faulty step box axle hole\nVERIFY:\n- Check if hexagonal axle is loose\nREPAIR:\n- Tighten hexagonal axle with hex key (M6*16)\n",
+    "fault_id": "fault_machine_does_not_move_ec8ceede",
+    "component_id": "hexagonal_axle_ee74c1"
+  },
+  {
+    "symptom": "vibration",
+    "problem_description": "The machine is vibrating excessively",
+    "likely_causes": [
+      "loose or incorrect bolts"
+    ],
+    "understanding": "Loose or incorrect bolts can cause vibration",
+    "verify": [
+      "Check bolts for tightness"
+    ],
+    "repair": [
+      "Tighten bolts to specified torque"
+    ],
+    "machine_family": "Rotavator",
+    "component": "Wheels",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "bolt",
+    "embedding_text": "FAULT: vibration\nSYMPTOM: The machine is vibrating excessively\nCOMPONENT: Wheels\nLIKELY CAUSES:\n- loose or incorrect bolts\nVERIFY:\n- Check bolts for tightness\nREPAIR:\n- Tighten bolts to specified torque\n",
+    "fault_id": "fault_vibration_036f0ff1",
+    "component_id": "wheels_f13863"
+  },
+  {
+    "symptom": "noise",
+    "problem_description": "The machine is making excessive noise",
+    "likely_causes": [
+      "loose or incorrect bolts"
+    ],
+    "understanding": "Loose or incorrect bolts can cause noise",
+    "verify": [
+      "Check bolts for tightness"
+    ],
+    "repair": [
+      "Tighten bolts to specified torque"
+    ],
+    "machine_family": "Rotavator",
+    "component": "Wheels",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "bolt",
+    "embedding_text": "FAULT: noise\nSYMPTOM: The machine is making excessive noise\nCOMPONENT: Wheels\nLIKELY CAUSES:\n- loose or incorrect bolts\nVERIFY:\n- Check bolts for tightness\nREPAIR:\n- Tighten bolts to specified torque\n",
+    "fault_id": "fault_noise_aaddc345",
+    "component_id": "wheels_f13863"
+  },
+  {
+    "symptom": "Clutch handle cannot reset",
+    "problem_description": "The clutch handle is stuck and cannot be reset",
+    "likely_causes": [
+      "Incorrect cable adjustment"
+    ],
+    "understanding": "The clutch handle is stuck due to incorrect cable adjustment",
+    "verify": [
+      "Check if cable head is seated",
+      "Check if steel wire is seated"
+    ],
+    "repair": [
+      "Adjust the clutch cable according to the procedure"
+    ],
+    "machine_family": "Diesel Engine",
+    "component": "Clutch Cable",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅱ** ． **Installation and Adjustment for Cable**",
+    "embedding_text": "FAULT: Clutch handle cannot reset\nSYMPTOM: The clutch handle is stuck and cannot be reset\nCOMPONENT: Clutch Cable\nLIKELY CAUSES:\n- Incorrect cable adjustment\nVERIFY:\n- Check if cable head is seated\n- Check if steel wire is seated\nREPAIR:\n- Adjust the clutch cable according to the procedure\n",
+    "fault_id": "fault_clutch_handle_cannot_reset_4479952d",
+    "component_id": "clutch_cable_9d7b70"
+  },
+  {
+    "symptom": "Reversing handle cannot reset",
+    "problem_description": "The reversing handle is stuck and cannot be reset",
+    "likely_causes": [
+      "Incorrect cable adjustment"
+    ],
+    "understanding": "The reversing handle is stuck due to incorrect cable adjustment",
+    "verify": [
+      "Check if cable head is seated",
+      "Check if steel wire is seated"
+    ],
+    "repair": [
+      "Adjust the reversing cable according to the procedure"
+    ],
+    "machine_family": "Diesel Engine",
+    "component": "Reversing Cable",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅱ** ． **Installation and Adjustment for Cable**",
+    "embedding_text": "FAULT: Reversing handle cannot reset\nSYMPTOM: The reversing handle is stuck and cannot be reset\nCOMPONENT: Reversing Cable\nLIKELY CAUSES:\n- Incorrect cable adjustment\nVERIFY:\n- Check if cable head is seated\n- Check if steel wire is seated\nREPAIR:\n- Adjust the reversing cable according to the procedure\n",
+    "fault_id": "fault_reversing_handle_cannot_reset_cb3d8477",
+    "component_id": "reversing_cable_4f5ef2"
+  },
+  {
+    "symptom": "Throttle handle cannot reset",
+    "problem_description": "The throttle handle is stuck and cannot be reset",
+    "likely_causes": [
+      "Incorrect cable adjustment"
+    ],
+    "understanding": "The throttle handle is stuck due to incorrect cable adjustment",
+    "verify": [
+      "Check if steel wire is seated",
+      "Check if throttle switch is at correct position"
+    ],
+    "repair": [
+      "Adjust the throttle cable according to the procedure"
+    ],
+    "machine_family": "Diesel Engine",
+    "component": "Throttle Cable",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅱ** ． **Installation and Adjustment for Cable**",
+    "embedding_text": "FAULT: Throttle handle cannot reset\nSYMPTOM: The throttle handle is stuck and cannot be reset\nCOMPONENT: Throttle Cable\nLIKELY CAUSES:\n- Incorrect cable adjustment\nVERIFY:\n- Check if steel wire is seated\n- Check if throttle switch is at correct position\nREPAIR:\n- Adjust the throttle cable according to the procedure\n",
+    "fault_id": "fault_throttle_handle_cannot_reset_19c5ce5d",
+    "component_id": "throttle_cable_9ae0fe"
+  },
+  {
+    "symptom": "Machine vibrates",
+    "problem_description": "The machine is vibrating and making noise",
+    "likely_causes": [
+      "Incorrect torque on connection bolts"
+    ],
+    "understanding": "The machine is vibrating and making noise due to incorrect torque on connection bolts",
+    "verify": [
+      "Check if bolts are tightened",
+      "Check if bolts are tightened to correct torque"
+    ],
+    "repair": [
+      "Tighten the connection bolts according to the procedure"
+    ],
+    "machine_family": "Diesel Engine",
+    "component": "Connection Bolts",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅱ** ． **Installation and Adjustment for Cable**",
+    "embedding_text": "FAULT: Machine vibrates\nSYMPTOM: The machine is vibrating and making noise\nCOMPONENT: Connection Bolts\nLIKELY CAUSES:\n- Incorrect torque on connection bolts\nVERIFY:\n- Check if bolts are tightened\n- Check if bolts are tightened to correct torque\nREPAIR:\n- Tighten the connection bolts according to the procedure\n",
+    "fault_id": "fault_machine_vibrates_e2edaad4",
+    "component_id": "connection_bolts_8f879b"
+  },
+  {
+    "symptom": "diesel engine hums but does not rotate",
+    "problem_description": "The diesel engine fails to start or rotate due to improper starting procedure",
+    "likely_causes": [
+      "improper starting procedure"
+    ],
+    "understanding": "The diesel engine requires proper starting procedure to function",
+    "verify": [
+      "check shift bar position"
+    ],
+    "repair": [
+      "start diesel engine according to manual instruction"
+    ],
+    "machine_family": "Diesel Engine",
+    "component": "Diesel Engine",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "Ⅳ ． **Starting**",
+    "embedding_text": "FAULT: diesel engine hums but does not rotate\nSYMPTOM: The diesel engine fails to start or rotate due to improper starting procedure\nCOMPONENT: Diesel Engine\nLIKELY CAUSES:\n- improper starting procedure\nVERIFY:\n- check shift bar position\nREPAIR:\n- start diesel engine according to manual instruction\n",
+    "fault_id": "fault_diesel_engine_hums_but_97b52e33",
+    "component_id": "diesel_engine_bc280e"
+  },
+  {
+    "symptom": "loose blades",
+    "problem_description": "The blades are not securely attached to the machine.",
+    "likely_causes": [
+      "incorrect bolt tightening"
+    ],
+    "understanding": "The blades need to be tightened securely to prevent damage to the machine and surrounding area.",
+    "verify": [
+      "Check the bolt torque value"
+    ],
+    "repair": [
+      "Tighten the bolt to 55 Nm"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "M8*55 bolt",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "Ⅵ **. Accessory mounting**",
+    "embedding_text": "FAULT: loose blades\nSYMPTOM: The blades are not securely attached to the machine.\nCOMPONENT: M8*55 bolt\nLIKELY CAUSES:\n- incorrect bolt tightening\nVERIFY:\n- Check the bolt torque value\nREPAIR:\n- Tighten the bolt to 55 Nm\n",
+    "fault_id": "fault_loose_blades_c8f3b445",
+    "component_id": "m855_bolt_f18664"
+  },
+  {
+    "symptom": "uneven tilling",
+    "problem_description": "The machine is not tilling the soil evenly.",
+    "likely_causes": [
+      "incorrect blade assembly"
+    ],
+    "understanding": "The blades need to be assembled correctly to ensure even tilling.",
+    "verify": [
+      "Check the blades port is working correctly"
+    ],
+    "repair": [
+      "Adjust the blades port"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "tilling blades",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "Ⅵ **. Accessory mounting**",
+    "embedding_text": "FAULT: uneven tilling\nSYMPTOM: The machine is not tilling the soil evenly.\nCOMPONENT: tilling blades\nLIKELY CAUSES:\n- incorrect blade assembly\nVERIFY:\n- Check the blades port is working correctly\nREPAIR:\n- Adjust the blades port\n",
+    "fault_id": "fault_uneven_tilling_87311f36",
+    "component_id": "tilling_blades_258058"
+  },
+  {
+    "symptom": "inadequate opening",
+    "problem_description": "The machine is not opening the soil to the correct depth.",
+    "likely_causes": [
+      "incorrect opening width"
+    ],
+    "understanding": "The opening width needs to be adjusted to ensure the correct depth of soil is opened.",
+    "verify": [
+      "Check the opening width is between 14-40 cm"
+    ],
+    "repair": [
+      "Adjust the opening width"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "opening width",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "Ⅵ **. Accessory mounting**",
+    "embedding_text": "FAULT: inadequate opening\nSYMPTOM: The machine is not opening the soil to the correct depth.\nCOMPONENT: opening width\nLIKELY CAUSES:\n- incorrect opening width\nVERIFY:\n- Check the opening width is between 14-40 cm\nREPAIR:\n- Adjust the opening width\n",
+    "fault_id": "fault_inadequate_opening_10551bc2",
+    "component_id": "opening_width_85b81a"
+  },
+  {
+    "symptom": "inadequate opening",
+    "problem_description": "The machine is not opening the soil to the correct depth.",
+    "likely_causes": [
+      "incorrect opening depth"
+    ],
+    "understanding": "The opening depth needs to be adjusted to ensure the correct depth of soil is opened.",
+    "verify": [
+      "Check the opening depth is between 11-25 cm"
+    ],
+    "repair": [
+      "Adjust the opening depth"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "opening depth",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "Ⅵ **. Accessory mounting**",
+    "embedding_text": "FAULT: inadequate opening\nSYMPTOM: The machine is not opening the soil to the correct depth.\nCOMPONENT: opening depth\nLIKELY CAUSES:\n- incorrect opening depth\nVERIFY:\n- Check the opening depth is between 11-25 cm\nREPAIR:\n- Adjust the opening depth\n",
+    "fault_id": "fault_inadequate_opening_10551bc2",
+    "component_id": "opening_depth_72dd8c"
+  },
+  {
+    "symptom": "inadequate tilling",
+    "problem_description": "The machine is not tilling the soil to the correct depth.",
+    "likely_causes": [
+      "incorrect sucking depth"
+    ],
+    "understanding": "The sucking depth needs to be adjusted to ensure the correct depth of soil is tilled.",
+    "verify": [
+      "Check the sucking depth is less than 25 cm"
+    ],
+    "repair": [
+      "Adjust the sucking depth"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "sucking depth",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "Ⅵ **. Accessory mounting**",
+    "embedding_text": "FAULT: inadequate tilling\nSYMPTOM: The machine is not tilling the soil to the correct depth.\nCOMPONENT: sucking depth\nLIKELY CAUSES:\n- incorrect sucking depth\nVERIFY:\n- Check the sucking depth is less than 25 cm\nREPAIR:\n- Adjust the sucking depth\n",
+    "fault_id": "fault_inadequate_tilling_e4a8f8c3",
+    "component_id": "sucking_depth_eee915"
+  },
+  {
+    "symptom": "inadequate tilling",
+    "problem_description": "The machine is not tilling the soil to the correct depth.",
+    "likely_causes": [
+      "incorrect sucking depth"
+    ],
+    "understanding": "The sucking depth needs to be adjusted to ensure the correct depth of soil is tilled.",
+    "verify": [
+      "Check the sucking depth is between 25-45 cm"
+    ],
+    "repair": [
+      "Adjust the sucking depth"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "sucking depth",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "Ⅵ **. Accessory mounting**",
+    "embedding_text": "FAULT: inadequate tilling\nSYMPTOM: The machine is not tilling the soil to the correct depth.\nCOMPONENT: sucking depth\nLIKELY CAUSES:\n- incorrect sucking depth\nVERIFY:\n- Check the sucking depth is between 25-45 cm\nREPAIR:\n- Adjust the sucking depth\n",
+    "fault_id": "fault_inadequate_tilling_e4a8f8c3",
+    "component_id": "sucking_depth_eee915"
+  },
+  {
+    "symptom": "overloading",
+    "problem_description": "The machine is overloaded.",
+    "likely_causes": [
+      "incorrect rated load"
+    ],
+    "understanding": "The rated load needs to be adjusted to prevent damage to the machine.",
+    "verify": [
+      "Check the rated load is 250 kg"
+    ],
+    "repair": [
+      "Adjust the rated load"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "rated load",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "Ⅵ **. Accessory mounting**",
+    "embedding_text": "FAULT: overloading\nSYMPTOM: The machine is overloaded.\nCOMPONENT: rated load\nLIKELY CAUSES:\n- incorrect rated load\nVERIFY:\n- Check the rated load is 250 kg\nREPAIR:\n- Adjust the rated load\n",
+    "fault_id": "fault_overloading_5d606540",
+    "component_id": "rated_load_1e707f"
+  },
+  {
+    "symptom": "inadequate speed",
+    "problem_description": "The machine is not operating at the correct speed.",
+    "likely_causes": [
+      "incorrect speed"
+    ],
+    "understanding": "The speed needs to be adjusted to ensure the machine operates correctly.",
+    "verify": [
+      "Check the speed is about 8km/h with fast shift"
+    ],
+    "repair": [
+      "Adjust the speed"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "speed",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "Ⅵ **. Accessory mounting**",
+    "embedding_text": "FAULT: inadequate speed\nSYMPTOM: The machine is not operating at the correct speed.\nCOMPONENT: speed\nLIKELY CAUSES:\n- incorrect speed\nVERIFY:\n- Check the speed is about 8km/h with fast shift\nREPAIR:\n- Adjust the speed\n",
+    "fault_id": "fault_inadequate_speed_2732057c",
+    "component_id": "speed_ce4ef3"
+  },
+  {
+    "symptom": "inadequate speed",
+    "problem_description": "The machine is not operating at the correct speed.",
+    "likely_causes": [
+      "incorrect speed"
+    ],
+    "understanding": "The speed needs to be adjusted to ensure the machine operates correctly.",
+    "verify": [
+      "Check the speed is about 4.5 km/h with slow shift"
+    ],
+    "repair": [
+      "Adjust the speed"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "speed",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "Ⅵ **. Accessory mounting**",
+    "embedding_text": "FAULT: inadequate speed\nSYMPTOM: The machine is not operating at the correct speed.\nCOMPONENT: speed\nLIKELY CAUSES:\n- incorrect speed\nVERIFY:\n- Check the speed is about 4.5 km/h with slow shift\nREPAIR:\n- Adjust the speed\n",
+    "fault_id": "fault_inadequate_speed_2732057c",
+    "component_id": "speed_ce4ef3"
+  },
+  {
+    "symptom": "vibration",
+    "problem_description": "The power tiller is vibrating excessively",
+    "likely_causes": [
+      "misaligned gear-box"
+    ],
+    "understanding": "Misaligned gear-box can cause vibration",
+    "verify": [
+      "Check the gear-box protection cover bolts are tightened"
+    ],
+    "repair": [
+      "Tighten the gear-box protection cover bolts to 25 Nm"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Gear-Box",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "5. Multi-Functional Working",
+    "embedding_text": "FAULT: vibration\nSYMPTOM: The power tiller is vibrating excessively\nCOMPONENT: Gear-Box\nLIKELY CAUSES:\n- misaligned gear-box\nVERIFY:\n- Check the gear-box protection cover bolts are tightened\nREPAIR:\n- Tighten the gear-box protection cover bolts to 25 Nm\n",
+    "fault_id": "fault_vibration_036f0ff1",
+    "component_id": "gearbox_61a729"
+  },
+  {
+    "symptom": "noise",
+    "problem_description": "The power tiller is making excessive noise",
+    "likely_causes": [
+      "misaligned gear-box"
+    ],
+    "understanding": "Misaligned gear-box can cause noise",
+    "verify": [
+      "Check the belt pulley or coupling is securely fastened"
+    ],
+    "repair": [
+      "Secure the belt pulley or coupling to the gear-box's main shaft"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Gear-Box",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "5. Multi-Functional Working",
+    "embedding_text": "FAULT: noise\nSYMPTOM: The power tiller is making excessive noise\nCOMPONENT: Gear-Box\nLIKELY CAUSES:\n- misaligned gear-box\nVERIFY:\n- Check the belt pulley or coupling is securely fastened\nREPAIR:\n- Secure the belt pulley or coupling to the gear-box's main shaft\n",
+    "fault_id": "fault_noise_aaddc345",
+    "component_id": "gearbox_61a729"
+  },
+  {
+    "symptom": "machine tilts when farming",
+    "problem_description": "uneven terrain causes the machine to tilt",
+    "likely_causes": [
+      "uneven terrain"
+    ],
+    "understanding": "uneven terrain can cause the machine to tilt",
+    "verify": [
+      "check the terrain for unevenness"
+    ],
+    "repair": [
+      "adjust the tiller blade"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Tiller Blade",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "Ⅶ **Attentions**",
+    "embedding_text": "FAULT: machine tilts when farming\nSYMPTOM: uneven terrain causes the machine to tilt\nCOMPONENT: Tiller Blade\nLIKELY CAUSES:\n- uneven terrain\nVERIFY:\n- check the terrain for unevenness\nREPAIR:\n- adjust the tiller blade\n",
+    "fault_id": "fault_machine_tilts_when_farming_e04eded2",
+    "component_id": "tiller_blade_f3d103"
+  },
+  {
+    "symptom": "sponge or wire mesh dirty",
+    "problem_description": "dirt and debris accumulation causes the air cleaner to become dirty",
+    "likely_causes": [
+      "dirt and debris accumulation"
+    ],
+    "understanding": "dirt and debris can accumulate in the air cleaner",
+    "verify": [
+      "check the air cleaner for dirt and debris"
+    ],
+    "repair": [
+      "clean the air cleaner"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Air Cleaner",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "Ⅶ **Attentions**",
+    "embedding_text": "FAULT: sponge or wire mesh dirty\nSYMPTOM: dirt and debris accumulation causes the air cleaner to become dirty\nCOMPONENT: Air Cleaner\nLIKELY CAUSES:\n- dirt and debris accumulation\nVERIFY:\n- check the air cleaner for dirt and debris\nREPAIR:\n- clean the air cleaner\n",
+    "fault_id": "fault_sponge_or_wire_mesh_2350d43d",
+    "component_id": "air_cleaner_0e9d9f"
+  },
+  {
+    "symptom": "oil levels low",
+    "problem_description": "insufficient oil causes the oil levels to be low",
+    "likely_causes": [
+      "insufficient oil"
+    ],
+    "understanding": "insufficient oil can cause the oil levels to be low",
+    "verify": [
+      "check the oil levels in the diesel engine"
+    ],
+    "repair": [
+      "refill engine oil"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Diesel Engine Oil",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "Ⅶ **Attentions**",
+    "embedding_text": "FAULT: oil levels low\nSYMPTOM: insufficient oil causes the oil levels to be low\nCOMPONENT: Diesel Engine Oil\nLIKELY CAUSES:\n- insufficient oil\nVERIFY:\n- check the oil levels in the diesel engine\nREPAIR:\n- refill engine oil\n",
+    "fault_id": "fault_oil_levels_low_cdc5b249",
+    "component_id": "diesel_engine_a3ed4c"
+  },
+  {
+    "symptom": "Bolts loosen during operation",
+    "problem_description": "Bolts loosen due to abrasion and loading",
+    "likely_causes": [
+      "Abrasion and loading"
+    ],
+    "understanding": "Bolts loosen due to wear and tear",
+    "verify": [
+      "Check for worn-out parts"
+    ],
+    "repair": [
+      "Tighten bolts to 25 Nm and replace worn-out parts"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Bolts",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Chapter Six Maintenance of Power Tiller**",
+    "embedding_text": "FAULT: Bolts loosen during operation\nSYMPTOM: Bolts loosen due to abrasion and loading\nCOMPONENT: Bolts\nLIKELY CAUSES:\n- Abrasion and loading\nVERIFY:\n- Check for worn-out parts\nREPAIR:\n- Tighten bolts to 25 Nm and replace worn-out parts\n",
+    "fault_id": "fault_bolts_loosen_during_operation_2051d889",
+    "component_id": "bolts_af996f"
+  },
+  {
+    "symptom": "Parts wear out during operation",
+    "problem_description": "Parts wear out due to abrasion and loading",
+    "likely_causes": [
+      "Abrasion and loading"
+    ],
+    "understanding": "Parts wear out due to wear and tear",
+    "verify": [
+      "Check for worn-out parts"
+    ],
+    "repair": [
+      "Replace worn-out parts"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Parts",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Chapter Six Maintenance of Power Tiller**",
+    "embedding_text": "FAULT: Parts wear out during operation\nSYMPTOM: Parts wear out due to abrasion and loading\nCOMPONENT: Parts\nLIKELY CAUSES:\n- Abrasion and loading\nVERIFY:\n- Check for worn-out parts\nREPAIR:\n- Replace worn-out parts\n",
+    "fault_id": "fault_parts_wear_out_during_86f584a9",
+    "component_id": "parts_78f080"
+  },
+  {
+    "symptom": "Gear box leaks oil",
+    "problem_description": "Insufficient lubricant in the gear box",
+    "likely_causes": [
+      "Insufficient lubricant"
+    ],
+    "understanding": "The gear box needs to be refilled with lubricant",
+    "verify": [
+      "Check the gear box for oil leaks"
+    ],
+    "repair": [
+      "Refill the gear box with lubricant according to the manual"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Gear Box",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "Ⅰ ． **Running-in**",
+    "embedding_text": "FAULT: Gear box leaks oil\nSYMPTOM: Insufficient lubricant in the gear box\nCOMPONENT: Gear Box\nLIKELY CAUSES:\n- Insufficient lubricant\nVERIFY:\n- Check the gear box for oil leaks\nREPAIR:\n- Refill the gear box with lubricant according to the manual\n",
+    "fault_id": "fault_gear_box_leaks_oil_3c8f1b90",
+    "component_id": "gear_box_7e5657"
+  },
+  {
+    "symptom": "Diesel engine crankcase leaks oil",
+    "problem_description": "Insufficient lubricant in the diesel engine crankcase",
+    "likely_causes": [
+      "Insufficient lubricant"
+    ],
+    "understanding": "The diesel engine crankcase needs to be refilled with lubricant",
+    "verify": [
+      "Check the crankcase for oil leaks"
+    ],
+    "repair": [
+      "Refill the crankcase with lubricant according to the manual"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Diesel Engine Crankcase",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "Ⅰ ． **Running-in**",
+    "embedding_text": "FAULT: Diesel engine crankcase leaks oil\nSYMPTOM: Insufficient lubricant in the diesel engine crankcase\nCOMPONENT: Diesel Engine Crankcase\nLIKELY CAUSES:\n- Insufficient lubricant\nVERIFY:\n- Check the crankcase for oil leaks\nREPAIR:\n- Refill the crankcase with lubricant according to the manual\n",
+    "fault_id": "fault_diesel_engine_crankcase_leaks_0304970b",
+    "component_id": "diesel_engine_66176e"
+  },
+  {
+    "symptom": "Clutch does not engage",
+    "problem_description": "Clutch failure prevents smooth operation",
+    "likely_causes": [
+      "Worn clutch friction piece"
+    ],
+    "understanding": "Clutch failure is a common issue in power tillers",
+    "verify": [
+      "Check clutch adjustment"
+    ],
+    "repair": [
+      "Replace clutch friction piece"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Clutch",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "Ⅱ ． **Maintenance**",
+    "embedding_text": "FAULT: Clutch does not engage\nSYMPTOM: Clutch failure prevents smooth operation\nCOMPONENT: Clutch\nLIKELY CAUSES:\n- Worn clutch friction piece\nVERIFY:\n- Check clutch adjustment\nREPAIR:\n- Replace clutch friction piece\n",
+    "fault_id": "fault_clutch_does_not_engage_d29e71ac",
+    "component_id": "clutch_22275a"
+  },
+  {
+    "symptom": "Engine stalls",
+    "problem_description": "Engine failure prevents operation",
+    "likely_causes": [
+      "Clogged fuel filter"
+    ],
+    "understanding": "Fuel filter clogging is a common issue in power tillers",
+    "verify": [
+      "Check fuel filter for blockage"
+    ],
+    "repair": [
+      "Replace fuel filter"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Fuel filter",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "Ⅱ ． **Maintenance**",
+    "embedding_text": "FAULT: Engine stalls\nSYMPTOM: Engine failure prevents operation\nCOMPONENT: Fuel filter\nLIKELY CAUSES:\n- Clogged fuel filter\nVERIFY:\n- Check fuel filter for blockage\nREPAIR:\n- Replace fuel filter\n",
+    "fault_id": "fault_engine_stalls_af6b62c1",
+    "component_id": "fuel_filter_7ae732"
+  },
+  {
+    "symptom": "abnormal sound",
+    "problem_description": "Incorrect clearance of bevel gear or step box gear.",
+    "likely_causes": [
+      "incorrect clearance"
+    ],
+    "understanding": "Incorrect clearance can cause abnormal sound.",
+    "verify": [
+      "check lateral clearance"
+    ],
+    "repair": [
+      "adjust clearance"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Bevel Gear",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅰ Bevel gear adjustment**",
+    "embedding_text": "FAULT: abnormal sound\nSYMPTOM: Incorrect clearance of bevel gear or step box gear.\nCOMPONENT: Bevel Gear\nLIKELY CAUSES:\n- incorrect clearance\nVERIFY:\n- check lateral clearance\nREPAIR:\n- adjust clearance\n",
+    "fault_id": "fault_abnormal_sound_3e4e4e6a",
+    "component_id": "bevel_gear_2cce8e"
+  },
+  {
+    "symptom": "cannot reverse normally",
+    "problem_description": "Incorrect cable adjustment of reversing gears.",
+    "likely_causes": [
+      "incorrect cable adjustment"
+    ],
+    "understanding": "Incorrect cable adjustment can cause reversing gears to malfunction.",
+    "verify": [
+      "check gear engagement"
+    ],
+    "repair": [
+      "adjust cable"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Reversing Gears",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅰ Bevel gear adjustment**",
+    "embedding_text": "FAULT: cannot reverse normally\nSYMPTOM: Incorrect cable adjustment of reversing gears.\nCOMPONENT: Reversing Gears\nLIKELY CAUSES:\n- incorrect cable adjustment\nVERIFY:\n- check gear engagement\nREPAIR:\n- adjust cable\n",
+    "fault_id": "fault_cannot_reverse_normally_74062b88",
+    "component_id": "reversing_gears_32e0d1"
+  },
+  {
+    "symptom": "Clutch may not perform as well as before",
+    "problem_description": "Clutch performance degrades due to wear and tear",
+    "likely_causes": [
+      "Friction piece and clutch fork wearing"
+    ],
+    "understanding": "Clutch wear can cause performance issues",
+    "verify": [
+      "Check clutch handle looseness"
+    ],
+    "repair": [
+      "Adjust clutch cable or replace worn-out parts"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "Clutch",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅲ  Clutch cable adjustment**",
+    "embedding_text": "FAULT: Clutch may not perform as well as before\nSYMPTOM: Clutch performance degrades due to wear and tear\nCOMPONENT: Clutch\nLIKELY CAUSES:\n- Friction piece and clutch fork wearing\nVERIFY:\n- Check clutch handle looseness\nREPAIR:\n- Adjust clutch cable or replace worn-out parts\n",
+    "fault_id": "fault_clutch_may_not_perform_46b592f2",
+    "component_id": "clutch_22275a"
+  },
+  {
+    "symptom": "Diesel engine not in good performance when turning up or down the accelerator switch",
+    "problem_description": "The diesel engine may not be performing well due to a loose connection of the accelerator cable.",
+    "likely_causes": [
+      "Loose connection of accelerator cable"
+    ],
+    "understanding": "A loose connection of the accelerator cable can cause the diesel engine to malfunction.",
+    "verify": [
+      "Check if accelerator cable is firmly connected to the cable joint"
+    ],
+    "repair": [
+      "Adjust accelerator cable"
+    ],
+    "machine_family": "Diesel Engine",
+    "component": "Accelerator Cable",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅳ  Accelerator cable adjustment**",
+    "embedding_text": "FAULT: Diesel engine not in good performance when turning up or down the accelerator switch\nSYMPTOM: The diesel engine may not be performing well due to a loose connection of the accelerator cable.\nCOMPONENT: Accelerator Cable\nLIKELY CAUSES:\n- Loose connection of accelerator cable\nVERIFY:\n- Check if accelerator cable is firmly connected to the cable joint\nREPAIR:\n- Adjust accelerator cable\n",
+    "fault_id": "fault_diesel_engine_not_in_c2338260",
+    "component_id": "accelerator_cable_56ee96"
+  },
+  {
+    "symptom": "Up and down adjustment is not working",
+    "problem_description": "The up and down adjustment mechanism is not functioning properly",
+    "likely_causes": [
+      "Loose or damaged adjustment screw",
+      "Mechanical issue with the adjustment lever"
+    ],
+    "understanding": "The adjustment screw is responsible for controlling the up and down movement of the rotavator",
+    "verify": [
+      "Check if the adjustment screw is loose or damaged"
+    ],
+    "repair": [
+      "Tighten the adjustment screw or replace it if damaged"
+    ],
+    "machine_family": "Rotavator",
+    "component": "Adjustment Screw",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "appropriately according to the user’s personal condition and",
+    "embedding_text": "FAULT: Up and down adjustment is not working\nSYMPTOM: The up and down adjustment mechanism is not functioning properly\nCOMPONENT: Adjustment Screw\nLIKELY CAUSES:\n- Loose or damaged adjustment screw\n- Mechanical issue with the adjustment lever\nVERIFY:\n- Check if the adjustment screw is loose or damaged\nREPAIR:\n- Tighten the adjustment screw or replace it if damaged\n",
+    "fault_id": "fault_up_and_down_adjustment_c1c2828a",
+    "component_id": "adjustment_screw_5e22e5"
+  },
+  {
+    "symptom": "armrest handle assembly not engaging",
+    "problem_description": "The armrest handle assembly is not engaging properly, causing the armrest to not move.",
+    "likely_causes": [
+      "loose or misaligned gear ring"
+    ],
+    "understanding": "The gear ring between the armrest and armrest base is not engaging properly, causing the armrest to not move.",
+    "verify": [
+      "Check the gear ring for misalignment or damage"
+    ],
+    "repair": [
+      "Adjust the gear ring to proper alignment and engagement"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "armrest handle assembly",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "Picture 12",
+    "embedding_text": "FAULT: armrest handle assembly not engaging\nSYMPTOM: The armrest handle assembly is not engaging properly, causing the armrest to not move.\nCOMPONENT: armrest handle assembly\nLIKELY CAUSES:\n- loose or misaligned gear ring\nVERIFY:\n- Check the gear ring for misalignment or damage\nREPAIR:\n- Adjust the gear ring to proper alignment and engagement\n",
+    "fault_id": "fault_armrest_handle_assembly_not_ca743a0b",
+    "component_id": "armrest_handle_e5bee6"
+  },
+  {
+    "symptom": "armrest not moving left or right",
+    "problem_description": "The armrest is not moving left or right, causing the operator to have difficulty adjusting the armrest.",
+    "likely_causes": [
+      "tight or misaligned locknut handle"
+    ],
+    "understanding": "The locknut handle on the armrest base is not allowing the armrest to move left or right.",
+    "verify": [
+      "Check the locknut handle for tightness or misalignment"
+    ],
+    "repair": [
+      "Loosen the locknut handle to allow the armrest to move left or right"
+    ],
+    "machine_family": "Power Tiller",
+    "component": "locknut handle",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "Picture 12",
+    "embedding_text": "FAULT: armrest not moving left or right\nSYMPTOM: The armrest is not moving left or right, causing the operator to have difficulty adjusting the armrest.\nCOMPONENT: locknut handle\nLIKELY CAUSES:\n- tight or misaligned locknut handle\nVERIFY:\n- Check the locknut handle for tightness or misalignment\nREPAIR:\n- Loosen the locknut handle to allow the armrest to move left or right\n",
+    "fault_id": "fault_armrest_not_moving_left_187afe1a",
+    "component_id": "locknut_handle_ed4788"
+  },
+  {
+    "symptom": "Clutch fails to work",
+    "problem_description": "The clutch fails to engage or disengage properly.",
+    "likely_causes": [
+      "Clutch handle failure",
+      "Clutch cable damage",
+      "Clutch fork can not be in the right position",
+      "Welding points breaking off",
+      "Fork pin is bent or broken",
+      "Friction piece failure",
+      "Spring failure",
+      "Bearing burnt"
+    ],
+    "understanding": "The clutch is not functioning properly due to a mechanical issue.",
+    "verify": [
+      "Check the clutch cable for damage or misalignment.",
+      "Inspect the clutch fork for proper positioning and alignment."
+    ],
+    "repair": [
+      "Repair or replace the clutch.",
+      "Adjust the clutch cable or replace the clutch fork."
+    ],
+    "machine_family": "Tractor",
+    "component": "Clutch",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**ⅠClutch trouble eliminating (Note: do not dismount the clutch assembly by yourself)**",
+    "embedding_text": "FAULT: Clutch fails to work\nSYMPTOM: The clutch fails to engage or disengage properly.\nCOMPONENT: Clutch\nLIKELY CAUSES:\n- Clutch handle failure\n- Clutch cable damage\n- Clutch fork can not be in the right position\n- Welding points breaking off\n- Fork pin is bent or broken\n- Friction piece failure\n- Spring failure\n- Bearing burnt\nVERIFY:\n- Check the clutch cable for damage or misalignment.\n- Inspect the clutch fork for proper positioning and alignment.\nREPAIR:\n- Repair or replace the clutch.\n- Adjust the clutch cable or replace the clutch fork.\n",
+    "fault_id": "fault_clutch_fails_to_work_74e4bfe2",
+    "component_id": "clutch_22275a"
+  },
+  {
+    "symptom": "Clutch cable is not well adjusted",
+    "problem_description": "The clutch cable is not properly adjusted.",
+    "likely_causes": [
+      "Clutch cable is not well adjusted"
+    ],
+    "understanding": "The clutch cable is not properly adjusted, causing the clutch to malfunction.",
+    "verify": [
+      "Readjust the clutch cable."
+    ],
+    "repair": [
+      "Readjust the clutch cable."
+    ],
+    "machine_family": "Tractor",
+    "component": "Clutch Cable",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**ⅠClutch trouble eliminating (Note: do not dismount the clutch assembly by yourself)**",
+    "embedding_text": "FAULT: Clutch cable is not well adjusted\nSYMPTOM: The clutch cable is not properly adjusted.\nCOMPONENT: Clutch Cable\nLIKELY CAUSES:\n- Clutch cable is not well adjusted\nVERIFY:\n- Readjust the clutch cable.\nREPAIR:\n- Readjust the clutch cable.\n",
+    "fault_id": "fault_clutch_cable_is_not_f979b759",
+    "component_id": "clutch_cable_9d7b70"
+  },
+  {
+    "symptom": "Shift failure",
+    "problem_description": "Main shaft is not stable and the gear box cover bolts are loosen",
+    "likely_causes": [
+      "Main shaft screws are loosen",
+      "Excess abrasion of shift block"
+    ],
+    "understanding": "Main shaft is not stable due to loosen gear box cover bolts",
+    "verify": [
+      "Check for excess abrasion of shift block"
+    ],
+    "repair": [
+      "Dismount the bolts, key cover and re-fasten"
+    ],
+    "machine_family": "Tractor",
+    "component": "Main shaft",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**ⅡGear box trouble eliminating**",
+    "embedding_text": "FAULT: Shift failure\nSYMPTOM: Main shaft is not stable and the gear box cover bolts are loosen\nCOMPONENT: Main shaft\nLIKELY CAUSES:\n- Main shaft screws are loosen\n- Excess abrasion of shift block\nVERIFY:\n- Check for excess abrasion of shift block\nREPAIR:\n- Dismount the bolts, key cover and re-fasten\n",
+    "fault_id": "fault_shift_failure_27fdb5c9",
+    "component_id": "main_shaft_d9a5f2"
+  },
+  {
+    "symptom": "Main shaft positioning spring failure",
+    "problem_description": "Main shaft is not stable and the gear box cover bolts are loosen",
+    "likely_causes": [
+      "Main shaft is not stable and the gear box cover bolts are loosen"
+    ],
+    "understanding": "Main shaft positioning spring is failed due to loosen gear box cover bolts",
+    "verify": [
+      "Check for deformation of shift bar leading to shift interference"
+    ],
+    "repair": [
+      "Tighten the bolts"
+    ],
+    "machine_family": "Tractor",
+    "component": "Main shaft positioning spring",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**ⅡGear box trouble eliminating**",
+    "embedding_text": "FAULT: Main shaft positioning spring failure\nSYMPTOM: Main shaft is not stable and the gear box cover bolts are loosen\nCOMPONENT: Main shaft positioning spring\nLIKELY CAUSES:\n- Main shaft is not stable and the gear box cover bolts are loosen\nVERIFY:\n- Check for deformation of shift bar leading to shift interference\nREPAIR:\n- Tighten the bolts\n",
+    "fault_id": "fault_main_shaft_positioning_spring_2f9fd311",
+    "component_id": "main_shaft_223115"
+  },
+  {
+    "symptom": "Reversing fork is blocked",
+    "problem_description": "Reversing fork abrasion",
+    "likely_causes": [
+      "Reversing fork abrasion"
+    ],
+    "understanding": "Reversing fork is blocked due to abrasion",
+    "verify": [
+      "Check for reversing fork abrasion"
+    ],
+    "repair": [
+      "Clean the combined face between reversing fork and reversing pushing plate to make the fork move freely"
+    ],
+    "machine_family": "Tractor",
+    "component": "Reversing fork",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**ⅡGear box trouble eliminating**",
+    "embedding_text": "FAULT: Reversing fork is blocked\nSYMPTOM: Reversing fork abrasion\nCOMPONENT: Reversing fork\nLIKELY CAUSES:\n- Reversing fork abrasion\nVERIFY:\n- Check for reversing fork abrasion\nREPAIR:\n- Clean the combined face between reversing fork and reversing pushing plate to make the fork move freely\n",
+    "fault_id": "fault_reversing_fork_is_blocked_d1e95ea5",
+    "component_id": "reversing_fork_c816a1"
+  },
+  {
+    "symptom": "Reversing shaft is loosen",
+    "problem_description": "Reversing shaft back bolts are loose",
+    "likely_causes": [
+      "Reversing shaft back bolts are loose"
+    ],
+    "understanding": "Reversing shaft is loosen due to loose back bolts",
+    "verify": [
+      "Check for reversing shaft spring failure"
+    ],
+    "repair": [
+      "Tighten the reversing shaft back bolts"
+    ],
+    "machine_family": "Tractor",
+    "component": "Reversing shaft",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**ⅡGear box trouble eliminating**",
+    "embedding_text": "FAULT: Reversing shaft is loosen\nSYMPTOM: Reversing shaft back bolts are loose\nCOMPONENT: Reversing shaft\nLIKELY CAUSES:\n- Reversing shaft back bolts are loose\nVERIFY:\n- Check for reversing shaft spring failure\nREPAIR:\n- Tighten the reversing shaft back bolts\n",
+    "fault_id": "fault_reversing_shaft_is_loosen_5417befd",
+    "component_id": "reversing_shaft_7a5424"
+  },
+  {
+    "symptom": "Reversing shaft O-ring failure",
+    "problem_description": "Reversing shaft O-ring failure",
+    "likely_causes": [
+      "Reversing shaft O-ring failure"
+    ],
+    "understanding": "Reversing shaft O-ring is failed",
+    "verify": [
+      "Check for reversing shaft O-ring failure"
+    ],
+    "repair": [
+      "Replace O-ring φ18×1.8"
+    ],
+    "machine_family": "Tractor",
+    "component": "Reversing shaft O-ring",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**ⅡGear box trouble eliminating**",
+    "embedding_text": "FAULT: Reversing shaft O-ring failure\nSYMPTOM: Reversing shaft O-ring failure\nCOMPONENT: Reversing shaft O-ring\nLIKELY CAUSES:\n- Reversing shaft O-ring failure\nVERIFY:\n- Check for reversing shaft O-ring failure\nREPAIR:\n- Replace O-ring φ18×1.8\n",
+    "fault_id": "fault_reversing_shaft_oring_failure_f37adb8e",
+    "component_id": "reversing_shaft_4e3e39"
+  },
+  {
+    "symptom": "Gear box oil leakage",
+    "problem_description": "Tiny hidden holes exit on the gear box",
+    "likely_causes": [
+      "Tiny hidden holes exit on the gear box"
+    ],
+    "understanding": "Gear box oil leakage is due to hidden holes",
+    "verify": [
+      "Check for gear box oil leakage"
+    ],
+    "repair": [
+      "Re-welding or padding"
+    ],
+    "machine_family": "Tractor",
+    "component": "Gear box oil",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**ⅡGear box trouble eliminating**",
+    "embedding_text": "FAULT: Gear box oil leakage\nSYMPTOM: Tiny hidden holes exit on the gear box\nCOMPONENT: Gear box oil\nLIKELY CAUSES:\n- Tiny hidden holes exit on the gear box\nVERIFY:\n- Check for gear box oil leakage\nREPAIR:\n- Re-welding or padding\n",
+    "fault_id": "fault_gear_box_oil_leakage_a9e7aeec",
+    "component_id": "gear_box_fa8e74"
+  },
+  {
+    "symptom": "Too loud noise from the gear",
+    "problem_description": "Gear noise is too loud",
+    "likely_causes": [
+      "Excess gear abrasion or error"
+    ],
+    "understanding": "Gear noise is caused by excess abrasion or error",
+    "verify": [
+      "Check for error mounting"
+    ],
+    "repair": [
+      "Remount the gear and readjust or replace the gear"
+    ],
+    "machine_family": "Harvester",
+    "component": "Gear",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅲ Step box trouble eliminating**",
+    "embedding_text": "FAULT: Too loud noise from the gear\nSYMPTOM: Gear noise is too loud\nCOMPONENT: Gear\nLIKELY CAUSES:\n- Excess gear abrasion or error\nVERIFY:\n- Check for error mounting\nREPAIR:\n- Remount the gear and readjust or replace the gear\n",
+    "fault_id": "fault_too_loud_noise_from_ae4675ef",
+    "component_id": "gear_fae005"
+  },
+  {
+    "symptom": "Oil leakage of the gear box connection",
+    "problem_description": "Oil leakage from the gear box connection",
+    "likely_causes": [
+      "Connection bolt is loosen",
+      "Seal gasket is damaged"
+    ],
+    "understanding": "Oil leakage from the gear box connection is caused by loosen connection bolt or damaged seal gasket",
+    "verify": [
+      "Check for loosen connection bolt"
+    ],
+    "repair": [
+      "Tighten the bolts or replace the seal gasket"
+    ],
+    "machine_family": "Harvester",
+    "component": "Gear box connection",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅲ Step box trouble eliminating**",
+    "embedding_text": "FAULT: Oil leakage of the gear box connection\nSYMPTOM: Oil leakage from the gear box connection\nCOMPONENT: Gear box connection\nLIKELY CAUSES:\n- Connection bolt is loosen\n- Seal gasket is damaged\nVERIFY:\n- Check for loosen connection bolt\nREPAIR:\n- Tighten the bolts or replace the seal gasket\n",
+    "fault_id": "fault_oil_leakage_of_the_04931ae6",
+    "component_id": "gear_box_2e4fa8"
+  },
+  {
+    "symptom": "Oil leakage of the output shaft casing",
+    "problem_description": "Oil leakage from the output shaft casing",
+    "likely_causes": [
+      "Oil seal damage"
+    ],
+    "understanding": "Oil leakage from the output shaft casing is caused by damaged oil seal",
+    "verify": [
+      "Check for oil seal damage"
+    ],
+    "repair": [
+      "Replace the oil seal"
+    ],
+    "machine_family": "Harvester",
+    "component": "Oil seal",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅲ Step box trouble eliminating**",
+    "embedding_text": "FAULT: Oil leakage of the output shaft casing\nSYMPTOM: Oil leakage from the output shaft casing\nCOMPONENT: Oil seal\nLIKELY CAUSES:\n- Oil seal damage\nVERIFY:\n- Check for oil seal damage\nREPAIR:\n- Replace the oil seal\n",
+    "fault_id": "fault_oil_leakage_of_the_132b9493",
+    "component_id": "oil_seal_26e225"
+  },
+  {
+    "symptom": "Serious oil leakage of the hexagonal hole in the shaft casing",
+    "problem_description": "Serious oil leakage from the hexagonal hole in the shaft casing",
+    "likely_causes": [
+      "Shaft casing breaking"
+    ],
+    "understanding": "Serious oil leakage from the hexagonal hole in the shaft casing is caused by breaking shaft casing",
+    "verify": [
+      "Check for breaking shaft casing"
+    ],
+    "repair": [
+      "Replace the shaft casing"
+    ],
+    "machine_family": "Harvester",
+    "component": "Shaft casing",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅲ Step box trouble eliminating**",
+    "embedding_text": "FAULT: Serious oil leakage of the hexagonal hole in the shaft casing\nSYMPTOM: Serious oil leakage from the hexagonal hole in the shaft casing\nCOMPONENT: Shaft casing\nLIKELY CAUSES:\n- Shaft casing breaking\nVERIFY:\n- Check for breaking shaft casing\nREPAIR:\n- Replace the shaft casing\n",
+    "fault_id": "fault_serious_oil_leakage_of_04aeaac1",
+    "component_id": "shaft_casing_6fcb6b"
+  },
+  {
+    "symptom": "Oil leakage of the drain hole",
+    "problem_description": "Oil leakage from the drain hole",
+    "likely_causes": [
+      "O- ring damage"
+    ],
+    "understanding": "Oil leakage from the drain hole is caused by damaged O- ring",
+    "verify": [
+      "Check for O- ring damage"
+    ],
+    "repair": [
+      "Replace the O- ring"
+    ],
+    "machine_family": "Harvester",
+    "component": "O- ring",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅲ Step box trouble eliminating**",
+    "embedding_text": "FAULT: Oil leakage of the drain hole\nSYMPTOM: Oil leakage from the drain hole\nCOMPONENT: O- ring\nLIKELY CAUSES:\n- O- ring damage\nVERIFY:\n- Check for O- ring damage\nREPAIR:\n- Replace the O- ring\n",
+    "fault_id": "fault_oil_leakage_of_the_63d90f2c",
+    "component_id": "o_ring_464d3d"
+  },
+  {
+    "symptom": "Leakage of the step box",
+    "problem_description": "Leakage from the step box",
+    "likely_causes": [
+      "Tiny hidden holes exit on the step box padding"
+    ],
+    "understanding": "Leakage from the step box is caused by tiny hidden holes exit on the step box padding",
+    "verify": [
+      "Check for tiny hidden holes exit on the step box padding"
+    ],
+    "repair": [
+      "Re-welding or replace the step box padding"
+    ],
+    "machine_family": "Harvester",
+    "component": "Step box padding",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅲ Step box trouble eliminating**",
+    "embedding_text": "FAULT: Leakage of the step box\nSYMPTOM: Leakage from the step box\nCOMPONENT: Step box padding\nLIKELY CAUSES:\n- Tiny hidden holes exit on the step box padding\nVERIFY:\n- Check for tiny hidden holes exit on the step box padding\nREPAIR:\n- Re-welding or replace the step box padding\n",
+    "fault_id": "fault_leakage_of_the_step_162e29c7",
+    "component_id": "step_box_ccb21f"
+  },
+  {
+    "symptom": "blade is broken",
+    "problem_description": "The rotavator blade is damaged and needs to be replaced.",
+    "likely_causes": [
+      "collided with hard things like stones"
+    ],
+    "understanding": "The blade is broken due to a collision with hard objects.",
+    "verify": [
+      "check for physical damage to the blade"
+    ],
+    "repair": [
+      "replace the blade"
+    ],
+    "machine_family": "Rotavator",
+    "component": "Blade",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅳ Others**",
+    "embedding_text": "FAULT: blade is broken\nSYMPTOM: The rotavator blade is damaged and needs to be replaced.\nCOMPONENT: Blade\nLIKELY CAUSES:\n- collided with hard things like stones\nVERIFY:\n- check for physical damage to the blade\nREPAIR:\n- replace the blade\n",
+    "fault_id": "fault_blade_is_broken_29f21e5c",
+    "component_id": "blade_2c066a"
+  },
+  {
+    "symptom": "manipulation cable is broken",
+    "problem_description": "The rotavator manipulation cable is damaged and needs to be replaced.",
+    "likely_causes": [
+      "long term in working leading to wearing"
+    ],
+    "understanding": "The cable is broken due to wear and tear.",
+    "verify": [
+      "check for signs of wear on the cable"
+    ],
+    "repair": [
+      "replace the manipulation cable"
+    ],
+    "machine_family": "Rotavator",
+    "component": "Manipulation cable",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅳ Others**",
+    "embedding_text": "FAULT: manipulation cable is broken\nSYMPTOM: The rotavator manipulation cable is damaged and needs to be replaced.\nCOMPONENT: Manipulation cable\nLIKELY CAUSES:\n- long term in working leading to wearing\nVERIFY:\n- check for signs of wear on the cable\nREPAIR:\n- replace the manipulation cable\n",
+    "fault_id": "fault_manipulation_cable_is_broken_83c9de66",
+    "component_id": "manipulation_cable_5ebc6f"
+  },
+  {
+    "symptom": "Tightening or loosening the corresponding bolt",
+    "problem_description": "The bolt is not tightened or loosened properly",
+    "likely_causes": [
+      "Loosening or tightening the bolt"
+    ],
+    "understanding": "The bolt needs to be tightened or loosened to the correct specification",
+    "verify": [
+      "Check the bolt's tightness or looseness"
+    ],
+    "repair": [
+      "Tighten or loosen the bolt to the correct specification"
+    ],
+    "machine_family": "Diesel Engine",
+    "component": "Bolt",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**List of attachment tools and papers**",
+    "embedding_text": "FAULT: Tightening or loosening the corresponding bolt\nSYMPTOM: The bolt is not tightened or loosened properly\nCOMPONENT: Bolt\nLIKELY CAUSES:\n- Loosening or tightening the bolt\nVERIFY:\n- Check the bolt's tightness or looseness\nREPAIR:\n- Tighten or loosen the bolt to the correct specification\n",
+    "fault_id": "fault_tightening_or_loosening_the_e02abf60",
+    "component_id": "bolt_a6fe88"
+  },
+  {
+    "symptom": "Tightening or loosening the di bolt",
+    "problem_description": "The di bolt is not tightened or loosened properly",
+    "likely_causes": [
+      "Loosening or tightening the di bolt"
+    ],
+    "understanding": "The di bolt needs to be tightened or loosened to the correct specification",
+    "verify": [
+      "Check the di bolt's tightness or looseness"
+    ],
+    "repair": [
+      "Tighten or loosen the di bolt to the correct specification"
+    ],
+    "machine_family": "Diesel Engine",
+    "component": "Di bolt",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**List of attachment tools and papers**",
+    "embedding_text": "FAULT: Tightening or loosening the di bolt\nSYMPTOM: The di bolt is not tightened or loosened properly\nCOMPONENT: Di bolt\nLIKELY CAUSES:\n- Loosening or tightening the di bolt\nVERIFY:\n- Check the di bolt's tightness or looseness\nREPAIR:\n- Tighten or loosen the di bolt to the correct specification\n",
+    "fault_id": "fault_tightening_or_loosening_the_05f74a10",
+    "component_id": "di_bolt_d197e8"
+  },
+  {
+    "symptom": "Helping to know the t tl t",
+    "problem_description": "The t tl t is not known",
+    "likely_causes": [
+      "Lack of knowledge about the t tl t"
+    ],
+    "understanding": "The SRD178F/186F/SR186FA, SRD178/186FA, or SR1Z-135(D)/SR1Z-105(D) can be used to know the t tl t",
+    "verify": [
+      "Check the SRD178F/186F/SR186FA, SRD178/186FA, or SR1Z-135(D)/SR1Z-105(D)"
+    ],
+    "repair": [
+      "Use the SRD178F/186F/SR186FA, SRD178/186FA, or SR1Z-135(D)/SR1Z-105(D) to know the t tl t"
+    ],
+    "machine_family": "Diesel Engine",
+    "component": "T tl t",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**List of attachment tools and papers**",
+    "embedding_text": "FAULT: Helping to know the t tl t\nSYMPTOM: The t tl t is not known\nCOMPONENT: T tl t\nLIKELY CAUSES:\n- Lack of knowledge about the t tl t\nVERIFY:\n- Check the SRD178F/186F/SR186FA, SRD178/186FA, or SR1Z-135(D)/SR1Z-105(D)\nREPAIR:\n- Use the SRD178F/186F/SR186FA, SRD178/186FA, or SR1Z-135(D)/SR1Z-105(D) to know the t tl t\n",
+    "fault_id": "fault_helping_to_know_the_3308a3db",
+    "component_id": "t_tl_0bc471"
+  },
+  {
+    "symptom": "Paddy wheel piece does not rotate",
+    "problem_description": "The paddy wheel piece is not rotating due to a worn-out bearing.",
+    "likely_causes": [
+      "Worn-out bearing"
+    ],
+    "understanding": "The bearing is the component that allows the paddy wheel piece to rotate.",
+    "verify": [
+      "Check the bearing for wear and tear"
+    ],
+    "repair": [
+      "Replace the bearing with a new one"
+    ],
+    "machine_family": "Rotavator",
+    "component": "Paddy wheel piece",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**List of optional tools**",
+    "embedding_text": "FAULT: Paddy wheel piece does not rotate\nSYMPTOM: The paddy wheel piece is not rotating due to a worn-out bearing.\nCOMPONENT: Paddy wheel piece\nLIKELY CAUSES:\n- Worn-out bearing\nVERIFY:\n- Check the bearing for wear and tear\nREPAIR:\n- Replace the bearing with a new one\n",
+    "fault_id": "fault_paddy_wheel_piece_does_45d71f93",
+    "component_id": "paddy_wheel_bf3a49"
+  },
+  {
+    "symptom": "Fuel pump does not prime",
+    "problem_description": "The fuel pump is not priming due to a clogged fuel filter.",
+    "likely_causes": [
+      "Clogged fuel filter"
+    ],
+    "understanding": "The fuel filter is the component that prevents debris from entering the fuel system.",
+    "verify": [
+      "Check the fuel filter for clogs and debris"
+    ],
+    "repair": [
+      "Replace the fuel filter with a new one"
+    ],
+    "machine_family": "Rotavator",
+    "component": "Fuel pump",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**List of optional tools**",
+    "embedding_text": "FAULT: Fuel pump does not prime\nSYMPTOM: The fuel pump is not priming due to a clogged fuel filter.\nCOMPONENT: Fuel pump\nLIKELY CAUSES:\n- Clogged fuel filter\nVERIFY:\n- Check the fuel filter for clogs and debris\nREPAIR:\n- Replace the fuel filter with a new one\n",
+    "fault_id": "fault_fuel_pump_does_not_feaba6c5",
+    "component_id": "fuel_pump_3cd13e"
+  }
+]

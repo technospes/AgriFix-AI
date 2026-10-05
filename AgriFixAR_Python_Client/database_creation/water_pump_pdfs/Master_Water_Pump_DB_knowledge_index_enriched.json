@@ -1,0 +1,484 @@
+[
+  {
+    "component": "Electricity Protective Device",
+    "procedure_ids": [
+      "a56c6eb40065"
+    ],
+    "fault_ids": [
+      "fault_electric_pump_does_not_6500216a"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "power socket",
+      "grounding wire"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Electricity Protective Device\n\nFAULT IDS:\n- fault_electric_pump_does_not_6500216a\n\nCONNECTED:\n- power socket\n- grounding wire\n",
+    "component_id": "electricity_protective_9dfee6"
+  },
+  {
+    "component": "Motor",
+    "procedure_ids": [
+      "a56c6eb40065",
+      "2152589cfdbf"
+    ],
+    "fault_ids": [
+      "fault_motor_is_overheating_ac96dcb2",
+      "fault_motor_hums_2ddf36dc"
+    ],
+    "spec_ids": [
+      "voltage:motor"
+    ],
+    "image_ids": [
+      "UnScanned_Water_Pump_Servicing-1_p18_img0.png"
+    ],
+    "connected_components": [
+      "motor",
+      "thermal insulation material",
+      "shaft",
+      "control panel"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Motor\n\nFAULT IDS:\n- fault_motor_is_overheating_ac96dcb2\n- fault_motor_hums_2ddf36dc\n\nCONNECTED:\n- motor\n- thermal insulation material\n- shaft\n- control panel\n",
+    "component_id": "motor_594171"
+  },
+  {
+    "component": "Mechanical Seal",
+    "procedure_ids": [
+      "b7db3f576958",
+      "da257e616fb6",
+      "43f1f60e8a3d"
+    ],
+    "fault_ids": [
+      "fault_pump_leaks_837005f8",
+      "fault_pump_leaks_water_dd850a8e",
+      "fault_pump_hums_but_does_b9c5d5e7"
+    ],
+    "spec_ids": [
+      "capacitor_rating:mechanical seal"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "motor",
+      "water pump",
+      "pump body, water inlet",
+      "impeller",
+      "bearing"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Mechanical Seal\n\nFAULT IDS:\n- fault_pump_leaks_837005f8\n- fault_pump_leaks_water_dd850a8e\n- fault_pump_hums_but_does_b9c5d5e7\n\nCONNECTED:\n- motor\n- water pump\n- pump body, water inlet\n- impeller\n- bearing\n",
+    "component_id": "mechanical_seal_1301ac"
+  },
+  {
+    "component": "Electric Pump",
+    "procedure_ids": [
+      "3ce1e9592912",
+      "b4e27a1dd76e"
+    ],
+    "fault_ids": [
+      "fault_pump_does_not_work_e1d0e2b6",
+      "fault_motor_hums_but_does_e2de0bb6"
+    ],
+    "spec_ids": [
+      "temperature:electric pump",
+      "clearance:electric pump"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "power supply",
+      "water inlet pipeline",
+      "cable"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Electric Pump\n\nFAULT IDS:\n- fault_pump_does_not_work_e1d0e2b6\n- fault_motor_hums_but_does_e2de0bb6\n\nCONNECTED:\n- power supply\n- water inlet pipeline\n- cable\n",
+    "component_id": "electric_pump_93c8fb"
+  },
+  {
+    "component": "Capacitor",
+    "procedure_ids": [
+      "fb9c70456f83",
+      "858bd4064990"
+    ],
+    "fault_ids": [
+      "fault_pump_does_not_start_e52f49b0",
+      "fault_pump_not_turning_on_013eeacf"
+    ],
+    "spec_ids": [
+      "voltage:capacitor"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "terminal box",
+      "control box",
+      "motor"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Capacitor\n\nFAULT IDS:\n- fault_pump_does_not_start_e52f49b0\n- fault_pump_not_turning_on_013eeacf\n\nCONNECTED:\n- terminal box\n- control box\n- motor\n",
+    "component_id": "capacitor_e271ca"
+  },
+  {
+    "component": "Flow Switch Subline Capacitor",
+    "procedure_ids": [
+      "c81078418e0d"
+    ],
+    "fault_ids": [
+      "fault_motor_hums_but_does_e2de0bb6"
+    ],
+    "spec_ids": [
+      "capacitor_rating:flow switch subline capacitor"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "main line(white)",
+      "common line(black/red)"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Flow Switch Subline Capacitor\n\nFAULT IDS:\n- fault_motor_hums_but_does_e2de0bb6\n\nCONNECTED:\n- main line(white)\n- common line(black/red)\n",
+    "component_id": "flow_switch_51144d"
+  },
+  {
+    "component": "Shaft Seal",
+    "procedure_ids": [
+      "2152589cfdbf"
+    ],
+    "fault_ids": [
+      "fault_seal_leak_6bfbff27"
+    ],
+    "spec_ids": [
+      "clearance:shaft seal"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "motor",
+      "impeller"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Shaft Seal\n\nFAULT IDS:\n- fault_seal_leak_6bfbff27\n\nCONNECTED:\n- motor\n- impeller\n",
+    "component_id": "shaft_seal_e7d67f"
+  },
+  {
+    "component": "Insulation Resistance",
+    "procedure_ids": [
+      "4e26f4fe9d07"
+    ],
+    "fault_ids": [
+      "fault_motor_hums_2ddf36dc",
+      "fault_trips_breaker_182f8322"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "cable",
+      "outgoing line",
+      "plug"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Insulation Resistance\n\nFAULT IDS:\n- fault_motor_hums_2ddf36dc\n- fault_trips_breaker_182f8322\n\nCONNECTED:\n- cable\n- outgoing line\n- plug\n",
+    "component_id": "insulation_resistance_e376e8"
+  },
+  {
+    "component": "Pump Body",
+    "procedure_ids": [
+      "4e26f4fe9d07"
+    ],
+    "fault_ids": [
+      "fault_air_lock_9193fd42",
+      "fault_cavitation_2470aac8"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "inlet pipe",
+      "outlet pipe"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Pump Body\n\nFAULT IDS:\n- fault_air_lock_9193fd42\n- fault_cavitation_2470aac8\n\nCONNECTED:\n- inlet pipe\n- outlet pipe\n",
+    "component_id": "pump_body_8c0882"
+  },
+  {
+    "component": "Impeller",
+    "procedure_ids": [
+      "4e26f4fe9d07",
+      "b4e27a1dd76e",
+      "64276bcb5222",
+      "5fcea43d7cd5"
+    ],
+    "fault_ids": [
+      "fault_wearing_4ac0803b",
+      "fault_blocking_14343966",
+      "fault_motor_runs_but_no_68e3bd08",
+      "fault_foreign_matter_in_impeller_124ec782"
+    ],
+    "spec_ids": [],
+    "image_ids": [
+      "UnScanned_Water_Pump_Servicing-1_p6_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p10_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p11_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p12_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p14_img0.png"
+    ],
+    "connected_components": [
+      "inlet pipe",
+      "outlet pipe",
+      "water inlet pipeline",
+      "cable",
+      "pump casing",
+      "shaft"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Impeller\n\nFAULT IDS:\n- fault_wearing_4ac0803b\n- fault_blocking_14343966\n- fault_motor_runs_but_no_68e3bd08\n- fault_foreign_matter_in_impeller_124ec782\n\nCONNECTED:\n- inlet pipe\n- outlet pipe\n- water inlet pipeline\n- cable\n- pump casing\n- shaft\n",
+    "component_id": "impeller_78f646"
+  },
+  {
+    "component": "Pressure Control Device",
+    "procedure_ids": [
+      "e13758d16d1d"
+    ],
+    "fault_ids": [
+      "fault_water_leakage_0c8c9da6"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "outlet pipeline"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Pressure Control Device\n\nFAULT IDS:\n- fault_water_leakage_0c8c9da6\n\nCONNECTED:\n- outlet pipeline\n",
+    "component_id": "pressure_control_b218f7"
+  },
+  {
+    "component": "Overload Protector",
+    "procedure_ids": [
+      "e13758d16d1d"
+    ],
+    "fault_ids": [
+      "fault_pump_damage_due_to_2490e733"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "three-phase electric pump"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Overload Protector\n\nFAULT IDS:\n- fault_pump_damage_due_to_2490e733\n\nCONNECTED:\n- three-phase electric pump\n",
+    "component_id": "overload_protector_7e584c"
+  },
+  {
+    "component": "Cable",
+    "procedure_ids": [
+      "e13758d16d1d"
+    ],
+    "fault_ids": [
+      "fault_loose_connection_8ae15155"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "electric pump"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Cable\n\nFAULT IDS:\n- fault_loose_connection_8ae15155\n\nCONNECTED:\n- electric pump\n",
+    "component_id": "cable_855923"
+  },
+  {
+    "component": "Check Valve And Filter Screen",
+    "procedure_ids": [
+      "e13758d16d1d"
+    ],
+    "fault_ids": [
+      "fault_failure_of_the_water_f7e937b4"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "water pump"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Check Valve And Filter Screen\n\nFAULT IDS:\n- fault_failure_of_the_water_f7e937b4\n\nCONNECTED:\n- water pump\n",
+    "component_id": "check_valve_03caf5"
+  },
+  {
+    "component": "Flow Switch",
+    "procedure_ids": [
+      "43f1f60e8a3d",
+      "c5835442257d"
+    ],
+    "fault_ids": [
+      "fault_pump_does_not_turn_4e4e782a"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "pressure tank",
+      "controller"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Flow Switch\n\nFAULT IDS:\n- fault_pump_does_not_turn_4e4e782a\n\nCONNECTED:\n- pressure tank\n- controller\n",
+    "component_id": "flow_switch_4fd774"
+  },
+  {
+    "component": "Pressure Switch",
+    "procedure_ids": [
+      "6476ed4b7d47"
+    ],
+    "fault_ids": [
+      "fault_the_electric_pump_cannot_96f1d501",
+      "fault_the_electric_pump_does_f528a64c",
+      "fault_the_electric_pump_is_2759da3a"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "water inlet pipeline",
+      "water outlet pipeline"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Pressure Switch\n\nFAULT IDS:\n- fault_the_electric_pump_cannot_96f1d501\n- fault_the_electric_pump_does_f528a64c\n- fault_the_electric_pump_is_2759da3a\n\nCONNECTED:\n- water inlet pipeline\n- water outlet pipeline\n",
+    "component_id": "pressure_switch_73f722"
+  },
+  {
+    "component": "Check Valve",
+    "procedure_ids": [
+      "c5835442257d"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [
+      "UnScanned_Water_Pump_Servicing-1_p8_img0.png"
+    ],
+    "connected_components": [
+      "electric pump",
+      "pressure switch"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Check Valve\n\nFAULT IDS:\n- \n\nCONNECTED:\n- electric pump\n- pressure switch\n",
+    "component_id": "check_valve_49b84f"
+  },
+  {
+    "component": "Stuffing Box Gland",
+    "procedure_ids": [
+      "a5a7af5f2d63"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [
+      "UnScanned_Water_Pump_Servicing-1_p8_img0.png"
+    ],
+    "connected_components": [
+      "stuffing boxes"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Stuffing Box Gland\n\nFAULT IDS:\n- \n\nCONNECTED:\n- stuffing boxes\n",
+    "component_id": "stuffing_box_f36935"
+  },
+  {
+    "component": "Pump And Driver",
+    "procedure_ids": [
+      "a5a7af5f2d63"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "pump and driver"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Pump And Driver\n\nFAULT IDS:\n- \n\nCONNECTED:\n- pump and driver\n",
+    "component_id": "pump_and_23dbd8"
+  },
+  {
+    "component": "Casing Gasket",
+    "procedure_ids": [
+      "64276bcb5222"
+    ],
+    "fault_ids": [
+      "fault_casing_gasket_defective_permitting_1574c291"
+    ],
+    "spec_ids": [],
+    "image_ids": [
+      "UnScanned_Water_Pump_Servicing-1_p11_img0.png"
+    ],
+    "connected_components": [
+      "pump casing"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Casing Gasket\n\nFAULT IDS:\n- fault_casing_gasket_defective_permitting_1574c291\n\nCONNECTED:\n- pump casing\n",
+    "component_id": "casing_gasket_61e21f"
+  },
+  {
+    "component": "Packing",
+    "procedure_ids": [
+      "e4ae00fed1d3"
+    ],
+    "fault_ids": [
+      "fault_motor_hums_but_does_e2de0bb6"
+    ],
+    "spec_ids": [],
+    "image_ids": [
+      "UnScanned_Water_Pump_Servicing-1_p8_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p12_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p13_img0.png"
+    ],
+    "connected_components": [
+      "stuffing box",
+      "shaft",
+      "shaft sleeves",
+      "gland"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Packing\n\nFAULT IDS:\n- fault_motor_hums_but_does_e2de0bb6\n\nCONNECTED:\n- stuffing box\n- shaft\n- shaft sleeves\n- gland\n",
+    "component_id": "packing_f23937"
+  },
+  {
+    "component": "Bearing",
+    "procedure_ids": [
+      "e4ae00fed1d3",
+      "5fcea43d7cd5"
+    ],
+    "fault_ids": [
+      "fault_motor_hums_but_does_e2de0bb6"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "shaft",
+      "bearing housing",
+      "cooling liquid supply",
+      "pump casing"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Bearing\n\nFAULT IDS:\n- fault_motor_hums_but_does_e2de0bb6\n\nCONNECTED:\n- shaft\n- bearing housing\n- cooling liquid supply\n- pump casing\n",
+    "component_id": "bearing_a27a44"
+  },
+  {
+    "component": "Bearings",
+    "procedure_ids": [
+      "6d53fcd91976"
+    ],
+    "fault_ids": [
+      "fault_motor_hums_but_does_e2de0bb6"
+    ],
+    "spec_ids": [],
+    "image_ids": [
+      "UnScanned_Water_Pump_Servicing-1_p7_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p9_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p13_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p14_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p15_img0.png"
+    ],
+    "connected_components": [],
+    "embedding_text": "INDEX\nCOMPONENT: Bearings\n\nFAULT IDS:\n- fault_motor_hums_but_does_e2de0bb6\n\nCONNECTED:\n- \n",
+    "component_id": "bearings_6fc2bd"
+  },
+  {
+    "component": "Commutator",
+    "procedure_ids": [
+      "6d53fcd91976"
+    ],
+    "fault_ids": [
+      "fault_motor_fails_to_start_64215d27"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "armature"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Commutator\n\nFAULT IDS:\n- fault_motor_fails_to_start_64215d27\n\nCONNECTED:\n- armature\n",
+    "component_id": "commutator_f1c93e"
+  },
+  {
+    "component": "Pump",
+    "procedure_ids": [],
+    "fault_ids": [
+      "fault_pump_does_not_deliver_dc1db153",
+      "fault_insufficient_capacity_delivered_f65ea94a"
+    ],
+    "spec_ids": [],
+    "image_ids": [
+      "UnScanned_Water_Pump_Servicing-1_p8_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p16_img0.png"
+    ],
+    "connected_components": [],
+    "embedding_text": "INDEX\nCOMPONENT: Pump\n\nFAULT IDS:\n- fault_pump_does_not_deliver_dc1db153\n- fault_insufficient_capacity_delivered_f65ea94a\n\nCONNECTED:\n- \n",
+    "component_id": "pump_cf8272"
+  }
+]

@@ -1,0 +1,1122 @@
+[
+  {
+    "symptom": "Loose bolts or rattling during operation",
+    "problem_description": "Fasteners have backed out due to vibration or improper initial torque.",
+    "likely_causes": [
+      "Operational vibration",
+      "Improper initial installation"
+    ],
+    "understanding": "Vibration from the rotavator action can loosen hardware over time if not checked.",
+    "verify": [
+      "Visual inspection of bolt heads",
+      "Manual check for movement"
+    ],
+    "repair": [
+      "Tighten all loose bolts"
+    ],
+    "machine_family": "Water Pump",
+    "component": "Fasteners",
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**FOLLOWING OPERATION**",
+    "embedding_text": "FAULT: Loose bolts or rattling during operation\nSYMPTOM: Fasteners have backed out due to vibration or improper initial torque.\nCOMPONENT: Fasteners\nLIKELY CAUSES:\n- Operational vibration\n- Improper initial installation\nVERIFY:\n- Visual inspection of bolt heads\n- Manual check for movement\nREPAIR:\n- Tighten all loose bolts\n",
+    "fault_id": "fault_loose_bolts_or_rattling_1aac06d4",
+    "component_id": "fasteners_251adf"
+  },
+  {
+    "symptom": "PTO guard damaged or broken",
+    "problem_description": "The protective housing for the PTO shaft is compromised, posing a safety risk.",
+    "likely_causes": [
+      "Physical impact from dropping or improper storage",
+      "Mechanical interference during operation"
+    ],
+    "understanding": "Guards are designed to rotate freely; if they hit the ground or implement, they sustain structural damage.",
+    "verify": [
+      "Visual inspection of guard tubes and restraining chains",
+      "Check if guard rotates freely on the shaft"
+    ],
+    "repair": [
+      "Replace damaged sections using maker-supplied special tools"
+    ],
+    "machine_family": "Water Pump",
+    "component": "PTO Drive Shaft Guard",
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**PTO DRIVE SHAFT GUARDS**",
+    "embedding_text": "FAULT: PTO guard damaged or broken\nSYMPTOM: The protective housing for the PTO shaft is compromised, posing a safety risk.\nCOMPONENT: PTO Drive Shaft Guard\nLIKELY CAUSES:\n- Physical impact from dropping or improper storage\n- Mechanical interference during operation\nVERIFY:\n- Visual inspection of guard tubes and restraining chains\n- Check if guard rotates freely on the shaft\nREPAIR:\n- Replace damaged sections using maker-supplied special tools\n",
+    "fault_id": "fault_pto_guard_damaged_or_26c67977",
+    "component_id": "pto_drive_8854f8"
+  },
+  {
+    "symptom": "Excessive noise or heat from gearbox",
+    "problem_description": "Internal friction due to insufficient or incorrect lubrication.",
+    "likely_causes": [
+      "Low oil level",
+      "Incorrect oil viscosity",
+      "Lack of grease at lubrication points"
+    ],
+    "understanding": "Without proper oil levels or the correct SAE 85 W 140 EP grade, the gears experience metal-on-metal contact.",
+    "verify": [
+      "Check oil level via dipstick",
+      "Check side drive level plugs"
+    ],
+    "repair": [
+      "Top up oil to specified levels",
+      "Perform full lubrication service"
+    ],
+    "machine_family": "Water Pump",
+    "component": "Gearbox",
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**Lubrication & General**",
+    "embedding_text": "FAULT: Excessive noise or heat from gearbox\nSYMPTOM: Internal friction due to insufficient or incorrect lubrication.\nCOMPONENT: Gearbox\nLIKELY CAUSES:\n- Low oil level\n- Incorrect oil viscosity\n- Lack of grease at lubrication points\nVERIFY:\n- Check oil level via dipstick\n- Check side drive level plugs\nREPAIR:\n- Top up oil to specified levels\n- Perform full lubrication service\n",
+    "fault_id": "fault_excessive_noise_or_heat_6cea79d5",
+    "component_id": "gearbox_61a729"
+  },
+  {
+    "symptom": "PTO shaft bottoms out or separates during operation",
+    "problem_description": "The PTO drive shaft length is not correctly set for the tractor-to-implement distance, causing mechanical binding or disconnection.",
+    "likely_causes": [
+      "Incorrect tractor-to-implement distance",
+      "Improper shaft length adjustment"
+    ],
+    "understanding": "The shaft must maintain a minimum overlap to transmit torque without bottoming out or pulling apart during transport or field operation.",
+    "verify": [
+      "Measure engagement length of male shaft in female tube",
+      "Check if gearbox input shaft is horizontal"
+    ],
+    "repair": [
+      "Adjust tractor position or PTO shaft length to maintain 150 mm minimum engagement"
+    ],
+    "machine_family": "Water Pump",
+    "component": "PTO Drive Shaft",
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**Attaching the Rotavator to the tractor**",
+    "embedding_text": "FAULT: PTO shaft bottoms out or separates during operation\nSYMPTOM: The PTO drive shaft length is not correctly set for the tractor-to-implement distance, causing mechanical binding or disconnection.\nCOMPONENT: PTO Drive Shaft\nLIKELY CAUSES:\n- Incorrect tractor-to-implement distance\n- Improper shaft length adjustment\nVERIFY:\n- Measure engagement length of male shaft in female tube\n- Check if gearbox input shaft is horizontal\nREPAIR:\n- Adjust tractor position or PTO shaft length to maintain 150 mm minimum engagement\n",
+    "fault_id": "fault_pto_shaft_bottoms_out_43a96a6c",
+    "component_id": "pto_drive_93f875"
+  },
+  {
+    "symptom": "PTO shaft angle exceeds 40 degrees",
+    "problem_description": "The operating angle of the drive shaft is too steep, risking mechanical failure.",
+    "likely_causes": [
+      "Hydraulic lift limit stop not set",
+      "Incorrect tractor linkage height"
+    ],
+    "understanding": "Excessive angles cause binding and premature wear on the universal joints.",
+    "verify": [
+      "Check hydraulic lift limit stop setting",
+      "Measure shaft angle with lift raised"
+    ],
+    "repair": [
+      "Adjust hydraulic lift limit stop to restrict lift height"
+    ],
+    "machine_family": "Rotavator",
+    "component": "PTO Drive Shaft",
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**ROTAVATOR  310 / 320**",
+    "embedding_text": "FAULT: PTO shaft angle exceeds 40 degrees\nSYMPTOM: The operating angle of the drive shaft is too steep, risking mechanical failure.\nCOMPONENT: PTO Drive Shaft\nLIKELY CAUSES:\n- Hydraulic lift limit stop not set\n- Incorrect tractor linkage height\nVERIFY:\n- Check hydraulic lift limit stop setting\n- Measure shaft angle with lift raised\nREPAIR:\n- Adjust hydraulic lift limit stop to restrict lift height\n",
+    "fault_id": "fault_pto_shaft_angle_exceeds_2584f5f5",
+    "component_id": "pto_drive_93f875"
+  },
+  {
+    "symptom": "Pump efficiency drop or excessive vibration",
+    "problem_description": "The impeller blades are damaged or bent, causing the pump to lose its ability to move water effectively and creating mechanical imbalance.",
+    "likely_causes": [
+      "Blade wear",
+      "Blade deformation",
+      "Blade fracture"
+    ],
+    "understanding": "Damaged blades disrupt fluid flow and create mechanical imbalance, leading to vibration and loss of performance.",
+    "verify": [
+      "Visually inspect blades for physical damage",
+      "Check for unusual vibration during operation"
+    ],
+    "repair": [
+      "Replace blades using genuine HOWARD BOLT ASSEMBLIES"
+    ],
+    "machine_family": "Water Pump",
+    "component": "Impeller Blades",
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**ROTORS**",
+    "embedding_text": "FAULT: Pump efficiency drop or excessive vibration\nSYMPTOM: The impeller blades are damaged or bent, causing the pump to lose its ability to move water effectively and creating mechanical imbalance.\nCOMPONENT: Impeller Blades\nLIKELY CAUSES:\n- Blade wear\n- Blade deformation\n- Blade fracture\nVERIFY:\n- Visually inspect blades for physical damage\n- Check for unusual vibration during operation\nREPAIR:\n- Replace blades using genuine HOWARD BOLT ASSEMBLIES\n",
+    "fault_id": "fault_pump_efficiency_drop_or_2f591d1c",
+    "component_id": "impeller_blades_080d3b"
+  },
+  {
+    "symptom": "Excessive vibration and uneven soil cultivation",
+    "problem_description": "The blades are not installed in the correct scroll pattern, causing uneven load on the transmission.",
+    "likely_causes": [
+      "Incorrect blade orientation",
+      "Blades installed on wrong side of flange"
+    ],
+    "understanding": "The scroll pattern is required to distribute the mechanical load evenly across the rotor rotation.",
+    "verify": [
+      "Visually inspect blade pattern against manual Fig 6",
+      "Check if all blades are on the left of the rotor flanges"
+    ],
+    "repair": [
+      "Remove and replace blades one by one to maintain pattern"
+    ],
+    "machine_family": "Rotary Tiller",
+    "component": "Blade Assembly",
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**Blading standard rotors**",
+    "embedding_text": "FAULT: Excessive vibration and uneven soil cultivation\nSYMPTOM: The blades are not installed in the correct scroll pattern, causing uneven load on the transmission.\nCOMPONENT: Blade Assembly\nLIKELY CAUSES:\n- Incorrect blade orientation\n- Blades installed on wrong side of flange\nVERIFY:\n- Visually inspect blade pattern against manual Fig 6\n- Check if all blades are on the left of the rotor flanges\nREPAIR:\n- Remove and replace blades one by one to maintain pattern\n",
+    "fault_id": "fault_excessive_vibration_and_uneven_cca7f2b8",
+    "component_id": "blade_assembly_ed4b63"
+  },
+  {
+    "symptom": "Blade detachment or loose blades",
+    "problem_description": "The blade bolts were not tightened to the required torque or are the wrong specification.",
+    "likely_causes": [
+      "Under-torqued bolts",
+      "Non-original bolts used"
+    ],
+    "understanding": "Correct torque ensures the bolt maintains clamping force under high-impact soil conditions.",
+    "verify": [
+      "Check bolt tightness with torque wrench",
+      "Inspect bolt head for Howard branding"
+    ],
+    "repair": [
+      "Tighten nuts to 200 Nm using Howard blade bolts"
+    ],
+    "machine_family": "Rotary Tiller",
+    "component": "Blade Bolt",
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**Blading standard rotors**",
+    "embedding_text": "FAULT: Blade detachment or loose blades\nSYMPTOM: The blade bolts were not tightened to the required torque or are the wrong specification.\nCOMPONENT: Blade Bolt\nLIKELY CAUSES:\n- Under-torqued bolts\n- Non-original bolts used\nVERIFY:\n- Check bolt tightness with torque wrench\n- Inspect bolt head for Howard branding\nREPAIR:\n- Tighten nuts to 200 Nm using Howard blade bolts\n",
+    "fault_id": "fault_blade_detachment_or_loose_9701f523",
+    "component_id": "blade_bolt_18c6c4"
+  },
+  {
+    "symptom": "Excessive vibration during operation",
+    "problem_description": "The blade is loose or the bolt has failed due to incorrect specifications or improper torque.",
+    "likely_causes": [
+      "Under-torqued blade bolt",
+      "Incorrect bolt tensile strength",
+      "Worn blade bolt shank"
+    ],
+    "understanding": "If the bolt is not torqued to 200 Nm or lacks the correct tensile strength, the blade will shift, causing imbalance and vibration.",
+    "verify": [
+      "Check for loose blades by hand",
+      "Verify torque with a torque wrench set to 200 Nm"
+    ],
+    "repair": [
+      "Replace with genuine Howard blade bolts and torque to 200 Nm"
+    ],
+    "machine_family": "Agricultural Equipment",
+    "component": "Blade bolt",
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**ROTAVATOR  310 / 320**",
+    "embedding_text": "FAULT: Excessive vibration during operation\nSYMPTOM: The blade is loose or the bolt has failed due to incorrect specifications or improper torque.\nCOMPONENT: Blade bolt\nLIKELY CAUSES:\n- Under-torqued blade bolt\n- Incorrect bolt tensile strength\n- Worn blade bolt shank\nVERIFY:\n- Check for loose blades by hand\n- Verify torque with a torque wrench set to 200 Nm\nREPAIR:\n- Replace with genuine Howard blade bolts and torque to 200 Nm\n",
+    "fault_id": "fault_excessive_vibration_during_operation_8ca18a73",
+    "component_id": "blade_bolt_18c6c4"
+  },
+  {
+    "symptom": "Excessive noise or heat from gearbox",
+    "problem_description": "Insufficient or degraded lubrication causing metal-on-metal friction.",
+    "likely_causes": [
+      "Low oil level",
+      "Contaminated oil"
+    ],
+    "understanding": "The gearbox requires specific viscosity oil to maintain a film between gears; without it, friction increases rapidly.",
+    "verify": [
+      "Check oil level",
+      "Inspect oil condition for debris or water"
+    ],
+    "repair": [
+      "Drain, flush, and refill with SAE 85 W 140 EP oil"
+    ],
+    "machine_family": "Rotavator",
+    "component": "Gearbox",
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**LUBRICATION + MAINTENANCE**",
+    "embedding_text": "FAULT: Excessive noise or heat from gearbox\nSYMPTOM: Insufficient or degraded lubrication causing metal-on-metal friction.\nCOMPONENT: Gearbox\nLIKELY CAUSES:\n- Low oil level\n- Contaminated oil\nVERIFY:\n- Check oil level\n- Inspect oil condition for debris or water\nREPAIR:\n- Drain, flush, and refill with SAE 85 W 140 EP oil\n",
+    "fault_id": "fault_excessive_noise_or_heat_6cea79d5",
+    "component_id": "gearbox_61a729"
+  },
+  {
+    "symptom": "Excessive vibration or loose parts",
+    "problem_description": "Bolts or screws are not tightened to the correct torque specification for their class.",
+    "likely_causes": [
+      "Under-torqued fasteners",
+      "Vibration-induced loosening"
+    ],
+    "understanding": "Fasteners must be tightened to specific torque values to maintain structural integrity under load.",
+    "verify": [
+      "Check for visible gaps between joined parts",
+      "Use a torque wrench to verify current tightness"
+    ],
+    "repair": [
+      "Consult Section 12.9 for correct torque values and re-tighten all fasteners"
+    ],
+    "machine_family": "Electric Motor",
+    "component": "Bolts and Screws",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**Section 11 Adjustment**",
+    "embedding_text": "FAULT: Excessive vibration or loose parts\nSYMPTOM: Bolts or screws are not tightened to the correct torque specification for their class.\nCOMPONENT: Bolts and Screws\nLIKELY CAUSES:\n- Under-torqued fasteners\n- Vibration-induced loosening\nVERIFY:\n- Check for visible gaps between joined parts\n- Use a torque wrench to verify current tightness\nREPAIR:\n- Consult Section 12.9 for correct torque values and re-tighten all fasteners\n",
+    "fault_id": "fault_excessive_vibration_or_loose_5fa533f8",
+    "component_id": "bolts_and_65c416"
+  },
+  {
+    "symptom": "Excessive vibration during operation",
+    "problem_description": "The rotor axis is not properly supported or aligned with the transmission unit.",
+    "likely_causes": [
+      "Loose Upper/Lower Hook Supports",
+      "Worn shock absorber assembly"
+    ],
+    "understanding": "Misalignment in the rotor axis creates harmonic vibrations that damage the transmission and bearings.",
+    "verify": [
+      "Check for play in the rotor axis by hand",
+      "Inspect shock absorber assembly (7) for physical damage"
+    ],
+    "repair": [
+      "Tighten all hook support bolts",
+      "Replace shock absorber assembly if worn"
+    ],
+    "machine_family": "Water Pump",
+    "component": "Rotor Axis",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**MAIN PARTS OF THE MACHINE** SHAKTIMAN SERIES SRT-1",
+    "embedding_text": "FAULT: Excessive vibration during operation\nSYMPTOM: The rotor axis is not properly supported or aligned with the transmission unit.\nCOMPONENT: Rotor Axis\nLIKELY CAUSES:\n- Loose Upper/Lower Hook Supports\n- Worn shock absorber assembly\nVERIFY:\n- Check for play in the rotor axis by hand\n- Inspect shock absorber assembly (7) for physical damage\nREPAIR:\n- Tighten all hook support bolts\n- Replace shock absorber assembly if worn\n",
+    "fault_id": "fault_excessive_vibration_during_operation_8ca18a73",
+    "component_id": "rotor_axis_55011d"
+  },
+  {
+    "symptom": "Reduction in braking capacity or inability to stop quickly",
+    "problem_description": "The braking system is failing to provide sufficient friction or mechanical resistance to decelerate the implement.",
+    "likely_causes": [
+      "Worn brake pads or linings",
+      "Contamination of braking surfaces",
+      "Mechanical linkage failure"
+    ],
+    "understanding": "The system is unable to convert kinetic energy into heat effectively, usually due to material degradation or loss of mechanical force.",
+    "verify": [
+      "Check for visible debris or oil on brake discs/drums",
+      "Inspect brake linkage for loose or damaged components"
+    ],
+    "repair": [
+      "Replace brake pads or linings",
+      "Clean braking surfaces",
+      "Adjust or repair mechanical linkages"
+    ],
+    "machine_family": "Agricultural Implement",
+    "component": "Braking System",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "Loss of control of the tractor",
+    "embedding_text": "FAULT: Reduction in braking capacity or inability to stop quickly\nSYMPTOM: The braking system is failing to provide sufficient friction or mechanical resistance to decelerate the implement.\nCOMPONENT: Braking System\nLIKELY CAUSES:\n- Worn brake pads or linings\n- Contamination of braking surfaces\n- Mechanical linkage failure\nVERIFY:\n- Check for visible debris or oil on brake discs/drums\n- Inspect brake linkage for loose or damaged components\nREPAIR:\n- Replace brake pads or linings\n- Clean braking surfaces\n- Adjust or repair mechanical linkages\n",
+    "fault_id": "fault_reduction_in_braking_capacity_715f5c31",
+    "component_id": "braking_system_62f2ee"
+  },
+  {
+    "symptom": "Machine shifts or rolls during maintenance",
+    "problem_description": "The machine is not properly secured or blocked, leading to potential movement.",
+    "likely_causes": [
+      "Parking brake not engaged",
+      "Wheels not blocked",
+      "Inadequate safety supports"
+    ],
+    "understanding": "If the machine is not immobilized, gravity or vibration can cause it to move, creating a severe safety hazard.",
+    "verify": [
+      "Check if parking brake is set",
+      "Check if wheel chocks are in place"
+    ],
+    "repair": [
+      "Engage parking brake",
+      "Install wheel chocks",
+      "Place safety supports under frame"
+    ],
+    "machine_family": "Electric Motor",
+    "component": "Stabilization System",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**3.9 Safe operation of the machine.**",
+    "embedding_text": "FAULT: Machine shifts or rolls during maintenance\nSYMPTOM: The machine is not properly secured or blocked, leading to potential movement.\nCOMPONENT: Stabilization System\nLIKELY CAUSES:\n- Parking brake not engaged\n- Wheels not blocked\n- Inadequate safety supports\nVERIFY:\n- Check if parking brake is set\n- Check if wheel chocks are in place\nREPAIR:\n- Engage parking brake\n- Install wheel chocks\n- Place safety supports under frame\n",
+    "fault_id": "fault_machine_shifts_or_rolls_2bac2e75",
+    "component_id": "stabilization_system_f3913e"
+  },
+  {
+    "symptom": "Tractor front end lifts or steering feels light",
+    "problem_description": "The tractor does not have enough weight on the front axle to maintain stability when an implement is attached to the rear.",
+    "likely_causes": [
+      "Insufficient front ballast",
+      "Implement too heavy for current tractor configuration"
+    ],
+    "understanding": "If the front axle load is below 20% of the total weight, the tractor loses steering authority and stability.",
+    "verify": [
+      "Check if front tires are making firm contact with the ground",
+      "Observe if steering feels unusually light or 'floaty' during turns"
+    ],
+    "repair": [
+      "Add front weights or liquid ballast to front tires until 20% weight distribution is achieved"
+    ],
+    "machine_family": "Tractor",
+    "component": "Front Ballast",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**CAUTION: the counterweight or front ballast may not be able to maintain the stability of the tractor if it It is driven at high speed on rough terrain with the implement raised. Drive slowly and carefully under those conditions.**",
+    "embedding_text": "FAULT: Tractor front end lifts or steering feels light\nSYMPTOM: The tractor does not have enough weight on the front axle to maintain stability when an implement is attached to the rear.\nCOMPONENT: Front Ballast\nLIKELY CAUSES:\n- Insufficient front ballast\n- Implement too heavy for current tractor configuration\nVERIFY:\n- Check if front tires are making firm contact with the ground\n- Observe if steering feels unusually light or 'floaty' during turns\nREPAIR:\n- Add front weights or liquid ballast to front tires until 20% weight distribution is achieved\n",
+    "fault_id": "fault_tractor_front_end_lifts_ba61b7ab",
+    "component_id": "front_ballast_2ae235"
+  },
+  {
+    "symptom": "Machine vibrates excessively during operation",
+    "problem_description": "The blades are installed in the wrong positions or the spacing is incorrect, causing an unbalanced rotating mass.",
+    "likely_causes": [
+      "Blades mounted on wrong side of flange",
+      "Incorrect hole spacing (not skipping 2 holes)"
+    ],
+    "understanding": "Improper blade distribution creates a dynamic imbalance that manifests as vibration.",
+    "verify": [
+      "Check if left blades are on the right side of the flange",
+      "Count holes to ensure 2-hole skip pattern is maintained"
+    ],
+    "repair": [
+      "Remove blades and re-install according to the helical pattern and hole-skip sequence"
+    ],
+    "machine_family": "Agricultural Equipment",
+    "component": "Cutting Blades",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**6.1 Assembly of the blades**",
+    "embedding_text": "FAULT: Machine vibrates excessively during operation\nSYMPTOM: The blades are installed in the wrong positions or the spacing is incorrect, causing an unbalanced rotating mass.\nCOMPONENT: Cutting Blades\nLIKELY CAUSES:\n- Blades mounted on wrong side of flange\n- Incorrect hole spacing (not skipping 2 holes)\nVERIFY:\n- Check if left blades are on the right side of the flange\n- Count holes to ensure 2-hole skip pattern is maintained\nREPAIR:\n- Remove blades and re-install according to the helical pattern and hole-skip sequence\n",
+    "fault_id": "fault_machine_vibrates_excessively_during_111586aa",
+    "component_id": "cutting_blades_a2e56b"
+  },
+  {
+    "symptom": "Pump drive belt squeals or slips",
+    "problem_description": "The tensor arm is not maintaining proper tension on the drive belt.",
+    "likely_causes": [
+      "Loose fastener (C)",
+      "Worn tensor arm (E) pivot"
+    ],
+    "understanding": "If the tensor arm is loose, it cannot maintain the necessary friction for the belt to drive the pump shaft.",
+    "verify": [
+      "Check if the tensor arm moves by hand",
+      "Inspect fastener (C) for tightness"
+    ],
+    "repair": [
+      "Tighten fastener (C) to secure the tensor arm"
+    ],
+    "machine_family": "Water Pump",
+    "component": "Tensor Arm",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**6.2 Assembly of the back cover**",
+    "embedding_text": "FAULT: Pump drive belt squeals or slips\nSYMPTOM: The tensor arm is not maintaining proper tension on the drive belt.\nCOMPONENT: Tensor Arm\nLIKELY CAUSES:\n- Loose fastener (C)\n- Worn tensor arm (E) pivot\nVERIFY:\n- Check if the tensor arm moves by hand\n- Inspect fastener (C) for tightness\nREPAIR:\n- Tighten fastener (C) to secure the tensor arm\n",
+    "fault_id": "fault_pump_drive_belt_squeals_b5ab98f8",
+    "component_id": "tensor_arm_d93ac8"
+  },
+  {
+    "symptom": "Rear cover will not close or binds",
+    "problem_description": "The hinge holes are not aligned, preventing the rod from passing through or causing the cover to jam.",
+    "likely_causes": [
+      "Hinge holes misaligned during assembly",
+      "Bent hinge bracket"
+    ],
+    "understanding": "Mechanical binding occurs when pivot points are not perfectly concentric.",
+    "verify": [
+      "Check if rod (B) slides through by hand",
+      "Inspect hinge for gaps"
+    ],
+    "repair": [
+      "Loosen cover fasteners, realign holes, and re-insert rod"
+    ],
+    "machine_family": "Rototiller",
+    "component": "Rear Cover Hinge",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**Follow the following instructions:**",
+    "embedding_text": "FAULT: Rear cover will not close or binds\nSYMPTOM: The hinge holes are not aligned, preventing the rod from passing through or causing the cover to jam.\nCOMPONENT: Rear Cover Hinge\nLIKELY CAUSES:\n- Hinge holes misaligned during assembly\n- Bent hinge bracket\nVERIFY:\n- Check if rod (B) slides through by hand\n- Inspect hinge for gaps\nREPAIR:\n- Loosen cover fasteners, realign holes, and re-insert rod\n",
+    "fault_id": "fault_rear_cover_will_not_b108d8e7",
+    "component_id": "rear_cover_102db1"
+  },
+  {
+    "symptom": "Excessive vibration or rattling from the rear of the machine",
+    "problem_description": "The tension arms are loose, causing them to vibrate against the chassis during operation.",
+    "likely_causes": [
+      "Loose tension arm nut",
+      "Missing lock washer"
+    ],
+    "understanding": "Loose fasteners allow kinetic energy to translate into audible vibration and wear.",
+    "verify": [
+      "Wiggle tension arms by hand",
+      "Check for loose nuts"
+    ],
+    "repair": [
+      "Tighten nut to specified torque"
+    ],
+    "machine_family": "Rototiller",
+    "component": "Tension Arms",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**Follow the following instructions:**",
+    "embedding_text": "FAULT: Excessive vibration or rattling from the rear of the machine\nSYMPTOM: The tension arms are loose, causing them to vibrate against the chassis during operation.\nCOMPONENT: Tension Arms\nLIKELY CAUSES:\n- Loose tension arm nut\n- Missing lock washer\nVERIFY:\n- Wiggle tension arms by hand\n- Check for loose nuts\nREPAIR:\n- Tighten nut to specified torque\n",
+    "fault_id": "fault_excessive_vibration_or_rattling_f146c491",
+    "component_id": "tension_arms_0033ed"
+  },
+  {
+    "symptom": "Excessive vibration and rattling",
+    "problem_description": "Fasteners have loosened, causing components to move out of alignment.",
+    "likely_causes": [
+      "Fasteners not tightened to torque specifications",
+      "Vibration-induced loosening"
+    ],
+    "understanding": "Loose fasteners allow mechanical play, which leads to accelerated wear and potential component detachment.",
+    "verify": [
+      "Visually inspect for missing or loose nuts/bolts",
+      "Check for movement in structural components"
+    ],
+    "repair": [
+      "Tighten all fasteners to the torque values listed in the maintenance section"
+    ],
+    "machine_family": "Rototiller",
+    "component": "Fasteners",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "SECTION 7 PREPARATION OF THE IMPLEMENT",
+    "embedding_text": "FAULT: Excessive vibration and rattling\nSYMPTOM: Fasteners have loosened, causing components to move out of alignment.\nCOMPONENT: Fasteners\nLIKELY CAUSES:\n- Fasteners not tightened to torque specifications\n- Vibration-induced loosening\nVERIFY:\n- Visually inspect for missing or loose nuts/bolts\n- Check for movement in structural components\nREPAIR:\n- Tighten all fasteners to the torque values listed in the maintenance section\n",
+    "fault_id": "fault_excessive_vibration_and_rattling_2ed6b7f5",
+    "component_id": "fasteners_251adf"
+  },
+  {
+    "symptom": "Overheating and power loss",
+    "problem_description": "Insufficient lubrication causes friction and heat buildup in the transmission.",
+    "likely_causes": [
+      "Low lubricant levels",
+      "Incorrect lubricant grade"
+    ],
+    "understanding": "Without proper lubrication, metal-on-metal contact increases friction, leading to heat and eventual seizure.",
+    "verify": [
+      "Check oil level via dipstick or sight glass",
+      "Check for signs of oil leaks around seals"
+    ],
+    "repair": [
+      "Refill lubricant to the correct level"
+    ],
+    "machine_family": "Rototiller",
+    "component": "Lubrication system",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "SECTION 7 PREPARATION OF THE IMPLEMENT",
+    "embedding_text": "FAULT: Overheating and power loss\nSYMPTOM: Insufficient lubrication causes friction and heat buildup in the transmission.\nCOMPONENT: Lubrication system\nLIKELY CAUSES:\n- Low lubricant levels\n- Incorrect lubricant grade\nVERIFY:\n- Check oil level via dipstick or sight glass\n- Check for signs of oil leaks around seals\nREPAIR:\n- Refill lubricant to the correct level\n",
+    "fault_id": "fault_overheating_and_power_loss_7b1007d4",
+    "component_id": "lubrication_system_080941"
+  },
+  {
+    "symptom": "Loud knocking or vibration during PTO operation",
+    "problem_description": "The driveshaft angle is too steep, causing the universal joint to bind or operate unevenly.",
+    "likely_causes": [
+      "Operating angle exceeds 15 degrees",
+      "Incorrect driveshaft length"
+    ],
+    "understanding": "Universal joints create velocity fluctuations that increase exponentially as the operating angle increases beyond design limits.",
+    "verify": [
+      "Visually inspect the angle of the driveshaft while the implement is in the working position.",
+      "Check for signs of metal fatigue or heat discoloration on the U-joint."
+    ],
+    "repair": [
+      "Adjust the implement height or tractor hitch to bring the angle below 15 degrees.",
+      "Verify driveshaft length is appropriate for the specific tractor-implement combination."
+    ],
+    "machine_family": "Water Pump",
+    "component": "Universal Joint",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**8.3 Hook of the кардан**",
+    "embedding_text": "FAULT: Loud knocking or vibration during PTO operation\nSYMPTOM: The driveshaft angle is too steep, causing the universal joint to bind or operate unevenly.\nCOMPONENT: Universal Joint\nLIKELY CAUSES:\n- Operating angle exceeds 15 degrees\n- Incorrect driveshaft length\nVERIFY:\n- Visually inspect the angle of the driveshaft while the implement is in the working position.\n- Check for signs of metal fatigue or heat discoloration on the U-joint.\nREPAIR:\n- Adjust the implement height or tractor hitch to bring the angle below 15 degrees.\n- Verify driveshaft length is appropriate for the specific tractor-implement combination.\n",
+    "fault_id": "fault_loud_knocking_or_vibration_55956262",
+    "component_id": "universal_joint_13ea7d"
+  },
+  {
+    "symptom": "Driveshaft vibration or mechanical failure",
+    "problem_description": "The drive shaft is too long or too short for the tractor-machine connection, causing binding or excessive stress.",
+    "likely_causes": [
+      "Drive shaft length was not adapted during installation"
+    ],
+    "understanding": "If the shaft is not the correct length, it will either bottom out and destroy the bearings or pull apart during turns.",
+    "verify": [
+      "Check for physical contact or binding during full turn radius",
+      "Inspect shaft for signs of bottoming out (scuffing/impact marks)"
+    ],
+    "repair": [
+      "Measure required length and cut the drive shaft to fit"
+    ],
+    "machine_family": "Agricultural Equipment",
+    "component": "Drive Shaft",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**IMPORTANT:**",
+    "embedding_text": "FAULT: Driveshaft vibration or mechanical failure\nSYMPTOM: The drive shaft is too long or too short for the tractor-machine connection, causing binding or excessive stress.\nCOMPONENT: Drive Shaft\nLIKELY CAUSES:\n- Drive shaft length was not adapted during installation\nVERIFY:\n- Check for physical contact or binding during full turn radius\n- Inspect shaft for signs of bottoming out (scuffing/impact marks)\nREPAIR:\n- Measure required length and cut the drive shaft to fit\n",
+    "fault_id": "fault_driveshaft_vibration_or_mechanical_3be2bf26",
+    "component_id": "drive_shaft_aee6b2"
+  },
+  {
+    "symptom": "Driveshaft bends or damages equipment",
+    "problem_description": "The PTO driveshaft is physically too long for the tractor-implement configuration, causing mechanical binding.",
+    "likely_causes": [
+      "Driveshaft length incompatible with working positions",
+      "Incorrect driveshaft sizing for specific tractor model"
+    ],
+    "understanding": "If the shaft is too long, it cannot accommodate the geometry of the implement's working positions, leading to structural failure.",
+    "verify": [
+      "Check if the shaft is fully compressed while the implement is in its closest working position",
+      "Measure distance between tractor PTO and implement input slot on flat ground"
+    ],
+    "repair": [
+      "Resize or replace driveshaft to match the measured distance requirements"
+    ],
+    "machine_family": "Water Pump",
+    "component": "PTO Driveshaft",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**Shaktiman** User manual",
+    "embedding_text": "FAULT: Driveshaft bends or damages equipment\nSYMPTOM: The PTO driveshaft is physically too long for the tractor-implement configuration, causing mechanical binding.\nCOMPONENT: PTO Driveshaft\nLIKELY CAUSES:\n- Driveshaft length incompatible with working positions\n- Incorrect driveshaft sizing for specific tractor model\nVERIFY:\n- Check if the shaft is fully compressed while the implement is in its closest working position\n- Measure distance between tractor PTO and implement input slot on flat ground\nREPAIR:\n- Resize or replace driveshaft to match the measured distance requirements\n",
+    "fault_id": "fault_driveshaft_bends_or_damages_c8ae7546",
+    "component_id": "pto_driveshaft_5e4c5b"
+  },
+  {
+    "symptom": "Driveshaft vibration or mechanical binding",
+    "problem_description": "The driveshaft is either too long (bottoming out) or has insufficient overlap (telescoping apart).",
+    "likely_causes": [
+      "Driveshaft not cut to correct length",
+      "Incorrect driveshaft model for implement"
+    ],
+    "understanding": "If the shaft is too long, it hits the internal stops causing vibration; if too short, it lacks the required 10cm overlap to transmit torque safely.",
+    "verify": [
+      "Check for physical contact marks on the shaft tubes",
+      "Measure overlap while the implement is in the operating position"
+    ],
+    "repair": [
+      "Cut the driveshaft tubes to maintain 3cm clearance at shortest distance",
+      "Ensure 10cm minimum overlap at maximum distance"
+    ],
+    "machine_family": "Water Pump",
+    "component": "Cardan driveshaft",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "Distancia",
+    "embedding_text": "FAULT: Driveshaft vibration or mechanical binding\nSYMPTOM: The driveshaft is either too long (bottoming out) or has insufficient overlap (telescoping apart).\nCOMPONENT: Cardan driveshaft\nLIKELY CAUSES:\n- Driveshaft not cut to correct length\n- Incorrect driveshaft model for implement\nVERIFY:\n- Check for physical contact marks on the shaft tubes\n- Measure overlap while the implement is in the operating position\nREPAIR:\n- Cut the driveshaft tubes to maintain 3cm clearance at shortest distance\n- Ensure 10cm minimum overlap at maximum distance\n",
+    "fault_id": "fault_driveshaft_vibration_or_mechanical_20cd8920",
+    "component_id": "cardan_driveshaft_dd7bd4"
+  },
+  {
+    "symptom": "Equipment stops rotating or loses power transmission",
+    "problem_description": "The fusible screw has fractured to protect the equipment from an overload or obstruction.",
+    "likely_causes": [
+      "Obstruction in the pump intake or impeller",
+      "Material fatigue"
+    ],
+    "understanding": "The screw is designed as a sacrificial shear pin to prevent catastrophic damage to the motor or pump internals when an obstruction occurs.",
+    "verify": [
+      "Check if the drive shaft is spinning while the pump component remains stationary",
+      "Visually inspect the fusible screw for a clean break"
+    ],
+    "repair": [
+      "Replace the fractured screw with an identical part (same material and size)"
+    ],
+    "machine_family": "Water Pump",
+    "component": "fusible screw",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**8.6 Cardan with safety limiter (Fuse screw)**",
+    "embedding_text": "FAULT: Equipment stops rotating or loses power transmission\nSYMPTOM: The fusible screw has fractured to protect the equipment from an overload or obstruction.\nCOMPONENT: fusible screw\nLIKELY CAUSES:\n- Obstruction in the pump intake or impeller\n- Material fatigue\nVERIFY:\n- Check if the drive shaft is spinning while the pump component remains stationary\n- Visually inspect the fusible screw for a clean break\nREPAIR:\n- Replace the fractured screw with an identical part (same material and size)\n",
+    "fault_id": "fault_equipment_stops_rotating_or_65d5b9ab",
+    "component_id": "fusible_screw_bef179"
+  },
+  {
+    "symptom": "Rototiller vibration or detachment",
+    "problem_description": "The cardan shaft is not properly secured to the tractor PTO.",
+    "likely_causes": [
+      "Loose locking collar",
+      "Damaged locking pin"
+    ],
+    "understanding": "If the cardan is not locked, it can slip off the spline under load, causing severe damage.",
+    "verify": [
+      "Check locking collar engagement",
+      "Attempt to pull the shaft off the PTO spline by hand"
+    ],
+    "repair": [
+      "Re-seat the cardan shaft and ensure the locking mechanism clicks into the groove"
+    ],
+    "machine_family": "Rototiller",
+    "component": "Cardan shaft",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**10.4 Commissioning**",
+    "embedding_text": "FAULT: Rototiller vibration or detachment\nSYMPTOM: The cardan shaft is not properly secured to the tractor PTO.\nCOMPONENT: Cardan shaft\nLIKELY CAUSES:\n- Loose locking collar\n- Damaged locking pin\nVERIFY:\n- Check locking collar engagement\n- Attempt to pull the shaft off the PTO spline by hand\nREPAIR:\n- Re-seat the cardan shaft and ensure the locking mechanism clicks into the groove\n",
+    "fault_id": "fault_rototiller_vibration_or_detachment_1c069c7e",
+    "component_id": "cardan_shaft_29e9c9"
+  },
+  {
+    "symptom": "Mechanical damage to tractor or tiller gearbox",
+    "problem_description": "Engaging the PTO at full speed causes excessive shock loading.",
+    "likely_causes": [
+      "Operator error during engagement"
+    ],
+    "understanding": "Sudden engagement at high RPM creates a torque spike that exceeds the shear strength of the drivetrain components.",
+    "verify": [
+      "Check for unusual noise or metal shavings in gearbox oil"
+    ],
+    "repair": [
+      "Ensure gradual engagement of PTO in future operations"
+    ],
+    "machine_family": "Rototiller",
+    "component": "PTO engagement system",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**10.4 Commissioning**",
+    "embedding_text": "FAULT: Mechanical damage to tractor or tiller gearbox\nSYMPTOM: Engaging the PTO at full speed causes excessive shock loading.\nCOMPONENT: PTO engagement system\nLIKELY CAUSES:\n- Operator error during engagement\nVERIFY:\n- Check for unusual noise or metal shavings in gearbox oil\nREPAIR:\n- Ensure gradual engagement of PTO in future operations\n",
+    "fault_id": "fault_mechanical_damage_to_tractor_6d6f58ad",
+    "component_id": "pto_engagement_8a1cd9"
+  },
+  {
+    "symptom": "Excessive vibration during operation",
+    "problem_description": "The rotor is unbalanced because the blades were not installed in the correct orientation.",
+    "likely_causes": [
+      "Incorrect blade positioning",
+      "Blade orientation mismatch"
+    ],
+    "understanding": "Rotor blades must be perfectly aligned to maintain rotational balance; even slight deviations cause significant vibration.",
+    "verify": [
+      "Check for visible blade misalignment",
+      "Listen for abnormal knocking sounds"
+    ],
+    "repair": [
+      "Remove blades and reinstall one by one to ensure exact positioning match."
+    ],
+    "machine_family": "Water Pump",
+    "component": "Rotor Blade",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**NOTE: Check the wear and condition of the rotor blades daily. If the blade accidentally bends or if it breaks during work, it must be replaced immediately.**",
+    "embedding_text": "FAULT: Excessive vibration during operation\nSYMPTOM: The rotor is unbalanced because the blades were not installed in the correct orientation.\nCOMPONENT: Rotor Blade\nLIKELY CAUSES:\n- Incorrect blade positioning\n- Blade orientation mismatch\nVERIFY:\n- Check for visible blade misalignment\n- Listen for abnormal knocking sounds\nREPAIR:\n- Remove blades and reinstall one by one to ensure exact positioning match.\n",
+    "fault_id": "fault_excessive_vibration_during_operation_8ca18a73",
+    "component_id": "rotor_blade_d8703c"
+  },
+  {
+    "symptom": "Uneven tillage depth",
+    "problem_description": "The rototiller is not maintaining a consistent depth across the field.",
+    "likely_causes": [
+      "Skate bolts (A) are loose",
+      "Adjustment screws (B) are set to different heights on either side"
+    ],
+    "understanding": "If the depth control skates are not locked at the same height, the tiller will tilt and cut unevenly.",
+    "verify": [
+      "Check if bolts (A) are tight",
+      "Measure distance from frame to bottom of skate on both sides"
+    ],
+    "repair": [
+      "Loosen bolts (A), reset to desired depth, and tighten all hardware securely."
+    ],
+    "machine_family": "Rototiller",
+    "component": "Skate",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**IMPORTANT: Make sure both skates are adjusted to the same depth.**",
+    "embedding_text": "FAULT: Uneven tillage depth\nSYMPTOM: The rototiller is not maintaining a consistent depth across the field.\nCOMPONENT: Skate\nLIKELY CAUSES:\n- Skate bolts (A) are loose\n- Adjustment screws (B) are set to different heights on either side\nVERIFY:\n- Check if bolts (A) are tight\n- Measure distance from frame to bottom of skate on both sides\nREPAIR:\n- Loosen bolts (A), reset to desired depth, and tighten all hardware securely.\n",
+    "fault_id": "fault_uneven_tillage_depth_007ef3e7",
+    "component_id": "skate_7e4f29"
+  },
+  {
+    "symptom": "Grease fitting does not accept grease",
+    "problem_description": "The lubrication point is blocked or the fitting is damaged, preventing grease from reaching the bearing or joint.",
+    "likely_causes": [
+      "Clogged grease fitting",
+      "Damaged grease fitting",
+      "Internal failure of the lubrication point"
+    ],
+    "understanding": "If the fitting is blocked, the grease cannot be forced into the machine, leading to premature wear.",
+    "verify": [
+      "Clean the fitting exterior",
+      "Attempt to pump grease",
+      "Remove fitting and check for blockage"
+    ],
+    "repair": [
+      "Replace the grease fitting",
+      "Inspect adjacent parts for failure if the new fitting also fails to accept grease"
+    ],
+    "machine_family": "Water Pump",
+    "component": "Grease Fitting",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**CAUTION: Do not clean, lubricate, or adjust the machine while it is in motion.**",
+    "embedding_text": "FAULT: Grease fitting does not accept grease\nSYMPTOM: The lubrication point is blocked or the fitting is damaged, preventing grease from reaching the bearing or joint.\nCOMPONENT: Grease Fitting\nLIKELY CAUSES:\n- Clogged grease fitting\n- Damaged grease fitting\n- Internal failure of the lubrication point\nVERIFY:\n- Clean the fitting exterior\n- Attempt to pump grease\n- Remove fitting and check for blockage\nREPAIR:\n- Replace the grease fitting\n- Inspect adjacent parts for failure if the new fitting also fails to accept grease\n",
+    "fault_id": "fault_grease_fitting_does_not_524ea513",
+    "component_id": "grease_fitting_aaf656"
+  },
+  {
+    "symptom": "Increased gear noise",
+    "problem_description": "Metal-on-metal contact occurring due to lack of lubrication film.",
+    "likely_causes": [
+      "Lubricant breakdown",
+      "Low oil level"
+    ],
+    "understanding": "Without the 85W-140 oil film, friction increases rapidly causing audible grinding.",
+    "verify": [
+      "Check oil level via fill plug",
+      "Inspect oil color and viscosity"
+    ],
+    "repair": [
+      "Drain and replace with 85W-140 API GL5 oil"
+    ],
+    "machine_family": "Water Pump",
+    "component": "Differentials and gears",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**12.3 Lubrication Symbols.**",
+    "embedding_text": "FAULT: Increased gear noise\nSYMPTOM: Metal-on-metal contact occurring due to lack of lubrication film.\nCOMPONENT: Differentials and gears\nLIKELY CAUSES:\n- Lubricant breakdown\n- Low oil level\nVERIFY:\n- Check oil level via fill plug\n- Inspect oil color and viscosity\nREPAIR:\n- Drain and replace with 85W-140 API GL5 oil\n",
+    "fault_id": "fault_increased_gear_noise_e1b1533c",
+    "component_id": "differentials_and_3a308e"
+  },
+  {
+    "symptom": "Excessive vibration during operation",
+    "problem_description": "Mechanical imbalance or lack of lubrication in the rotating assembly.",
+    "likely_causes": [
+      "Loose blade screws",
+      "Insufficient grease in universal joints",
+      "Damaged or bent blades"
+    ],
+    "understanding": "Vibration is typically caused by uneven mass distribution or friction in the drive train.",
+    "verify": [
+      "Check blade screws for tightness",
+      "Inspect blades for visible damage",
+      "Check grease levels in universal joints"
+    ],
+    "repair": [
+      "Tighten screws",
+      "Replace damaged blades",
+      "Grease universal joints until purged"
+    ],
+    "machine_family": "Water Pump",
+    "component": "Propeller Shaft/Blades",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**Every 4 hours of work:**",
+    "embedding_text": "FAULT: Excessive vibration during operation\nSYMPTOM: Mechanical imbalance or lack of lubrication in the rotating assembly.\nCOMPONENT: Propeller Shaft/Blades\nLIKELY CAUSES:\n- Loose blade screws\n- Insufficient grease in universal joints\n- Damaged or bent blades\nVERIFY:\n- Check blade screws for tightness\n- Inspect blades for visible damage\n- Check grease levels in universal joints\nREPAIR:\n- Tighten screws\n- Replace damaged blades\n- Grease universal joints until purged\n",
+    "fault_id": "fault_excessive_vibration_during_operation_8ca18a73",
+    "component_id": "propeller_shaftblades_152a33"
+  },
+  {
+    "symptom": "Excessive vibration or noise from blades",
+    "problem_description": "Loose or damaged blades causing imbalance in the rotating assembly.",
+    "likely_causes": [
+      "Loose blade screws",
+      "Bent, broken, or cracked blades"
+    ],
+    "understanding": "Mechanical imbalance in rotating components leads to vibration and potential structural failure.",
+    "verify": [
+      "Visually inspect blades for cracks or bends",
+      "Check tightness of blade screws"
+    ],
+    "repair": [
+      "Tighten all blade screws",
+      "Replace damaged blades"
+    ],
+    "machine_family": "Water Pump",
+    "component": "Blades",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**Daily or every 8 hours of work:**",
+    "embedding_text": "FAULT: Excessive vibration or noise from blades\nSYMPTOM: Loose or damaged blades causing imbalance in the rotating assembly.\nCOMPONENT: Blades\nLIKELY CAUSES:\n- Loose blade screws\n- Bent, broken, or cracked blades\nVERIFY:\n- Visually inspect blades for cracks or bends\n- Check tightness of blade screws\nREPAIR:\n- Tighten all blade screws\n- Replace damaged blades\n",
+    "fault_id": "fault_excessive_vibration_or_noise_d3f15218",
+    "component_id": "blades_03a4ed"
+  },
+  {
+    "symptom": "Low oil level in gearbox",
+    "problem_description": "Gearbox oil level is below the required threshold for proper lubrication.",
+    "likely_causes": [
+      "Natural consumption",
+      "External leakage"
+    ],
+    "understanding": "If the oil does not flow out of the level plug when opened, the gears are not receiving adequate lubrication, leading to premature wear.",
+    "verify": [
+      "Unscrew level plug while machine is horizontal",
+      "Check for external oil stains on gearbox housing"
+    ],
+    "repair": [
+      "Add oil through the filling plug until it flows from the level plug"
+    ],
+    "machine_family": "Water Pump",
+    "component": "Gearbox",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**Weekly or every 50 hours of work**",
+    "embedding_text": "FAULT: Low oil level in gearbox\nSYMPTOM: Gearbox oil level is below the required threshold for proper lubrication.\nCOMPONENT: Gearbox\nLIKELY CAUSES:\n- Natural consumption\n- External leakage\nVERIFY:\n- Unscrew level plug while machine is horizontal\n- Check for external oil stains on gearbox housing\nREPAIR:\n- Add oil through the filling plug until it flows from the level plug\n",
+    "fault_id": "fault_low_oil_level_in_fdc1a5b9",
+    "component_id": "gearbox_61a729"
+  },
+  {
+    "symptom": "drive shaft stiff or noisy during operation",
+    "problem_description": "Friction between the sliding components of the PTO shaft is increasing due to lack of lubrication.",
+    "likely_causes": [
+      "insufficient grease in drive shaft tube",
+      "contamination of sliding surfaces"
+    ],
+    "understanding": "The PTO shaft requires regular lubrication to prevent metal-on-metal wear and binding during power transmission.",
+    "verify": [
+      "check for presence of grease inside the tube",
+      "inspect for debris or rust inside the tube"
+    ],
+    "repair": [
+      "clean and apply a light layer of grease to the drive shaft tube"
+    ],
+    "machine_family": "Water Pump",
+    "component": "PTO Drive Shaft",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**12.5 Cardan**",
+    "embedding_text": "FAULT: drive shaft stiff or noisy during operation\nSYMPTOM: Friction between the sliding components of the PTO shaft is increasing due to lack of lubrication.\nCOMPONENT: PTO Drive Shaft\nLIKELY CAUSES:\n- insufficient grease in drive shaft tube\n- contamination of sliding surfaces\nVERIFY:\n- check for presence of grease inside the tube\n- inspect for debris or rust inside the tube\nREPAIR:\n- clean and apply a light layer of grease to the drive shaft tube\n",
+    "fault_id": "fault_drive_shaft_stiff_or_592ecfbc",
+    "component_id": "pto_drive_93f875"
+  },
+  {
+    "symptom": "Low oil level in transmission",
+    "problem_description": "Transmission oil level is below the required fill plug threshold.",
+    "likely_causes": [
+      "Normal operational consumption",
+      "Minor seal seepage"
+    ],
+    "understanding": "The transmission requires a specific oil volume to ensure proper gear lubrication and heat dissipation.",
+    "verify": [
+      "Remove level plug (B) and check if oil reaches the hole",
+      "Inspect exterior of transmission for signs of leakage"
+    ],
+    "repair": [
+      "Add EDO Differential oil and Gears 85W-140 API GL5 through breather plug (A) until it flows from level plug (B)"
+    ],
+    "machine_family": "Water Pump",
+    "component": "Transmission",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**12.6Side Transmission**",
+    "embedding_text": "FAULT: Low oil level in transmission\nSYMPTOM: Transmission oil level is below the required fill plug threshold.\nCOMPONENT: Transmission\nLIKELY CAUSES:\n- Normal operational consumption\n- Minor seal seepage\nVERIFY:\n- Remove level plug (B) and check if oil reaches the hole\n- Inspect exterior of transmission for signs of leakage\nREPAIR:\n- Add EDO Differential oil and Gears 85W-140 API GL5 through breather plug (A) until it flows from level plug (B)\n",
+    "fault_id": "fault_low_oil_level_in_a813f074",
+    "component_id": "transmission_695bf6"
+  },
+  {
+    "symptom": "Excessive vibration and noise",
+    "problem_description": "The blade is either installed backwards or the mounting nuts are loose.",
+    "likely_causes": [
+      "Incorrect blade orientation",
+      "Loose fastening hardware"
+    ],
+    "understanding": "Improper blade orientation creates an imbalance, while loose fasteners allow the blade to shift during operation.",
+    "verify": [
+      "Check for play in the blade by hand",
+      "Inspect orientation against manual diagrams"
+    ],
+    "repair": [
+      "Remove blade, re-orient correctly, and torque fasteners to specification."
+    ],
+    "machine_family": "Water Pump",
+    "component": "Blade",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**IMPORTANT: Always install the blades with the cut in the direction of the axis rotation. When ordering the spare blades, be sure to order both sides.**",
+    "embedding_text": "FAULT: Excessive vibration and noise\nSYMPTOM: The blade is either installed backwards or the mounting nuts are loose.\nCOMPONENT: Blade\nLIKELY CAUSES:\n- Incorrect blade orientation\n- Loose fastening hardware\nVERIFY:\n- Check for play in the blade by hand\n- Inspect orientation against manual diagrams\nREPAIR:\n- Remove blade, re-orient correctly, and torque fasteners to specification.\n",
+    "fault_id": "fault_excessive_vibration_and_noise_3e08dc0d",
+    "component_id": "blade_2c066a"
+  },
+  {
+    "symptom": "Rototiller blades show signs of wear",
+    "problem_description": "Blades have reached the end of their service life due to abrasive soil contact.",
+    "likely_causes": [
+      "Normal operational wear",
+      "Impact damage from rocks or debris"
+    ],
+    "understanding": "Worn blades reduce tilling efficiency and increase load on the gearbox.",
+    "verify": [
+      "Visual inspection of blade edges for thinning or rounding"
+    ],
+    "repair": [
+      "Replace blades"
+    ],
+    "machine_family": "Rototiller",
+    "component": "Blades",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**12.12 Storage**",
+    "embedding_text": "FAULT: Rototiller blades show signs of wear\nSYMPTOM: Blades have reached the end of their service life due to abrasive soil contact.\nCOMPONENT: Blades\nLIKELY CAUSES:\n- Normal operational wear\n- Impact damage from rocks or debris\nVERIFY:\n- Visual inspection of blade edges for thinning or rounding\nREPAIR:\n- Replace blades\n",
+    "fault_id": "fault_rototiller_blades_show_signs_6b79466d",
+    "component_id": "blades_03a4ed"
+  },
+  {
+    "symptom": "Oxidation or rust on metal surfaces",
+    "problem_description": "Protective paint coating has been compromised, exposing bare metal to moisture.",
+    "likely_causes": [
+      "Scratches from debris",
+      "Lack of protective coating maintenance"
+    ],
+    "understanding": "Exposed metal will corrode rapidly if not sealed, leading to structural weakening.",
+    "verify": [
+      "Visual inspection for scratched or bare metal"
+    ],
+    "repair": [
+      "Clean surface and apply paint"
+    ],
+    "machine_family": "Rototiller",
+    "component": "Frame/Chassis",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**12.12 Storage**",
+    "embedding_text": "FAULT: Oxidation or rust on metal surfaces\nSYMPTOM: Protective paint coating has been compromised, exposing bare metal to moisture.\nCOMPONENT: Frame/Chassis\nLIKELY CAUSES:\n- Scratches from debris\n- Lack of protective coating maintenance\nVERIFY:\n- Visual inspection for scratched or bare metal\nREPAIR:\n- Clean surface and apply paint\n",
+    "fault_id": "fault_oxidation_or_rust_on_99d6990e",
+    "component_id": "framechassis_43650b"
+  },
+  {
+    "symptom": "Gearbox Overheated",
+    "problem_description": "The gearbox is running at temperatures above normal operating limits.",
+    "likely_causes": [
+      "Low Lubricant Level",
+      "Inappropriate Lubricant"
+    ],
+    "understanding": "Insufficient or incorrect lubrication increases friction and heat generation within the gear mesh.",
+    "verify": [
+      "Check oil level",
+      "Check lubricant specification"
+    ],
+    "repair": [
+      "Fill to appropriate level",
+      "Replace with appropriate lubricant"
+    ],
+    "machine_family": "Water Pump",
+    "component": "Gearbox",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "SECTION 13: TROUBLESHOOTING",
+    "embedding_text": "FAULT: Gearbox Overheated\nSYMPTOM: The gearbox is running at temperatures above normal operating limits.\nCOMPONENT: Gearbox\nLIKELY CAUSES:\n- Low Lubricant Level\n- Inappropriate Lubricant\nVERIFY:\n- Check oil level\n- Check lubricant specification\nREPAIR:\n- Fill to appropriate level\n- Replace with appropriate lubricant\n",
+    "fault_id": "fault_gearbox_overheated_53204cb5",
+    "component_id": "gearbox_61a729"
+  },
+  {
+    "symptom": "Noisy gearbox",
+    "problem_description": "Excessive noise emanating from the gearbox housing during operation.",
+    "likely_causes": [
+      "Little oil in the gearbox",
+      "Worn Bearings",
+      "New and old output gear mismatch"
+    ],
+    "understanding": "Noise indicates mechanical wear or lack of lubrication causing metal-on-metal contact.",
+    "verify": [
+      "Check oil level",
+      "Inspect bearings for play"
+    ],
+    "repair": [
+      "Add oil",
+      "Change bearings",
+      "Make a gear change"
+    ],
+    "machine_family": "Water Pump",
+    "component": "Gearbox",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "SECTION 13: TROUBLESHOOTING",
+    "embedding_text": "FAULT: Noisy gearbox\nSYMPTOM: Excessive noise emanating from the gearbox housing during operation.\nCOMPONENT: Gearbox\nLIKELY CAUSES:\n- Little oil in the gearbox\n- Worn Bearings\n- New and old output gear mismatch\nVERIFY:\n- Check oil level\n- Inspect bearings for play\nREPAIR:\n- Add oil\n- Change bearings\n- Make a gear change\n",
+    "fault_id": "fault_noisy_gearbox_0def78d8",
+    "component_id": "gearbox_61a729"
+  },
+  {
+    "symptom": "Escape in the Gearbox",
+    "problem_description": "Oil is leaking from the gearbox housing.",
+    "likely_causes": [
+      "Oil level very high",
+      "Damaged oil seal",
+      "Bent Axis",
+      "Damaged Packaging"
+    ],
+    "understanding": "Leaks occur due to over-pressurization from excess oil or failure of sealing components.",
+    "verify": [
+      "Check oil level",
+      "Inspect seals for visible leaks"
+    ],
+    "repair": [
+      "Drain oil to appropriate level",
+      "Replace seal",
+      "Change axis",
+      "Replace packaging"
+    ],
+    "machine_family": "Water Pump",
+    "component": "Gearbox",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "SECTION 13: TROUBLESHOOTING",
+    "embedding_text": "FAULT: Escape in the Gearbox\nSYMPTOM: Oil is leaking from the gearbox housing.\nCOMPONENT: Gearbox\nLIKELY CAUSES:\n- Oil level very high\n- Damaged oil seal\n- Bent Axis\n- Damaged Packaging\nVERIFY:\n- Check oil level\n- Inspect seals for visible leaks\nREPAIR:\n- Drain oil to appropriate level\n- Replace seal\n- Change axis\n- Replace packaging\n",
+    "fault_id": "fault_escape_in_the_gearbox_8afb3126",
+    "component_id": "gearbox_61a729"
+  },
+  {
+    "symptom": "PTO Vibrate",
+    "problem_description": "Excessive vibration in the Power Take-Off drive line.",
+    "likely_causes": [
+      "Worn universal joint",
+      "Bent PTO Drive Line",
+      "Very raised rotocultivator"
+    ],
+    "understanding": "Vibration is caused by misalignment or mechanical failure of rotating drive components.",
+    "verify": [
+      "Inspect universal joint",
+      "Check PTO drive line for straightness"
+    ],
+    "repair": [
+      "Replace universal joint",
+      "Replace PTO drive line",
+      "Lower the rototiller"
+    ],
+    "machine_family": "Water Pump",
+    "component": "PTO Drive Line",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "SECTION 13: TROUBLESHOOTING",
+    "embedding_text": "FAULT: PTO Vibrate\nSYMPTOM: Excessive vibration in the Power Take-Off drive line.\nCOMPONENT: PTO Drive Line\nLIKELY CAUSES:\n- Worn universal joint\n- Bent PTO Drive Line\n- Very raised rotocultivator\nVERIFY:\n- Inspect universal joint\n- Check PTO drive line for straightness\nREPAIR:\n- Replace universal joint\n- Replace PTO drive line\n- Lower the rototiller\n",
+    "fault_id": "fault_pto_vibrate_ff9557ca",
+    "component_id": "pto_drive_f7a33e"
+  },
+  {
+    "symptom": "The wheel doesn't turn",
+    "problem_description": "The implement rotor or wheel is not rotating during operation.",
+    "likely_causes": [
+      "PTO disengaged",
+      "Safety pin of the transmission broken",
+      "High grass and waste jamming",
+      "Very low cap"
+    ],
+    "understanding": "Power is not being transferred to the implement due to disengagement or mechanical obstruction.",
+    "verify": [
+      "Check PTO engagement",
+      "Check for debris/grass jamming"
+    ],
+    "repair": [
+      "Engage the PTO",
+      "Replace safety pin",
+      "Clean debris",
+      "Lift the back cover"
+    ],
+    "machine_family": "Water Pump",
+    "component": "Transmission",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "SECTION 13: TROUBLESHOOTING",
+    "embedding_text": "FAULT: The wheel doesn't turn\nSYMPTOM: The implement rotor or wheel is not rotating during operation.\nCOMPONENT: Transmission\nLIKELY CAUSES:\n- PTO disengaged\n- Safety pin of the transmission broken\n- High grass and waste jamming\n- Very low cap\nVERIFY:\n- Check PTO engagement\n- Check for debris/grass jamming\nREPAIR:\n- Engage the PTO\n- Replace safety pin\n- Clean debris\n- Lift the back cover\n",
+    "fault_id": "fault_the_wheel_doesnt_turn_cd2e4d98",
+    "component_id": "transmission_695bf6"
+  },
+  {
+    "symptom": "Vibration and rebound of rotary tiller",
+    "problem_description": "The tiller is bouncing or vibrating excessively during soil engagement.",
+    "likely_causes": [
+      "Strange objects trapped in the rotor",
+      "Worn or broken blades",
+      "Poorly assembled blades",
+      "Deformed rotor shaft"
+    ],
+    "understanding": "Imbalance in the rotating assembly causes erratic movement and vibration.",
+    "verify": [
+      "Inspect rotor for trapped objects",
+      "Check blade condition"
+    ],
+    "repair": [
+      "Remove and clean",
+      "Replace blades",
+      "Install blades correctly",
+      "Change rotor axis"
+    ],
+    "machine_family": "Water Pump",
+    "component": "Rotor",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "SECTION 13: TROUBLESHOOTING",
+    "embedding_text": "FAULT: Vibration and rebound of rotary tiller\nSYMPTOM: The tiller is bouncing or vibrating excessively during soil engagement.\nCOMPONENT: Rotor\nLIKELY CAUSES:\n- Strange objects trapped in the rotor\n- Worn or broken blades\n- Poorly assembled blades\n- Deformed rotor shaft\nVERIFY:\n- Inspect rotor for trapped objects\n- Check blade condition\nREPAIR:\n- Remove and clean\n- Replace blades\n- Install blades correctly\n- Change rotor axis\n",
+    "fault_id": "fault_vibration_and_rebound_of_bb5e7d2e",
+    "component_id": "rotor_e6af33"
+  },
+  {
+    "symptom": "Irregular sound or abnormal operation",
+    "problem_description": "The equipment is exhibiting mechanical or operational instability that deviates from normal performance.",
+    "likely_causes": [
+      "Mechanical failure or internal component damage",
+      "Improper assembly or activation",
+      "Negligence or environmental damage"
+    ],
+    "understanding": "Abnormal sounds indicate mechanical stress or failure that, if ignored, will lead to catastrophic damage and void the warranty.",
+    "verify": [
+      "Stop operation immediately",
+      "Inspect for visible damage or loose components"
+    ],
+    "repair": [
+      "Contact authorized Eduardoño S.A. representative for inspection"
+    ],
+    "machine_family": "Rotocultivator",
+    "component": "General Assembly",
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "CONDITIONS",
+    "embedding_text": "FAULT: Irregular sound or abnormal operation\nSYMPTOM: The equipment is exhibiting mechanical or operational instability that deviates from normal performance.\nCOMPONENT: General Assembly\nLIKELY CAUSES:\n- Mechanical failure or internal component damage\n- Improper assembly or activation\n- Negligence or environmental damage\nVERIFY:\n- Stop operation immediately\n- Inspect for visible damage or loose components\nREPAIR:\n- Contact authorized Eduardoño S.A. representative for inspection\n",
+    "fault_id": "fault_irregular_sound_or_abnormal_7930f240",
+    "component_id": "general_assembly_7e5c54"
+  }
+]

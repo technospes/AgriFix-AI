@@ -1,0 +1,459 @@
+[
+  {
+    "component": "Electricity Protective Device",
+    "procedure_ids": [
+      "a56c6eb40065"
+    ],
+    "fault_ids": [
+      "electric pump does not turn on"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "power socket",
+      "grounding wire"
+    ],
+    "embedding_text": "Electricity Protective Device power socket grounding wire electric pump does not turn on"
+  },
+  {
+    "component": "Motor",
+    "procedure_ids": [
+      "a56c6eb40065",
+      "2152589cfdbf"
+    ],
+    "fault_ids": [
+      "motor is overheating",
+      "Motor hums"
+    ],
+    "spec_ids": [
+      "voltage:motor"
+    ],
+    "image_ids": [
+      "UnScanned_Water_Pump_Servicing-1_p18_img0.png"
+    ],
+    "connected_components": [
+      "motor",
+      "thermal insulation material",
+      "shaft",
+      "control panel"
+    ],
+    "embedding_text": "Motor motor thermal insulation material shaft control panel motor is overheating Motor hums"
+  },
+  {
+    "component": "Mechanical Seal",
+    "procedure_ids": [
+      "b7db3f576958",
+      "da257e616fb6",
+      "43f1f60e8a3d"
+    ],
+    "fault_ids": [
+      "pump leaks",
+      "Pump leaks water",
+      "pump hums but does not rotate"
+    ],
+    "spec_ids": [
+      "capacitor_rating:mechanical seal"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "motor",
+      "water pump",
+      "pump body, water inlet",
+      "impeller",
+      "bearing"
+    ],
+    "embedding_text": "Mechanical Seal motor water pump pump body, water inlet impeller pump leaks Pump leaks water pump hums but does not rotate"
+  },
+  {
+    "component": "Electric Pump",
+    "procedure_ids": [
+      "3ce1e9592912",
+      "b4e27a1dd76e"
+    ],
+    "fault_ids": [
+      "pump does not work",
+      "motor hums but does not rotate"
+    ],
+    "spec_ids": [
+      "temperature:electric pump",
+      "clearance:electric pump"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "power supply",
+      "water inlet pipeline",
+      "cable"
+    ],
+    "embedding_text": "Electric Pump power supply water inlet pipeline cable pump does not work motor hums but does not rotate"
+  },
+  {
+    "component": "Capacitor",
+    "procedure_ids": [
+      "fb9c70456f83",
+      "858bd4064990"
+    ],
+    "fault_ids": [
+      "pump does not start",
+      "pump not turning on"
+    ],
+    "spec_ids": [
+      "voltage:capacitor"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "terminal box",
+      "control box",
+      "motor"
+    ],
+    "embedding_text": "Capacitor terminal box control box motor pump does not start pump not turning on"
+  },
+  {
+    "component": "Flow Switch Subline Capacitor",
+    "procedure_ids": [
+      "c81078418e0d"
+    ],
+    "fault_ids": [
+      "Motor hums but does not rotate"
+    ],
+    "spec_ids": [
+      "capacitor_rating:flow switch subline capacitor"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "main line(white)",
+      "common line(black/red)"
+    ],
+    "embedding_text": "Flow Switch Subline Capacitor main line(white) common line(black/red) Motor hums but does not rotate"
+  },
+  {
+    "component": "Shaft Seal",
+    "procedure_ids": [
+      "2152589cfdbf"
+    ],
+    "fault_ids": [
+      "Seal leak"
+    ],
+    "spec_ids": [
+      "clearance:shaft seal"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "motor",
+      "impeller"
+    ],
+    "embedding_text": "Shaft Seal motor impeller Seal leak"
+  },
+  {
+    "component": "Insulation Resistance",
+    "procedure_ids": [
+      "4e26f4fe9d07"
+    ],
+    "fault_ids": [
+      "Motor hums",
+      "Trips breaker"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "cable",
+      "outgoing line",
+      "plug"
+    ],
+    "embedding_text": "Insulation Resistance cable outgoing line plug Motor hums Trips breaker"
+  },
+  {
+    "component": "Pump Body",
+    "procedure_ids": [
+      "4e26f4fe9d07"
+    ],
+    "fault_ids": [
+      "Air lock",
+      "Cavitation"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "inlet pipe",
+      "outlet pipe"
+    ],
+    "embedding_text": "Pump Body inlet pipe outlet pipe Air lock Cavitation"
+  },
+  {
+    "component": "Impeller",
+    "procedure_ids": [
+      "4e26f4fe9d07",
+      "b4e27a1dd76e",
+      "64276bcb5222",
+      "5fcea43d7cd5"
+    ],
+    "fault_ids": [
+      "Wearing",
+      "Blocking",
+      "motor runs but no water is discharged",
+      "Foreign matter in impeller."
+    ],
+    "spec_ids": [],
+    "image_ids": [
+      "UnScanned_Water_Pump_Servicing-1_p6_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p10_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p11_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p12_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p14_img0.png"
+    ],
+    "connected_components": [
+      "inlet pipe",
+      "outlet pipe",
+      "water inlet pipeline",
+      "cable",
+      "pump casing",
+      "shaft"
+    ],
+    "embedding_text": "Impeller inlet pipe outlet pipe water inlet pipeline cable Wearing Blocking motor runs but no water is discharged"
+  },
+  {
+    "component": "Pressure Control Device",
+    "procedure_ids": [
+      "e13758d16d1d"
+    ],
+    "fault_ids": [
+      "water leakage"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "outlet pipeline"
+    ],
+    "embedding_text": "Pressure Control Device outlet pipeline water leakage"
+  },
+  {
+    "component": "Overload Protector",
+    "procedure_ids": [
+      "e13758d16d1d"
+    ],
+    "fault_ids": [
+      "pump damage due to overload"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "three-phase electric pump"
+    ],
+    "embedding_text": "Overload Protector three-phase electric pump pump damage due to overload"
+  },
+  {
+    "component": "Cable",
+    "procedure_ids": [
+      "e13758d16d1d"
+    ],
+    "fault_ids": [
+      "loose connection"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "electric pump"
+    ],
+    "embedding_text": "Cable electric pump loose connection"
+  },
+  {
+    "component": "Check Valve And Filter Screen",
+    "procedure_ids": [
+      "e13758d16d1d"
+    ],
+    "fault_ids": [
+      "failure of the water pump, pipeline and other parts"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "water pump"
+    ],
+    "embedding_text": "Check Valve And Filter Screen water pump failure of the water pump, pipeline and other parts"
+  },
+  {
+    "component": "Flow Switch",
+    "procedure_ids": [
+      "43f1f60e8a3d",
+      "c5835442257d"
+    ],
+    "fault_ids": [
+      "pump does not turn on"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "pressure tank",
+      "controller"
+    ],
+    "embedding_text": "Flow Switch pressure tank controller pump does not turn on"
+  },
+  {
+    "component": "Pressure Switch",
+    "procedure_ids": [
+      "6476ed4b7d47"
+    ],
+    "fault_ids": [
+      "The electric pump cannot be halted when water is not used",
+      "The electric pump does not start when water is used",
+      "The electric pump is started frequently when water is used"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "water inlet pipeline",
+      "water outlet pipeline"
+    ],
+    "embedding_text": "Pressure Switch water inlet pipeline water outlet pipeline The electric pump cannot be halted when water is not used The electric pump does not start when water is used The electric pump is started frequently when water is used"
+  },
+  {
+    "component": "Check Valve",
+    "procedure_ids": [
+      "c5835442257d"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [
+      "UnScanned_Water_Pump_Servicing-1_p8_img0.png"
+    ],
+    "connected_components": [
+      "electric pump",
+      "pressure switch"
+    ],
+    "embedding_text": "Check Valve electric pump pressure switch"
+  },
+  {
+    "component": "Stuffing Box Gland",
+    "procedure_ids": [
+      "a5a7af5f2d63"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [
+      "UnScanned_Water_Pump_Servicing-1_p8_img0.png"
+    ],
+    "connected_components": [
+      "stuffing boxes"
+    ],
+    "embedding_text": "Stuffing Box Gland stuffing boxes"
+  },
+  {
+    "component": "Pump And Driver",
+    "procedure_ids": [
+      "a5a7af5f2d63"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "pump and driver"
+    ],
+    "embedding_text": "Pump And Driver pump and driver"
+  },
+  {
+    "component": "Casing Gasket",
+    "procedure_ids": [
+      "64276bcb5222"
+    ],
+    "fault_ids": [
+      "Casing gasket defective, permitting internal leakage."
+    ],
+    "spec_ids": [],
+    "image_ids": [
+      "UnScanned_Water_Pump_Servicing-1_p11_img0.png"
+    ],
+    "connected_components": [
+      "pump casing"
+    ],
+    "embedding_text": "Casing Gasket pump casing Casing gasket defective, permitting internal leakage."
+  },
+  {
+    "component": "Packing",
+    "procedure_ids": [
+      "e4ae00fed1d3"
+    ],
+    "fault_ids": [
+      "Motor hums but does not rotate"
+    ],
+    "spec_ids": [],
+    "image_ids": [
+      "UnScanned_Water_Pump_Servicing-1_p8_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p12_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p13_img0.png"
+    ],
+    "connected_components": [
+      "stuffing box",
+      "shaft",
+      "shaft sleeves",
+      "gland"
+    ],
+    "embedding_text": "Packing stuffing box shaft shaft sleeves gland Motor hums but does not rotate"
+  },
+  {
+    "component": "Bearing",
+    "procedure_ids": [
+      "e4ae00fed1d3",
+      "5fcea43d7cd5"
+    ],
+    "fault_ids": [
+      "Motor hums but does not rotate"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "shaft",
+      "bearing housing",
+      "cooling liquid supply",
+      "pump casing"
+    ],
+    "embedding_text": "Bearing shaft bearing housing cooling liquid supply pump casing Motor hums but does not rotate"
+  },
+  {
+    "component": "Bearings",
+    "procedure_ids": [
+      "6d53fcd91976"
+    ],
+    "fault_ids": [
+      "Motor hums but does not rotate"
+    ],
+    "spec_ids": [],
+    "image_ids": [
+      "UnScanned_Water_Pump_Servicing-1_p7_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p9_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p13_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p14_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p15_img0.png"
+    ],
+    "connected_components": [],
+    "embedding_text": "Bearings Motor hums but does not rotate"
+  },
+  {
+    "component": "Commutator",
+    "procedure_ids": [
+      "6d53fcd91976"
+    ],
+    "fault_ids": [
+      "Motor fails to start or come up to speed normally"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "armature"
+    ],
+    "embedding_text": "Commutator armature Motor fails to start or come up to speed normally"
+  },
+  {
+    "component": "Pump",
+    "procedure_ids": [],
+    "fault_ids": [
+      "Pump does not deliver water.",
+      "Insufficient capacity delivered."
+    ],
+    "spec_ids": [],
+    "image_ids": [
+      "UnScanned_Water_Pump_Servicing-1_p8_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p16_img0.png"
+    ],
+    "connected_components": [],
+    "embedding_text": "Pump Pump does not deliver water. Insufficient capacity delivered."
+  }
+]

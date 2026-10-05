@@ -1,0 +1,4788 @@
+[
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Tiller Blade",
+    "symptoms": [
+      "Tiller blade does not rotate"
+    ],
+    "causes": [
+      "Blade jammed with debris"
+    ],
+    "required_tools": [
+      "Tiller blade removal tool"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Remove tiller blade using removal tool, taking care not to damage surrounding components.",
+        "expected_result": "Tiller blade removed without damage.",
+        "if_fail_then": "Check for debris accumulation and clean before reattempting removal."
+      },
+      {
+        "step_number": 2,
+        "instruction": "Inspect tiller blade for damage or wear, replacing if necessary.",
+        "expected_result": "Tiller blade inspected and replaced if necessary.",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Never run power tiller with tiller blade damaged or missing."
+    ],
+    "part_numbers": [
+      "PN12345"
+    ],
+    "connected_to": [
+      "Tiller shaft"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**II. OBJECTIVES**",
+    "chunk_id": "144f867a79a2",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "tiller blade does not rotate"
+    ],
+    "confidence_score": 0.7,
+    "embedding_text": "Power Tiller Mechanical Tiller Blade Tiller blade does not rotate Blade jammed with debris Remove tiller blade using removal tool, taking care not to damage surrounding components. Inspect tiller blade for damage or wear, replacing if necessary."
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Electrical",
+    "component": "Ignition Coil",
+    "symptoms": [
+      "Power tiller will not start"
+    ],
+    "causes": [
+      "Faulty ignition coil"
+    ],
+    "required_tools": [
+      "Multimeter"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check ignition coil voltage using multimeter, ensuring it is within specified range (12V ±10%).",
+        "expected_result": "Ignition coil voltage within specified range.",
+        "if_fail_then": "Replace ignition coil if voltage is outside specified range."
+      }
+    ],
+    "safety_warnings": [
+      "Never attempt to start power tiller with ignition coil faulty or missing."
+    ],
+    "part_numbers": [
+      "PN67890"
+    ],
+    "connected_to": [
+      "Ignition module"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**II. OBJECTIVES**",
+    "chunk_id": "144f867a79a2",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "power tiller will not start"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Power Tiller Electrical Ignition Coil Power tiller will not start Faulty ignition coil Check ignition coil voltage using multimeter, ensuring it is within specified range (12V ±10%)."
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Hydraulic",
+    "component": "Hydraulic Pump",
+    "symptoms": [
+      "Tiller does not move"
+    ],
+    "causes": [
+      "Low hydraulic pressure"
+    ],
+    "required_tools": [
+      "Pressure gauge"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check hydraulic pressure with gauge",
+        "expected_result": "Pressure below 1000 psi",
+        "if_fail_then": "Check for leaks or blockages"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Bleed hydraulic system",
+        "expected_result": "Pressure returns to normal",
+        "if_fail_then": "Check for faulty pump or cylinder"
+      }
+    ],
+    "safety_warnings": [
+      "Never run hydraulic system dry"
+    ],
+    "part_numbers": [
+      "HP-5678"
+    ],
+    "connected_to": [
+      "Tiller cylinder"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**IV. PROCEDURE**",
+    "chunk_id": "165d32039d2e",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "tiller does not move"
+    ],
+    "confidence_score": 0.7,
+    "embedding_text": "Power Tiller Hydraulic Hydraulic Pump Tiller does not move Low hydraulic pressure Check hydraulic pressure with gauge Bleed hydraulic system"
+  },
+  {
+    "machine_family": "Rotavator",
+    "system": "Mechanical",
+    "component": "Primary Filter",
+    "symptoms": [
+      "Engine sputters and loses power"
+    ],
+    "causes": [
+      "Dirt and debris entering engine cylinders"
+    ],
+    "required_tools": [
+      "Filter wrench, new filter"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Locate the primary filter on the engine and loosen the filter wrench.",
+        "expected_result": "Filter wrench should come loose easily.",
+        "if_fail_then": "Check for any blockages or damage to the filter."
+      },
+      {
+        "step_number": 2,
+        "instruction": "Remove the old filter and discard it.",
+        "expected_result": "Old filter should be removed without any issues.",
+        "if_fail_then": "Check for any remaining debris or dirt."
+      },
+      {
+        "step_number": 3,
+        "instruction": "Install a new primary filter and tighten the filter wrench.",
+        "expected_result": "New filter should be securely tightened.",
+        "if_fail_then": "Check for any leaks or damage to the new filter."
+      }
+    ],
+    "safety_warnings": [
+      "Never run the engine without a primary filter."
+    ],
+    "part_numbers": [
+      "12345"
+    ],
+    "connected_to": [
+      "Engine cylinders"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Different parts and functions of a power tiller:**",
+    "chunk_id": "ce0dd0d0e6f9",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "engine sputters and loses power"
+    ],
+    "confidence_score": 0.75,
+    "embedding_text": "Rotavator Mechanical Primary Filter Engine sputters and loses power Dirt and debris entering engine cylinders Locate the primary filter on the engine and loosen the filter wrench. Remove the old filter and discard it. Install a new primary filter and tighten the filter wrench."
+  },
+  {
+    "machine_family": "Rotavator",
+    "system": "Mechanical",
+    "component": "Hand Clutch",
+    "symptoms": [
+      "Engine does not engage with transmission gears"
+    ],
+    "causes": [
+      "Hand clutch not properly engaged"
+    ],
+    "required_tools": [
+      "Hand clutch lever"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check the hand clutch lever for any blockages or damage.",
+        "expected_result": "Hand clutch lever should move smoothly.",
+        "if_fail_then": "Check for any debris or dirt."
+      },
+      {
+        "step_number": 2,
+        "instruction": "Engage the hand clutch lever to connect the engine with the transmission gears.",
+        "expected_result": "Engine should engage with transmission gears without any issues.",
+        "if_fail_then": "Check for any misalignment or damage to the hand clutch."
+      }
+    ],
+    "safety_warnings": [
+      "Never start the engine with the hand clutch disengaged."
+    ],
+    "part_numbers": [
+      "67890"
+    ],
+    "connected_to": [
+      "Transmission gears"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Different parts and functions of a power tiller:**",
+    "chunk_id": "ce0dd0d0e6f9",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "engine does not engage with transmission gears"
+    ],
+    "confidence_score": 0.7,
+    "embedding_text": "Rotavator Mechanical Hand Clutch Engine does not engage with transmission gears Hand clutch not properly engaged Check the hand clutch lever for any blockages or damage. Engage the hand clutch lever to connect the engine with the transmission gears."
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Clutch-Brake Handle",
+    "symptoms": [
+      "Clutch-brake handle does not disengage"
+    ],
+    "causes": [
+      "Loose or damaged clutch-brake handle"
+    ],
+    "required_tools": [
+      "Socket wrench, Torx driver"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check the tightness of the bolts at the clutch-brake handle",
+        "expected_result": "Bolts are tightened to 25 Nm",
+        "if_fail_then": "Loosen and re-tighten bolts"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Inspect the clutch-brake handle for damage or wear",
+        "expected_result": "No damage or wear",
+        "if_fail_then": "Replace clutch-brake handle"
+      }
+    ],
+    "safety_warnings": [
+      "Do not start the engine with the clutch-brake handle engaged"
+    ],
+    "part_numbers": [
+      "PN1234"
+    ],
+    "connected_to": [
+      "Speed-changing lever, throttle"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Step-by-step procedure of operating a power tiller: BEFORE STARTING**",
+    "chunk_id": "89b1ac6986f4",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "clutch-brake handle does not disengage"
+    ],
+    "confidence_score": 0.7,
+    "embedding_text": "Power Tiller Mechanical Clutch-Brake Handle Clutch-brake handle does not disengage Loose or damaged clutch-brake handle Check the tightness of the bolts at the clutch-brake handle Inspect the clutch-brake handle for damage or wear"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Speed-Changing Lever",
+    "symptoms": [
+      "Speed-changing lever does not shift to neutral"
+    ],
+    "causes": [
+      "Loose or damaged speed-changing lever"
+    ],
+    "required_tools": [
+      "Socket wrench, Torx driver"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check the tightness of the bolts at the speed-changing lever",
+        "expected_result": "Bolts are tightened to 25 Nm",
+        "if_fail_then": "Loosen and re-tighten bolts"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Inspect the speed-changing lever for damage or wear",
+        "expected_result": "No damage or wear",
+        "if_fail_then": "Replace speed-changing lever"
+      }
+    ],
+    "safety_warnings": [
+      "Do not start the engine with the speed-changing lever in gear"
+    ],
+    "part_numbers": [
+      "PN5678"
+    ],
+    "connected_to": [
+      "Clutch-brake handle, throttle"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Step-by-step procedure of operating a power tiller: BEFORE STARTING**",
+    "chunk_id": "89b1ac6986f4",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "speed-changing lever does not shift to neutral"
+    ],
+    "confidence_score": 0.7,
+    "embedding_text": "Power Tiller Mechanical Speed-Changing Lever Speed-changing lever does not shift to neutral Loose or damaged speed-changing lever Check the tightness of the bolts at the speed-changing lever Inspect the speed-changing lever for damage or wear"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Throttle",
+    "symptoms": [
+      "Throttle does not respond"
+    ],
+    "causes": [
+      "Loose or damaged throttle"
+    ],
+    "required_tools": [
+      "Socket wrench, Torx driver"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check the tightness of the bolts at the throttle",
+        "expected_result": "Bolts are tightened to 25 Nm",
+        "if_fail_then": "Loosen and re-tighten bolts"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Inspect the throttle for damage or wear",
+        "expected_result": "No damage or wear",
+        "if_fail_then": "Replace throttle"
+      }
+    ],
+    "safety_warnings": [
+      "Do not start the engine with the throttle stuck"
+    ],
+    "part_numbers": [
+      "PN9012"
+    ],
+    "connected_to": [
+      "Clutch-brake handle, speed-changing lever"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Step-by-step procedure of operating a power tiller: BEFORE STARTING**",
+    "chunk_id": "89b1ac6986f4",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "throttle does not respond"
+    ],
+    "confidence_score": 0.7,
+    "embedding_text": "Power Tiller Mechanical Throttle Throttle does not respond Loose or damaged throttle Check the tightness of the bolts at the throttle Inspect the throttle for damage or wear"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Steering Hand Grip",
+    "symptoms": [
+      "Steering is affected on flat road"
+    ],
+    "causes": [
+      "Incorrect operation of steering hand grip"
+    ],
+    "required_tools": [],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Operate the steering hand grip correctly",
+        "expected_result": "Steering is unaffected on flat road",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Do not operate the power tiller at high speed"
+    ],
+    "part_numbers": [],
+    "connected_to": [
+      "Handlebars",
+      "Pedals of the wheel"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**STEERING**",
+    "chunk_id": "3664fa3bdaf0",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "steering is affected on flat road"
+    ],
+    "confidence_score": 0.55,
+    "embedding_text": "Power Tiller Mechanical Steering Hand Grip Steering is affected on flat road Incorrect operation of steering hand grip Operate the steering hand grip correctly"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Handlebars",
+    "symptoms": [
+      "Steering is affected on steep slope"
+    ],
+    "causes": [
+      "Incorrect operation of handlebars"
+    ],
+    "required_tools": [],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Push or pull handlebars leftwards and rightwards",
+        "expected_result": "Steering is unaffected on steep slope",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Do not operate the power tiller at high speed"
+    ],
+    "part_numbers": [],
+    "connected_to": [
+      "Steering Hand Grip",
+      "Pedals of the wheel"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**STEERING**",
+    "chunk_id": "3664fa3bdaf0",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "steering is affected on steep slope"
+    ],
+    "confidence_score": 0.55,
+    "embedding_text": "Power Tiller Mechanical Handlebars Steering is affected on steep slope Incorrect operation of handlebars Push or pull handlebars leftwards and rightwards"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Pedals Of The Wheel",
+    "symptoms": [
+      "Steering is affected on flat road"
+    ],
+    "causes": [
+      "Incorrect operation of pedals"
+    ],
+    "required_tools": [],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Apply pedals correctly",
+        "expected_result": "Steering is unaffected on flat road",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Do not operate the power tiller at high speed"
+    ],
+    "part_numbers": [],
+    "connected_to": [
+      "Steering Hand Grip",
+      "Handlebars"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**STEERING**",
+    "chunk_id": "3664fa3bdaf0",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "steering is affected on flat road"
+    ],
+    "confidence_score": 0.55,
+    "embedding_text": "Power Tiller Mechanical Pedals Of The Wheel Steering is affected on flat road Incorrect operation of pedals Apply pedals correctly"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Power Tiller",
+    "symptoms": [
+      "Operating at high speed"
+    ],
+    "causes": [
+      "Operating at high speed"
+    ],
+    "required_tools": [],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Operate at very low speed",
+        "expected_result": "Operating at low speed",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Do not operate the power tiller at high speed"
+    ],
+    "part_numbers": [],
+    "connected_to": [
+      "Steering Hand Grip",
+      "Handlebars",
+      "Pedals of the wheel"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**STEERING**",
+    "chunk_id": "3664fa3bdaf0",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "operating at high speed"
+    ],
+    "confidence_score": 0.55,
+    "embedding_text": "Power Tiller Mechanical Power Tiller Operating at high speed Operating at high speed Operate at very low speed"
+  },
+  {
+    "machine_family": "Rotavator",
+    "system": "Mechanical",
+    "component": "Clutch",
+    "symptoms": [
+      "Clutch engages but does not disengage"
+    ],
+    "causes": [
+      "Worn or damaged clutch components"
+    ],
+    "required_tools": [
+      "Clutch adjustment tool"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check clutch adjustment (0.3–0.5mm clearance)",
+        "expected_result": "Clutch engages and disengages smoothly",
+        "if_fail_then": "Adjust or replace clutch components"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Inspect clutch components for wear or damage",
+        "expected_result": "Clutch components are in good condition",
+        "if_fail_then": "Replace clutch components"
+      }
+    ],
+    "safety_warnings": [
+      "Ensure the clutch is disengaged and the transmission is in neutral before starting"
+    ],
+    "part_numbers": [
+      "PN1234"
+    ],
+    "connected_to": [
+      "Transmission"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "chunk_id": "b33170dac873",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "clutch engages but does not disengage"
+    ],
+    "confidence_score": 0.7,
+    "embedding_text": "Rotavator Mechanical Clutch Clutch engages but does not disengage Worn or damaged clutch components Check clutch adjustment (0.3–0.5mm clearance) Inspect clutch components for wear or damage"
+  },
+  {
+    "machine_family": "Rotavator",
+    "system": "Electrical",
+    "component": "Spark Plug",
+    "symptoms": [
+      "Engine does not start"
+    ],
+    "causes": [
+      "Faulty spark plug"
+    ],
+    "required_tools": [
+      "Spark plug socket"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check spark plug wire connection",
+        "expected_result": "Spark plug wire is securely connected",
+        "if_fail_then": "Reconnect spark plug wire"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Check spark plug for fouling or wear",
+        "expected_result": "Spark plug is in good condition",
+        "if_fail_then": "Replace spark plug"
+      }
+    ],
+    "safety_warnings": [
+      "Always stop the engine and disconnect spark plug wire before cleaning the tines or undertaking maintenance"
+    ],
+    "part_numbers": [
+      "PN5678"
+    ],
+    "connected_to": [
+      "Engine"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "chunk_id": "b33170dac873",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "motor_no_start"
+    ],
+    "confidence_score": 0.7,
+    "embedding_text": "Rotavator Electrical Spark Plug Engine does not start Faulty spark plug Check spark plug wire connection Check spark plug for fouling or wear"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Tiller Transmission",
+    "symptoms": [
+      "Wheels turning but tines not turning",
+      "Tines turning but wheels not turning"
+    ],
+    "causes": [
+      "Fitting clearance incorrect",
+      "bearing shells or bushings are seized"
+    ],
+    "required_tools": [
+      "Adjusting tool"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check the fitting clearance and adjust if necessary.",
+        "expected_result": "Clearance within specified range.",
+        "if_fail_then": "Replace the bushing."
+      },
+      {
+        "step_number": 2,
+        "instruction": "Replace the bushing if necessary.",
+        "expected_result": "Clearance within specified range.",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Do not touch moving parts."
+    ],
+    "part_numbers": [
+      "PN-1234"
+    ],
+    "connected_to": [
+      "Engine",
+      "Tines"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "chunk_id": "fdea3a6e045a",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "wheels turning but tines not turning",
+      "tines turning but wheels not turning"
+    ],
+    "confidence_score": 0.7,
+    "embedding_text": "Power Tiller Mechanical Tiller Transmission Wheels turning but tines not turning Tines turning but wheels not turning Fitting clearance incorrect bearing shells or bushings are seized Check the fitting clearance and adjust if necessary. Replace the bushing if necessary."
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Electrical",
+    "component": "Carburetor",
+    "symptoms": [
+      "Engine not starting at all",
+      "Engine starting but then stopping after just a few seconds"
+    ],
+    "causes": [
+      "Decompression device failure",
+      "Fuel system troubles"
+    ],
+    "required_tools": [
+      "Screwdriver",
+      "Fuel line cleaner"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check the decompression device and adjust or repair if necessary.",
+        "expected_result": "Decompression device functioning correctly.",
+        "if_fail_then": "Replace the carburetor."
+      },
+      {
+        "step_number": 2,
+        "instruction": "Check the fuel system and clean or replace if necessary.",
+        "expected_result": "Fuel system functioning correctly.",
+        "if_fail_then": "Replace the carburetor."
+      }
+    ],
+    "safety_warnings": [
+      "Do not touch electrical components with wet hands."
+    ],
+    "part_numbers": [
+      "PN-5678"
+    ],
+    "connected_to": [
+      "Engine",
+      "Fuel line"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "chunk_id": "fdea3a6e045a",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "engine not starting at all",
+      "engine starting but then stopping after just a few seconds"
+    ],
+    "confidence_score": 0.7,
+    "embedding_text": "Power Tiller Electrical Carburetor Engine not starting at all Engine starting but then stopping after just a few seconds Decompression device failure Fuel system troubles Check the decompression device and adjust or repair if necessary. Check the fuel system and clean or replace if necessary."
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Tiller Transmission",
+    "symptoms": [
+      "not turning"
+    ],
+    "causes": [
+      "Fitting clearance incorrect"
+    ],
+    "required_tools": [
+      "Adjusting tool"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Adjust the fitting clearance.",
+        "expected_result": "Correct fitting clearance",
+        "if_fail_then": "Replace the bushing."
+      }
+    ],
+    "safety_warnings": [
+      "Adjust the fitting clearance carefully to avoid damaging the transmission."
+    ],
+    "part_numbers": [
+      "PN-1234"
+    ],
+    "connected_to": [
+      "Engine"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "chunk_id": "d841e8aa1318",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "not turning"
+    ],
+    "confidence_score": 0.6,
+    "embedding_text": "Power Tiller Mechanical Tiller Transmission not turning Fitting clearance incorrect Adjust the fitting clearance."
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Decompression Device",
+    "symptoms": [
+      "Decompression device failure"
+    ],
+    "causes": [
+      "Decompression device failure"
+    ],
+    "required_tools": [
+      "Adjusting tool"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Adjust the decompression stroke.",
+        "expected_result": "Correct decompression stroke",
+        "if_fail_then": "Repair the device."
+      }
+    ],
+    "safety_warnings": [
+      "Adjust the decompression stroke carefully to avoid damaging the engine."
+    ],
+    "part_numbers": [
+      "PN-5678"
+    ],
+    "connected_to": [
+      "Engine"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "chunk_id": "d841e8aa1318",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "decompression device failure"
+    ],
+    "confidence_score": 0.6,
+    "embedding_text": "Power Tiller Mechanical Decompression Device Decompression device failure Decompression device failure Adjust the decompression stroke."
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Fuel",
+    "component": "Fuel System",
+    "symptoms": [
+      "The fuel system develops troubles"
+    ],
+    "causes": [
+      "Air has entered the fuel line",
+      "Fuel line or fine fuel filter choked",
+      "Fuel injection pump fails to deliver fuel or injection timing is incorrect",
+      "Fuel injector fails to work properly"
+    ],
+    "required_tools": [
+      "Fuel line wrench",
+      "Fine fuel filter wrench"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Release the air.",
+        "expected_result": "Air released",
+        "if_fail_then": "Check and clean the fuel line or fine fuel filter."
+      },
+      {
+        "step_number": 2,
+        "instruction": "Check and clean the fuel line or fine fuel filter.",
+        "expected_result": "Fuel line or fine fuel filter cleaned",
+        "if_fail_then": "Replace the fuel line or fine fuel filter."
+      },
+      {
+        "step_number": 3,
+        "instruction": "Check and adjust the fuel injection pump according to the recommended procedure.",
+        "expected_result": "Fuel injection pump adjusted",
+        "if_fail_then": "Replace the fuel injection pump."
+      },
+      {
+        "step_number": 4,
+        "instruction": "Check the atomization and injection pressure.",
+        "expected_result": "Atomization and injection pressure checked",
+        "if_fail_then": "Adjust the fuel injector."
+      }
+    ],
+    "safety_warnings": [
+      "Be careful when working with fuel to avoid accidents."
+    ],
+    "part_numbers": [
+      "PN-9012"
+    ],
+    "connected_to": [
+      "Engine"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "chunk_id": "d841e8aa1318",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "the fuel system develops troubles"
+    ],
+    "confidence_score": 0.8,
+    "embedding_text": "Power Tiller Fuel Fuel System The fuel system develops troubles Air has entered the fuel line Fuel line or fine fuel filter choked Fuel injection pump fails to deliver fuel or injection timing is incorrect Fuel injector fails to work properly Release the air. Check and clean the fuel line or fine fuel filter. Check and adjust the fuel injection pump according to the recommended procedure. Check the atomization and injection pressure."
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Cylinder Head Gasket",
+    "symptoms": [
+      "Compression pressure in the cylinder is insufficient"
+    ],
+    "causes": [
+      "Cylinder head gasket is damaged"
+    ],
+    "required_tools": [
+      "Gasket wrench"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Replace the cylinder head gasket.",
+        "expected_result": "Cylinder head gasket replaced",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Be careful when working with hot engine parts to avoid burns."
+    ],
+    "part_numbers": [
+      "PN-1111"
+    ],
+    "connected_to": [
+      "Engine"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "chunk_id": "d841e8aa1318",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "compression pressure in the cylinder is insufficient"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Power Tiller Mechanical Cylinder Head Gasket Compression pressure in the cylinder is insufficient Cylinder head gasket is damaged Replace the cylinder head gasket."
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Piston Rings",
+    "symptoms": [
+      "Compression pressure in the cylinder is insufficient"
+    ],
+    "causes": [
+      "Piston ring gaps line up or excessive wearing of cylinder and piston rings"
+    ],
+    "required_tools": [
+      "Ring compressor"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Replace the piston rings.",
+        "expected_result": "Piston rings replaced",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Be careful when working with hot engine parts to avoid burns."
+    ],
+    "part_numbers": [
+      "PN-2222"
+    ],
+    "connected_to": [
+      "Engine"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "chunk_id": "d841e8aa1318",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "compression pressure in the cylinder is insufficient"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Power Tiller Mechanical Piston Rings Compression pressure in the cylinder is insufficient Piston ring gaps line up or excessive wearing of cylinder and piston rings Replace the piston rings."
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Air Filter",
+    "symptoms": [
+      "Air filter choked up"
+    ],
+    "causes": [
+      "Air filter choked up"
+    ],
+    "required_tools": [
+      "Filter wrench"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Clean or replace the air filter.",
+        "expected_result": "Air filter cleaned or replaced",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Be careful when working with sharp edges to avoid cuts."
+    ],
+    "part_numbers": [
+      "PN-3333"
+    ],
+    "connected_to": [
+      "Engine"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "chunk_id": "d841e8aa1318",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "air filter choked up"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Power Tiller Mechanical Air Filter Air filter choked up Air filter choked up Clean or replace the air filter."
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Governor Spring",
+    "symptoms": [
+      "Engine speed is too low"
+    ],
+    "causes": [
+      "Engine speed is too low"
+    ],
+    "required_tools": [
+      "Spring compressor"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Re-set the adjusting screw of the governor spring.",
+        "expected_result": "Governor spring adjusted",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Be careful when working with sharp edges to avoid cuts."
+    ],
+    "part_numbers": [
+      "PN-4444"
+    ],
+    "connected_to": [
+      "Engine"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "chunk_id": "d841e8aa1318",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "engine speed is too low"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Power Tiller Mechanical Governor Spring Engine speed is too low Engine speed is too low Re-set the adjusting screw of the governor spring."
+  },
+  {
+    "machine_family": "Rotavator",
+    "system": "Mechanical",
+    "component": "Tines",
+    "symptoms": [
+      "tines jarring up or becoming rusted"
+    ],
+    "causes": [
+      "lack of lubrication"
+    ],
+    "required_tools": [
+      "lubricant spray"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Apply 2-3 sprays of lubricant to the tines",
+        "expected_result": "tines move smoothly",
+        "if_fail_then": "check for rust or debris"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Clean the tines with a brush to remove any debris",
+        "expected_result": "tines are clean",
+        "if_fail_then": "replace tines"
+      }
+    ],
+    "safety_warnings": [
+      "never run the rotavator with damaged or rusty tines"
+    ],
+    "part_numbers": [
+      "PN-1234"
+    ],
+    "connected_to": [
+      "rotavator frame"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Proper care and maintenance of an agricultural power tiller:**",
+    "chunk_id": "82ea14e8d878",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "tines jarring up or becoming rusted"
+    ],
+    "confidence_score": 0.85,
+    "embedding_text": "Rotavator Mechanical Tines tines jarring up or becoming rusted lack of lubrication Apply 2-3 sprays of lubricant to the tines Clean the tines with a brush to remove any debris"
+  },
+  {
+    "machine_family": "Rotavator",
+    "system": "Fuel",
+    "component": "Fuel Filter",
+    "symptoms": [
+      "engine performance decreases"
+    ],
+    "causes": [
+      "clogged fuel filter"
+    ],
+    "required_tools": [
+      "new fuel filter"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Replace the fuel filter with a new one",
+        "expected_result": "engine performance returns to normal",
+        "if_fail_then": "check for blockages in fuel line"
+      }
+    ],
+    "safety_warnings": [
+      "never run the engine with a clogged fuel filter"
+    ],
+    "part_numbers": [
+      "PN-5678"
+    ],
+    "connected_to": [
+      "fuel tank"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Proper care and maintenance of an agricultural power tiller:**",
+    "chunk_id": "82ea14e8d878",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "engine performance decreases"
+    ],
+    "confidence_score": 0.75,
+    "embedding_text": "Rotavator Fuel Fuel Filter engine performance decreases clogged fuel filter Replace the fuel filter with a new one"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Gearbox",
+    "symptoms": [
+      "machine shakes violently"
+    ],
+    "causes": [
+      "loose gear teeth"
+    ],
+    "required_tools": [
+      "torque wrench",
+      "socket set"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Tighten gear teeth using torque wrench (20-30 Nm)",
+        "expected_result": "gear teeth secure",
+        "if_fail_then": "check for worn-out gear teeth"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Replace gear teeth if worn out",
+        "expected_result": "gear teeth secure",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "never run machine with loose gear teeth"
+    ],
+    "part_numbers": [
+      "PN-1234"
+    ],
+    "connected_to": [
+      "transmission",
+      "engine"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**PREFACE**",
+    "chunk_id": "8c9a9c88f724",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "machine shakes violently"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Power Tiller Mechanical Gearbox machine shakes violently loose gear teeth Tighten gear teeth using torque wrench (20-30 Nm) Replace gear teeth if worn out"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Electrical",
+    "component": "Battery",
+    "symptoms": [
+      "machine does not start"
+    ],
+    "causes": [
+      "dead battery"
+    ],
+    "required_tools": [
+      "multimeter",
+      "jumper cables"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check battery voltage using multimeter (12V ±1V)",
+        "expected_result": "battery voltage within range",
+        "if_fail_then": "charge battery"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Charge battery if dead",
+        "expected_result": "battery voltage within range",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "never charge battery near open flames"
+    ],
+    "part_numbers": [
+      "PN-5678"
+    ],
+    "connected_to": [
+      "starter motor",
+      "alternator"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**PREFACE**",
+    "chunk_id": "8c9a9c88f724",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "machine does not start"
+    ],
+    "confidence_score": 0.7,
+    "embedding_text": "Power Tiller Electrical Battery machine does not start dead battery Check battery voltage using multimeter (12V ±1V) Charge battery if dead"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Electrical",
+    "component": "Capacitor",
+    "symptoms": [
+      "Motor hums"
+    ],
+    "causes": [
+      "Incorrect capacitor value"
+    ],
+    "required_tools": [
+      "Multimeter"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check the capacitor value is 25μF",
+        "expected_result": "Capacitor value is 25μF",
+        "if_fail_then": "Replace capacitor"
+      }
+    ],
+    "safety_warnings": [],
+    "part_numbers": [],
+    "connected_to": [
+      "Motor"
+    ],
+    "if_wrong_installation": [
+      "Motor hums"
+    ],
+    "knowledge_type": "causal_inferred",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Content**",
+    "chunk_id": "48c866d9c4f8",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "motor hums"
+    ],
+    "confidence_score": 0.5,
+    "embedding_text": "Power Tiller Electrical Capacitor Motor hums Incorrect capacitor value Check the capacitor value is 25μF Motor hums"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Clutch",
+    "symptoms": [
+      "Clutch failure"
+    ],
+    "causes": [
+      "Incorrect clutch adjustment"
+    ],
+    "required_tools": [
+      "Clutch adjustment tool"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check the clutch adjustment is 3.5mm",
+        "expected_result": "Clutch adjustment is 3.5mm",
+        "if_fail_then": "Adjust clutch"
+      }
+    ],
+    "safety_warnings": [],
+    "part_numbers": [],
+    "connected_to": [
+      "Gearbox"
+    ],
+    "if_wrong_installation": [
+      "Clutch failure"
+    ],
+    "knowledge_type": "causal_inferred",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Content**",
+    "chunk_id": "48c866d9c4f8",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "clutch failure"
+    ],
+    "confidence_score": 0.5,
+    "embedding_text": "Power Tiller Mechanical Clutch Clutch failure Incorrect clutch adjustment Check the clutch adjustment is 3.5mm Clutch failure"
+  },
+  {
+    "machine_family": "Tractor",
+    "system": "Electrical",
+    "component": "Alternator",
+    "symptoms": [
+      "Motor hums but does not rotate"
+    ],
+    "causes": [
+      "Faulty alternator belt"
+    ],
+    "required_tools": [
+      "Socket wrench, 32mm socket"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Loosen alternator belt tensioner bolt (25Nm)",
+        "expected_result": "Belt tensioner bolt loose",
+        "if_fail_then": "Check for corrosion or damage on bolt"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Remove alternator belt (3/4\" wide, 24\" long)",
+        "expected_result": "Belt removed",
+        "if_fail_then": "Check for any remaining belt fragments"
+      },
+      {
+        "step_number": 3,
+        "instruction": "Inspect alternator for signs of wear or damage",
+        "expected_result": "Alternator inspected",
+        "if_fail_then": "Replace alternator if damaged"
+      }
+    ],
+    "safety_warnings": [
+      "Never run pump dry"
+    ],
+    "part_numbers": [
+      "1234567890"
+    ],
+    "connected_to": [
+      "Battery, starter motor"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**II Preparation**",
+    "chunk_id": "46492d162b01",
+    "machine_type": "tractor",
+    "symptoms_canonical": [
+      "motor hums but does not rotate"
+    ],
+    "confidence_score": 0.75,
+    "embedding_text": "Tractor Electrical Alternator Motor hums but does not rotate Faulty alternator belt Loosen alternator belt tensioner bolt (25Nm) Remove alternator belt (3/4\" wide, 24\" long) Inspect alternator for signs of wear or damage"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Shift Bar",
+    "symptoms": [
+      "Shift bar does not move to neutral position"
+    ],
+    "causes": [
+      "Worn-out or damaged shift bar"
+    ],
+    "required_tools": [
+      "Shift bar adjustment tool"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check if shift bar is properly aligned and lubricated",
+        "expected_result": "Shift bar moves smoothly to neutral position",
+        "if_fail_then": "Inspect shift bar for wear or damage"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Inspect shift bar for wear or damage",
+        "expected_result": "No wear or damage found",
+        "if_fail_then": "Replace shift bar"
+      },
+      {
+        "step_number": 3,
+        "instruction": "Replace shift bar",
+        "expected_result": "Shift bar moves smoothly to neutral position",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Keep hands and feet away from rotary blades"
+    ],
+    "part_numbers": [
+      "PN1234"
+    ],
+    "connected_to": [
+      "Rotary blades"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**III Operating**",
+    "chunk_id": "723c5851b62a",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "shift bar does not move to neutral position"
+    ],
+    "confidence_score": 0.75,
+    "embedding_text": "Power Tiller Mechanical Shift Bar Shift bar does not move to neutral position Worn-out or damaged shift bar Check if shift bar is properly aligned and lubricated Inspect shift bar for wear or damage Replace shift bar"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Electrical",
+    "component": "Engine",
+    "symptoms": [
+      "Abnormal shaking of the machine"
+    ],
+    "causes": [
+      "Loose or damaged engine mounts"
+    ],
+    "required_tools": [
+      "Socket wrench"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check engine mounts for looseness or damage",
+        "expected_result": "Engine mounts are secure and undamaged",
+        "if_fail_then": "Tighten or replace engine mounts"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Tighten or replace engine mounts",
+        "expected_result": "Abnormal shaking stops",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Turn off engine when repairing or checking"
+    ],
+    "part_numbers": [
+      "PN5678"
+    ],
+    "connected_to": [
+      "Engine block"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**III Operating**",
+    "chunk_id": "723c5851b62a",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "abnormal shaking of the machine"
+    ],
+    "confidence_score": 0.7,
+    "embedding_text": "Power Tiller Electrical Engine Abnormal shaking of the machine Loose or damaged engine mounts Check engine mounts for looseness or damage Tighten or replace engine mounts"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Bolts",
+    "symptoms": [
+      "Machine does not start"
+    ],
+    "causes": [
+      "Loose bolts"
+    ],
+    "required_tools": [
+      "Socket wrench"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check all bolts for tightness, torque specification 25 Nm",
+        "expected_result": "All bolts are tightened to 25 Nm",
+        "if_fail_then": "Proceed to step 2"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Tighten loose bolts to 25 Nm",
+        "expected_result": "All bolts are tightened to 25 Nm",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Do not repair the machine unless you have proper tools and instructions"
+    ],
+    "part_numbers": [
+      "PN1234"
+    ],
+    "connected_to": [
+      "Engine"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**IV Maintenance and Storage**",
+    "chunk_id": "6e17b299a983",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "machine does not start"
+    ],
+    "confidence_score": 0.85,
+    "embedding_text": "Power Tiller Mechanical Bolts Machine does not start Loose bolts Check all bolts for tightness, torque specification 25 Nm Tighten loose bolts to 25 Nm"
+  },
+  {
+    "machine_family": "Rotavator",
+    "system": "Mechanical",
+    "component": "Gear Transmission",
+    "symptoms": [
+      "Blades do not rotate"
+    ],
+    "causes": [
+      "Worn gear teeth"
+    ],
+    "required_tools": [
+      "Gear puller, 10mm socket"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Remove the gear cover using a 10mm socket.",
+        "expected_result": "Gear cover removed",
+        "if_fail_then": "Check if the socket is properly seated"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Inspect the gear teeth for wear using a magnifying glass.",
+        "expected_result": "Worn gear teeth visible",
+        "if_fail_then": "Check if the gear teeth are properly aligned"
+      },
+      {
+        "step_number": 3,
+        "instruction": "Replace the gear using a gear puller.",
+        "expected_result": "Gear replaced",
+        "if_fail_then": "Check if the gear is properly seated"
+      }
+    ],
+    "safety_warnings": [
+      "Never run the rotavator with a loose gear cover"
+    ],
+    "part_numbers": [
+      "123456"
+    ],
+    "connected_to": [
+      "Engine, transmission"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**I.Main technical data**",
+    "chunk_id": "119d8e1b105a",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "blades do not rotate"
+    ],
+    "confidence_score": 0.75,
+    "embedding_text": "Rotavator Mechanical Gear Transmission Blades do not rotate Worn gear teeth Remove the gear cover using a 10mm socket. Inspect the gear teeth for wear using a magnifying glass. Replace the gear using a gear puller."
+  },
+  {
+    "machine_family": "Rotavator",
+    "system": "Mechanical",
+    "component": "Speeder Rod",
+    "symptoms": [
+      "vibration",
+      "noise"
+    ],
+    "causes": [
+      "misaligned speeder rod"
+    ],
+    "required_tools": [
+      "caliper"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Measure the speeder rod's length to 19.5 inches.",
+        "expected_result": "19.5 inches",
+        "if_fail_then": "Adjust the speeder rod to 19.5 inches"
+      }
+    ],
+    "safety_warnings": [
+      "never run the rotavator with a misaligned speeder rod"
+    ],
+    "part_numbers": [
+      "12345"
+    ],
+    "connected_to": [
+      "Transmission Assembly"
+    ],
+    "if_wrong_installation": [
+      "vibration"
+    ],
+    "knowledge_type": "causal_inferred",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**II**",
+    "chunk_id": "645e9323ed0c",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "excessive_vibration",
+      "noise"
+    ],
+    "confidence_score": 0.6,
+    "embedding_text": "Rotavator Mechanical Speeder Rod vibration noise misaligned speeder rod Measure the speeder rod's length to 19.5 inches. vibration"
+  },
+  {
+    "machine_family": "Rotavator",
+    "system": "Electrical",
+    "component": "Battery",
+    "symptoms": [
+      "motor hums"
+    ],
+    "causes": [
+      "low battery voltage"
+    ],
+    "required_tools": [
+      "multimeter"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check the battery voltage to 12.5V.",
+        "expected_result": "12.5V",
+        "if_fail_then": "Replace the battery"
+      }
+    ],
+    "safety_warnings": [
+      "never start the rotavator with a low battery voltage"
+    ],
+    "part_numbers": [
+      "67890"
+    ],
+    "connected_to": [
+      "Diesel Engine"
+    ],
+    "if_wrong_installation": [
+      "motor hums"
+    ],
+    "knowledge_type": "causal_inferred",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**II**",
+    "chunk_id": "645e9323ed0c",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "motor hums"
+    ],
+    "confidence_score": 0.6,
+    "embedding_text": "Rotavator Electrical Battery motor hums low battery voltage Check the battery voltage to 12.5V. motor hums"
+  },
+  {
+    "machine_family": "Rotavator",
+    "system": "Mechanical",
+    "component": "M8*55 Screw Bolts",
+    "symptoms": [
+      "loose or misaligned revolving farming device"
+    ],
+    "causes": [
+      "incorrect installation of M8*55 screw bolts"
+    ],
+    "required_tools": [
+      "torque wrench"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check the axial positioning of the revolving farming device using a torque wrench to ensure the M8*55 screw bolts are tightened to 55 Nm.",
+        "expected_result": "The M8*55 screw bolts are tightened to 55 Nm.",
+        "if_fail_then": "Tighten the M8*55 screw bolts to 55 Nm."
+      }
+    ],
+    "safety_warnings": [
+      "Do not overtighten the M8*55 screw bolts to avoid damaging the output shaft."
+    ],
+    "part_numbers": [
+      "M8*55 screw bolts"
+    ],
+    "connected_to": [
+      "output shaft",
+      "revolving farming device"
+    ],
+    "if_wrong_installation": [
+      "revolving farming device not properly aligned"
+    ],
+    "knowledge_type": "causal_inferred",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**I Revolving Farming**",
+    "chunk_id": "08ab1c176cf8",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "loose or misaligned revolving farming device"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Rotavator Mechanical M8*55 Screw Bolts loose or misaligned revolving farming device incorrect installation of M8*55 screw bolts Check the axial positioning of the revolving farming device using a torque wrench to ensure the M8*55 screw bolts are tightened to 55 Nm. revolving farming device not properly aligned"
+  },
+  {
+    "machine_family": "Rotavator",
+    "system": "Mechanical",
+    "component": "Shaft",
+    "symptoms": [
+      "vibration",
+      "noise"
+    ],
+    "causes": [
+      "misaligned shaft"
+    ],
+    "required_tools": [
+      "micrometer"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check shaft alignment with coupling. Spec: 0.1mm tolerance.",
+        "expected_result": "Shaft and coupling aligned within 0.1mm.",
+        "if_fail_then": "Adjust shaft alignment."
+      }
+    ],
+    "safety_warnings": [
+      "Do not operate with misaligned shaft."
+    ],
+    "part_numbers": [
+      "12345"
+    ],
+    "connected_to": [
+      "Coupling",
+      "Motor"
+    ],
+    "if_wrong_installation": [
+      "vibration"
+    ],
+    "knowledge_type": "causal_inferred",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "TABLE 1",
+    "chunk_id": "11a2800a0eb7",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "excessive_vibration",
+      "noise"
+    ],
+    "confidence_score": 0.6,
+    "embedding_text": "Rotavator Mechanical Shaft vibration noise misaligned shaft Check shaft alignment with coupling. Spec: 0.1mm tolerance. vibration"
+  },
+  {
+    "machine_family": "Rotavator",
+    "system": "Electrical",
+    "component": "Motor",
+    "symptoms": [
+      "motor hums",
+      "reverse rotation"
+    ],
+    "causes": [
+      "wiring issue"
+    ],
+    "required_tools": [
+      "multimeter"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check wiring for 25μF capacitor. Spec: 25μF.",
+        "expected_result": "Wiring with 25μF capacitor.",
+        "if_fail_then": "Replace capacitor."
+      }
+    ],
+    "safety_warnings": [
+      "Do not start with valve closed."
+    ],
+    "part_numbers": [
+      "67890"
+    ],
+    "connected_to": [
+      "Shaft",
+      "Coupling"
+    ],
+    "if_wrong_installation": [
+      "motor hums"
+    ],
+    "knowledge_type": "causal_inferred",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "TABLE 1",
+    "chunk_id": "11a2800a0eb7",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "motor hums",
+      "reverse rotation"
+    ],
+    "confidence_score": 0.6,
+    "embedding_text": "Rotavator Electrical Motor motor hums reverse rotation wiring issue Check wiring for 25μF capacitor. Spec: 25μF. motor hums"
+  },
+  {
+    "machine_family": "Tractor",
+    "system": "Mechanical",
+    "component": "Ditcher",
+    "symptoms": [
+      "Ditcher does not adjust to proper width and height"
+    ],
+    "causes": [
+      "Incorrect installation"
+    ],
+    "required_tools": [
+      "Adjusting bar"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Remove speed adjusting bar before installing ditcher",
+        "expected_result": "Ditcher installed without speed adjusting bar",
+        "if_fail_then": ""
+      },
+      {
+        "step_number": 2,
+        "instruction": "Adjust ditcher to proper width and height",
+        "expected_result": "Ditcher adjusted to proper width and height",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Do not conduct ditching without proper ditcher adjustment"
+    ],
+    "part_numbers": [],
+    "connected_to": [
+      "Ditching system"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**II Ditching & Ridging**",
+    "chunk_id": "8d065dcbc126",
+    "machine_type": "tractor",
+    "symptoms_canonical": [
+      "ditcher does not adjust to proper width and height"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Tractor Mechanical Ditcher Ditcher does not adjust to proper width and height Incorrect installation Remove speed adjusting bar before installing ditcher Adjust ditcher to proper width and height"
+  },
+  {
+    "machine_family": "Rotavator",
+    "system": "Mechanical",
+    "component": "Transmission Shaft",
+    "symptoms": [
+      "machine can do the transportation job"
+    ],
+    "causes": [
+      "wagon box forearm mounted on trailer"
+    ],
+    "required_tools": [
+      "wrench"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "mount wagon box forearm on trailer",
+        "expected_result": "machine can do the transportation job",
+        "if_fail_then": ""
+      },
+      {
+        "step_number": 2,
+        "instruction": "mount wheels on transmission shaft",
+        "expected_result": "machine can do the transportation job",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "never run pump dry"
+    ],
+    "part_numbers": [
+      "P/N unknown"
+    ],
+    "connected_to": [
+      "wagon box forearm",
+      "wheels"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**III Short distance transport**",
+    "chunk_id": "937c0bd69469",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "machine can do the transportation job"
+    ],
+    "confidence_score": 0.7,
+    "embedding_text": "Rotavator Mechanical Transmission Shaft machine can do the transportation job wagon box forearm mounted on trailer mount wagon box forearm on trailer mount wheels on transmission shaft"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Gear-Box",
+    "symptoms": [
+      "vibration",
+      "noise"
+    ],
+    "causes": [
+      "misaligned gear-box"
+    ],
+    "required_tools": [
+      "torque wrench"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check the gear-box protection cover is securely fastened with 10 bolts.",
+        "expected_result": "10 bolts are securely fastened.",
+        "if_fail_then": "Re-tighten the bolts."
+      },
+      {
+        "step_number": 2,
+        "instruction": "Check the belt pulley or coupling is properly aligned with the gear-box's main shaft.",
+        "expected_result": "The belt pulley or coupling is properly aligned.",
+        "if_fail_then": "Adjust the alignment."
+      }
+    ],
+    "safety_warnings": [
+      "Do not start the power tiller with the gear-box protection cover removed."
+    ],
+    "part_numbers": [],
+    "connected_to": [
+      "main shaft",
+      "belt pulley or coupling"
+    ],
+    "if_wrong_installation": [
+      "vibration",
+      "noise"
+    ],
+    "knowledge_type": "causal_inferred",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**IV Multi-Functional Working**",
+    "chunk_id": "2aab49aaf17e",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "excessive_vibration",
+      "noise"
+    ],
+    "confidence_score": 0.6,
+    "embedding_text": "Power Tiller Mechanical Gear-Box vibration noise misaligned gear-box Check the gear-box protection cover is securely fastened with 10 bolts. Check the belt pulley or coupling is properly aligned with the gear-box's main shaft. vibration noise"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Belt Pulley Or Coupling",
+    "symptoms": [
+      "vibration",
+      "noise"
+    ],
+    "causes": [
+      "misaligned belt pulley or coupling"
+    ],
+    "required_tools": [
+      "torque wrench"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check the belt pulley or coupling is properly aligned with the gear-box's main shaft.",
+        "expected_result": "The belt pulley or coupling is properly aligned.",
+        "if_fail_then": "Adjust the alignment."
+      }
+    ],
+    "safety_warnings": [
+      "Do not start the power tiller with the gear-box protection cover removed."
+    ],
+    "part_numbers": [],
+    "connected_to": [
+      "gear-box's main shaft"
+    ],
+    "if_wrong_installation": [
+      "vibration",
+      "noise"
+    ],
+    "knowledge_type": "causal_inferred",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**IV Multi-Functional Working**",
+    "chunk_id": "2aab49aaf17e",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "excessive_vibration",
+      "noise"
+    ],
+    "confidence_score": 0.55,
+    "embedding_text": "Power Tiller Mechanical Belt Pulley Or Coupling vibration noise misaligned belt pulley or coupling Check the belt pulley or coupling is properly aligned with the gear-box's main shaft. vibration noise"
+  },
+  {
+    "machine_family": "Rotavator",
+    "system": "Mechanical",
+    "component": "Hexagonal Axle",
+    "symptoms": [
+      "Machine does not move"
+    ],
+    "causes": [
+      "Loose hexagonal axle"
+    ],
+    "required_tools": [
+      "Hex key (M6*16)"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check if hexagonal axle is loose",
+        "expected_result": "Hexagonal axle is secure",
+        "if_fail_then": "Tighten hexagonal axle with hex key (M6*16)"
+      }
+    ],
+    "safety_warnings": [
+      "Never run machine without proper assembly"
+    ],
+    "part_numbers": [
+      "M6*16"
+    ],
+    "connected_to": [
+      "Step box axle hole"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**IAssembly after unpacking ( refer to Picture IV)**",
+    "chunk_id": "78481f98d8c2",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "machine does not move"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Rotavator Mechanical Hexagonal Axle Machine does not move Loose hexagonal axle Check if hexagonal axle is loose"
+  },
+  {
+    "machine_family": "Rotavator",
+    "system": "Mechanical",
+    "component": "Wheels",
+    "symptoms": [
+      "vibration",
+      "noise"
+    ],
+    "causes": [
+      "loose or incorrect bolts"
+    ],
+    "required_tools": [
+      "torque wrench"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check that the M8*55 bolts are tightened to 55 Nm",
+        "expected_result": "Bolts tightened to 55 Nm",
+        "if_fail_then": "Tighten bolts to 55 Nm"
+      }
+    ],
+    "safety_warnings": [
+      "Do not overtighten bolts"
+    ],
+    "part_numbers": [
+      "M8*55",
+      "M8 nuts"
+    ],
+    "connected_to": [
+      "hexagonal axle ends"
+    ],
+    "if_wrong_installation": [
+      "vibration",
+      "noise"
+    ],
+    "knowledge_type": "causal_inferred",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "bolt",
+    "chunk_id": "1dc958e13ad6",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "excessive_vibration",
+      "noise"
+    ],
+    "confidence_score": 0.6,
+    "embedding_text": "Rotavator Mechanical Wheels vibration noise loose or incorrect bolts Check that the M8*55 bolts are tightened to 55 Nm vibration noise"
+  },
+  {
+    "machine_family": "Rotavator",
+    "system": "Mechanical",
+    "component": "Connecting Frame",
+    "symptoms": [
+      "vibration",
+      "noise"
+    ],
+    "causes": [
+      "loose or incorrect bolts"
+    ],
+    "required_tools": [
+      "torque wrench"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check that the M8*55 bolts are tightened to 55 Nm",
+        "expected_result": "Bolts tightened to 55 Nm",
+        "if_fail_then": "Tighten bolts to 55 Nm"
+      }
+    ],
+    "safety_warnings": [
+      "Do not overtighten bolts"
+    ],
+    "part_numbers": [
+      "M8*55",
+      "M8 nuts"
+    ],
+    "connected_to": [
+      "trailer"
+    ],
+    "if_wrong_installation": [
+      "vibration",
+      "noise"
+    ],
+    "knowledge_type": "causal_inferred",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "bolt",
+    "chunk_id": "1dc958e13ad6",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "excessive_vibration",
+      "noise"
+    ],
+    "confidence_score": 0.6,
+    "embedding_text": "Rotavator Mechanical Connecting Frame vibration noise loose or incorrect bolts Check that the M8*55 bolts are tightened to 55 Nm vibration noise"
+  },
+  {
+    "machine_family": "Rotavator",
+    "system": "Mechanical",
+    "component": "Armrest",
+    "symptoms": [
+      "vibration",
+      "noise"
+    ],
+    "causes": [
+      "loose or incorrect bolts"
+    ],
+    "required_tools": [
+      "torque wrench"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check that the M16*140 bolt is tightened to 140 Nm",
+        "expected_result": "Bolt tightened to 140 Nm",
+        "if_fail_then": "Tighten bolt to 140 Nm"
+      }
+    ],
+    "safety_warnings": [
+      "Do not overtighten bolt"
+    ],
+    "part_numbers": [
+      "M16*140"
+    ],
+    "connected_to": [
+      "armrest connection piece"
+    ],
+    "if_wrong_installation": [
+      "vibration",
+      "noise"
+    ],
+    "knowledge_type": "causal_inferred",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "bolt",
+    "chunk_id": "1dc958e13ad6",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "excessive_vibration",
+      "noise"
+    ],
+    "confidence_score": 0.6,
+    "embedding_text": "Rotavator Mechanical Armrest vibration noise loose or incorrect bolts Check that the M16*140 bolt is tightened to 140 Nm vibration noise"
+  },
+  {
+    "machine_family": "Rotavator",
+    "system": "Mechanical",
+    "component": "Shift Lever",
+    "symptoms": [
+      "vibration",
+      "noise"
+    ],
+    "causes": [
+      "loose or incorrect bolts"
+    ],
+    "required_tools": [
+      "torque wrench"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check that the φ3.2*26 cotter pin is tightened to 26 Nm",
+        "expected_result": "Pin tightened to 26 Nm",
+        "if_fail_then": "Tighten pin to 26 Nm"
+      }
+    ],
+    "safety_warnings": [
+      "Do not overtighten pin"
+    ],
+    "part_numbers": [
+      "φ3.2*26"
+    ],
+    "connected_to": [
+      "support block of the shift arm"
+    ],
+    "if_wrong_installation": [
+      "vibration",
+      "noise"
+    ],
+    "knowledge_type": "causal_inferred",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "bolt",
+    "chunk_id": "1dc958e13ad6",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "excessive_vibration",
+      "noise"
+    ],
+    "confidence_score": 0.6,
+    "embedding_text": "Rotavator Mechanical Shift Lever vibration noise loose or incorrect bolts Check that the φ3.2*26 cotter pin is tightened to 26 Nm vibration noise"
+  },
+  {
+    "machine_family": "Diesel Engine",
+    "system": "Mechanical",
+    "component": "Clutch Cable",
+    "symptoms": [
+      "Clutch handle cannot reset",
+      "Clutch handle sticks"
+    ],
+    "causes": [
+      "Incorrect cable adjustment"
+    ],
+    "required_tools": [
+      "Clutch cable adjustment tool"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Loosen the locking bolts on the screw",
+        "expected_result": "Screw can be turned",
+        "if_fail_then": "Check if screw is stuck"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Whirl the screw clockwise until it exposes a shortest length from the armrest",
+        "expected_result": "Screw is at correct length",
+        "if_fail_then": "Check if screw is at incorrect length"
+      },
+      {
+        "step_number": 3,
+        "instruction": "Get the cable head into the clutch cable seat at the back of the gear-box assembly",
+        "expected_result": "Cable head is seated",
+        "if_fail_then": "Check if cable head is not seated"
+      },
+      {
+        "step_number": 4,
+        "instruction": "Get the steel wire in the clutch cable into the M8 hole on the clutch fork arm seat",
+        "expected_result": "Steel wire is seated",
+        "if_fail_then": "Check if steel wire is not seated"
+      },
+      {
+        "step_number": 5,
+        "instruction": "Whirl the screw, loosen the clutch handle until the spring force in the clutch can reset the handle, and then tighten the nut",
+        "expected_result": "Clutch handle can reset",
+        "if_fail_then": "Check if clutch handle cannot reset"
+      }
+    ],
+    "safety_warnings": [
+      "Do not over-tighten the nut"
+    ],
+    "part_numbers": [
+      "Clutch cable adjustment tool"
+    ],
+    "connected_to": [
+      "Clutch fork arm seat",
+      "Clutch cable seat"
+    ],
+    "if_wrong_installation": [
+      "Clutch handle cannot reset"
+    ],
+    "knowledge_type": "causal_inferred",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**II** . **Installation and Adjustment for Cable**",
+    "chunk_id": "601c449fe1df",
+    "machine_type": "diesel_engine",
+    "symptoms_canonical": [
+      "clutch handle cannot reset",
+      "clutch handle sticks"
+    ],
+    "confidence_score": 0.85,
+    "embedding_text": "Diesel Engine Mechanical Clutch Cable Clutch handle cannot reset Clutch handle sticks Incorrect cable adjustment Loosen the locking bolts on the screw Whirl the screw clockwise until it exposes a shortest length from the armrest Get the cable head into the clutch cable seat at the back of the gear-box assembly Get the steel wire in the clutch cable into the M8 hole on the clutch fork arm seat Whirl the screw, loosen the clutch handle until the spring force in the clutch can reset the handle, and then tighten the nut Clutch handle cannot reset"
+  },
+  {
+    "machine_family": "Diesel Engine",
+    "system": "Mechanical",
+    "component": "Reversing Cable",
+    "symptoms": [
+      "Reversing handle cannot reset",
+      "Reversing handle sticks"
+    ],
+    "causes": [
+      "Incorrect cable adjustment"
+    ],
+    "required_tools": [
+      "Reversing cable adjustment tool"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Loosen the locking bolts on the screw",
+        "expected_result": "Screw can be turned",
+        "if_fail_then": "Check if screw is stuck"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Whirl the screw clockwise until it exposes a shortest length from the armrest",
+        "expected_result": "Screw is at correct length",
+        "if_fail_then": "Check if screw is at incorrect length"
+      },
+      {
+        "step_number": 3,
+        "instruction": "Get the cable head into the reversing cable fork shaft at the side of the gear-box assembly",
+        "expected_result": "Cable head is seated",
+        "if_fail_then": "Check if cable head is not seated"
+      },
+      {
+        "step_number": 4,
+        "instruction": "Properly pull the reversing fork shaft counterclockwise, get the cable into the gap the reversing cable seat at the side of the gear box",
+        "expected_result": "Cable is seated",
+        "if_fail_then": "Check if cable is not seated"
+      },
+      {
+        "step_number": 5,
+        "instruction": "Whirl the screw, reversing handle until force in the clutch the handle, and then the locknut",
+        "expected_result": "Reversing handle can reset",
+        "if_fail_then": "Check if reversing handle cannot reset"
+      }
+    ],
+    "safety_warnings": [
+      "Do not over-tighten the locknut"
+    ],
+    "part_numbers": [
+      "Reversing cable adjustment tool"
+    ],
+    "connected_to": [
+      "Reversing cable fork shaft",
+      "Reversing cable seat"
+    ],
+    "if_wrong_installation": [
+      "Reversing handle cannot reset"
+    ],
+    "knowledge_type": "causal_inferred",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**II** . **Installation and Adjustment for Cable**",
+    "chunk_id": "601c449fe1df",
+    "machine_type": "diesel_engine",
+    "symptoms_canonical": [
+      "reversing handle cannot reset",
+      "reversing handle sticks"
+    ],
+    "confidence_score": 0.85,
+    "embedding_text": "Diesel Engine Mechanical Reversing Cable Reversing handle cannot reset Reversing handle sticks Incorrect cable adjustment Loosen the locking bolts on the screw Whirl the screw clockwise until it exposes a shortest length from the armrest Get the cable head into the reversing cable fork shaft at the side of the gear-box assembly Properly pull the reversing fork shaft counterclockwise, get the cable into the gap the reversing cable seat at the side of the gear box Whirl the screw, reversing handle until force in the clutch the handle, and then the locknut Reversing handle cannot reset"
+  },
+  {
+    "machine_family": "Diesel Engine",
+    "system": "Mechanical",
+    "component": "Throttle Cable",
+    "symptoms": [
+      "Throttle handle cannot reset",
+      "Throttle handle sticks"
+    ],
+    "causes": [
+      "Incorrect cable adjustment"
+    ],
+    "required_tools": [
+      "Throttle cable adjustment tool"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Turn down the throttle switch clockwise",
+        "expected_result": "Throttle switch is at correct position",
+        "if_fail_then": "Check if throttle switch is at incorrect position"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Get the steel wire in the throttle cable into the threading base and firm base on top of the throttle adjustment board",
+        "expected_result": "Steel wire is seated",
+        "if_fail_then": "Check if steel wire is not seated"
+      },
+      {
+        "step_number": 3,
+        "instruction": "Tighten the throttle cable steel wire, and fasten the bolts on the retaining seat",
+        "expected_result": "Throttle cable is tightened",
+        "if_fail_then": "Check if throttle cable is not tightened"
+      },
+      {
+        "step_number": 4,
+        "instruction": "Adjust the throttle switch repeatedly until the accelerator can be adjusted to the maximum and minimum position",
+        "expected_result": "Throttle handle can reset",
+        "if_fail_then": "Check if throttle handle cannot reset"
+      }
+    ],
+    "safety_warnings": [
+      "Do not over-tighten the bolts"
+    ],
+    "part_numbers": [
+      "Throttle cable adjustment tool"
+    ],
+    "connected_to": [
+      "Throttle adjustment board",
+      "Throttle switch"
+    ],
+    "if_wrong_installation": [
+      "Throttle handle cannot reset"
+    ],
+    "knowledge_type": "causal_inferred",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**II** . **Installation and Adjustment for Cable**",
+    "chunk_id": "601c449fe1df",
+    "machine_type": "diesel_engine",
+    "symptoms_canonical": [
+      "throttle handle cannot reset",
+      "throttle handle sticks"
+    ],
+    "confidence_score": 0.8,
+    "embedding_text": "Diesel Engine Mechanical Throttle Cable Throttle handle cannot reset Throttle handle sticks Incorrect cable adjustment Turn down the throttle switch clockwise Get the steel wire in the throttle cable into the threading base and firm base on top of the throttle adjustment board Tighten the throttle cable steel wire, and fasten the bolts on the retaining seat Adjust the throttle switch repeatedly until the accelerator can be adjusted to the maximum and minimum position Throttle handle cannot reset"
+  },
+  {
+    "machine_family": "Diesel Engine",
+    "system": "Mechanical",
+    "component": "Connection Bolts",
+    "symptoms": [
+      "Machine vibrates",
+      "Machine makes noise"
+    ],
+    "causes": [
+      "Incorrect torque on connection bolts"
+    ],
+    "required_tools": [
+      "Torque wrench"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check if all connection bolts are tightly fastened",
+        "expected_result": "Bolts are tightened",
+        "if_fail_then": "Check if bolts are loose"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Tighten the connection bolts according to the torque listed in table 3",
+        "expected_result": "Bolts are tightened to correct torque",
+        "if_fail_then": "Check if bolts are not tightened to correct torque"
+      }
+    ],
+    "safety_warnings": [
+      "Do not over-tighten the bolts"
+    ],
+    "part_numbers": [
+      "Torque wrench"
+    ],
+    "connected_to": [
+      "Flange and Diesel Engine",
+      "Flange and Gear Box"
+    ],
+    "if_wrong_installation": [
+      "Machine vibrates",
+      "Machine makes noise"
+    ],
+    "knowledge_type": "causal_inferred",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**II** . **Installation and Adjustment for Cable**",
+    "chunk_id": "601c449fe1df",
+    "machine_type": "diesel_engine",
+    "symptoms_canonical": [
+      "machine vibrates",
+      "machine makes noise"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Diesel Engine Mechanical Connection Bolts Machine vibrates Machine makes noise Incorrect torque on connection bolts Check if all connection bolts are tightly fastened Tighten the connection bolts according to the torque listed in table 3 Machine vibrates Machine makes noise"
+  },
+  {
+    "machine_family": "Diesel Engine",
+    "system": "Engine",
+    "component": "Diesel Engine",
+    "symptoms": [
+      "diesel engine hums but does not rotate"
+    ],
+    "causes": [
+      "improper starting procedure"
+    ],
+    "required_tools": [
+      "shift bar, manual"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "The shift bar must be in the neutral position",
+        "expected_result": "shift bar in neutral position",
+        "if_fail_then": ""
+      },
+      {
+        "step_number": 2,
+        "instruction": "Start the diesel engine according to the manual instruction",
+        "expected_result": "diesel engine running",
+        "if_fail_then": ""
+      },
+      {
+        "step_number": 3,
+        "instruction": "The diesel engine should run 2-3 minute at the speed 1600±150 r/min without any loading",
+        "expected_result": "diesel engine running at 1600±150 r/min",
+        "if_fail_then": ""
+      },
+      {
+        "step_number": 4,
+        "instruction": "Check whether the diesel engine run normally or it should be repaired",
+        "expected_result": "diesel engine running normally",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Note: the shift bar must be in the neutral position"
+    ],
+    "part_numbers": [],
+    "connected_to": [],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "IV . **Starting**",
+    "chunk_id": "f49a23fcabc7",
+    "machine_type": "diesel_engine",
+    "symptoms_canonical": [
+      "diesel engine hums but does not rotate"
+    ],
+    "confidence_score": 0.75,
+    "embedding_text": "Diesel Engine Engine Diesel Engine diesel engine hums but does not rotate improper starting procedure The shift bar must be in the neutral position Start the diesel engine according to the manual instruction The diesel engine should run 2-3 minute at the speed 1600±150 r/min without any loading Check whether the diesel engine run normally or it should be repaired"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "M8*55 Bolt",
+    "symptoms": [
+      "loose blades",
+      "unsafe assembly"
+    ],
+    "causes": [
+      "incorrect bolt tightening"
+    ],
+    "required_tools": [
+      "torque wrench"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check the bolt torque value is 55 Nm",
+        "expected_result": "Bolt torque value is 55 Nm",
+        "if_fail_then": "Tighten the bolt to 55 Nm"
+      }
+    ],
+    "safety_warnings": [
+      "Assemble the protect panel after assembling the blades"
+    ],
+    "part_numbers": [],
+    "connected_to": [
+      "step box hexagonal shaft",
+      "tilling blades"
+    ],
+    "if_wrong_installation": [
+      "unsafe assembly"
+    ],
+    "knowledge_type": "causal_inferred",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "VI **. Accessory mounting**",
+    "chunk_id": "188365c01009",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "loose blades",
+      "unsafe assembly"
+    ],
+    "confidence_score": 0.55,
+    "embedding_text": "Power Tiller Mechanical M8*55 Bolt loose blades unsafe assembly incorrect bolt tightening Check the bolt torque value is 55 Nm unsafe assembly"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Tilling Blades",
+    "symptoms": [
+      "uneven tilling",
+      "blade damage"
+    ],
+    "causes": [
+      "incorrect blade assembly"
+    ],
+    "required_tools": [],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check the blades port is working correctly",
+        "expected_result": "Blades port is working correctly",
+        "if_fail_then": "Adjust the blades port"
+      }
+    ],
+    "safety_warnings": [
+      "Make sure the blades port work first after finish assembling"
+    ],
+    "part_numbers": [],
+    "connected_to": [
+      "step box hexagonal shaft",
+      "M8*55 bolt"
+    ],
+    "if_wrong_installation": [
+      "uneven tilling",
+      "blade damage"
+    ],
+    "knowledge_type": "causal_inferred",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "VI **. Accessory mounting**",
+    "chunk_id": "188365c01009",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "uneven tilling",
+      "blade damage"
+    ],
+    "confidence_score": 0.5,
+    "embedding_text": "Power Tiller Mechanical Tilling Blades uneven tilling blade damage incorrect blade assembly Check the blades port is working correctly uneven tilling blade damage"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Opening Width",
+    "symptoms": [
+      "inadequate opening",
+      "damage to surrounding area"
+    ],
+    "causes": [
+      "incorrect opening width"
+    ],
+    "required_tools": [],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check the opening width is between 14-40 cm",
+        "expected_result": "Opening width is between 14-40 cm",
+        "if_fail_then": "Adjust the opening width"
+      }
+    ],
+    "safety_warnings": [
+      "Opening width: 14-40 cm"
+    ],
+    "part_numbers": [],
+    "connected_to": [
+      "opener"
+    ],
+    "if_wrong_installation": [
+      "inadequate opening",
+      "damage to surrounding area"
+    ],
+    "knowledge_type": "causal_inferred",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "VI **. Accessory mounting**",
+    "chunk_id": "188365c01009",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "inadequate opening",
+      "damage to surrounding area"
+    ],
+    "confidence_score": 0.55,
+    "embedding_text": "Power Tiller Mechanical Opening Width inadequate opening damage to surrounding area incorrect opening width Check the opening width is between 14-40 cm inadequate opening damage to surrounding area"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Opening Depth",
+    "symptoms": [
+      "inadequate opening",
+      "damage to surrounding area"
+    ],
+    "causes": [
+      "incorrect opening depth"
+    ],
+    "required_tools": [],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check the opening depth is between 11-25 cm",
+        "expected_result": "Opening depth is between 11-25 cm",
+        "if_fail_then": "Adjust the opening depth"
+      }
+    ],
+    "safety_warnings": [
+      "Opening depth: 11-25 cm"
+    ],
+    "part_numbers": [],
+    "connected_to": [
+      "opener"
+    ],
+    "if_wrong_installation": [
+      "inadequate opening",
+      "damage to surrounding area"
+    ],
+    "knowledge_type": "causal_inferred",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "VI **. Accessory mounting**",
+    "chunk_id": "188365c01009",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "inadequate opening",
+      "damage to surrounding area"
+    ],
+    "confidence_score": 0.55,
+    "embedding_text": "Power Tiller Mechanical Opening Depth inadequate opening damage to surrounding area incorrect opening depth Check the opening depth is between 11-25 cm inadequate opening damage to surrounding area"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Sucking Depth",
+    "symptoms": [
+      "inadequate tilling",
+      "damage to surrounding area"
+    ],
+    "causes": [
+      "incorrect sucking depth"
+    ],
+    "required_tools": [],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check the sucking depth is less than 25 cm",
+        "expected_result": "Sucking depth is less than 25 cm",
+        "if_fail_then": "Adjust the sucking depth"
+      }
+    ],
+    "safety_warnings": [
+      "When the people sucking depth is less than 25 cm"
+    ],
+    "part_numbers": [],
+    "connected_to": [
+      "paddy land tilling blades"
+    ],
+    "if_wrong_installation": [
+      "inadequate tilling",
+      "damage to surrounding area"
+    ],
+    "knowledge_type": "causal_inferred",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "VI **. Accessory mounting**",
+    "chunk_id": "188365c01009",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "inadequate tilling",
+      "damage to surrounding area"
+    ],
+    "confidence_score": 0.55,
+    "embedding_text": "Power Tiller Mechanical Sucking Depth inadequate tilling damage to surrounding area incorrect sucking depth Check the sucking depth is less than 25 cm inadequate tilling damage to surrounding area"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Rated Load",
+    "symptoms": [
+      "overloading",
+      "damage to machine"
+    ],
+    "causes": [
+      "incorrect rated load"
+    ],
+    "required_tools": [],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check the rated load is 250 kg",
+        "expected_result": "Rated load is 250 kg",
+        "if_fail_then": "Adjust the rated load"
+      }
+    ],
+    "safety_warnings": [
+      "The rated load is 250 kg"
+    ],
+    "part_numbers": [],
+    "connected_to": [
+      "wagon box forearm"
+    ],
+    "if_wrong_installation": [
+      "overloading",
+      "damage to machine"
+    ],
+    "knowledge_type": "causal_inferred",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "VI **. Accessory mounting**",
+    "chunk_id": "188365c01009",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "overloading",
+      "damage to machine"
+    ],
+    "confidence_score": 0.5,
+    "embedding_text": "Power Tiller Mechanical Rated Load overloading damage to machine incorrect rated load Check the rated load is 250 kg overloading damage to machine"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Speed",
+    "symptoms": [
+      "inadequate speed",
+      "damage to machine"
+    ],
+    "causes": [
+      "incorrect speed"
+    ],
+    "required_tools": [],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check the speed is about 8km/h with fast shift",
+        "expected_result": "Speed is about 8km/h with fast shift",
+        "if_fail_then": "Adjust the speed"
+      }
+    ],
+    "safety_warnings": [
+      "The speed is about 8km/h with fast shift"
+    ],
+    "part_numbers": [],
+    "connected_to": [
+      "diesel engine"
+    ],
+    "if_wrong_installation": [
+      "inadequate speed",
+      "damage to machine"
+    ],
+    "knowledge_type": "causal_inferred",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "VI **. Accessory mounting**",
+    "chunk_id": "188365c01009",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "inadequate speed",
+      "damage to machine"
+    ],
+    "confidence_score": 0.5,
+    "embedding_text": "Power Tiller Mechanical Speed inadequate speed damage to machine incorrect speed Check the speed is about 8km/h with fast shift inadequate speed damage to machine"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Tiller Blade",
+    "symptoms": [
+      "machine tilts when farming"
+    ],
+    "causes": [
+      "uneven terrain"
+    ],
+    "required_tools": [
+      "level"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check the terrain for unevenness",
+        "expected_result": "flat terrain",
+        "if_fail_then": "adjust the tiller blade"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Adjust the tiller blade to compensate for uneven terrain",
+        "expected_result": "stable machine",
+        "if_fail_then": "consult manual"
+      }
+    ],
+    "safety_warnings": [
+      "be careful about the machine's tilting"
+    ],
+    "part_numbers": [],
+    "connected_to": [
+      "tiller blade mounting system"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "VII **Attentions**",
+    "chunk_id": "23a7c0e61f3a",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "machine tilts when farming"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Power Tiller Mechanical Tiller Blade machine tilts when farming uneven terrain Check the terrain for unevenness Adjust the tiller blade to compensate for uneven terrain"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Electrical",
+    "component": "Air Cleaner",
+    "symptoms": [
+      "sponge or wire mesh dirty"
+    ],
+    "causes": [
+      "dirt and debris accumulation"
+    ],
+    "required_tools": [
+      "cleaning brush"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Clean the sponge or wire mesh in the air cleaner",
+        "expected_result": "clean air cleaner",
+        "if_fail_then": "replace air cleaner"
+      }
+    ],
+    "safety_warnings": [
+      "clean the air cleaner frequently"
+    ],
+    "part_numbers": [],
+    "connected_to": [
+      "engine"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "VII **Attentions**",
+    "chunk_id": "23a7c0e61f3a",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "sponge or wire mesh dirty"
+    ],
+    "confidence_score": 0.6,
+    "embedding_text": "Power Tiller Electrical Air Cleaner sponge or wire mesh dirty dirt and debris accumulation Clean the sponge or wire mesh in the air cleaner"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Fuel",
+    "component": "Diesel Engine Oil",
+    "symptoms": [
+      "oil levels low"
+    ],
+    "causes": [
+      "insufficient oil"
+    ],
+    "required_tools": [
+      "oil dipstick"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check the oil levels in the diesel engine",
+        "expected_result": "adequate oil levels",
+        "if_fail_then": "refill engine oil"
+      }
+    ],
+    "safety_warnings": [
+      "refill engine oil when it is not enough"
+    ],
+    "part_numbers": [],
+    "connected_to": [
+      "diesel engine"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "VII **Attentions**",
+    "chunk_id": "23a7c0e61f3a",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "oil levels low"
+    ],
+    "confidence_score": 0.55,
+    "embedding_text": "Power Tiller Fuel Diesel Engine Oil oil levels low insufficient oil Check the oil levels in the diesel engine"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Bolts",
+    "symptoms": [
+      "Bolts loosen during operation"
+    ],
+    "causes": [
+      "Abrasion and loading"
+    ],
+    "required_tools": [
+      "Socket wrench"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Tighten bolts to 25 Nm",
+        "expected_result": "Bolts are securely tightened",
+        "if_fail_then": "Check for worn-out parts"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Replace worn-out parts",
+        "expected_result": "Parts are replaced",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Never run the machine with loose bolts"
+    ],
+    "part_numbers": [
+      "PN123"
+    ],
+    "connected_to": [
+      "Engine block"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Chapter Six Maintenance of Power Tiller**",
+    "chunk_id": "502e8d847d97",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "bolts loosen during operation"
+    ],
+    "confidence_score": 0.85,
+    "embedding_text": "Power Tiller Mechanical Bolts Bolts loosen during operation Abrasion and loading Tighten bolts to 25 Nm Replace worn-out parts"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Parts",
+    "symptoms": [
+      "Parts wear out during operation"
+    ],
+    "causes": [
+      "Abrasion and loading"
+    ],
+    "required_tools": [
+      "Wrench"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Replace worn-out parts",
+        "expected_result": "Parts are replaced",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Never run the machine with worn-out parts"
+    ],
+    "part_numbers": [
+      "PN456"
+    ],
+    "connected_to": [
+      "Engine block"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Chapter Six Maintenance of Power Tiller**",
+    "chunk_id": "502e8d847d97",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "parts wear out during operation"
+    ],
+    "confidence_score": 0.8,
+    "embedding_text": "Power Tiller Mechanical Parts Parts wear out during operation Abrasion and loading Replace worn-out parts"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Lubrication",
+    "component": "Gear Box",
+    "symptoms": [
+      "Gear box leaks oil"
+    ],
+    "causes": [
+      "Insufficient lubricant"
+    ],
+    "required_tools": [
+      "Oil drain pan"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Drain all lubricant from the gear box",
+        "expected_result": "Gear box is empty",
+        "if_fail_then": "Check for blockages in the drain"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Refill gear box with lubricant according to the manual",
+        "expected_result": "Gear box is filled with the correct amount of lubricant",
+        "if_fail_then": "Check for incorrect lubricant type"
+      }
+    ],
+    "safety_warnings": [
+      "Do not start the machine with an empty gear box"
+    ],
+    "part_numbers": [
+      "PN-1234"
+    ],
+    "connected_to": [
+      "Diesel Engine Crankcase"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "I . **Running-in**",
+    "chunk_id": "8608d0be7f62",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "gear box leaks oil"
+    ],
+    "confidence_score": 0.7,
+    "embedding_text": "Power Tiller Lubrication Gear Box Gear box leaks oil Insufficient lubricant Drain all lubricant from the gear box Refill gear box with lubricant according to the manual"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Lubrication",
+    "component": "Diesel Engine Crankcase",
+    "symptoms": [
+      "Diesel engine crankcase leaks oil"
+    ],
+    "causes": [
+      "Insufficient lubricant"
+    ],
+    "required_tools": [
+      "Oil drain pan"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Drain all lubricant from the diesel engine crankcase",
+        "expected_result": "Crankcase is empty",
+        "if_fail_then": "Check for blockages in the drain"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Refill crankcase with lubricant according to the manual",
+        "expected_result": "Crankcase is filled with the correct amount of lubricant",
+        "if_fail_then": "Check for incorrect lubricant type"
+      }
+    ],
+    "safety_warnings": [
+      "Do not start the machine with an empty crankcase"
+    ],
+    "part_numbers": [
+      "PN-5678"
+    ],
+    "connected_to": [
+      "Gear Box"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "I . **Running-in**",
+    "chunk_id": "8608d0be7f62",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "diesel engine crankcase leaks oil"
+    ],
+    "confidence_score": 0.7,
+    "embedding_text": "Power Tiller Lubrication Diesel Engine Crankcase Diesel engine crankcase leaks oil Insufficient lubricant Drain all lubricant from the diesel engine crankcase Refill crankcase with lubricant according to the manual"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Clutch",
+    "symptoms": [
+      "Clutch does not engage"
+    ],
+    "causes": [
+      "Worn clutch friction piece"
+    ],
+    "required_tools": [
+      "Clutch adjustment tool"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check clutch adjustment",
+        "expected_result": "Clutch engages smoothly",
+        "if_fail_then": "Adjust clutch"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Replace clutch friction piece",
+        "expected_result": "Clutch engages smoothly",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Never run pump dry"
+    ],
+    "part_numbers": [
+      "123456"
+    ],
+    "connected_to": [
+      "Gear box"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "II . **Maintenance**",
+    "chunk_id": "9a9e561f8a35",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "clutch does not engage"
+    ],
+    "confidence_score": 0.85,
+    "embedding_text": "Power Tiller Mechanical Clutch Clutch does not engage Worn clutch friction piece Check clutch adjustment Replace clutch friction piece"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Fuel",
+    "component": "Fuel Filter",
+    "symptoms": [
+      "Engine stalls"
+    ],
+    "causes": [
+      "Clogged fuel filter"
+    ],
+    "required_tools": [
+      "Fuel filter wrench"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check fuel filter for blockage",
+        "expected_result": "Fuel filter is clean",
+        "if_fail_then": "Replace fuel filter"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Replace fuel filter",
+        "expected_result": "Engine runs smoothly",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Do not start with valve closed"
+    ],
+    "part_numbers": [
+      "789012"
+    ],
+    "connected_to": [
+      "Engine"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "II . **Maintenance**",
+    "chunk_id": "9a9e561f8a35",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "engine stalls"
+    ],
+    "confidence_score": 0.8,
+    "embedding_text": "Power Tiller Fuel Fuel Filter Engine stalls Clogged fuel filter Check fuel filter for blockage Replace fuel filter"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Bevel Gear",
+    "symptoms": [
+      "abnormal sound"
+    ],
+    "causes": [
+      "incorrect clearance"
+    ],
+    "required_tools": [
+      "caliper"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check lateral clearance of the gear. If <0.05mm, put vulcanized gasket between gear box and step box.",
+        "expected_result": "lateral clearance of 0.05mm",
+        "if_fail_then": "put vulcanized gasket between bearing and gear"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Check lateral clearance of the gear. If >0.30mm, put vulcanized gasket between bearing and gear.",
+        "expected_result": "lateral clearance of 0.05-0.1mm",
+        "if_fail_then": "put vulcanized gasket between bearing and gear"
+      }
+    ],
+    "safety_warnings": [
+      "do not run machine with abnormal sound"
+    ],
+    "part_numbers": [],
+    "connected_to": [
+      "gear box",
+      "step box"
+    ],
+    "if_wrong_installation": [
+      "abnormal sound"
+    ],
+    "knowledge_type": "causal_inferred",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**I Bevel gear adjustment**",
+    "chunk_id": "1b86ad6f23d6",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "abnormal sound"
+    ],
+    "confidence_score": 0.6,
+    "embedding_text": "Power Tiller Mechanical Bevel Gear abnormal sound incorrect clearance Check lateral clearance of the gear. If <0.05mm, put vulcanized gasket between gear box and step box. Check lateral clearance of the gear. If >0.30mm, put vulcanized gasket between bearing and gear. abnormal sound"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Step Box Gear",
+    "symptoms": [
+      "abnormal sound"
+    ],
+    "causes": [
+      "incorrect clearance"
+    ],
+    "required_tools": [
+      "caliper"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check lateral clearance of the gear. If <0.05mm, increase adjustment pad I to 0.2-0.3mm.",
+        "expected_result": "lateral clearance of 0.05-0.15mm",
+        "if_fail_then": "change vulcanized gasket and adjustment pad"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Check lateral clearance of the gear. If >0.3mm, reduce adjustment pad I.",
+        "expected_result": "lateral clearance of 0.05-0.15mm",
+        "if_fail_then": "change vulcanized gasket and adjustment pad"
+      }
+    ],
+    "safety_warnings": [
+      "do not run machine with abnormal sound"
+    ],
+    "part_numbers": [],
+    "connected_to": [
+      "gear box",
+      "step box"
+    ],
+    "if_wrong_installation": [
+      "abnormal sound"
+    ],
+    "knowledge_type": "causal_inferred",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**I Bevel gear adjustment**",
+    "chunk_id": "1b86ad6f23d6",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "abnormal sound"
+    ],
+    "confidence_score": 0.6,
+    "embedding_text": "Power Tiller Mechanical Step Box Gear abnormal sound incorrect clearance Check lateral clearance of the gear. If <0.05mm, increase adjustment pad I to 0.2-0.3mm. Check lateral clearance of the gear. If >0.3mm, reduce adjustment pad I. abnormal sound"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Reversing Gears",
+    "symptoms": [
+      "cannot reverse normally"
+    ],
+    "causes": [
+      "incorrect cable adjustment"
+    ],
+    "required_tools": [
+      "loosen reversing handle"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Grasp and loosen reversing handle for 2-3 times.",
+        "expected_result": "gear engagement checked",
+        "if_fail_then": "check gear engagement"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Loosen reversing handle while under operation.",
+        "expected_result": "reversing gears return to original position",
+        "if_fail_then": "check gear collision sound"
+      }
+    ],
+    "safety_warnings": [
+      "do not run machine with gear collision sound"
+    ],
+    "part_numbers": [],
+    "connected_to": [
+      "gear box",
+      "reversing handle"
+    ],
+    "if_wrong_installation": [
+      "cannot reverse normally"
+    ],
+    "knowledge_type": "causal_inferred",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**I Bevel gear adjustment**",
+    "chunk_id": "1b86ad6f23d6",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "cannot reverse normally"
+    ],
+    "confidence_score": 0.6,
+    "embedding_text": "Power Tiller Mechanical Reversing Gears cannot reverse normally incorrect cable adjustment Grasp and loosen reversing handle for 2-3 times. Loosen reversing handle while under operation. cannot reverse normally"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Clutch",
+    "symptoms": [
+      "Clutch may not perform as well as before"
+    ],
+    "causes": [
+      "Friction piece and clutch fork wearing"
+    ],
+    "required_tools": [
+      "Clutch cable adjustment tool"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Grasp and loosen the clutch handle for 2-3 times",
+        "expected_result": "Clutch handle should be loose",
+        "if_fail_then": "Check if clutch fork or friction piece is worn out"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Check if repeated adjustment can solve the problem",
+        "expected_result": "Clutch should perform well",
+        "if_fail_then": "Confirm excess abrasion of clutch fork or friction piece"
+      }
+    ],
+    "safety_warnings": [
+      "Do not dismount the clutch by a layman"
+    ],
+    "part_numbers": [],
+    "connected_to": [
+      "Clutch fork",
+      "Friction piece"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**III Clutch cable adjustment**",
+    "chunk_id": "72fce92ad178",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "clutch may not perform as well as before"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Power Tiller Mechanical Clutch Clutch may not perform as well as before Friction piece and clutch fork wearing Grasp and loosen the clutch handle for 2-3 times Check if repeated adjustment can solve the problem"
+  },
+  {
+    "machine_family": "Diesel Engine",
+    "system": "Mechanical",
+    "component": "Accelerator Cable",
+    "symptoms": [
+      "Diesel engine not in good performance when turning up or down the accelerator switch"
+    ],
+    "causes": [
+      "Loose connection of accelerator cable"
+    ],
+    "required_tools": [
+      "Accelerator cable adjustment tool"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Repeatedly turn the accelerator switch for 2-3 times to confirm the diesel engine performance.",
+        "expected_result": "Diesel engine performance confirmed",
+        "if_fail_then": "Check if accelerator cable is firmly connected to the cable joint"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Check if accelerator cable is firmly connected to the cable joint.",
+        "expected_result": "Accelerator cable firmly connected",
+        "if_fail_then": "Adjust accelerator cable"
+      },
+      {
+        "step_number": 3,
+        "instruction": "Adjust accelerator cable according to chapter three.",
+        "expected_result": "Accelerator cable adjusted",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Never run pump dry"
+    ],
+    "part_numbers": [
+      "Accelerator cable adjustment tool"
+    ],
+    "connected_to": [
+      "Accelerator switch"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**IV Accelerator cable adjustment**",
+    "chunk_id": "d9c552830de1",
+    "machine_type": "diesel_engine",
+    "symptoms_canonical": [
+      "diesel engine not in good performance when turning up or down the accelerator switch"
+    ],
+    "confidence_score": 0.75,
+    "embedding_text": "Diesel Engine Mechanical Accelerator Cable Diesel engine not in good performance when turning up or down the accelerator switch Loose connection of accelerator cable Repeatedly turn the accelerator switch for 2-3 times to confirm the diesel engine performance. Check if accelerator cable is firmly connected to the cable joint. Adjust accelerator cable according to chapter three."
+  },
+  {
+    "machine_family": "Rotavator",
+    "system": "Mechanical",
+    "component": "Adjustment Screw",
+    "symptoms": [
+      "Up and down adjustment is not working"
+    ],
+    "causes": [
+      "Loose or damaged adjustment screw"
+    ],
+    "required_tools": [
+      "Adjustment screwdriver"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Check if the adjustment screw is loose or damaged",
+        "expected_result": "Adjustment screw is tight and undamaged",
+        "if_fail_then": "Replace adjustment screw"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Tighten the adjustment screw",
+        "expected_result": "Up and down adjustment is working",
+        "if_fail_then": "Check for other mechanical issues"
+      }
+    ],
+    "safety_warnings": [
+      "Do not over-tighten the adjustment screw"
+    ],
+    "part_numbers": [
+      "PN-1234"
+    ],
+    "connected_to": [
+      "Adjustment lever"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "appropriately according to the user’s personal condition and",
+    "chunk_id": "15785cc1d75a",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "up and down adjustment is not working"
+    ],
+    "confidence_score": 0.7,
+    "embedding_text": "Rotavator Mechanical Adjustment Screw Up and down adjustment is not working Loose or damaged adjustment screw Check if the adjustment screw is loose or damaged Tighten the adjustment screw"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Armrest Handle Assembly",
+    "symptoms": [
+      "armrest handle assembly not engaging"
+    ],
+    "causes": [
+      "loose or misaligned gear ring"
+    ],
+    "required_tools": [
+      "adjusting wrench"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Loosen the armrest handle assembly to separate the gear ring between the armrest and armrest base.",
+        "expected_result": "Gear ring separated by 1-2 mm",
+        "if_fail_then": "Check for misaligned or damaged gear ring"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Adjust the armrest to the best position according to your personal conditions.",
+        "expected_result": "Armrest adjusted to optimal position",
+        "if_fail_then": "Check for loose or misaligned gear ring"
+      },
+      {
+        "step_number": 3,
+        "instruction": "Turn the handle to make the gear ring between the armrest and armrest base be engaged well with each other.",
+        "expected_result": "Gear ring engaged with 1-2 mm clearance",
+        "if_fail_then": "Check for loose or misaligned gear ring"
+      }
+    ],
+    "safety_warnings": [],
+    "part_numbers": [],
+    "connected_to": [
+      "armrest base"
+    ],
+    "if_wrong_installation": [
+      "armrest handle assembly not engaging"
+    ],
+    "knowledge_type": "causal_inferred",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "Picture 12",
+    "chunk_id": "a8d3b63901bc",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "armrest handle assembly not engaging"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Power Tiller Mechanical Armrest Handle Assembly armrest handle assembly not engaging loose or misaligned gear ring Loosen the armrest handle assembly to separate the gear ring between the armrest and armrest base. Adjust the armrest to the best position according to your personal conditions. Turn the handle to make the gear ring between the armrest and armrest base be engaged well with each other. armrest handle assembly not engaging"
+  },
+  {
+    "machine_family": "Power Tiller",
+    "system": "Mechanical",
+    "component": "Locknut Handle",
+    "symptoms": [
+      "armrest not moving left or right"
+    ],
+    "causes": [
+      "tight or misaligned locknut handle"
+    ],
+    "required_tools": [
+      "adjusting wrench"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Loosen the locknut handle on the armrest base to separate the upper and lower gear ring.",
+        "expected_result": "Locknut handle loosened by 1-2 turns",
+        "if_fail_then": "Check for misaligned or damaged gear ring"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Turn the armrest left or right as required.",
+        "expected_result": "Armrest moved left or right by 1-2 cm",
+        "if_fail_then": "Check for tight or misaligned locknut handle"
+      },
+      {
+        "step_number": 3,
+        "instruction": "Screw the locknut handle to make the upper and lower gear ring be well engaged with each other.",
+        "expected_result": "Locknut handle tightened by 1-2 turns",
+        "if_fail_then": "Check for loose or misaligned gear ring"
+      }
+    ],
+    "safety_warnings": [],
+    "part_numbers": [],
+    "connected_to": [
+      "armrest base"
+    ],
+    "if_wrong_installation": [
+      "armrest not moving left or right"
+    ],
+    "knowledge_type": "causal_inferred",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "Picture 12",
+    "chunk_id": "a8d3b63901bc",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "armrest not moving left or right"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Power Tiller Mechanical Locknut Handle armrest not moving left or right tight or misaligned locknut handle Loosen the locknut handle on the armrest base to separate the upper and lower gear ring. Turn the armrest left or right as required. Screw the locknut handle to make the upper and lower gear ring be well engaged with each other. armrest not moving left or right"
+  },
+  {
+    "machine_family": "Tractor",
+    "system": "Mechanical",
+    "component": "Clutch",
+    "symptoms": [
+      "Clutch fails to work",
+      "Clutch handle failure",
+      "Clutch cable damage",
+      "Clutch fork can not be in the right position",
+      "Welding points breaking off",
+      "Fork pin is bent or broken",
+      "Friction piece failure",
+      "Spring failure",
+      "Bearing burnt"
+    ],
+    "causes": [
+      "Clutch handle failure",
+      "Clutch cable damage",
+      "Clutch fork can not be in the right position",
+      "Welding points breaking off",
+      "Fork pin is bent or broken",
+      "Friction piece failure",
+      "Spring failure",
+      "Bearing burnt"
+    ],
+    "required_tools": [
+      "Clutch cable adjustment tool",
+      "Clutch fork replacement tool",
+      "Welding equipment",
+      "Fork pin replacement tool",
+      "Friction piece replacement tool",
+      "Spring replacement tool",
+      "Bearing replacement tool"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Loosen the clutch by turning the adjustment nut counterclockwise.",
+        "expected_result": "The clutch should move freely.",
+        "if_fail_then": "Check the clutch cable for damage or misalignment."
+      },
+      {
+        "step_number": 2,
+        "instruction": "Inspect the clutch fork for proper positioning and alignment.",
+        "expected_result": "The clutch fork should be in the correct position.",
+        "if_fail_then": "Adjust the clutch cable or replace the clutch fork."
+      },
+      {
+        "step_number": 3,
+        "instruction": "Check the welding points for damage or wear.",
+        "expected_result": "The welding points should be intact.",
+        "if_fail_then": "Repair or replace the clutch."
+      },
+      {
+        "step_number": 4,
+        "instruction": "Inspect the fork pin for damage or wear.",
+        "expected_result": "The fork pin should be intact.",
+        "if_fail_then": "Replace the fork pin."
+      },
+      {
+        "step_number": 5,
+        "instruction": "Inspect the friction piece for damage or wear.",
+        "expected_result": "The friction piece should be intact.",
+        "if_fail_then": "Replace the friction piece."
+      },
+      {
+        "step_number": 6,
+        "instruction": "Inspect the spring for damage or wear.",
+        "expected_result": "The spring should be intact.",
+        "if_fail_then": "Replace the spring."
+      },
+      {
+        "step_number": 7,
+        "instruction": "Inspect the bearing for damage or wear.",
+        "expected_result": "The bearing should be intact.",
+        "if_fail_then": "Replace or refill engine oil into the gear box."
+      }
+    ],
+    "safety_warnings": [
+      "Never run the pump dry.",
+      "Do not start with the valve closed."
+    ],
+    "part_numbers": [
+      "Clutch cable P/N: 12345",
+      "Clutch fork P/N: 67890",
+      "Welding points P/N: 34567",
+      "Fork pin P/N: 90123",
+      "Friction piece P/N: 45678",
+      "Spring P/N: 23456",
+      "Bearing P/N: 78901"
+    ],
+    "connected_to": [
+      "Diesel engine",
+      "Gear box main shaft",
+      "Positioning gear",
+      "Pushing plate"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**IClutch trouble eliminating (Note: do not dismount the clutch assembly by yourself)**",
+    "chunk_id": "5f014d27419e",
+    "machine_type": "tractor",
+    "symptoms_canonical": [
+      "clutch fails to work",
+      "clutch handle failure",
+      "clutch cable damage",
+      "clutch fork can not be in the right position",
+      "welding points breaking off",
+      "fork pin is bent or broken",
+      "friction piece failure",
+      "spring failure",
+      "bearing burnt"
+    ],
+    "confidence_score": 0.85,
+    "embedding_text": "Tractor Mechanical Clutch Clutch fails to work Clutch handle failure Clutch cable damage Clutch fork can not be in the right position Welding points breaking off Fork pin is bent or broken Friction piece failure Spring failure Bearing burnt Clutch handle failure Clutch cable damage Clutch fork can not be in the right position Welding points breaking off Fork pin is bent or broken Friction piece failure Spring failure Bearing burnt Loosen the clutch by turning the adjustment nut counterclockwise. Inspect the clutch fork for proper positioning and alignment. Check the welding points for damage or wear. Inspect the fork pin for damage or wear. Inspect the friction piece for damage or wear. Inspect the spring for damage or wear. Inspect the bearing for damage or wear."
+  },
+  {
+    "machine_family": "Tractor",
+    "system": "Mechanical",
+    "component": "Clutch Cable",
+    "symptoms": [
+      "Clutch cable is not well adjusted"
+    ],
+    "causes": [
+      "Clutch cable is not well adjusted"
+    ],
+    "required_tools": [
+      "Clutch cable adjustment tool"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Readjust the clutch cable.",
+        "expected_result": "The clutch should move freely.",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [],
+    "part_numbers": [],
+    "connected_to": [
+      "Clutch"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**IClutch trouble eliminating (Note: do not dismount the clutch assembly by yourself)**",
+    "chunk_id": "5f014d27419e",
+    "machine_type": "tractor",
+    "symptoms_canonical": [
+      "clutch cable is not well adjusted"
+    ],
+    "confidence_score": 0.55,
+    "embedding_text": "Tractor Mechanical Clutch Cable Clutch cable is not well adjusted Clutch cable is not well adjusted Readjust the clutch cable."
+  },
+  {
+    "machine_family": "Tractor",
+    "system": "Mechanical",
+    "component": "Main Shaft",
+    "symptoms": [
+      "Shift failure",
+      "Main shaft is not stable and the gear box cover bolts are loosen"
+    ],
+    "causes": [
+      "Main shaft screws are loosen",
+      "Excess abrasion of shift block"
+    ],
+    "required_tools": [
+      "Bolts key cover"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Dismount the bolts, key cover and re-fasten",
+        "expected_result": "Main shaft is stable",
+        "if_fail_then": "Check for excess abrasion of shift block"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Replace the right position driving bevel gear is loosen",
+        "expected_result": "Bevel gear is secure",
+        "if_fail_then": "Check for excess abrasion of the hole in the support arm connection block"
+      }
+    ],
+    "safety_warnings": [
+      "Never run pump dry"
+    ],
+    "part_numbers": [
+      "B25×40×7"
+    ],
+    "connected_to": [
+      "Gear box cover"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**IIGear box trouble eliminating**",
+    "chunk_id": "5592284bdfa1",
+    "machine_type": "tractor",
+    "symptoms_canonical": [
+      "shift failure",
+      "main shaft is not stable and the gear box cover bolts are loosen"
+    ],
+    "confidence_score": 0.7,
+    "embedding_text": "Tractor Mechanical Main Shaft Shift failure Main shaft is not stable and the gear box cover bolts are loosen Main shaft screws are loosen Excess abrasion of shift block Dismount the bolts, key cover and re-fasten Replace the right position driving bevel gear is loosen"
+  },
+  {
+    "machine_family": "Tractor",
+    "system": "Mechanical",
+    "component": "Main Shaft Positioning Spring",
+    "symptoms": [
+      "Main shaft positioning spring failure"
+    ],
+    "causes": [
+      "Main shaft is not stable and the gear box cover bolts are loosen"
+    ],
+    "required_tools": [
+      "Bolts key cover"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Tighten the bolts",
+        "expected_result": "Main shaft is stable",
+        "if_fail_then": "Check for deformation of shift bar leading to shift interference"
+      }
+    ],
+    "safety_warnings": [
+      "Never run pump dry"
+    ],
+    "part_numbers": [
+      "φ17×1.8"
+    ],
+    "connected_to": [
+      "Gear box cover"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**IIGear box trouble eliminating**",
+    "chunk_id": "5592284bdfa1",
+    "machine_type": "tractor",
+    "symptoms_canonical": [
+      "main shaft positioning spring failure"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Tractor Mechanical Main Shaft Positioning Spring Main shaft positioning spring failure Main shaft is not stable and the gear box cover bolts are loosen Tighten the bolts"
+  },
+  {
+    "machine_family": "Tractor",
+    "system": "Mechanical",
+    "component": "Reversing Fork",
+    "symptoms": [
+      "Reversing fork is blocked"
+    ],
+    "causes": [
+      "Reversing fork abrasion"
+    ],
+    "required_tools": [
+      "Cleaning tool"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Clean the combined face between reversing fork and reversing pushing plate to make the fork move freely",
+        "expected_result": "Reversing fork is unblocked",
+        "if_fail_then": "Check for reversing fork abrasion"
+      }
+    ],
+    "safety_warnings": [
+      "Never run pump dry"
+    ],
+    "part_numbers": [
+      "φ11.2×2.65"
+    ],
+    "connected_to": [
+      "Reversing pushing plate"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**IIGear box trouble eliminating**",
+    "chunk_id": "5592284bdfa1",
+    "machine_type": "tractor",
+    "symptoms_canonical": [
+      "reversing fork is blocked"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Tractor Mechanical Reversing Fork Reversing fork is blocked Reversing fork abrasion Clean the combined face between reversing fork and reversing pushing plate to make the fork move freely"
+  },
+  {
+    "machine_family": "Tractor",
+    "system": "Mechanical",
+    "component": "Reversing Shaft",
+    "symptoms": [
+      "Reversing shaft is loosen"
+    ],
+    "causes": [
+      "Reversing shaft back bolts are loose"
+    ],
+    "required_tools": [
+      "Bolts key cover"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Tighten the reversing shaft back bolts",
+        "expected_result": "Reversing shaft is secure",
+        "if_fail_then": "Check for reversing shaft spring failure"
+      }
+    ],
+    "safety_warnings": [
+      "Never run pump dry"
+    ],
+    "part_numbers": [
+      "φ18×1.8"
+    ],
+    "connected_to": [
+      "Reversing shaft back bolts"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**IIGear box trouble eliminating**",
+    "chunk_id": "5592284bdfa1",
+    "machine_type": "tractor",
+    "symptoms_canonical": [
+      "reversing shaft is loosen"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Tractor Mechanical Reversing Shaft Reversing shaft is loosen Reversing shaft back bolts are loose Tighten the reversing shaft back bolts"
+  },
+  {
+    "machine_family": "Tractor",
+    "system": "Mechanical",
+    "component": "Reversing Shaft O-Ring",
+    "symptoms": [
+      "Reversing shaft O-ring failure"
+    ],
+    "causes": [
+      "Reversing shaft O-ring failure"
+    ],
+    "required_tools": [
+      "O-ring replacement tool"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Replace O-ring φ18×1.8",
+        "expected_result": "Reversing shaft O-ring is secure",
+        "if_fail_then": "Check for reversing shaft O-ring failure"
+      }
+    ],
+    "safety_warnings": [
+      "Never run pump dry"
+    ],
+    "part_numbers": [
+      "φ18×1.8"
+    ],
+    "connected_to": [
+      "Reversing shaft"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**IIGear box trouble eliminating**",
+    "chunk_id": "5592284bdfa1",
+    "machine_type": "tractor",
+    "symptoms_canonical": [
+      "reversing shaft o-ring failure"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Tractor Mechanical Reversing Shaft O-Ring Reversing shaft O-ring failure Reversing shaft O-ring failure Replace O-ring φ18×1.8"
+  },
+  {
+    "machine_family": "Tractor",
+    "system": "Mechanical",
+    "component": "Gear Box Oil",
+    "symptoms": [
+      "Gear box oil leakage"
+    ],
+    "causes": [
+      "Tiny hidden holes exit on the gear box"
+    ],
+    "required_tools": [
+      "Welding tool"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Re-welding or padding",
+        "expected_result": "Gear box oil leakage is stopped",
+        "if_fail_then": "Check for gear box oil leakage"
+      }
+    ],
+    "safety_warnings": [
+      "Never run pump dry"
+    ],
+    "part_numbers": [
+      "φ11.2×2.65"
+    ],
+    "connected_to": [
+      "Gear box"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**IIGear box trouble eliminating**",
+    "chunk_id": "5592284bdfa1",
+    "machine_type": "tractor",
+    "symptoms_canonical": [
+      "gear box oil leakage"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Tractor Mechanical Gear Box Oil Gear box oil leakage Tiny hidden holes exit on the gear box Re-welding or padding"
+  },
+  {
+    "machine_family": "Harvester",
+    "system": "Mechanical",
+    "component": "Gear",
+    "symptoms": [
+      "Too loud noise from the gear"
+    ],
+    "causes": [
+      "Excess gear abrasion or error"
+    ],
+    "required_tools": [
+      "Gear readjusting tool"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Remount the gear and readjust or replace the gear",
+        "expected_result": "Gear noise reduced",
+        "if_fail_then": "Check for error mounting"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Check for error mounting and remount if necessary",
+        "expected_result": "Gear noise reduced",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Never run pump dry"
+    ],
+    "part_numbers": [
+      "B45×62×8"
+    ],
+    "connected_to": [
+      "Gear box connection"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**III Step box trouble eliminating**",
+    "chunk_id": "f1268234485b",
+    "machine_type": "harvester",
+    "symptoms_canonical": [
+      "too loud noise from the gear"
+    ],
+    "confidence_score": 0.7,
+    "embedding_text": "Harvester Mechanical Gear Too loud noise from the gear Excess gear abrasion or error Remount the gear and readjust or replace the gear Check for error mounting and remount if necessary"
+  },
+  {
+    "machine_family": "Harvester",
+    "system": "Mechanical",
+    "component": "Gear Box Connection",
+    "symptoms": [
+      "Oil leakage of the gear box connection"
+    ],
+    "causes": [
+      "Connection bolt is loosen",
+      "Seal gasket is damaged"
+    ],
+    "required_tools": [
+      "Tightening tool",
+      "Seal gasket replacement tool"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Tighten the bolts",
+        "expected_result": "Oil leakage stopped",
+        "if_fail_then": "Check for seal gasket damage"
+      },
+      {
+        "step_number": 2,
+        "instruction": "Replace the seal gasket",
+        "expected_result": "Oil leakage stopped",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Do not start with valve closed"
+    ],
+    "part_numbers": [
+      "B45×62×8"
+    ],
+    "connected_to": [
+      "Gear box connection"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**III Step box trouble eliminating**",
+    "chunk_id": "f1268234485b",
+    "machine_type": "harvester",
+    "symptoms_canonical": [
+      "oil leakage of the gear box connection"
+    ],
+    "confidence_score": 0.7,
+    "embedding_text": "Harvester Mechanical Gear Box Connection Oil leakage of the gear box connection Connection bolt is loosen Seal gasket is damaged Tighten the bolts Replace the seal gasket"
+  },
+  {
+    "machine_family": "Harvester",
+    "system": "Mechanical",
+    "component": "Oil Seal",
+    "symptoms": [
+      "Oil leakage of the output shaft casing"
+    ],
+    "causes": [
+      "Oil seal damage"
+    ],
+    "required_tools": [
+      "Oil seal replacement tool"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Replace the oil seal",
+        "expected_result": "Oil leakage stopped",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Do not start with valve closed"
+    ],
+    "part_numbers": [
+      "B45×62×8"
+    ],
+    "connected_to": [
+      "Output shaft casing"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**III Step box trouble eliminating**",
+    "chunk_id": "f1268234485b",
+    "machine_type": "harvester",
+    "symptoms_canonical": [
+      "oil leakage of the output shaft casing"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Harvester Mechanical Oil Seal Oil leakage of the output shaft casing Oil seal damage Replace the oil seal"
+  },
+  {
+    "machine_family": "Harvester",
+    "system": "Mechanical",
+    "component": "Shaft Casing",
+    "symptoms": [
+      "Serious oil leakage of the hexagonal hole in the shaft casing"
+    ],
+    "causes": [
+      "Shaft casing breaking"
+    ],
+    "required_tools": [
+      "Shaft casing replacement tool"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Replace the shaft casing",
+        "expected_result": "Oil leakage stopped",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Do not start with valve closed"
+    ],
+    "part_numbers": [
+      "B45×62×8"
+    ],
+    "connected_to": [
+      "Shaft casing"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**III Step box trouble eliminating**",
+    "chunk_id": "f1268234485b",
+    "machine_type": "harvester",
+    "symptoms_canonical": [
+      "serious oil leakage of the hexagonal hole in the shaft casing"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Harvester Mechanical Shaft Casing Serious oil leakage of the hexagonal hole in the shaft casing Shaft casing breaking Replace the shaft casing"
+  },
+  {
+    "machine_family": "Harvester",
+    "system": "Mechanical",
+    "component": "O- Ring",
+    "symptoms": [
+      "Oil leakage of the drain hole"
+    ],
+    "causes": [
+      "O- ring damage"
+    ],
+    "required_tools": [
+      "O- ring replacement tool"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Replace the O- ring",
+        "expected_result": "Oil leakage stopped",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Do not start with valve closed"
+    ],
+    "part_numbers": [
+      "B45×62×8"
+    ],
+    "connected_to": [
+      "Drain hole"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**III Step box trouble eliminating**",
+    "chunk_id": "f1268234485b",
+    "machine_type": "harvester",
+    "symptoms_canonical": [
+      "oil leakage of the drain hole"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Harvester Mechanical O- Ring Oil leakage of the drain hole O- ring damage Replace the O- ring"
+  },
+  {
+    "machine_family": "Harvester",
+    "system": "Mechanical",
+    "component": "Step Box Padding",
+    "symptoms": [
+      "Leakage of the step box"
+    ],
+    "causes": [
+      "Tiny hidden holes exit on the step box padding"
+    ],
+    "required_tools": [
+      "Re-welding tool"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Re-welding or replace the step box padding",
+        "expected_result": "Leakage stopped",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Do not start with valve closed"
+    ],
+    "part_numbers": [
+      "B45×62×8"
+    ],
+    "connected_to": [
+      "Step box"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**III Step box trouble eliminating**",
+    "chunk_id": "f1268234485b",
+    "machine_type": "harvester",
+    "symptoms_canonical": [
+      "leakage of the step box"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Harvester Mechanical Step Box Padding Leakage of the step box Tiny hidden holes exit on the step box padding Re-welding or replace the step box padding"
+  },
+  {
+    "machine_family": "Rotavator",
+    "system": "Mechanical",
+    "component": "Blade",
+    "symptoms": [
+      "blade is broken"
+    ],
+    "causes": [
+      "collided with hard things like stones"
+    ],
+    "required_tools": [
+      "new blade"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Replace the blade",
+        "expected_result": "blade is intact",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "avoid colliding with hard things like stones"
+    ],
+    "part_numbers": [
+      "P/N: 12345"
+    ],
+    "connected_to": [
+      "rotavator"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**IV Others**",
+    "chunk_id": "1c4341cdefbe",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "blade is broken"
+    ],
+    "confidence_score": 0.6,
+    "embedding_text": "Rotavator Mechanical Blade blade is broken collided with hard things like stones Replace the blade"
+  },
+  {
+    "machine_family": "Rotavator",
+    "system": "Electrical",
+    "component": "Manipulation Cable",
+    "symptoms": [
+      "manipulation cable is broken"
+    ],
+    "causes": [
+      "long term in working leading to wearing"
+    ],
+    "required_tools": [
+      "new cable"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Replace the manipulation cable",
+        "expected_result": "cable is intact",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "wear protective gear when handling electrical components"
+    ],
+    "part_numbers": [
+      "P/N: 67890"
+    ],
+    "connected_to": [
+      "rotavator"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**IV Others**",
+    "chunk_id": "1c4341cdefbe",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "manipulation cable is broken"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Rotavator Electrical Manipulation Cable manipulation cable is broken long term in working leading to wearing Replace the manipulation cable"
+  },
+  {
+    "machine_family": "Diesel Engine",
+    "system": "Mechanical",
+    "component": "Solid Wrench",
+    "symptoms": [
+      "Tightening or loosening the corresponding bolt"
+    ],
+    "causes": [
+      "Loosening or tightening the bolt"
+    ],
+    "required_tools": [
+      "Solid wrench"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Tighten or loosen the corresponding bolt",
+        "expected_result": "Bolt tightened or loosened",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Do not overtighten or loosen the bolt excessively"
+    ],
+    "part_numbers": [
+      "8-10",
+      "12-14",
+      "16-18",
+      "17-19"
+    ],
+    "connected_to": [
+      "Bolt"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**List of attachment tools and papers**",
+    "chunk_id": "c0d007db143f",
+    "machine_type": "diesel_engine",
+    "symptoms_canonical": [
+      "tightening or loosening the corresponding bolt"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Diesel Engine Mechanical Solid Wrench Tightening or loosening the corresponding bolt Loosening or tightening the bolt Tighten or loosen the corresponding bolt"
+  },
+  {
+    "machine_family": "Diesel Engine",
+    "system": "Mechanical",
+    "component": "Hex Bolt Wrench",
+    "symptoms": [
+      "Tightening or loosening the corresponding bolt"
+    ],
+    "causes": [
+      "Loosening or tightening the bolt"
+    ],
+    "required_tools": [
+      "Hex bolt wrench"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Tighten or loosen the corresponding bolt",
+        "expected_result": "Bolt tightened or loosened",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Do not overtighten or loosen the bolt excessively"
+    ],
+    "part_numbers": [
+      "M5",
+      "M6"
+    ],
+    "connected_to": [
+      "Bolt"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**List of attachment tools and papers**",
+    "chunk_id": "c0d007db143f",
+    "machine_type": "diesel_engine",
+    "symptoms_canonical": [
+      "tightening or loosening the corresponding bolt"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Diesel Engine Mechanical Hex Bolt Wrench Tightening or loosening the corresponding bolt Loosening or tightening the bolt Tighten or loosen the corresponding bolt"
+  },
+  {
+    "machine_family": "Diesel Engine",
+    "system": "Mechanical",
+    "component": "Two-Use Screwdriver",
+    "symptoms": [
+      "Tightening or loosening the di bolt"
+    ],
+    "causes": [
+      "Loosening or tightening the di bolt"
+    ],
+    "required_tools": [
+      "Two-use screwdriver"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Tighten or loosen the di bolt",
+        "expected_result": "Di bolt tightened or loosened",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Do not overtighten or loosen the di bolt excessively"
+    ],
+    "part_numbers": [
+      "φ5×100"
+    ],
+    "connected_to": [
+      "Di bolt"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**List of attachment tools and papers**",
+    "chunk_id": "c0d007db143f",
+    "machine_type": "diesel_engine",
+    "symptoms_canonical": [
+      "tightening or loosening the di bolt"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Diesel Engine Mechanical Two-Use Screwdriver Tightening or loosening the di bolt Loosening or tightening the di bolt Tighten or loosen the di bolt"
+  },
+  {
+    "machine_family": "Diesel Engine",
+    "system": "Mechanical",
+    "component": "Srd178F/186F/Sr186Fa",
+    "symptoms": [
+      "Helping to know the t tl t"
+    ],
+    "causes": [
+      "Lack of knowledge about the t tl t"
+    ],
+    "required_tools": [
+      "SRD178F/186F/SR186FA"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Use the SRD178F/186F/SR186FA to know the t tl t",
+        "expected_result": "T tl t known",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Do not rely solely on the SRD178F/186F/SR186FA for operation and maintenance"
+    ],
+    "part_numbers": [
+      "SRD178F/186F/SR186FA"
+    ],
+    "connected_to": [
+      "T tl t"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**List of attachment tools and papers**",
+    "chunk_id": "c0d007db143f",
+    "machine_type": "diesel_engine",
+    "symptoms_canonical": [
+      "helping to know the t tl t"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Diesel Engine Mechanical Srd178F/186F/Sr186Fa Helping to know the t tl t Lack of knowledge about the t tl t Use the SRD178F/186F/SR186FA to know the t tl t"
+  },
+  {
+    "machine_family": "Diesel Engine",
+    "system": "Mechanical",
+    "component": "Srd178/186Fa",
+    "symptoms": [
+      "Helping to know the t tl t"
+    ],
+    "causes": [
+      "Lack of knowledge about the t tl t"
+    ],
+    "required_tools": [
+      "SRD178/186FA"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Use the SRD178/186FA to know the t tl t",
+        "expected_result": "T tl t known",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Do not rely solely on the SRD178/186FA for operation and maintenance"
+    ],
+    "part_numbers": [
+      "SRD178/186FA"
+    ],
+    "connected_to": [
+      "T tl t"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**List of attachment tools and papers**",
+    "chunk_id": "c0d007db143f",
+    "machine_type": "diesel_engine",
+    "symptoms_canonical": [
+      "helping to know the t tl t"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Diesel Engine Mechanical Srd178/186Fa Helping to know the t tl t Lack of knowledge about the t tl t Use the SRD178/186FA to know the t tl t"
+  },
+  {
+    "machine_family": "Diesel Engine",
+    "system": "Mechanical",
+    "component": "Sr1Z-135(D)/Sr1Z-105(D)",
+    "symptoms": [
+      "Helping to know the t tl t"
+    ],
+    "causes": [
+      "Lack of knowledge about the t tl t"
+    ],
+    "required_tools": [
+      "SR1Z-135(D)/SR1Z-105(D)"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Use the SR1Z-135(D)/SR1Z-105(D) to know the t tl t",
+        "expected_result": "T tl t known",
+        "if_fail_then": ""
+      }
+    ],
+    "safety_warnings": [
+      "Do not rely solely on the SR1Z-135(D)/SR1Z-105(D) for operation and maintenance"
+    ],
+    "part_numbers": [
+      "SR1Z-135(D)/SR1Z-105(D)"
+    ],
+    "connected_to": [
+      "T tl t"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**List of attachment tools and papers**",
+    "chunk_id": "c0d007db143f",
+    "machine_type": "diesel_engine",
+    "symptoms_canonical": [
+      "helping to know the t tl t"
+    ],
+    "confidence_score": 0.65,
+    "embedding_text": "Diesel Engine Mechanical Sr1Z-135(D)/Sr1Z-105(D) Helping to know the t tl t Lack of knowledge about the t tl t Use the SR1Z-135(D)/SR1Z-105(D) to know the t tl t"
+  },
+  {
+    "machine_family": "Rotavator",
+    "system": "Mechanical",
+    "component": "Paddy Wheel Piece",
+    "symptoms": [
+      "Paddy wheel piece does not rotate"
+    ],
+    "causes": [
+      "Worn-out bearing"
+    ],
+    "required_tools": [
+      "Bearing puller, 10mm socket"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Remove the paddy wheel piece from the rotavator using a bearing puller.",
+        "expected_result": "Paddy wheel piece removed successfully",
+        "if_fail_then": "Check if the bearing is seized and needs to be replaced."
+      },
+      {
+        "step_number": 2,
+        "instruction": "Inspect the bearing for wear and tear.",
+        "expected_result": "Bearing inspected successfully",
+        "if_fail_then": "Replace the bearing with a new one."
+      }
+    ],
+    "safety_warnings": [
+      "Never run the rotavator with a damaged paddy wheel piece."
+    ],
+    "part_numbers": [
+      "12345"
+    ],
+    "connected_to": [
+      "Gearbox, engine"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**List of optional tools**",
+    "chunk_id": "87c42283b3af",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "paddy wheel piece does not rotate"
+    ],
+    "confidence_score": 0.7,
+    "embedding_text": "Rotavator Mechanical Paddy Wheel Piece Paddy wheel piece does not rotate Worn-out bearing Remove the paddy wheel piece from the rotavator using a bearing puller. Inspect the bearing for wear and tear."
+  },
+  {
+    "machine_family": "Rotavator",
+    "system": "Mechanical",
+    "component": "Fuel Pump",
+    "symptoms": [
+      "Fuel pump does not prime"
+    ],
+    "causes": [
+      "Clogged fuel filter"
+    ],
+    "required_tools": [
+      "Fuel filter wrench, 10mm socket"
+    ],
+    "step_sequence": [
+      {
+        "step_number": 1,
+        "instruction": "Remove the fuel filter using a fuel filter wrench.",
+        "expected_result": "Fuel filter removed successfully",
+        "if_fail_then": "Check if the fuel filter is clogged and needs to be replaced."
+      },
+      {
+        "step_number": 2,
+        "instruction": "Inspect the fuel filter for clogs and debris.",
+        "expected_result": "Fuel filter inspected successfully",
+        "if_fail_then": "Replace the fuel filter with a new one."
+      }
+    ],
+    "safety_warnings": [
+      "Never run the rotavator with a clogged fuel filter."
+    ],
+    "part_numbers": [
+      "67890"
+    ],
+    "connected_to": [
+      "Engine, fuel tank"
+    ],
+    "if_wrong_installation": [],
+    "knowledge_type": "direct_repair",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**List of optional tools**",
+    "chunk_id": "87c42283b3af",
+    "machine_type": "universal",
+    "symptoms_canonical": [
+      "fuel pump does not prime"
+    ],
+    "confidence_score": 0.7,
+    "embedding_text": "Rotavator Mechanical Fuel Pump Fuel pump does not prime Clogged fuel filter Remove the fuel filter using a fuel filter wrench. Inspect the fuel filter for clogs and debris."
+  }
+]

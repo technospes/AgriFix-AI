@@ -1,0 +1,190 @@
+[
+  {
+    "component": "Electric Pump",
+    "spec_type": "temperature",
+    "value": "40",
+    "unit": "°C",
+    "acceptable_range": "",
+    "source_page": "**III. Working Conditions**",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "failure_if_out_of_range": [
+      "pump does not work"
+    ],
+    "repair_actions": [
+      "Check ambient temperature",
+      "Check liquid temperature",
+      "Check PH value of the medium"
+    ],
+    "embedding_text": "SPECIFICATION\nCOMPONENT: Electric Pump\nTYPE: temperature\nVALUE: 40 °C\n\nFAILS IF:\n- pump does not work\n\nREPAIR:\n- Check ambient temperature\n- Check liquid temperature\n- Check PH value of the medium\n",
+    "parameter": "temperature",
+    "page": "**III. Working Conditions**",
+    "if_out_of_range": [
+      "pump does not work"
+    ],
+    "component_id": "electric_pump_93c8fb"
+  },
+  {
+    "component": "Electric Pump",
+    "spec_type": "clearance",
+    "value": "0.2",
+    "unit": "mm",
+    "acceptable_range": "",
+    "source_page": "**III. Working Conditions**",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "failure_if_out_of_range": [
+      "pump does not work"
+    ],
+    "repair_actions": [
+      "Check ambient temperature",
+      "Check liquid temperature",
+      "Check PH value of the medium"
+    ],
+    "embedding_text": "SPECIFICATION\nCOMPONENT: Electric Pump\nTYPE: clearance\nVALUE: 0.2 mm\n\nFAILS IF:\n- pump does not work\n\nREPAIR:\n- Check ambient temperature\n- Check liquid temperature\n- Check PH value of the medium\n",
+    "parameter": "clearance",
+    "page": "**III. Working Conditions**",
+    "if_out_of_range": [
+      "pump does not work"
+    ],
+    "component_id": "electric_pump_93c8fb"
+  },
+  {
+    "component": "Mechanical Seal",
+    "spec_type": "capacitor_rating",
+    "value": "25",
+    "unit": "µF",
+    "acceptable_range": "",
+    "source_page": "**QB Series**",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "failure_if_out_of_range": [
+      "pump leaks"
+    ],
+    "repair_actions": [
+      "Remove old seal and inspect for wear",
+      "Install new seal and tighten to 25μF"
+    ],
+    "embedding_text": "SPECIFICATION\nCOMPONENT: Mechanical Seal\nTYPE: capacitor_rating\nVALUE: 25 µF\n\nFAILS IF:\n- pump leaks\n\nREPAIR:\n- Remove old seal and inspect for wear\n- Install new seal and tighten to 25μF\n",
+    "parameter": "capacitor_rating",
+    "page": "**QB Series**",
+    "if_out_of_range": [
+      "pump leaks"
+    ],
+    "component_id": "mechanical_seal_1301ac"
+  },
+  {
+    "component": "Capacitor",
+    "spec_type": "voltage",
+    "value": "230",
+    "unit": "V",
+    "acceptable_range": "",
+    "source_page": "**QB Series**",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "failure_if_out_of_range": [
+      "pump does not start"
+    ],
+    "repair_actions": [
+      "Measure capacitor voltage",
+      "Replace capacitor with P/N 67890"
+    ],
+    "embedding_text": "SPECIFICATION\nCOMPONENT: Capacitor\nTYPE: voltage\nVALUE: 230 V\n\nFAILS IF:\n- pump does not start\n\nREPAIR:\n- Measure capacitor voltage\n- Replace capacitor with P/N 67890\n",
+    "parameter": "voltage",
+    "page": "**QB Series**",
+    "if_out_of_range": [
+      "pump does not start"
+    ],
+    "component_id": "capacitor_e271ca"
+  },
+  {
+    "component": "Capacitor",
+    "spec_type": "voltage",
+    "value": "12",
+    "unit": "V",
+    "acceptable_range": "",
+    "source_page": "**PW-Z Series**",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "failure_if_out_of_range": [
+      "pump not turning on"
+    ],
+    "repair_actions": [
+      "Check capacitor voltage",
+      "Replace capacitor and reassemble system"
+    ],
+    "embedding_text": "SPECIFICATION\nCOMPONENT: Capacitor\nTYPE: voltage\nVALUE: 12 V\n\nFAILS IF:\n- pump not turning on\n\nREPAIR:\n- Check capacitor voltage\n- Replace capacitor and reassemble system\n",
+    "parameter": "voltage",
+    "page": "**PW-Z Series**",
+    "if_out_of_range": [
+      "pump not turning on"
+    ],
+    "component_id": "capacitor_e271ca"
+  },
+  {
+    "component": "Flow Switch Subline Capacitor",
+    "spec_type": "capacitor_rating",
+    "value": "25",
+    "unit": "µF",
+    "acceptable_range": "",
+    "source_page": "**V. Wiring Schematic Diagram of the Electric Pump**",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "failure_if_out_of_range": [
+      "Motor hums but does not rotate"
+    ],
+    "repair_actions": [
+      "Measure capacitor value (25μF ±10%)",
+      "Check for short circuit"
+    ],
+    "embedding_text": "SPECIFICATION\nCOMPONENT: Flow Switch Subline Capacitor\nTYPE: capacitor_rating\nVALUE: 25 µF\n\nFAILS IF:\n- Motor hums but does not rotate\n\nREPAIR:\n- Measure capacitor value (25μF ±10%)\n- Check for short circuit\n",
+    "parameter": "capacitor_rating",
+    "page": "**V. Wiring Schematic Diagram of the Electric Pump**",
+    "if_out_of_range": [
+      "Motor hums but does not rotate"
+    ],
+    "component_id": "flow_switch_51144d"
+  },
+  {
+    "component": "Shaft Seal",
+    "spec_type": "clearance",
+    "value": "0.05",
+    "unit": "mm",
+    "acceptable_range": "",
+    "source_page": "**VI. Installation Schematic Diagram**",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "failure_if_out_of_range": [
+      "Seal leak",
+      "Water leakage"
+    ],
+    "repair_actions": [
+      "Check the shaft seal for proper installation, ensuring a clearance of 0.05 mm."
+    ],
+    "embedding_text": "SPECIFICATION\nCOMPONENT: Shaft Seal\nTYPE: clearance\nVALUE: 0.05 mm\n\nFAILS IF:\n- Seal leak\n- Water leakage\n\nREPAIR:\n- Check the shaft seal for proper installation, ensuring a clearance of 0.05 mm.\n",
+    "parameter": "clearance",
+    "page": "**VI. Installation Schematic Diagram**",
+    "if_out_of_range": [
+      "Seal leak",
+      "Water leakage"
+    ],
+    "component_id": "shaft_seal_e7d67f"
+  },
+  {
+    "component": "Motor",
+    "spec_type": "voltage",
+    "value": "230",
+    "unit": "V",
+    "acceptable_range": "",
+    "source_page": "**VI. Installation Schematic Diagram**",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "failure_if_out_of_range": [
+      "Motor hums",
+      "Reverse rotation"
+    ],
+    "repair_actions": [
+      "Check the motor wiring for correct polarity, ensuring a voltage of 230V."
+    ],
+    "embedding_text": "SPECIFICATION\nCOMPONENT: Motor\nTYPE: voltage\nVALUE: 230 V\n\nFAILS IF:\n- Motor hums\n- Reverse rotation\n\nREPAIR:\n- Check the motor wiring for correct polarity, ensuring a voltage of 230V.\n",
+    "parameter": "voltage",
+    "page": "**VI. Installation Schematic Diagram**",
+    "if_out_of_range": [
+      "Motor hums",
+      "Reverse rotation"
+    ],
+    "component_id": "motor_594171"
+  }
+]

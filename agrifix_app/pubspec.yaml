@@ -1,0 +1,81 @@
+name: agrifix_app
+description: "AI-powered agricultural machinery repair assistant"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # ── Localisation ────────────────────────────────────────────────────────
+  # flutter_localizations + intl must always appear together.
+  # intl is required as a companion package whenever flutter_localizations
+  # is used; removing it breaks l10n code generation (generate: true).
+  flutter_localizations:
+    sdk: flutter
+  intl: 0.20.2
+
+  # ── UI ──────────────────────────────────────────────────────────────────
+  google_fonts: ^6.2.1         # GoogleFonts.inter() used on every screen
+  flutter_animate: ^4.5.0      # entrance/shimmer animations throughout the app
+
+  # ── Navigation ──────────────────────────────────────────────────────────
+  go_router: ^14.2.7            # all screen routing
+
+  # ── State ───────────────────────────────────────────────────────────────
+  provider: ^6.1.2              # DiagnosisProvider, LanguageProvider
+
+  # ── Network ─────────────────────────────────────────────────────────────
+  http: ^1.2.1                  # ApiService — all backend calls
+
+  # ── Storage ─────────────────────────────────────────────────────────────
+  shared_preferences: ^2.3.1   # language + settings persistence
+
+  # ── Media ───────────────────────────────────────────────────────────────
+  # video_thumbnail: frame extraction at correct millisecond positions
+  # (replaces video_compress which ignored the `position` param on Android)
+  video_thumbnail: ^0.5.3
+  video_player: ^2.9.1          # inline video playback on upload screen
+  image_picker: ^1.1.2          # gallery / camera picker
+  record: ^6.2.0                # audio recording (m4a) in upload screen
+  flutter_tts: ^4.2.0           # AR guide screen voice narration
+
+  # ── Camera ──────────────────────────────────────────────────────────────
+  # camera: AR live preview + frame capture for /locate_part calls.
+  # Requires minSdkVersion 21 (already set in android/app/build.gradle).
+  # veryHigh resolution used to give Gemini Vision enough pixels to
+  # distinguish small machine parts.
+  camera: ^0.11.0+2
+
+  # ── Permissions ─────────────────────────────────────────────────────────
+  permission_handler: ^11.3.1  # camera + microphone runtime permissions
+
+  # ── Utilities ───────────────────────────────────────────────────────────
+  path_provider: ^2.1.4        # temp directory for thumbnails + recordings
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.4.0
+
+flutter:
+  generate: true
+  uses-material-design: true
+  assets:
+    - assets/videos/
+    - assets/images/app_icon.png
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/app_icon.png"
+  min_sdk_size: 21
+
+flutter_native_splash:
+  color: "#FFFFFF"
+  image: "assets/images/app_icon.png"
+  android_12:
+    image: "assets/images/app_icon.png"
+    color: "#FFFFFF"

@@ -1,0 +1,447 @@
+[
+  {
+    "symptom": "PTO Drive Shaft Guard issues",
+    "machine_family": "Water Pump",
+    "component": "PTO Drive Shaft Guard",
+    "branches": [
+      {
+        "question": "Do guard tubes separate at longest working length?",
+        "yes_next": "Adjust shaft length or replace guard",
+        "no_next": "Check shortest length"
+      },
+      {
+        "question": "Do guard tubes bottom out at shortest length?",
+        "yes_next": "Adjust shaft length",
+        "no_next": "Proceed to lubrication check"
+      }
+    ],
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**PTO DRIVE SHAFT GUARDS**",
+    "embedding_text": "PTO Drive Shaft Guard issues PTO Drive Shaft Guard Do guard tubes separate at longest working length? Do guard tubes bottom out at shortest length?"
+  },
+  {
+    "symptom": "Gearbox maintenance check",
+    "machine_family": "Water Pump",
+    "component": "Gearbox",
+    "branches": [
+      {
+        "question": "Is the machine standing level?",
+        "yes_next": "Proceed to check oil levels",
+        "no_next": "Level the machine before checking"
+      }
+    ],
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**Lubrication & General**",
+    "embedding_text": "Gearbox maintenance check Gearbox Is the machine standing level?"
+  },
+  {
+    "symptom": "PTO shaft length safety",
+    "machine_family": "Water Pump",
+    "component": "PTO Drive Shaft",
+    "branches": [
+      {
+        "question": "Is there at least 150 mm (6 inches) of engagement between male and female PTO tubes?",
+        "yes_next": "Shaft length is safe for operation.",
+        "no_next": "Adjust tractor position or PTO shaft length immediately."
+      }
+    ],
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**Attaching the Rotavator to the tractor**",
+    "embedding_text": "PTO shaft length safety PTO Drive Shaft Is there at least 150 mm (6 inches) of engagement between male and female PTO tubes?"
+  },
+  {
+    "symptom": "PTO shaft angle adjustment",
+    "machine_family": "Rotavator",
+    "component": "PTO Drive Shaft",
+    "branches": [
+      {
+        "question": "Can the 40º maximum angle be maintained with current tractor settings?",
+        "yes_next": "Proceed with operation",
+        "no_next": "Seek advice"
+      }
+    ],
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**ROTAVATOR  310 / 320**",
+    "embedding_text": "PTO shaft angle adjustment PTO Drive Shaft Can the 40º maximum angle be maintained with current tractor settings?"
+  },
+  {
+    "symptom": "Reduced pump efficiency",
+    "machine_family": "Water Pump",
+    "component": "Impeller Blades",
+    "branches": [
+      {
+        "question": "Are blades bent, worn, or broken?",
+        "yes_next": "Replace with genuine HOWARD BOLT ASSEMBLIES",
+        "no_next": "Check other system components"
+      }
+    ],
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**ROTORS**",
+    "embedding_text": "Reduced pump efficiency Impeller Blades Are blades bent, worn, or broken?"
+  },
+  {
+    "symptom": "Excessive vibration during operation",
+    "machine_family": "Rotary Tiller",
+    "component": "Blade Assembly",
+    "branches": [
+      {
+        "question": "Are blades installed in a scroll pattern?",
+        "yes_next": "Check bolt torque",
+        "no_next": "Re-install blades to correct scroll pattern"
+      }
+    ],
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**Blading standard rotors**",
+    "embedding_text": "Excessive vibration during operation Blade Assembly Are blades installed in a scroll pattern?"
+  },
+  {
+    "symptom": "Blade vibration or detachment",
+    "machine_family": "Agricultural Equipment",
+    "component": "Blade bolt",
+    "branches": [
+      {
+        "question": "Is the bolt torqued to 200 Nm?",
+        "yes_next": "Inspect for bolt fatigue or incorrect tensile strength",
+        "no_next": "Tighten to 200 Nm"
+      }
+    ],
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**ROTAVATOR  310 / 320**",
+    "embedding_text": "Blade vibration or detachment Blade bolt Is the bolt torqued to 200 Nm?"
+  },
+  {
+    "symptom": "Machine vibration",
+    "machine_family": "Electric Motor",
+    "component": "Fasteners",
+    "branches": [
+      {
+        "question": "Are all bolts tightened to the class-specific torque?",
+        "yes_next": "Check internal components for wear",
+        "no_next": "Tighten to Section 12.9 specifications"
+      }
+    ],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**Section 11 Adjustment**",
+    "embedding_text": "Machine vibration Fasteners Are all bolts tightened to the class-specific torque?"
+  },
+  {
+    "symptom": "Rotor fails to rotate or vibrates heavily",
+    "machine_family": "Water Pump",
+    "component": "Rotor Axis / Transmission",
+    "branches": [
+      {
+        "question": "Is the Cardan (6) properly connected?",
+        "yes_next": "Check Rotor Axis (14) alignment",
+        "no_next": "Reconnect and secure Cardan"
+      },
+      {
+        "question": "Are the Hook Supports (1, 8) tight?",
+        "yes_next": "Inspect internal transmission gears",
+        "no_next": "Tighten supports to specification"
+      }
+    ],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**MAIN PARTS OF THE MACHINE** SHAKTIMAN SERIES SRT-1",
+    "embedding_text": "Rotor fails to rotate or vibrates heavily Rotor Axis / Transmission Is the Cardan (6) properly connected? Are the Hook Supports (1, 8) tight?"
+  },
+  {
+    "symptom": "Machine movement during maintenance",
+    "machine_family": "Electric Motor",
+    "component": "Stabilization",
+    "branches": [
+      {
+        "question": "Is the machine on a level surface?",
+        "yes_next": "Check parking brake",
+        "no_next": "Move to level surface"
+      },
+      {
+        "question": "Is the parking brake engaged?",
+        "yes_next": "Check wheel chocks",
+        "no_next": "Engage parking brake"
+      }
+    ],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**3.9 Safe operation of the machine.**",
+    "embedding_text": "Machine movement during maintenance Stabilization Is the machine on a level surface? Is the parking brake engaged?"
+  },
+  {
+    "symptom": "Unstable steering or front end lift",
+    "machine_family": "Tractor",
+    "component": "Front Ballast",
+    "branches": [
+      {
+        "question": "Is front axle weight at least 20% of total tractor/implement weight?",
+        "yes_next": "Check tire pressure and steering linkage",
+        "no_next": "Add front weights or ballast"
+      }
+    ],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**CAUTION: the counterweight or front ballast may not be able to maintain the stability of the tractor if it It is driven at high speed on rough terrain with the implement raised. Drive slowly and carefully under those conditions.**",
+    "embedding_text": "Unstable steering or front end lift Front Ballast Is front axle weight at least 20% of total tractor/implement weight?"
+  },
+  {
+    "symptom": "Poor cutting performance or vibration",
+    "machine_family": "Agricultural Equipment",
+    "component": "Cutting Blades",
+    "branches": [
+      {
+        "question": "Are screw heads on the blade side?",
+        "yes_next": "Check blade orientation",
+        "no_next": "Reassemble screws with heads on blade side"
+      },
+      {
+        "question": "Are left blades on the right side of the flange?",
+        "yes_next": "Check hole spacing",
+        "no_next": "Re-install blades to correct side"
+      }
+    ],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**6.1 Assembly of the blades**",
+    "embedding_text": "Poor cutting performance or vibration Cutting Blades Are screw heads on the blade side? Are left blades on the right side of the flange?"
+  },
+  {
+    "symptom": "Drive system failure",
+    "machine_family": "Water Pump",
+    "component": "Tensor Arm",
+    "branches": [
+      {
+        "question": "Is fastener (C) tight?",
+        "yes_next": "Check belt condition",
+        "no_next": "Tighten fastener (C)"
+      }
+    ],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**6.2 Assembly of the back cover**",
+    "embedding_text": "Drive system failure Tensor Arm Is fastener (C) tight?"
+  },
+  {
+    "symptom": "Rear cover assembly failure",
+    "machine_family": "Rototiller",
+    "component": "Rear Cover",
+    "branches": [
+      {
+        "question": "Does rod (B) slide through hinge holes?",
+        "yes_next": "Assembly correct",
+        "no_next": "Realign cover (A) to chassis"
+      }
+    ],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**Follow the following instructions:**",
+    "embedding_text": "Rear cover assembly failure Rear Cover Does rod (B) slide through hinge holes?"
+  },
+  {
+    "symptom": "Machine not performing correctly",
+    "machine_family": "Rototiller",
+    "component": "General Assembly",
+    "branches": [
+      {
+        "question": "Are all fasteners tight?",
+        "yes_next": "Check lubrication levels",
+        "no_next": "Tighten all fasteners to torque table specs"
+      },
+      {
+        "question": "Is lubrication at the correct level?",
+        "yes_next": "Inspect for worn parts",
+        "no_next": "Top up lubricant"
+      }
+    ],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "SECTION 7 PREPARATION OF THE IMPLEMENT",
+    "embedding_text": "Machine not performing correctly General Assembly Are all fasteners tight? Is lubrication at the correct level?"
+  },
+  {
+    "symptom": "Excessive vibration during operation",
+    "machine_family": "Water Pump",
+    "component": "Driveshaft",
+    "branches": [
+      {
+        "question": "Is the gimbal angle greater than 15 degrees?",
+        "yes_next": "Adjust hitch height or implement position.",
+        "no_next": "Check driveshaft length and locking pin security."
+      }
+    ],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**8.3 Hook of the кардан**",
+    "embedding_text": "Excessive vibration during operation Driveshaft Is the gimbal angle greater than 15 degrees?"
+  },
+  {
+    "symptom": "Driveshaft operational failure",
+    "machine_family": "Agricultural Equipment",
+    "component": "Drive Shaft",
+    "branches": [
+      {
+        "question": "Is the protective cover installed?",
+        "yes_next": "Proceed to length check",
+        "no_next": "Install protective cover immediately"
+      },
+      {
+        "question": "Is the shaft length adapted to the tractor?",
+        "yes_next": "Operation safe",
+        "no_next": "Measure and cut shaft to length"
+      }
+    ],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**IMPORTANT:**",
+    "embedding_text": "Driveshaft operational failure Drive Shaft Is the protective cover installed? Is the shaft length adapted to the tractor?"
+  },
+  {
+    "symptom": "Driveshaft installation check",
+    "machine_family": "Water Pump",
+    "component": "Cardan driveshaft",
+    "branches": [
+      {
+        "question": "Is minimum clearance at shortest distance A at least 3 cm?",
+        "yes_next": "Proceed to check overlap",
+        "no_next": "Cut driveshaft tubes on both sides"
+      },
+      {
+        "question": "Is minimum overlap at maximum distance B at least 10 cm?",
+        "yes_next": "Driveshaft is ready for use",
+        "no_next": "Driveshaft is too short; do not use"
+      }
+    ],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "Distancia",
+    "embedding_text": "Driveshaft installation check Cardan driveshaft Is minimum clearance at shortest distance A at least 3 cm? Is minimum overlap at maximum distance B at least 10 cm?"
+  },
+  {
+    "symptom": "Pump fails to move fluid despite motor running",
+    "machine_family": "Water Pump",
+    "component": "fusible screw",
+    "branches": [
+      {
+        "question": "Is the fusible screw fractured?",
+        "yes_next": "Replace screw with identical material and size",
+        "no_next": "Check for other mechanical obstructions or motor failure"
+      }
+    ],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**8.6 Cardan with safety limiter (Fuse screw)**",
+    "embedding_text": "Pump fails to move fluid despite motor running fusible screw Is the fusible screw fractured?"
+  },
+  {
+    "symptom": "Rototiller not performing optimally",
+    "machine_family": "Rototiller",
+    "component": "Operational settings",
+    "branches": [
+      {
+        "question": "Is tractor speed below 3 km/h?",
+        "yes_next": "Check rear cover adjustment",
+        "no_next": "Reduce tractor speed to 2-3 km/h"
+      },
+      {
+        "question": "Is PTO speed set to 540/1000 RPM?",
+        "yes_next": "Proceed to operation",
+        "no_next": "Adjust engine speed to match PTO requirement"
+      }
+    ],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**10.4 Commissioning**",
+    "embedding_text": "Rototiller not performing optimally Operational settings Is tractor speed below 3 km/h? Is PTO speed set to 540/1000 RPM?"
+  },
+  {
+    "symptom": "Pump vibration",
+    "machine_family": "Water Pump",
+    "component": "Rotor Blade",
+    "branches": [
+      {
+        "question": "Were multiple blades replaced at once?",
+        "yes_next": "Check blade alignment against original rotor marks.",
+        "no_next": "Inspect individual blade for damage or loose mounting."
+      }
+    ],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**NOTE: Check the wear and condition of the rotor blades daily. If the blade accidentally bends or if it breaks during work, it must be replaced immediately.**",
+    "embedding_text": "Pump vibration Rotor Blade Were multiple blades replaced at once?"
+  },
+  {
+    "symptom": "Tiller depth is incorrect",
+    "machine_family": "Rototiller",
+    "component": "Skate",
+    "branches": [
+      {
+        "question": "Are bolts (A) tight?",
+        "yes_next": "Check if adjustment screws (B) are in the correct hole for desired depth.",
+        "no_next": "Tighten bolts (A) and verify depth setting."
+      }
+    ],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**IMPORTANT: Make sure both skates are adjusted to the same depth.**",
+    "embedding_text": "Tiller depth is incorrect Skate Are bolts (A) tight?"
+  },
+  {
+    "symptom": "Grease fitting does not accept grease",
+    "machine_family": "Water Pump",
+    "component": "Grease Fitting",
+    "branches": [
+      {
+        "question": "Does the new grease fitting accept grease?",
+        "yes_next": "Lubrication successful",
+        "no_next": "Remove fitting and check for failures in adjacent parts"
+      }
+    ],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**CAUTION: Do not clean, lubricate, or adjust the machine while it is in motion.**",
+    "embedding_text": "Grease fitting does not accept grease Grease Fitting Does the new grease fitting accept grease?"
+  },
+  {
+    "symptom": "Drive shaft lubrication",
+    "machine_family": "Water Pump",
+    "component": "Drive Shaft",
+    "branches": [
+      {
+        "question": "Does grease exit all four cups during application?",
+        "yes_next": "Lubrication complete",
+        "no_next": "Check for blocked grease nipple or internal obstruction"
+      }
+    ],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**Daily or every 8 hours of work:**",
+    "embedding_text": "Drive shaft lubrication Drive Shaft Does grease exit all four cups during application?"
+  },
+  {
+    "symptom": "Gearbox oil level check",
+    "machine_family": "Water Pump",
+    "component": "Gearbox",
+    "branches": [
+      {
+        "question": "Does oil flow outwards when the level plug is unscrewed?",
+        "yes_next": "Oil level is sufficient",
+        "no_next": "Add oil through the filling plug until it flows from the level plug"
+      }
+    ],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**Weekly or every 50 hours of work**",
+    "embedding_text": "Gearbox oil level check Gearbox Does oil flow outwards when the level plug is unscrewed?"
+  },
+  {
+    "symptom": "Transmission oil level check",
+    "machine_family": "Water Pump",
+    "component": "Transmission",
+    "branches": [
+      {
+        "question": "Does oil reach the level of the plug hole (B)?",
+        "yes_next": "Oil level is sufficient; tighten plug (B).",
+        "no_next": "Fill via breather plug (A) until oil flows out of level plug (B)."
+      }
+    ],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**12.6Side Transmission**",
+    "embedding_text": "Transmission oil level check Transmission Does oil reach the level of the plug hole (B)?"
+  },
+  {
+    "symptom": "Pump vibration or noise",
+    "machine_family": "Water Pump",
+    "component": "Blade",
+    "branches": [
+      {
+        "question": "Is the blade orientation correct?",
+        "yes_next": "Check torque on fastening nuts.",
+        "no_next": "Re-install blade in correct orientation."
+      }
+    ],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**IMPORTANT: Always install the blades with the cut in the direction of the axis rotation. When ordering the spare blades, be sure to order both sides.**",
+    "embedding_text": "Pump vibration or noise Blade Is the blade orientation correct?"
+  }
+]

@@ -1,0 +1,1923 @@
+[
+  {
+    "component": "Tiller Blade",
+    "component_id": "tiller_blade_f3d103",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nTiller Blade\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "tiller shaft",
+      "tiller blade mounting system"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "10_page_power_Tiller_Manual.pdf",
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Tiller blade does not rotate",
+      "machine tilts when farming"
+    ],
+    "related_specs": [],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Ignition Coil",
+    "component_id": "ignition_coil_061ff9",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nIgnition Coil\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "ignition module"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "10_page_power_Tiller_Manual.pdf"
+    ],
+    "related_faults": [
+      "Power tiller will not start"
+    ],
+    "related_specs": [],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Hydraulic Pump",
+    "component_id": "hydraulic_pump_94eea3",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nHydraulic Pump\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "tiller cylinder"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "10_page_power_Tiller_Manual.pdf"
+    ],
+    "related_faults": [
+      "Tiller does not move"
+    ],
+    "related_specs": [],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Primary Filter",
+    "component_id": "primary_filter_f7b96d",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nPrimary Filter\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "engine cylinders"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "10_page_power_Tiller_Manual.pdf"
+    ],
+    "related_faults": [
+      "Engine sputters and loses power"
+    ],
+    "related_specs": [],
+    "machine_family": "Rotavator"
+  },
+  {
+    "component": "Hand Clutch",
+    "component_id": "hand_clutch_b5c0ef",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nHand Clutch\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "transmission gears"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "10_page_power_Tiller_Manual.pdf"
+    ],
+    "related_faults": [
+      "Engine does not engage with transmission gears"
+    ],
+    "related_specs": [],
+    "machine_family": "Rotavator"
+  },
+  {
+    "component": "Clutch-Brake Handle",
+    "component_id": "clutchbrake_handle_6cab8d",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nClutch-Brake Handle\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "speed-changing lever, throttle"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "10_page_power_Tiller_Manual.pdf"
+    ],
+    "related_faults": [
+      "Clutch-brake handle does not disengage"
+    ],
+    "related_specs": [],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Speed-Changing Lever",
+    "component_id": "speedchanging_lever_2f6d0f",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nSpeed-Changing Lever\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "clutch-brake handle, throttle"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "10_page_power_Tiller_Manual.pdf"
+    ],
+    "related_faults": [
+      "Speed-changing lever does not shift to neutral"
+    ],
+    "related_specs": [],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Throttle",
+    "component_id": "throttle_1cb60f",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nThrottle\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "clutch-brake handle, speed-changing lever"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "10_page_power_Tiller_Manual.pdf"
+    ],
+    "related_faults": [
+      "Throttle does not respond"
+    ],
+    "related_specs": [],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Steering Hand Grip",
+    "component_id": "steering_hand_aab612",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nSteering Hand Grip\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "handlebars",
+      "pedals of the wheel"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "10_page_power_Tiller_Manual.pdf"
+    ],
+    "related_faults": [
+      "Steering is affected on flat road"
+    ],
+    "related_specs": [],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Handlebars",
+    "component_id": "handlebars_b644d7",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nHandlebars\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "steering hand grip",
+      "pedals of the wheel"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "10_page_power_Tiller_Manual.pdf"
+    ],
+    "related_faults": [
+      "Steering is affected on steep slope"
+    ],
+    "related_specs": [],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Pedals Of The Wheel",
+    "component_id": "pedals_of_6edc3a",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nPedals Of The Wheel\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "steering hand grip",
+      "handlebars"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "10_page_power_Tiller_Manual.pdf"
+    ],
+    "related_faults": [
+      "Steering is affected on flat road"
+    ],
+    "related_specs": [],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Power Tiller",
+    "component_id": "power_tiller_3c67a3",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nPower Tiller\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "steering hand grip",
+      "handlebars",
+      "pedals of the wheel"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "10_page_power_Tiller_Manual.pdf"
+    ],
+    "related_faults": [
+      "Operating at high speed"
+    ],
+    "related_specs": [],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Clutch",
+    "component_id": "clutch_22275a",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nClutch\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "transmission",
+      "gearbox",
+      "gear box",
+      "clutch fork",
+      "friction piece",
+      "diesel engine",
+      "gear box main shaft",
+      "positioning gear",
+      "pushing plate"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "10_page_power_Tiller_Manual.pdf",
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Clutch engages but does not disengage",
+      "Clutch failure",
+      "Clutch does not engage",
+      "Clutch may not perform as well as before",
+      "Clutch fails to work",
+      "Clutch handle failure",
+      "Clutch cable damage",
+      "Clutch fork can not be in the right position",
+      "Welding points breaking off"
+    ],
+    "related_specs": [
+      "Clutch adjustment is 3.5mm"
+    ],
+    "machine_family": "Rotavator"
+  },
+  {
+    "component": "Spark Plug",
+    "component_id": "spark_plug_2c738e",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nSpark Plug\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "engine"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "10_page_power_Tiller_Manual.pdf"
+    ],
+    "related_faults": [
+      "Engine does not start"
+    ],
+    "related_specs": [],
+    "machine_family": "Rotavator"
+  },
+  {
+    "component": "Tiller Transmission",
+    "component_id": "tiller_transmission_d889ee",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nTiller Transmission\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "engine",
+      "tines"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "10_page_power_Tiller_Manual.pdf"
+    ],
+    "related_faults": [
+      "Wheels turning but tines not turning",
+      "Tines turning but wheels not turning",
+      "not turning"
+    ],
+    "related_specs": [],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Carburetor",
+    "component_id": "carburetor_e6d299",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nCarburetor\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "engine",
+      "fuel line"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "10_page_power_Tiller_Manual.pdf"
+    ],
+    "related_faults": [
+      "Engine not starting at all",
+      "Engine starting but then stopping after just a few seconds"
+    ],
+    "related_specs": [],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Decompression Device",
+    "component_id": "decompression_device_8c0b33",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nDecompression Device\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "engine"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "10_page_power_Tiller_Manual.pdf"
+    ],
+    "related_faults": [
+      "Decompression device failure"
+    ],
+    "related_specs": [],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Fuel System",
+    "component_id": "fuel_system_c71de4",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nFuel System\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "engine"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "10_page_power_Tiller_Manual.pdf"
+    ],
+    "related_faults": [
+      "The fuel system develops troubles"
+    ],
+    "related_specs": [],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Cylinder Head Gasket",
+    "component_id": "cylinder_head_5cd6b8",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nCylinder Head Gasket\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "engine"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "10_page_power_Tiller_Manual.pdf"
+    ],
+    "related_faults": [
+      "Compression pressure in the cylinder is insufficient"
+    ],
+    "related_specs": [],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Piston Rings",
+    "component_id": "piston_rings_b292ed",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nPiston Rings\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "engine"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "10_page_power_Tiller_Manual.pdf"
+    ],
+    "related_faults": [
+      "Compression pressure in the cylinder is insufficient"
+    ],
+    "related_specs": [],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Air Filter",
+    "component_id": "air_filter_74d1b9",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nAir Filter\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "engine"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "10_page_power_Tiller_Manual.pdf"
+    ],
+    "related_faults": [
+      "Air filter choked up"
+    ],
+    "related_specs": [],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Governor Spring",
+    "component_id": "governor_spring_c5d12f",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nGovernor Spring\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "engine"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "10_page_power_Tiller_Manual.pdf"
+    ],
+    "related_faults": [
+      "Engine speed is too low"
+    ],
+    "related_specs": [],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Tines",
+    "component_id": "tines_52eca5",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nTines\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "rotavator frame"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "10_page_power_Tiller_Manual.pdf"
+    ],
+    "related_faults": [
+      "tines jarring up or becoming rusted"
+    ],
+    "related_specs": [],
+    "machine_family": "Rotavator"
+  },
+  {
+    "component": "Fuel Filter",
+    "component_id": "fuel_filter_7ae732",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nFuel Filter\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "fuel tank",
+      "engine"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "10_page_power_Tiller_Manual.pdf",
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "engine performance decreases",
+      "Engine stalls"
+    ],
+    "related_specs": [],
+    "machine_family": "Rotavator"
+  },
+  {
+    "component": "Gearbox",
+    "component_id": "gearbox_61a729",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nGearbox\n\nCONNECTED TO:\n- None\n",
+    "aliases": [
+      "gear box"
+    ],
+    "connected_to": [
+      "transmission",
+      "engine",
+      "diesel engine crankcase"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "machine shakes violently",
+      "Gear box leaks oil"
+    ],
+    "related_specs": [],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Battery",
+    "component_id": "battery_20c1d1",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nBattery\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "starter motor",
+      "alternator",
+      "diesel engine"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "machine does not start",
+      "motor hums"
+    ],
+    "related_specs": [
+      "12.5V"
+    ],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Capacitor",
+    "component_id": "capacitor_e271ca",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nCapacitor\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "motor"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Motor hums"
+    ],
+    "related_specs": [
+      "Capacitor value is 25μF"
+    ],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Alternator",
+    "component_id": "alternator_da9c10",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nAlternator\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "battery, starter motor"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Motor hums but does not rotate"
+    ],
+    "related_specs": [],
+    "machine_family": "Tractor"
+  },
+  {
+    "component": "Shift Bar",
+    "component_id": "shift_bar_69b46e",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nShift Bar\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "rotary blades"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Shift bar does not move to neutral position"
+    ],
+    "related_specs": [],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Engine",
+    "component_id": "engine_ad1943",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nEngine\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "engine block"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Abnormal shaking of the machine"
+    ],
+    "related_specs": [],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Bolts",
+    "component_id": "bolts_af996f",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nBolts\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "engine",
+      "engine block"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Machine does not start",
+      "Bolts loosen during operation"
+    ],
+    "related_specs": [],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Gear Transmission",
+    "component_id": "gear_transmission_776822",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nGear Transmission\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "engine, transmission"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Blades do not rotate"
+    ],
+    "related_specs": [],
+    "machine_family": "Rotavator"
+  },
+  {
+    "component": "Speeder Rod",
+    "component_id": "speeder_rod_531225",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nSpeeder Rod\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "transmission assembly"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "vibration",
+      "noise"
+    ],
+    "related_specs": [
+      "19.5 inches"
+    ],
+    "machine_family": "Rotavator"
+  },
+  {
+    "component": "M8*55 Screw Bolts",
+    "component_id": "m855_screw_d3e92f",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nM8*55 Screw Bolts\n\nCONNECTED TO:\n- None\n",
+    "aliases": [
+      "m8*55 bolt"
+    ],
+    "connected_to": [
+      "output shaft",
+      "revolving farming device",
+      "step box hexagonal shaft",
+      "tilling blades"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "revolving farming device not properly aligned",
+      "loose or misaligned revolving farming device",
+      "unsafe assembly",
+      "loose blades"
+    ],
+    "related_specs": [
+      "The M8*55 screw bolts are tightened to 55 Nm.",
+      "Bolt torque value is 55 Nm"
+    ],
+    "machine_family": "Rotavator"
+  },
+  {
+    "component": "Shaft",
+    "component_id": "shaft_b95ff8",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nShaft\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "coupling",
+      "motor"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "vibration",
+      "noise"
+    ],
+    "related_specs": [
+      "Shaft and coupling aligned within 0.1mm."
+    ],
+    "machine_family": "Rotavator"
+  },
+  {
+    "component": "Motor",
+    "component_id": "motor_594171",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nMotor\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "shaft",
+      "coupling"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "motor hums",
+      "reverse rotation"
+    ],
+    "related_specs": [
+      "Wiring with 25μF capacitor."
+    ],
+    "machine_family": "Rotavator"
+  },
+  {
+    "component": "Ditcher",
+    "component_id": "ditcher_a1e2f5",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nDitcher\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "ditching system"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Ditcher does not adjust to proper width and height"
+    ],
+    "related_specs": [],
+    "machine_family": "Tractor"
+  },
+  {
+    "component": "Transmission Shaft",
+    "component_id": "transmission_shaft_83378e",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nTransmission Shaft\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "wagon box forearm",
+      "wheels"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "machine can do the transportation job"
+    ],
+    "related_specs": [],
+    "machine_family": "Rotavator"
+  },
+  {
+    "component": "Gear-Box",
+    "component_id": "gearbox_61a729",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nGear-Box\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "main shaft",
+      "belt pulley or coupling"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "vibration",
+      "noise"
+    ],
+    "related_specs": [
+      "10 bolts are securely fastened.",
+      "The belt pulley or coupling is properly aligned."
+    ],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Belt Pulley Or Coupling",
+    "component_id": "belt_pulley_c495eb",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nBelt Pulley Or Coupling\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "gear-box's main shaft"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "vibration",
+      "noise"
+    ],
+    "related_specs": [
+      "The belt pulley or coupling is properly aligned."
+    ],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Hexagonal Axle",
+    "component_id": "hexagonal_axle_ee74c1",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nHexagonal Axle\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "step box axle hole"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Machine does not move"
+    ],
+    "related_specs": [],
+    "machine_family": "Rotavator"
+  },
+  {
+    "component": "Wheels",
+    "component_id": "wheels_f13863",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nWheels\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "hexagonal axle ends"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "vibration",
+      "noise"
+    ],
+    "related_specs": [
+      "Bolts tightened to 55 Nm"
+    ],
+    "machine_family": "Rotavator"
+  },
+  {
+    "component": "Connecting Frame",
+    "component_id": "connecting_frame_3e26a5",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nConnecting Frame\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "trailer"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "vibration",
+      "noise"
+    ],
+    "related_specs": [
+      "Bolts tightened to 55 Nm"
+    ],
+    "machine_family": "Rotavator"
+  },
+  {
+    "component": "Armrest",
+    "component_id": "armrest_a66e16",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nArmrest\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "armrest connection piece"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "vibration",
+      "noise"
+    ],
+    "related_specs": [
+      "Bolt tightened to 140 Nm"
+    ],
+    "machine_family": "Rotavator"
+  },
+  {
+    "component": "Shift Lever",
+    "component_id": "shift_lever_0f8348",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nShift Lever\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "support block of the shift arm"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "vibration",
+      "noise"
+    ],
+    "related_specs": [
+      "Pin tightened to 26 Nm"
+    ],
+    "machine_family": "Rotavator"
+  },
+  {
+    "component": "Clutch Cable",
+    "component_id": "clutch_cable_9d7b70",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nClutch Cable\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "clutch fork arm seat",
+      "clutch cable seat",
+      "clutch"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Clutch handle cannot reset",
+      "Clutch handle sticks",
+      "Clutch cable is not well adjusted"
+    ],
+    "related_specs": [
+      "Screw can be turned",
+      "Screw is at correct length",
+      "Cable head is seated",
+      "Steel wire is seated",
+      "Clutch handle can reset"
+    ],
+    "machine_family": "Diesel Engine"
+  },
+  {
+    "component": "Reversing Cable",
+    "component_id": "reversing_cable_4f5ef2",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nReversing Cable\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "reversing cable fork shaft",
+      "reversing cable seat"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Reversing handle cannot reset",
+      "Reversing handle sticks"
+    ],
+    "related_specs": [
+      "Screw can be turned",
+      "Screw is at correct length",
+      "Cable head is seated",
+      "Cable is seated",
+      "Reversing handle can reset"
+    ],
+    "machine_family": "Diesel Engine"
+  },
+  {
+    "component": "Throttle Cable",
+    "component_id": "throttle_cable_9ae0fe",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nThrottle Cable\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "throttle adjustment board",
+      "throttle switch"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Throttle handle cannot reset",
+      "Throttle handle sticks"
+    ],
+    "related_specs": [
+      "Throttle switch is at correct position",
+      "Steel wire is seated",
+      "Throttle cable is tightened",
+      "Throttle handle can reset"
+    ],
+    "machine_family": "Diesel Engine"
+  },
+  {
+    "component": "Connection Bolts",
+    "component_id": "connection_bolts_8f879b",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nConnection Bolts\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "flange and diesel engine",
+      "flange and gear box"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Machine vibrates",
+      "Machine makes noise"
+    ],
+    "related_specs": [
+      "Bolts are tightened",
+      "Bolts are tightened to correct torque"
+    ],
+    "machine_family": "Diesel Engine"
+  },
+  {
+    "component": "Diesel Engine",
+    "component_id": "diesel_engine_bc280e",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nDiesel Engine\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "diesel engine hums but does not rotate"
+    ],
+    "related_specs": [],
+    "machine_family": "Diesel Engine"
+  },
+  {
+    "component": "Tilling Blades",
+    "component_id": "tilling_blades_258058",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nTilling Blades\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "step box hexagonal shaft",
+      "m8*55 bolt"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "uneven tilling",
+      "blade damage"
+    ],
+    "related_specs": [
+      "Blades port is working correctly"
+    ],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Opening Width",
+    "component_id": "opening_width_85b81a",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nOpening Width\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "opener"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "inadequate opening",
+      "damage to surrounding area"
+    ],
+    "related_specs": [
+      "Opening width is between 14-40 cm"
+    ],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Opening Depth",
+    "component_id": "opening_depth_72dd8c",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nOpening Depth\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "opener"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "inadequate opening",
+      "damage to surrounding area"
+    ],
+    "related_specs": [
+      "Opening depth is between 11-25 cm"
+    ],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Sucking Depth",
+    "component_id": "sucking_depth_eee915",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nSucking Depth\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "paddy land tilling blades"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "inadequate tilling",
+      "damage to surrounding area"
+    ],
+    "related_specs": [
+      "Sucking depth is less than 25 cm"
+    ],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Rated Load",
+    "component_id": "rated_load_1e707f",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nRated Load\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "wagon box forearm"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "overloading",
+      "damage to machine"
+    ],
+    "related_specs": [
+      "Rated load is 250 kg"
+    ],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Speed",
+    "component_id": "speed_ce4ef3",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nSpeed\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "diesel engine"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "inadequate speed",
+      "damage to machine"
+    ],
+    "related_specs": [
+      "Speed is about 8km/h with fast shift"
+    ],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Air Cleaner",
+    "component_id": "air_cleaner_0e9d9f",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nAir Cleaner\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "engine"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "sponge or wire mesh dirty"
+    ],
+    "related_specs": [],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Diesel Engine Oil",
+    "component_id": "diesel_engine_a3ed4c",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nDiesel Engine Oil\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "diesel engine"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "oil levels low"
+    ],
+    "related_specs": [],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Parts",
+    "component_id": "parts_78f080",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nParts\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "engine block"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Parts wear out during operation"
+    ],
+    "related_specs": [],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Diesel Engine Crankcase",
+    "component_id": "diesel_engine_66176e",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nDiesel Engine Crankcase\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "gear box"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Diesel engine crankcase leaks oil"
+    ],
+    "related_specs": [],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Bevel Gear",
+    "component_id": "bevel_gear_2cce8e",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nBevel Gear\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "gear box",
+      "step box"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "abnormal sound"
+    ],
+    "related_specs": [
+      "lateral clearance of 0.05mm",
+      "lateral clearance of 0.05-0.1mm"
+    ],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Step Box Gear",
+    "component_id": "step_box_db9838",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nStep Box Gear\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "gear box",
+      "step box"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "abnormal sound"
+    ],
+    "related_specs": [
+      "lateral clearance of 0.05-0.15mm"
+    ],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Reversing Gears",
+    "component_id": "reversing_gears_32e0d1",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nReversing Gears\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "gear box",
+      "reversing handle"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "cannot reverse normally"
+    ],
+    "related_specs": [
+      "gear engagement checked",
+      "reversing gears return to original position"
+    ],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Accelerator Cable",
+    "component_id": "accelerator_cable_56ee96",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nAccelerator Cable\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "accelerator switch"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Diesel engine not in good performance when turning up or down the accelerator switch"
+    ],
+    "related_specs": [],
+    "machine_family": "Diesel Engine"
+  },
+  {
+    "component": "Adjustment Screw",
+    "component_id": "adjustment_screw_5e22e5",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nAdjustment Screw\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "adjustment lever"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Up and down adjustment is not working"
+    ],
+    "related_specs": [],
+    "machine_family": "Rotavator"
+  },
+  {
+    "component": "Armrest Handle Assembly",
+    "component_id": "armrest_handle_e5bee6",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nArmrest Handle Assembly\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "armrest base"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "armrest handle assembly not engaging"
+    ],
+    "related_specs": [
+      "Gear ring separated by 1-2 mm",
+      "Armrest adjusted to optimal position",
+      "Gear ring engaged with 1-2 mm clearance"
+    ],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Locknut Handle",
+    "component_id": "locknut_handle_ed4788",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nLocknut Handle\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "armrest base"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "armrest not moving left or right"
+    ],
+    "related_specs": [
+      "Locknut handle loosened by 1-2 turns",
+      "Armrest moved left or right by 1-2 cm",
+      "Locknut handle tightened by 1-2 turns"
+    ],
+    "machine_family": "Power Tiller"
+  },
+  {
+    "component": "Main Shaft",
+    "component_id": "main_shaft_d9a5f2",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nMain Shaft\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "gear box cover"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Shift failure",
+      "Main shaft is not stable and the gear box cover bolts are loosen"
+    ],
+    "related_specs": [],
+    "machine_family": "Tractor"
+  },
+  {
+    "component": "Main Shaft Positioning Spring",
+    "component_id": "main_shaft_223115",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nMain Shaft Positioning Spring\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "gear box cover"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Main shaft positioning spring failure"
+    ],
+    "related_specs": [],
+    "machine_family": "Tractor"
+  },
+  {
+    "component": "Reversing Fork",
+    "component_id": "reversing_fork_c816a1",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nReversing Fork\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "reversing pushing plate"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Reversing fork is blocked"
+    ],
+    "related_specs": [],
+    "machine_family": "Tractor"
+  },
+  {
+    "component": "Reversing Shaft",
+    "component_id": "reversing_shaft_7a5424",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nReversing Shaft\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "reversing shaft back bolts"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Reversing shaft is loosen"
+    ],
+    "related_specs": [],
+    "machine_family": "Tractor"
+  },
+  {
+    "component": "Reversing Shaft O-Ring",
+    "component_id": "reversing_shaft_4e3e39",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nReversing Shaft O-Ring\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "reversing shaft"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Reversing shaft O-ring failure"
+    ],
+    "related_specs": [],
+    "machine_family": "Tractor"
+  },
+  {
+    "component": "Gear Box Oil",
+    "component_id": "gear_box_fa8e74",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nGear Box Oil\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "gear box"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Gear box oil leakage"
+    ],
+    "related_specs": [],
+    "machine_family": "Tractor"
+  },
+  {
+    "component": "Gear",
+    "component_id": "gear_fae005",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nGear\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "gear box connection"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Too loud noise from the gear"
+    ],
+    "related_specs": [],
+    "machine_family": "Harvester"
+  },
+  {
+    "component": "Gear Box Connection",
+    "component_id": "gear_box_2e4fa8",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nGear Box Connection\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "gear box connection"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Oil leakage of the gear box connection"
+    ],
+    "related_specs": [],
+    "machine_family": "Harvester"
+  },
+  {
+    "component": "Oil Seal",
+    "component_id": "oil_seal_26e225",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nOil Seal\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "output shaft casing"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Oil leakage of the output shaft casing"
+    ],
+    "related_specs": [],
+    "machine_family": "Harvester"
+  },
+  {
+    "component": "Shaft Casing",
+    "component_id": "shaft_casing_6fcb6b",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nShaft Casing\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "shaft casing"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Serious oil leakage of the hexagonal hole in the shaft casing"
+    ],
+    "related_specs": [],
+    "machine_family": "Harvester"
+  },
+  {
+    "component": "O- Ring",
+    "component_id": "o_ring_464d3d",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nO- Ring\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "drain hole"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Oil leakage of the drain hole"
+    ],
+    "related_specs": [],
+    "machine_family": "Harvester"
+  },
+  {
+    "component": "Step Box Padding",
+    "component_id": "step_box_ccb21f",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nStep Box Padding\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "step box"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Leakage of the step box"
+    ],
+    "related_specs": [],
+    "machine_family": "Harvester"
+  },
+  {
+    "component": "Blade",
+    "component_id": "blade_2c066a",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nBlade\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "rotavator"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "blade is broken"
+    ],
+    "related_specs": [],
+    "machine_family": "Rotavator"
+  },
+  {
+    "component": "Manipulation Cable",
+    "component_id": "manipulation_cable_5ebc6f",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nManipulation Cable\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "rotavator"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "manipulation cable is broken"
+    ],
+    "related_specs": [],
+    "machine_family": "Rotavator"
+  },
+  {
+    "component": "Solid Wrench",
+    "component_id": "solid_wrench_c403fd",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nSolid Wrench\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "bolt"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Tightening or loosening the corresponding bolt"
+    ],
+    "related_specs": [],
+    "machine_family": "Diesel Engine"
+  },
+  {
+    "component": "Hex Bolt Wrench",
+    "component_id": "hex_bolt_c2bb6b",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nHex Bolt Wrench\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "bolt"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Tightening or loosening the corresponding bolt"
+    ],
+    "related_specs": [],
+    "machine_family": "Diesel Engine"
+  },
+  {
+    "component": "Two-Use Screwdriver",
+    "component_id": "twouse_screwdriver_0cad77",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nTwo-Use Screwdriver\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "di bolt"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Tightening or loosening the di bolt"
+    ],
+    "related_specs": [],
+    "machine_family": "Diesel Engine"
+  },
+  {
+    "component": "Srd178F/186F/Sr186Fa",
+    "component_id": "srd178f186fsr186fa_e89322",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nSrd178F/186F/Sr186Fa\n\nCONNECTED TO:\n- None\n",
+    "aliases": [
+      "srd178/186fa"
+    ],
+    "connected_to": [
+      "t tl t"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Helping to know the t tl t"
+    ],
+    "related_specs": [],
+    "machine_family": "Diesel Engine"
+  },
+  {
+    "component": "Sr1Z-135(D)/Sr1Z-105(D)",
+    "component_id": "sr1z135dsr1z105d_fd8db0",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nSr1Z-135(D)/Sr1Z-105(D)\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "t tl t"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Helping to know the t tl t"
+    ],
+    "related_specs": [],
+    "machine_family": "Diesel Engine"
+  },
+  {
+    "component": "Paddy Wheel Piece",
+    "component_id": "paddy_wheel_bf3a49",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nPaddy Wheel Piece\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "gearbox, engine"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Paddy wheel piece does not rotate"
+    ],
+    "related_specs": [],
+    "machine_family": "Rotavator"
+  },
+  {
+    "component": "Fuel Pump",
+    "component_id": "fuel_pump_3cd13e",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nFuel Pump\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "engine, fuel tank"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "77Page_Power_Tiller_Diesel_Manual.pdf"
+    ],
+    "related_faults": [
+      "Fuel pump does not prime"
+    ],
+    "related_specs": [],
+    "machine_family": "Rotavator"
+  }
+]

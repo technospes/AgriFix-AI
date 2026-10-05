@@ -1,0 +1,2860 @@
+[
+  {
+    "symptom": "Alternator light on dashboard",
+    "machine_family": "Tractor",
+    "component": "Alternator",
+    "branches": [
+      {
+        "question": "Is alternator belt tight?",
+        "yes_next": "Check alternator voltage output using multimeter",
+        "no_next": "Check alternator belt tension"
+      }
+    ],
+    "manual_source": "eicher-380-tractor_commercial_test_report.pdf",
+    "source_section": "**MINISTRY OF AGRICULTURE AND FARMERS WELFARE**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Alternator light on dashboard\nCOMPONENT: Alternator\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "alternator_da9c10",
+    "fault_id": "fault_alternator_light_on_dashboard_3a3abb5b"
+  },
+  {
+    "symptom": "Specifications of linkage drawbar are missing",
+    "machine_family": "Tractor",
+    "component": "Linkage Drawbar",
+    "branches": [
+      {
+        "question": "Is the labeling plate present?",
+        "yes_next": "Check the specifications of linkage drawbar on the labeling plate",
+        "no_next": "Check the chassis number and engine number"
+      }
+    ],
+    "manual_source": "eicher-380-tractor_commercial_test_report.pdf",
+    "source_section": "**1. SCOPE OF TEST**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Specifications of linkage drawbar are missing\nCOMPONENT: Linkage Drawbar\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "linkage_drawbar_430af5",
+    "fault_id": "fault_specifications_of_linkage_drawbar_f6cffd5f"
+  },
+  {
+    "symptom": "Maximum hydraulic lift capacity is not declared",
+    "machine_family": "Tractor",
+    "component": "Hydraulic Lift Capacity",
+    "branches": [
+      {
+        "question": "Is the re-declaration of maximum hydraulic lift capacity present?",
+        "yes_next": "Check the re-declaration of maximum hydraulic lift capacity",
+        "no_next": "Calculate the maximum hydraulic lift capacity"
+      }
+    ],
+    "manual_source": "eicher-380-tractor_commercial_test_report.pdf",
+    "source_section": "**1. SCOPE OF TEST**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Maximum hydraulic lift capacity is not declared\nCOMPONENT: Hydraulic Lift Capacity\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "hydraulic_lift_be1a81",
+    "fault_id": "fault_maximum_hydraulic_lift_capacity_1e0984f5"
+  },
+  {
+    "symptom": "Engine oil temperature exceeds maximum value",
+    "machine_family": "Tractor",
+    "component": "Engine Oil",
+    "branches": [
+      {
+        "question": "Is engine oil temperature above 135°C?",
+        "yes_next": "Check coolant temperature",
+        "no_next": "Check for any blockages in cooling system"
+      }
+    ],
+    "manual_source": "eicher-380-tractor_commercial_test_report.pdf",
+    "source_section": "**3. SUMMARY OF OBSERVATIONS, COMMENTS & RECOMMENDATIONS**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Engine oil temperature exceeds maximum value\nCOMPONENT: Engine Oil\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "engine_oil_07ed76",
+    "fault_id": "fault_engine_oil_temperature_exceeds_11bebad3"
+  },
+  {
+    "symptom": "Coolant temperature exceeds maximum value",
+    "machine_family": "Tractor",
+    "component": "Coolant",
+    "branches": [
+      {
+        "question": "Is coolant temperature above 115°C?",
+        "yes_next": "Check for any blockages in cooling system",
+        "no_next": "Check engine oil temperature"
+      }
+    ],
+    "manual_source": "eicher-380-tractor_commercial_test_report.pdf",
+    "source_section": "**3. SUMMARY OF OBSERVATIONS, COMMENTS & RECOMMENDATIONS**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Coolant temperature exceeds maximum value\nCOMPONENT: Coolant\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "coolant_8536d3",
+    "fault_id": "fault_coolant_temperature_exceeds_maximum_c6882a0f"
+  },
+  {
+    "symptom": "PTO shaft speed is 1945 rpm instead of 54010 rpm",
+    "machine_family": "Tractor",
+    "component": "Power Take-Off Shaft",
+    "branches": [
+      {
+        "question": "Is the engine speed correct?",
+        "yes_next": "Check the PTO shaft speed using a tachometer",
+        "no_next": "Check the engine speed at low idle (600-800 rpm)"
+      }
+    ],
+    "manual_source": "eicher-380-tractor_commercial_test_report.pdf",
+    "source_section": "**4.2 SPECIFICATIONS**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: PTO shaft speed is 1945 rpm instead of 54010 rpm\nCOMPONENT: Power Take-Off Shaft\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "power_takeoff_ee92e7",
+    "fault_id": "fault_pto_shaft_speed_is_90cab5d6"
+  },
+  {
+    "symptom": "motor hums but does not rotate",
+    "machine_family": "Tractor",
+    "component": "PTO Power Take-Off Shaft",
+    "branches": [
+      {
+        "question": "Is the labelling plate correct?",
+        "yes_next": "check the PTO Power Take-Off Shaft for damage",
+        "no_next": "replace the labelling plate"
+      }
+    ],
+    "manual_source": "eicher-380-tractor_commercial_test_report.pdf",
+    "source_section": "**EICHER 380 AND ITS VARIANT TRACTOR - T-1375/1902/2020 Commercial (Administrative Extension)**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: motor hums but does not rotate\nCOMPONENT: PTO Power Take-Off Shaft\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "pto_power_6cb0f1",
+    "fault_id": "fault_motor_hums_but_does_e2de0bb6"
+  },
+  {
+    "symptom": "gear teeth show wear, crack and damage",
+    "machine_family": "Rotavator",
+    "component": "Gear",
+    "branches": [
+      {
+        "question": "do the gear teeth show wear, crack and damage?",
+        "yes_next": "inspect the rear clutch sleeve for wear, crack and damage",
+        "no_next": "inspect the clutch teeth for wear, crack and damage"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 3: **Cleaning and inspection**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: gear teeth show wear, crack and damage\nCOMPONENT: Gear\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "gear_fae005",
+    "fault_id": "fault_gear_teeth_show_wear_2b44dad5"
+  },
+  {
+    "symptom": "bearing sound is abnormal or stuck",
+    "machine_family": "Rotavator",
+    "component": "Bearing",
+    "branches": [
+      {
+        "question": "does the bearing rotate smoothly?",
+        "yes_next": "check for wear of the bearing by moving the outer race radially",
+        "no_next": "replace the bearing"
+      },
+      {
+        "question": "does the bearing show wear?",
+        "yes_next": "replace the bearing",
+        "no_next": ""
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 3: **Cleaning and inspection**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: bearing sound is abnormal or stuck\nCOMPONENT: Bearing\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "bearing_a27a44",
+    "fault_id": "fault_bearing_sound_is_abnormal_ea8c3dba"
+  },
+  {
+    "symptom": "Rear wheels cannot be removed",
+    "machine_family": "Tractor",
+    "component": "Rear Axle Housing",
+    "branches": [
+      {
+        "question": "Is the rear axle housing stuck?",
+        "yes_next": "Check for any obstructions",
+        "no_next": "Check for any damage to the rear axle housing"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 1: **Removal of final drive**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Rear wheels cannot be removed\nCOMPONENT: Rear Axle Housing\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "rear_axle_95afe0",
+    "fault_id": "fault_rear_wheels_cannot_be_56af038f"
+  },
+  {
+    "symptom": "Differential unit cannot be removed",
+    "machine_family": "Tractor",
+    "component": "Differential Unit",
+    "branches": [
+      {
+        "question": "Is the differential unit over-torqued?",
+        "yes_next": "Remove the differential unit",
+        "no_next": "Check for any damage to the differential unit"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 1: **Removal of final drive**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Differential unit cannot be removed\nCOMPONENT: Differential Unit\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "differential_unit_099108",
+    "fault_id": "fault_differential_unit_cannot_be_009eebbe"
+  },
+  {
+    "symptom": "Differential cage cannot be opened",
+    "machine_family": "Tractor",
+    "component": "Differential Cage",
+    "branches": [
+      {
+        "question": "Are the differential cage nuts over-torqued?",
+        "yes_next": "Remove the differential cage nuts",
+        "no_next": "Check for any damage to the differential cage nuts"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 1: **Removal of final drive**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Differential cage cannot be opened\nCOMPONENT: Differential Cage\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "differential_cage_5cce0d",
+    "fault_id": "fault_differential_cage_cannot_be_84df0b24"
+  },
+  {
+    "symptom": "P.T.O does not engage",
+    "machine_family": "Tractor",
+    "component": "P.T.O shaft",
+    "branches": [
+      {
+        "question": "Is the P.T.O shaft retaining bolt loose?",
+        "yes_next": "Check for worn or damaged P.T.O shaft",
+        "no_next": "Check for faulty P.T.O clutch"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**Servicing of the P.T.O. shaft**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: P.T.O does not engage\nCOMPONENT: P.T.O shaft\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "pto_shaft_411594",
+    "fault_id": "fault_pto_does_not_engage_f84c7fdb"
+  },
+  {
+    "symptom": "P.T.O engages but does not rotate",
+    "machine_family": "Tractor",
+    "component": "Output shaft",
+    "branches": [
+      {
+        "question": "Is the output shaft retaining bolt loose?",
+        "yes_next": "Check for worn or damaged output shaft",
+        "no_next": "Check for faulty P.T.O clutch"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**Servicing of the P.T.O. shaft**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: P.T.O engages but does not rotate\nCOMPONENT: Output shaft\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "output_shaft_e53d77",
+    "fault_id": "fault_pto_engages_but_does_8847eb6a"
+  },
+  {
+    "symptom": "Drop arm does not move",
+    "machine_family": "Rotavator",
+    "component": "Hydraulic Cylinder",
+    "branches": [
+      {
+        "question": "Is the hydraulic fluid level at the recommended level?",
+        "yes_next": "Check hydraulic fluid pressure (30-40 bar)",
+        "no_next": "Check for leaks in hydraulic system"
+      },
+      {
+        "question": "Is the hydraulic fluid pressure within the recommended range?",
+        "yes_next": "Inspect hydraulic cylinder for damage or blockages",
+        "no_next": "Replace hydraulic cylinder"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**Checking and repair a mechanical steering system**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Drop arm does not move\nCOMPONENT: Hydraulic Cylinder\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "hydraulic_cylinder_d3d4ac",
+    "fault_id": "fault_drop_arm_does_not_ebb1d19d"
+  },
+  {
+    "symptom": "Steering wheel does not turn",
+    "machine_family": "Rotavator",
+    "component": "Steering wheel",
+    "branches": [
+      {
+        "question": "Is the steering wheel nut loose?",
+        "yes_next": "Tighten the steering wheel nut to 25 Nm",
+        "no_next": "Check the steering column bush bearing"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 1: **Checking of steering linkages**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Steering wheel does not turn\nCOMPONENT: Steering wheel\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "steering_wheel_c26686",
+    "fault_id": "fault_steering_wheel_does_not_78fe5944"
+  },
+  {
+    "symptom": "Bearing shows signs of pitting and overheating",
+    "machine_family": "Rotavator",
+    "component": "Bearing",
+    "branches": [
+      {
+        "question": "Is the Bearing clean?",
+        "yes_next": "Inspect Bearing for pitting and overheating",
+        "no_next": "Replace the Bearing"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 3: **Cleaning and Inspection**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Bearing shows signs of pitting and overheating\nCOMPONENT: Bearing\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "bearing_a27a44",
+    "fault_id": "fault_bearing_shows_signs_of_45c8b921"
+  },
+  {
+    "symptom": "Rocker shaft shows signs of pitting and wear",
+    "machine_family": "Rotavator",
+    "component": "Rocker shaft",
+    "branches": [
+      {
+        "question": "Is the Rocker shaft clean?",
+        "yes_next": "Inspect Rocker shaft and inner column for pitting and wear",
+        "no_next": "Replace the Rocker shaft"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 3: **Cleaning and Inspection**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Rocker shaft shows signs of pitting and wear\nCOMPONENT: Rocker shaft\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "rocker_shaft_05bd79",
+    "fault_id": "fault_rocker_shaft_shows_signs_199a629c"
+  },
+  {
+    "symptom": "Inner column shows signs of bend",
+    "machine_family": "Rotavator",
+    "component": "Inner column",
+    "branches": [
+      {
+        "question": "Is the inner column bent?",
+        "yes_next": "Check for bend of the inner column with the help of ‘V’ blocks and a dial indicator",
+        "no_next": "Replace the inner column"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 3: **Cleaning and Inspection**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Inner column shows signs of bend\nCOMPONENT: Inner column\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "inner_column_20808a",
+    "fault_id": "fault_inner_column_shows_signs_80bbcacd"
+  },
+  {
+    "symptom": "Steering housing shows signs of crack and enlargement of mounting holes",
+    "machine_family": "Rotavator",
+    "component": "Steering housing",
+    "branches": [
+      {
+        "question": "Is the Steering housing clean?",
+        "yes_next": "Inspect Steering housing for crack and enlargement of mounting holes",
+        "no_next": "Replace the Steering housing"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 3: **Cleaning and Inspection**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Steering housing shows signs of crack and enlargement of mounting holes\nCOMPONENT: Steering housing\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "steering_housing_561580",
+    "fault_id": "fault_steering_housing_shows_signs_567ef6f7"
+  },
+  {
+    "symptom": "Front axle is bent or twisted",
+    "machine_family": "Tractor",
+    "component": "King Pin Bushes",
+    "branches": [
+      {
+        "question": "Are the king pin bushes worn out?",
+        "yes_next": "Replace the king pin bushes with new ones",
+        "no_next": "Check the front axle for bend and twist with a special axle aligner"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 2: **Check axle beam and king pin inclination**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Front axle is bent or twisted\nCOMPONENT: King Pin Bushes\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "king_pin_071cbf",
+    "fault_id": "fault_front_axle_is_bent_418a950f"
+  },
+  {
+    "symptom": "brake drum does not rotate",
+    "machine_family": "Tractor",
+    "component": "Brake Assembly",
+    "branches": [
+      {
+        "question": "Is the bearing adjusting nut loose?",
+        "yes_next": "Tighten the bearing adjusting nut so that the brake drum does not rotate.",
+        "no_next": "Check the bearing play by moving the brake drum by hand in the vertical position."
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**Automotive : Mechanic Tractor (NSQF LEVEL - 4) - Exercise 1.9.98**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: brake drum does not rotate\nCOMPONENT: Brake Assembly\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "brake_assembly_4a7424",
+    "fault_id": "fault_brake_drum_does_not_6be63f50"
+  },
+  {
+    "symptom": "bush does not move freely on roller shaft",
+    "machine_family": "Steering Gearbox",
+    "component": "bush (20)",
+    "branches": [
+      {
+        "question": "Is the bush stuck?",
+        "yes_next": "Fix the bush (20) on the side cover of the steering gearbox.",
+        "no_next": "Check the free movement of the rocker shaft in the bush."
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 1: **Assembling (Fig 1)**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: bush does not move freely on roller shaft\nCOMPONENT: bush (20)\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "bush_20_5bd1b5",
+    "fault_id": "fault_bush_does_not_move_c4565a04"
+  },
+  {
+    "symptom": "rocker shaft does not move freely in bush",
+    "machine_family": "Steering Gearbox",
+    "component": "rocker shaft",
+    "branches": [
+      {
+        "question": "Is the bush worn out?",
+        "yes_next": "Fix a new ball bearing at the bottom of the housing (2).",
+        "no_next": "Check the free movement of the rocker shaft in the bush."
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 1: **Assembling (Fig 1)**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: rocker shaft does not move freely in bush\nCOMPONENT: rocker shaft\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "rocker_shaft_05bd79",
+    "fault_id": "fault_rocker_shaft_does_not_5dad3834"
+  },
+  {
+    "symptom": "Frame does not align with floor diagram",
+    "machine_family": "Tractor",
+    "component": "Frame",
+    "branches": [
+      {
+        "question": "Are the frame's measurements within specified limits?",
+        "yes_next": "Check for frame bend or twist",
+        "no_next": "Check for frame sagging"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 2: **Check the chassis frame for bend and twists**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Frame does not align with floor diagram\nCOMPONENT: Frame\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "frame_dcf3e3",
+    "fault_id": "fault_frame_does_not_align_f24c92c8"
+  },
+  {
+    "symptom": "Suspension system noisy",
+    "machine_family": "Tractor",
+    "component": "Suspension system",
+    "branches": [
+      {
+        "question": "Has the suspension system been lubricated recently?",
+        "yes_next": "Check the manual for correct greasing procedure",
+        "no_next": "Check the manual for correct location and cleaning procedure"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "PROCEDURE",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Suspension system noisy\nCOMPONENT: Suspension system\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "suspension_system_c0fb66",
+    "fault_id": "fault_suspension_system_noisy_e2004ac9"
+  },
+  {
+    "symptom": "Tyre is flat",
+    "machine_family": "Tractor",
+    "component": "Tyre",
+    "branches": [
+      {
+        "question": "Is the tyre properly inflated?",
+        "yes_next": "Check if the tyre is properly seated on the rim",
+        "no_next": "Check for any visible damage or punctures in the tyre"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**Dismantle the wheels for checking rims, tyres and tubes**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Tyre is flat\nCOMPONENT: Tyre\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "tyre_8cf1a2",
+    "fault_id": "fault_tyre_is_flat_3df7660f"
+  },
+  {
+    "symptom": "wheel rim is rusty",
+    "machine_family": "Rotavator",
+    "component": "Wheel Rim",
+    "branches": [
+      {
+        "question": "Has the wheel rim been exposed to moisture?",
+        "yes_next": "Proceed to step 2",
+        "no_next": "Check for physical damage"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**Practice on repairing & derust painting**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: wheel rim is rusty\nCOMPONENT: Wheel Rim\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "wheel_rim_02e440",
+    "fault_id": "fault_wheel_rim_is_rusty_a90ed5d9"
+  },
+  {
+    "symptom": "wheel does not rotate",
+    "machine_family": "Tractor",
+    "component": "Wheel Rim",
+    "branches": [
+      {
+        "question": "Are there any cracks in the wheel rim?",
+        "yes_next": "Repair cracks by welding or replace, if necessary",
+        "no_next": "Check for distortion in wheel rim"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**Checking, repairing, de-rusting and repainting the wheel rim** (Fig 1)",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: wheel does not rotate\nCOMPONENT: Wheel Rim\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "wheel_rim_02e440",
+    "fault_id": "fault_wheel_does_not_rotate_fd5e43fb"
+  },
+  {
+    "symptom": "Front wheel track is not balanced",
+    "machine_family": "Rotavator",
+    "component": "Front Wheel",
+    "branches": [
+      {
+        "question": "Is the track gauge reading on the front wheel within 10mm of the rear wheel?",
+        "yes_next": "The front wheel track is balanced",
+        "no_next": "Adjust the front wheel track to match the rear wheel track"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**Wheel track balancing and tyre rotation**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Front wheel track is not balanced\nCOMPONENT: Front Wheel\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "front_wheel_b59f62",
+    "fault_id": "fault_front_wheel_track_is_4b4c444d"
+  },
+  {
+    "symptom": "Rear wheel track is not balanced",
+    "machine_family": "Rotavator",
+    "component": "Rear Wheel",
+    "branches": [
+      {
+        "question": "Is the track gauge reading on the rear wheel within 10mm of the front wheel?",
+        "yes_next": "The rear wheel track is balanced",
+        "no_next": "Adjust the rear wheel track to match the front wheel track"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**Wheel track balancing and tyre rotation**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Rear wheel track is not balanced\nCOMPONENT: Rear Wheel\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "rear_wheel_8a94c2",
+    "fault_id": "fault_rear_wheel_track_is_5cbd8feb"
+  },
+  {
+    "symptom": "Wheel is not rotating",
+    "machine_family": "Rotavator",
+    "component": "Wheel",
+    "branches": [
+      {
+        "question": "Is the wheel rotating freely?",
+        "yes_next": "The wheel rotation is normal",
+        "no_next": "Remove any obstructions and try again"
+      },
+      {
+        "question": "Are the wheel bearings in good condition?",
+        "yes_next": "The wheel rotation is normal",
+        "no_next": "Replace the wheel bearings"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**Wheel track balancing and tyre rotation**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Wheel is not rotating\nCOMPONENT: Wheel\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "wheel_5eda0e",
+    "fault_id": "fault_wheel_is_not_rotating_16ebba22"
+  },
+  {
+    "symptom": "Front wheels not aligned",
+    "machine_family": "Power Tiller",
+    "component": "Axle Extension Beam",
+    "branches": [
+      {
+        "question": "Is the axle extension beam properly aligned?",
+        "yes_next": "Check the toe-in marks on the vertical spindle and arm",
+        "no_next": "Adjust the axle extension beam as necessary"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**Front wheel track adjustment**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Front wheels not aligned\nCOMPONENT: Axle Extension Beam\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "axle_extension_ca3129",
+    "fault_id": "fault_front_wheels_not_aligned_cf7a47cf"
+  },
+  {
+    "symptom": "Drum does not rotate",
+    "machine_family": "Rotavator",
+    "component": "Drum",
+    "branches": [
+      {
+        "question": "Is the hub loose?",
+        "yes_next": "Check if hub is properly seated",
+        "no_next": "Check if bearings are worn out"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**Materials**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Drum does not rotate\nCOMPONENT: Drum\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "drum_ac9bfe",
+    "fault_id": "fault_drum_does_not_rotate_cc0d6842"
+  },
+  {
+    "symptom": "Wheels not rotating freely",
+    "machine_family": "Tractor",
+    "component": "Eccentric Cam Rod Lock",
+    "branches": [
+      {
+        "question": "Is the eccentric cam rod lock adjusted correctly?",
+        "yes_next": "Check the clearance between shoe and drum using a feeler gauge",
+        "no_next": "Lock the eccentric cam with special spanners"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**Cam type adjustment**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Wheels not rotating freely\nCOMPONENT: Eccentric Cam Rod Lock\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "eccentric_cam_23b47e",
+    "fault_id": "fault_wheels_not_rotating_freely_de71115f"
+  },
+  {
+    "symptom": "Motor hums but does not rotate",
+    "machine_family": "Tractor",
+    "component": "Hub",
+    "branches": [
+      {
+        "question": "Is the bearing sleeve rotating?",
+        "yes_next": "Check if the hub nut is loose",
+        "no_next": "Replace the bearing sleeve"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 5: **Rear wheel brakes**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Motor hums but does not rotate\nCOMPONENT: Hub\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "hub_526153",
+    "fault_id": "fault_motor_hums_but_does_e2de0bb6"
+  },
+  {
+    "symptom": "Handbrake does not engage",
+    "machine_family": "Power Tiller",
+    "component": "Handbrake Cable",
+    "branches": [
+      {
+        "question": "Is the handbrake cable within adjustment range?",
+        "yes_next": "Proceed to step 2",
+        "no_next": "Adjust handbrake cable to recommended range"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**Inspection and setting parking brake**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Handbrake does not engage\nCOMPONENT: Handbrake Cable\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "handbrake_cable_784e07",
+    "fault_id": "fault_handbrake_does_not_engage_40f7998e"
+  },
+  {
+    "symptom": "Brake band does not engage",
+    "machine_family": "Tractor",
+    "component": "Brake Band",
+    "branches": [
+      {
+        "question": "Is the brake band liner (4) in good condition?",
+        "yes_next": "Inspect the brake band mounting bracket (2) for any signs of damage.",
+        "no_next": "Replace the brake band liner (4)"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**Band type parking brakes Fig (3)**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Brake band does not engage\nCOMPONENT: Brake Band\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "brake_band_b24f8f",
+    "fault_id": "fault_brake_band_does_not_5f3ee78d"
+  },
+  {
+    "symptom": "Brake pedal feels spongy",
+    "machine_family": "Tractor",
+    "component": "Master Cylinder Reservoir",
+    "branches": [
+      {
+        "question": "Is brake fluid level at lower edge of filler neck?",
+        "yes_next": "Check for air in brake lines",
+        "no_next": "Bleed brake system"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 1: **Hydraulic brake bleeding**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Brake pedal feels spongy\nCOMPONENT: Master Cylinder Reservoir\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "master_cylinder_e04190",
+    "fault_id": "fault_brake_pedal_feels_spongy_439685b6"
+  },
+  {
+    "symptom": "Brake scraping noise",
+    "machine_family": "Tractor",
+    "component": "Brake Shoes",
+    "branches": [
+      {
+        "question": "Are brake shoes worn?",
+        "yes_next": "Proceed to step 2.",
+        "no_next": "Check brake fluid level."
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**Practice on fault tracing in brake system**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Brake scraping noise\nCOMPONENT: Brake Shoes\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "brake_shoes_a78d6e",
+    "fault_id": "fault_brake_scraping_noise_af0f1b4d"
+  },
+  {
+    "symptom": "Brake pedal feels spongy",
+    "machine_family": "Tractor",
+    "component": "Master Cylinder",
+    "branches": [
+      {
+        "question": "Is brake fluid level low?",
+        "yes_next": "Check for air in brake system",
+        "no_next": "Check for worn-out master cylinder piston"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**Materials/Components**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Brake pedal feels spongy\nCOMPONENT: Master Cylinder\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "master_cylinder_85da7c",
+    "fault_id": "fault_brake_pedal_feels_spongy_439685b6"
+  },
+  {
+    "symptom": "Brake pedal feels spongy",
+    "machine_family": "Tractor",
+    "component": "Brake Pedal",
+    "branches": [
+      {
+        "question": "Is brake fluid level at recommended level?",
+        "yes_next": "Proceed to step 2.",
+        "no_next": "Proceed to step 3."
+      },
+      {
+        "question": "Is brake pedal position at recommended position?",
+        "yes_next": "Proceed to step 4.",
+        "no_next": "Proceed to step 5."
+      },
+      {
+        "question": "Are brake linings worn?",
+        "yes_next": "Proceed to step 6.",
+        "no_next": "Proceed to step 7."
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**Causes and remedies for brake defects**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Brake pedal feels spongy\nCOMPONENT: Brake Pedal\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "brake_pedal_97c77f",
+    "fault_id": "fault_brake_pedal_feels_spongy_439685b6"
+  },
+  {
+    "symptom": "Belt slips or does not rotate",
+    "machine_family": "Power Tiller",
+    "component": "Belt Tensioner",
+    "branches": [
+      {
+        "question": "Is the belt tensioner loose?",
+        "yes_next": "Check if locknut (5) is tightened",
+        "no_next": "Check if belt is properly seated"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 1: **Dismounting of ‘V’ belts**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Belt slips or does not rotate\nCOMPONENT: Belt Tensioner\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "belt_tensioner_660cee",
+    "fault_id": "fault_belt_slips_or_does_5e7c31d6"
+  },
+  {
+    "symptom": "Clutch wire does not move freely",
+    "machine_family": "Power Tiller",
+    "component": "Clutch",
+    "branches": [
+      {
+        "question": "Is the clutch wire damaged?",
+        "yes_next": "Replace the clutch wire (2) and sleeve if found damaged.",
+        "no_next": "Check for wornout pivots"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 3: **Repair and Servicing**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Clutch wire does not move freely\nCOMPONENT: Clutch\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "clutch_22275a",
+    "fault_id": "fault_clutch_wire_does_not_71b75df7"
+  },
+  {
+    "symptom": "Tynes are stuck with trashes and stubble",
+    "machine_family": "Power Tiller",
+    "component": "Tynes",
+    "branches": [
+      {
+        "question": "Are trashes and stubble stuck between tynes?",
+        "yes_next": "Clear the tynes and rotor shaft",
+        "no_next": ""
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**Do not operate rotatiller on the hard lands.**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Tynes are stuck with trashes and stubble\nCOMPONENT: Tynes\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "tynes_f3abfb",
+    "fault_id": "fault_tynes_are_stuck_with_65652260"
+  },
+  {
+    "symptom": "Cultivator does not move up and down",
+    "machine_family": "Rotavator",
+    "component": "Spring Loaded Cultivator",
+    "branches": [
+      {
+        "question": "Is the spring compressor functioning properly?",
+        "yes_next": "Check for worn or damaged spring",
+        "no_next": "Check for blockages or damage"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**Operating practice with implements**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Cultivator does not move up and down\nCOMPONENT: Spring Loaded Cultivator\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "spring_loaded_356bc8",
+    "fault_id": "fault_cultivator_does_not_move_239307a2"
+  },
+  {
+    "symptom": "Shovel does not engage with the ground",
+    "machine_family": "Rotavator",
+    "component": "Shovel",
+    "branches": [
+      {
+        "question": "Are the shovel bolts loose?",
+        "yes_next": "Tighten the shovel bolts securely",
+        "no_next": "Check for damaged or worn-out shovel"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 5: **Maintain and Service**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Shovel does not engage with the ground\nCOMPONENT: Shovel\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "shovel_2c997e",
+    "fault_id": "fault_shovel_does_not_engage_d2a49e5c"
+  },
+  {
+    "symptom": "Engine not properly fixed to the chassis",
+    "machine_family": "Power Tiller",
+    "component": "Engine",
+    "branches": [
+      {
+        "question": "Are the foundation bolts loose?",
+        "yes_next": "Tighten foundation bolts",
+        "no_next": ""
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 1: **Prepare Power Tiller for operation**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Engine not properly fixed to the chassis\nCOMPONENT: Engine\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "engine_ad1943",
+    "fault_id": "fault_engine_not_properly_fixed_62b88437"
+  },
+  {
+    "symptom": "engine fails to start",
+    "machine_family": "Power Tiller",
+    "component": "Engine",
+    "branches": [
+      {
+        "question": "Is the oil pressure gauge reading within the recommended range?",
+        "yes_next": "Check and adjust oil pressure",
+        "no_next": "Check for other causes such as low fuel level or faulty spark plugs"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 3: **Starting Engine** (Fig 3)",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: engine fails to start\nCOMPONENT: Engine\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "engine_ad1943",
+    "fault_id": "fault_engine_fails_to_start_816fec72"
+  },
+  {
+    "symptom": "Disc harrow does not function",
+    "machine_family": "Disc Harrow",
+    "component": "Bearing of the gangs",
+    "branches": [
+      {
+        "question": "Are the bearing of the gangs worn out?",
+        "yes_next": "Replace bearing of the gangs with new ones",
+        "no_next": "Check for other causes"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**Checking the implements serviceability**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Disc harrow does not function\nCOMPONENT: Bearing of the gangs\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "bearing_of_394c97",
+    "fault_id": "fault_disc_harrow_does_not_65f07674"
+  },
+  {
+    "symptom": "Shovels do not move effectively",
+    "machine_family": "Cultivator",
+    "component": "Shovels",
+    "branches": [
+      {
+        "question": "Are the fastening bolts loose or worn out?",
+        "yes_next": "Tighten or replace fastening bolts",
+        "no_next": "Check sharpness and shape of shovels"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 1: **Check spring loaded cultivator** (Fig 1)",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Shovels do not move effectively\nCOMPONENT: Shovels\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "shovels_ff43a4",
+    "fault_id": "fault_shovels_do_not_move_114b1413"
+  },
+  {
+    "symptom": "Side struts are loose",
+    "machine_family": "Cultivator",
+    "component": "Side Struts Bolts",
+    "branches": [
+      {
+        "question": "Are the side struts bolts loose?",
+        "yes_next": "Tighten or replace side struts bolts",
+        "no_next": "Check lower hitch pin for tightness and damage"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 1: **Check spring loaded cultivator** (Fig 1)",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Side struts are loose\nCOMPONENT: Side Struts Bolts\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "side_struts_0b67ab",
+    "fault_id": "fault_side_struts_are_loose_3baf6b70"
+  },
+  {
+    "symptom": "Lower hitch pin is loose or damaged",
+    "machine_family": "Cultivator",
+    "component": "Lower Hitch Pin",
+    "branches": [
+      {
+        "question": "Is the lower hitch pin loose or damaged?",
+        "yes_next": "Replace lower hitch pin and holes",
+        "no_next": "Check side struts bolts for tightness"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 1: **Check spring loaded cultivator** (Fig 1)",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Lower hitch pin is loose or damaged\nCOMPONENT: Lower Hitch Pin\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "lower_hitch_2da51e",
+    "fault_id": "fault_lower_hitch_pin_is_c4aa16aa"
+  },
+  {
+    "symptom": "Shovels are worn out",
+    "machine_family": "Cultivator",
+    "component": "Shovels",
+    "branches": [
+      {
+        "question": "Are the shovels sharp and in good shape?",
+        "yes_next": "Check straightness of tynes",
+        "no_next": "Reverse or replace shovels"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 1: **Check spring loaded cultivator** (Fig 1)",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Shovels are worn out\nCOMPONENT: Shovels\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "shovels_ff43a4",
+    "fault_id": "fault_shovels_are_worn_out_6995e389"
+  },
+  {
+    "symptom": "Tynes are unserviceable",
+    "machine_family": "Cultivator",
+    "component": "Tynes",
+    "branches": [
+      {
+        "question": "Are the tynes straight?",
+        "yes_next": "Check spring tension",
+        "no_next": "Replace tynes and adjust spring tension"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 1: **Check spring loaded cultivator** (Fig 1)",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Tynes are unserviceable\nCOMPONENT: Tynes\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "tynes_f3abfb",
+    "fault_id": "fault_tynes_are_unserviceable_aee9a38f"
+  },
+  {
+    "symptom": "Shovels do not engage with the ground uniformly",
+    "machine_family": "Rotavator",
+    "component": "Shovel",
+    "branches": [
+      {
+        "question": "Are the fastening nut bolts loose?",
+        "yes_next": "Tighten the fastening nut bolts securely",
+        "no_next": "Check for worn-out or corroded nut bolts"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 2: **Maintain and Service**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Shovels do not engage with the ground uniformly\nCOMPONENT: Shovel\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "shovel_2c997e",
+    "fault_id": "fault_shovels_do_not_engage_551ba8eb"
+  },
+  {
+    "symptom": "Trailer hitching hook is damaged",
+    "machine_family": "Tractor",
+    "component": "Trailer Hitching Hook",
+    "branches": [
+      {
+        "question": "Is the trailer hitching hook damaged?",
+        "yes_next": "Replace the trailer hitching hook with a new one",
+        "no_next": "Check the trailer hitching hook connections for any damage"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 8: **Checking tractor trailer serviceability**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Trailer hitching hook is damaged\nCOMPONENT: Trailer Hitching Hook\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "trailer_hitching_f124c2",
+    "fault_id": "fault_trailer_hitching_hook_is_03f40e54"
+  },
+  {
+    "symptom": "Trailer brake is not functioning",
+    "machine_family": "Tractor",
+    "component": "Trailer Brake",
+    "branches": [
+      {
+        "question": "Are the trailer brake connections damaged?",
+        "yes_next": "Replace the trailer brake with a new one",
+        "no_next": "Check the trailer brake for any damage"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 8: **Checking tractor trailer serviceability**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Trailer brake is not functioning\nCOMPONENT: Trailer Brake\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "trailer_brake_1fcb9e",
+    "fault_id": "fault_trailer_brake_is_not_a73f10e2"
+  },
+  {
+    "symptom": "Tyre air pressure is low",
+    "machine_family": "Tractor",
+    "component": "Tyre",
+    "branches": [
+      {
+        "question": "Is the tyre air pressure within the recommended range?",
+        "yes_next": "No further action required",
+        "no_next": "Inflate the tyres to the recommended pressure"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 8: **Checking tractor trailer serviceability**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Tyre air pressure is low\nCOMPONENT: Tyre\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "tyre_8cf1a2",
+    "fault_id": "fault_tyre_air_pressure_is_18f04bee"
+  },
+  {
+    "symptom": "Suspension system is damaged",
+    "machine_family": "Tractor",
+    "component": "Suspension System",
+    "branches": [
+      {
+        "question": "Is the suspension system damaged?",
+        "yes_next": "Replace the suspension system with a new one",
+        "no_next": "Check the suspension system connections for any damage"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 8: **Checking tractor trailer serviceability**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Suspension system is damaged\nCOMPONENT: Suspension System\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "suspension_system_c0fb66",
+    "fault_id": "fault_suspension_system_is_damaged_04d4ab47"
+  },
+  {
+    "symptom": "Tractor electrical connections are damaged",
+    "machine_family": "Tractor",
+    "component": "Tractor Electrical Connections",
+    "branches": [
+      {
+        "question": "Are the tractor electrical connections damaged?",
+        "yes_next": "Replace the tractor electrical connections with a new one",
+        "no_next": "Check the tractor electrical connections for any damage"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 8: **Checking tractor trailer serviceability**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Tractor electrical connections are damaged\nCOMPONENT: Tractor Electrical Connections\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "tractor_electrical_5cf9f8",
+    "fault_id": "fault_tractor_electrical_connections_are_2c53c80b"
+  },
+  {
+    "symptom": "motor hums but does not rotate",
+    "machine_family": "Tractor",
+    "component": "PTO gear box",
+    "branches": [
+      {
+        "question": "Is the speed of PTO drive shaft correct?",
+        "yes_next": "check PTO gear box for worn out gears",
+        "no_next": "check PTO gear box for worn out gears"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 9: **Checking PTO units serviceability**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: motor hums but does not rotate\nCOMPONENT: PTO gear box\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "pto_gear_77411b",
+    "fault_id": "fault_motor_hums_but_does_e2de0bb6"
+  },
+  {
+    "symptom": "Hitching point leaks hydraulic fluid",
+    "machine_family": "Tractor",
+    "component": "Hitching Point",
+    "branches": [
+      {
+        "question": "Is hydraulic fluid return line blocked?",
+        "yes_next": "Check for blockages in fluid return line",
+        "no_next": "Replace O-ring seal with new one (part number 12345)"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**Lubricate the parts of single & three point hitching**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Hitching point leaks hydraulic fluid\nCOMPONENT: Hitching Point\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "hitching_point_206b6f",
+    "fault_id": "fault_hitching_point_leaks_hydraulic_58563ced"
+  },
+  {
+    "symptom": "Tine does not rotate",
+    "machine_family": "Rotavator",
+    "component": "Tine",
+    "branches": [
+      {
+        "question": "Is tine bearing worn out?",
+        "yes_next": "Replace tine bearing with new one",
+        "no_next": "Check tine for damage"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**Driving a tractor with different implements**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Tine does not rotate\nCOMPONENT: Tine\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "tine_633a12",
+    "fault_id": "fault_tine_does_not_rotate_b6599acd"
+  },
+  {
+    "symptom": "Gearbox makes loud noise",
+    "machine_family": "Rotavator",
+    "component": "Gearbox",
+    "branches": [
+      {
+        "question": "Is gearbox bearing worn out?",
+        "yes_next": "Replace gearbox bearing with new one",
+        "no_next": "Check gearbox for damage"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**Driving a tractor with different implements**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Gearbox makes loud noise\nCOMPONENT: Gearbox\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "gearbox_61a729",
+    "fault_id": "fault_gearbox_makes_loud_noise_6887d0f9"
+  },
+  {
+    "symptom": "Cultivator strikes construction or trees",
+    "machine_family": "Cultivator",
+    "component": "Cultivator Frame",
+    "branches": [
+      {
+        "question": "Is the cultivator width checked against the tractor width?",
+        "yes_next": "Cultivator width is correct",
+        "no_next": "Cultivator width exceeds tractor width"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 1: **Cultivator field operation and adjustment**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Cultivator strikes construction or trees\nCOMPONENT: Cultivator Frame\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "cultivator_frame_35ef13",
+    "fault_id": "fault_cultivator_strikes_construction_or_5bb5f362"
+  },
+  {
+    "symptom": "Disc plough is not attached to the tractor",
+    "machine_family": "Tractor",
+    "component": "Three Point Hitch Linkage",
+    "branches": [
+      {
+        "question": "Is the disc plough properly attached to the tractor?",
+        "yes_next": "Check if the top link is attached to the top link hitch point",
+        "no_next": "Check if the lower links are in line with the cross shaft"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**Field operation of disc plough**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Disc plough is not attached to the tractor\nCOMPONENT: Three Point Hitch Linkage\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "three_point_9e1111",
+    "fault_id": "fault_disc_plough_is_not_eb583b96"
+  },
+  {
+    "symptom": "Front furrow width not adjustable",
+    "machine_family": "Disc Plough",
+    "component": "Cross Shaft",
+    "branches": [
+      {
+        "question": "Are the 'U' clamps loose?",
+        "yes_next": "Is the cross shaft in forward position?",
+        "no_next": "Check if cross shaft is properly rotated"
+      },
+      {
+        "question": "Is the cross shaft in forward position?",
+        "yes_next": "Adjust cross shaft to backward position",
+        "no_next": "Adjust cross shaft to forward position"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**C Adjusting width of front furrow (Fig 5)**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Front furrow width not adjustable\nCOMPONENT: Cross Shaft\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "cross_shaft_6f1f3e",
+    "fault_id": "fault_front_furrow_width_not_00e8a5a2"
+  },
+  {
+    "symptom": "Scraper does not move up and down",
+    "machine_family": "Tractor",
+    "component": "Scraper",
+    "branches": [
+      {
+        "question": "Is the nut of the eye bolt tightened?",
+        "yes_next": "Check if the shank is properly aligned with the disc",
+        "no_next": "Adjust the nut"
+      },
+      {
+        "question": "Is the shank properly aligned with the disc?",
+        "yes_next": "Check if the disc is properly aligned with the shank",
+        "no_next": "Adjust the shank"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**H Adjusting disc scraper**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Scraper does not move up and down\nCOMPONENT: Scraper\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "scraper_12a960",
+    "fault_id": "fault_scraper_does_not_move_a846820e"
+  },
+  {
+    "symptom": "Disc plough does not cut the soil properly",
+    "machine_family": "Tractor",
+    "component": "Disc Plough",
+    "branches": [
+      {
+        "question": "Are the disc edges sharp?",
+        "yes_next": "Check the disc tilt angle",
+        "no_next": "Check for any blockages or misalignment"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 1: **Adjustment of disc plough, seed drill, harrow and culivator**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Disc plough does not cut the soil properly\nCOMPONENT: Disc Plough\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "disc_plough_ca3bd1",
+    "fault_id": "fault_disc_plough_does_not_60fd328d"
+  },
+  {
+    "symptom": "Disc harrow does not throw the soil properly",
+    "machine_family": "Tractor",
+    "component": "Disc Harrow",
+    "branches": [
+      {
+        "question": "Is the disc gang aligned?",
+        "yes_next": "Check the free rotation of the gang",
+        "no_next": "Check for any blockages or misalignment"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 1: **Adjustment of disc plough, seed drill, harrow and culivator**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Disc harrow does not throw the soil properly\nCOMPONENT: Disc Harrow\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "disc_harrow_2a8137",
+    "fault_id": "fault_disc_harrow_does_not_79f76647"
+  },
+  {
+    "symptom": "Cultivator does not penetrate the soil properly",
+    "machine_family": "Tractor",
+    "component": "Cultivator",
+    "branches": [
+      {
+        "question": "Are the shovels adjusted correctly?",
+        "yes_next": "Oil and adjust the tension of spring trips",
+        "no_next": "Check for any worn-out or damaged parts"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 1: **Adjustment of disc plough, seed drill, harrow and culivator**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Cultivator does not penetrate the soil properly\nCOMPONENT: Cultivator\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "cultivator_d1b561",
+    "fault_id": "fault_cultivator_does_not_penetrate_cb020b30"
+  },
+  {
+    "symptom": "Alternator not charging",
+    "machine_family": "Tractor",
+    "component": "Alternator",
+    "branches": [
+      {
+        "question": "Is the brush condition good?",
+        "yes_next": "Check the battery terminals for tightness and cleanliness",
+        "no_next": "Clean the slip rings with fine emery-paper"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**General maintenance of alternator.**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Alternator not charging\nCOMPONENT: Alternator\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "alternator_da9c10",
+    "fault_id": "fault_alternator_not_charging_9e5eca31"
+  },
+  {
+    "symptom": "Motor hums but does not rotate",
+    "machine_family": "Tractor",
+    "component": "Self Starter Motor",
+    "branches": [
+      {
+        "question": "Is the carbon brush worn out?",
+        "yes_next": "Check the brush holder for any signs of wear or damage",
+        "no_next": "Check the brush holder for any signs of wear or damage"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**Requirements**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Motor hums but does not rotate\nCOMPONENT: Self Starter Motor\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "self_starter_a315d4",
+    "fault_id": "fault_motor_hums_but_does_e2de0bb6"
+  },
+  {
+    "symptom": "motor hums but does not rotate",
+    "machine_family": "Generator",
+    "component": "Magnetic Switch",
+    "branches": [
+      {
+        "question": "Is the plunger (1) damaged?",
+        "yes_next": "Check for continuity across magnetic switch terminal (1) and coil case (2).",
+        "no_next": "Check for continuity across magnetic switch terminal (1) and terminal (3)."
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 3: **Inspection Magnetic Switch (Solenoid switch)**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: motor hums but does not rotate\nCOMPONENT: Magnetic Switch\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "magnetic_switch_fd15a9",
+    "fault_id": "fault_motor_hums_but_does_e2de0bb6"
+  },
+  {
+    "symptom": "Pinion remains in",
+    "machine_family": "Generator",
+    "component": "Magnetic Switch",
+    "branches": [
+      {
+        "question": "Is the pinion out?",
+        "yes_next": "Magnetic switch is functioning correctly",
+        "no_next": "Rectify the fault of magnetic switch"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**Hold in Test**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Pinion remains in\nCOMPONENT: Magnetic Switch\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "magnetic_switch_fd15a9",
+    "fault_id": "fault_pinion_remains_in_f6b9bf75"
+  },
+  {
+    "symptom": "Starting motor does not run",
+    "machine_family": "Diesel Engine",
+    "component": "Solenoid Switch",
+    "branches": [
+      {
+        "question": "Are the battery leads connected?",
+        "yes_next": "Check solenoid switch connections",
+        "no_next": "Check battery lead connections"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "**No Load performance test**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Starting motor does not run\nCOMPONENT: Solenoid Switch\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "solenoid_switch_995302",
+    "fault_id": "fault_starting_motor_does_not_2b3b8ded"
+  },
+  {
+    "symptom": "Battery not holding charge",
+    "machine_family": "Generator",
+    "component": "Battery",
+    "branches": [
+      {
+        "question": "Is the room temperature within the specified range?",
+        "yes_next": "Check the battery voltage.",
+        "no_next": "Check the ventilation in the storage area."
+      },
+      {
+        "question": "Is the battery voltage within the specified range?",
+        "yes_next": "Check the battery for any signs of physical damage or corrosion.",
+        "no_next": "Check for corrosion on the battery terminals."
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 1: **Storage batteries**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Battery not holding charge\nCOMPONENT: Battery\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "battery_20c1d1",
+    "fault_id": "fault_battery_not_holding_charge_be24a490"
+  },
+  {
+    "symptom": "Motor hums but does not rotate",
+    "machine_family": "Diesel Engine",
+    "component": "Self Starter",
+    "branches": [
+      {
+        "question": "Is voltage present at self starter (2)?",
+        "yes_next": "Check current flow through self starter (2) with ammeter",
+        "no_next": "Check battery voltage (1)"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 2: **Tracing the circuits**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Motor hums but does not rotate\nCOMPONENT: Self Starter\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "self_starter_b88010",
+    "fault_id": "fault_motor_hums_but_does_e2de0bb6"
+  },
+  {
+    "symptom": "Motor hums but does not rotate",
+    "machine_family": "Tractor",
+    "component": "Fuse",
+    "branches": [
+      {
+        "question": "Does the test lamp light when touching the fuse?",
+        "yes_next": "Check power source and ground connection",
+        "no_next": "Check for short circuit"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 2: **To check  the fuses of all the lighting units**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Motor hums but does not rotate\nCOMPONENT: Fuse\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "fuse_ffe839",
+    "fault_id": "fault_motor_hums_but_does_e2de0bb6"
+  },
+  {
+    "symptom": "Head light does not glow",
+    "machine_family": "Tractor",
+    "component": "Head Light",
+    "branches": [
+      {
+        "question": "Is the head light fuse blown?",
+        "yes_next": "Check the wiring connections",
+        "no_next": "Check the head light bulb"
+      },
+      {
+        "question": "Is the wiring connection loose?",
+        "yes_next": "Tighten the wiring connections",
+        "no_next": "Check the head light switch"
+      },
+      {
+        "question": "Is the head light bulb burned out?",
+        "yes_next": "Replace the bulb",
+        "no_next": "Check the head light switch"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 5: **Focusing of Head Light**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Head light does not glow\nCOMPONENT: Head Light\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "head_light_cf7c18",
+    "fault_id": "fault_head_light_does_not_ab5ebc3e"
+  },
+  {
+    "symptom": "Turn signal light does not glow",
+    "machine_family": "Tractor",
+    "component": "Turn Signal Light",
+    "branches": [
+      {
+        "question": "Is the indicator switch defective?",
+        "yes_next": "Replace the switch",
+        "no_next": "Check the flasher unit"
+      },
+      {
+        "question": "Is the flasher unit defective?",
+        "yes_next": "Replace the unit",
+        "no_next": "Check the wiring connections"
+      },
+      {
+        "question": "Is the wiring connection loose?",
+        "yes_next": "Tighten the wiring connections",
+        "no_next": "Check the fuse"
+      },
+      {
+        "question": "Is the fuse blown?",
+        "yes_next": "Replace the fuse",
+        "no_next": "Check the wiring connections again"
+      }
+    ],
+    "manual_source": "Part_2_Mechanic_Tractor-Volume_II_of_II-TP.pdf",
+    "source_section": "TASK 5: **Focusing of Head Light**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Turn signal light does not glow\nCOMPONENT: Turn Signal Light\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "turn_signal_53ec36",
+    "fault_id": "fault_turn_signal_light_does_4f6f0c66"
+  },
+  {
+    "symptom": "Tractor shakes while in motion",
+    "machine_family": "Tractor",
+    "component": "Transmission Gears and Shafts",
+    "branches": [
+      {
+        "question": "Is the transmission gear cover loose?",
+        "yes_next": "Check the transmission gears for wear",
+        "no_next": "Check the front wheel hubs for wear"
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "PRODUCT RANGE",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Tractor shakes while in motion\nCOMPONENT: Transmission Gears and Shafts\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "transmission_gears_bdb176",
+    "fault_id": "fault_tractor_shakes_while_in_663d4c35"
+  },
+  {
+    "symptom": "Engine oil leaks from the main oil seal area",
+    "machine_family": "Diesel Engine",
+    "component": "Main Oil Seal",
+    "branches": [
+      {
+        "question": "Is the main oil seal worn or damaged?",
+        "yes_next": "Replace the main oil seal with a new one",
+        "no_next": "Check for any other possible causes of the oil leak"
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "The Name that give Satisfaction",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Engine oil leaks from the main oil seal area\nCOMPONENT: Main Oil Seal\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "main_oil_d66eaa",
+    "fault_id": "fault_engine_oil_leaks_from_1b7db71c"
+  },
+  {
+    "symptom": "Engine does not rotate",
+    "machine_family": "Diesel Engine",
+    "component": "Crank Gear",
+    "branches": [
+      {
+        "question": "Is the crank gear loose?",
+        "yes_next": "Check for any obstructions or damage to the crank gear or its mounting surface.",
+        "no_next": "Inspect the crank gear for any signs of wear or damage."
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "ASW",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Engine does not rotate\nCOMPONENT: Crank Gear\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "crank_gear_8079d6",
+    "fault_id": "fault_engine_does_not_rotate_c02ce084"
+  },
+  {
+    "symptom": "Rocker arm does not move",
+    "machine_family": "Diesel Engine",
+    "component": "Rocker Shaft",
+    "branches": [
+      {
+        "question": "Is the rocker shaft loose?",
+        "yes_next": "Check for any obstructions or damage to the rocker shaft or its mounting surface.",
+        "no_next": "Inspect the rocker shaft for any signs of wear or damage."
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "ASW",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Rocker arm does not move\nCOMPONENT: Rocker Shaft\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "rocker_shaft_05bd79",
+    "fault_id": "fault_rocker_arm_does_not_784aea39"
+  },
+  {
+    "symptom": "Engine stalls or misfires",
+    "machine_family": "Diesel Engine",
+    "component": "Piston Pin Lock",
+    "branches": [
+      {
+        "question": "Is the piston pin lock worn or damaged?",
+        "yes_next": "Replace the piston pin lock with a new one.",
+        "no_next": "Check for any other possible causes."
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "ASW",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Engine stalls or misfires\nCOMPONENT: Piston Pin Lock\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "piston_pin_a10d8a",
+    "fault_id": "fault_engine_stalls_or_misfires_ba42457d"
+  },
+  {
+    "symptom": "Engine knocks or clatters",
+    "machine_family": "Diesel Engine",
+    "component": "Con. Rod Bush",
+    "branches": [
+      {
+        "question": "Is the con rod bush worn or damaged?",
+        "yes_next": "Replace the con rod bush with a new one.",
+        "no_next": "Check for any other possible causes."
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "ASW",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Engine knocks or clatters\nCOMPONENT: Con. Rod Bush\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "con_rod_aa2002",
+    "fault_id": "fault_engine_knocks_or_clatters_7bc1ab99"
+  },
+  {
+    "symptom": "Engine overpressurizes or leaks",
+    "machine_family": "Diesel Engine",
+    "component": "Relief Valve",
+    "branches": [
+      {
+        "question": "Is the relief valve faulty?",
+        "yes_next": "Replace the relief valve with a new one.",
+        "no_next": "Check for any other possible causes."
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "ASW",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Engine overpressurizes or leaks\nCOMPONENT: Relief Valve\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "relief_valve_2e1f12",
+    "fault_id": "fault_engine_overpressurizes_or_leaks_50a33d56"
+  },
+  {
+    "symptom": "Throttle linkage and fuel cut off assay not working",
+    "machine_family": "Diesel Engine",
+    "component": "Fuel Cut Off Assay",
+    "branches": [
+      {
+        "question": "Is the fuel cut off assay wiring damaged or corroded?",
+        "yes_next": "Check fuel cut off assay electrical circuit",
+        "no_next": "Check throttle linkage adjustment"
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "ASW",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Throttle linkage and fuel cut off assay not working\nCOMPONENT: Fuel Cut Off Assay\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "fuel_cut_2dfc27",
+    "fault_id": "fault_throttle_linkage_and_fuel_dd873337"
+  },
+  {
+    "symptom": "Clutch plate 11\" W/O SPRING does not engage",
+    "machine_family": "Tractor",
+    "component": "Clutch",
+    "branches": [
+      {
+        "question": "Is the clutch release bearing worn out?",
+        "yes_next": "Replace the clutch release bearing",
+        "no_next": "Inspect the clutch plate for wear and damage"
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "ASW",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Clutch plate 11\" W/O SPRING does not engage\nCOMPONENT: Clutch\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "clutch_22275a",
+    "fault_id": "fault_clutch_plate_11_wo_2cdb19c1"
+  },
+  {
+    "symptom": "Brake disc 735 does not rotate",
+    "machine_family": "Tractor",
+    "component": "Brake",
+    "branches": [
+      {
+        "question": "Are the brake pads worn out?",
+        "yes_next": "Replace the brake pads",
+        "no_next": "Check the brake caliper for wear"
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "ASW",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Brake disc 735 does not rotate\nCOMPONENT: Brake\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "brake_b4628a",
+    "fault_id": "fault_brake_disc_735_does_9382ebbb"
+  },
+  {
+    "symptom": "Motor hums but does not rotate",
+    "machine_family": "Rotavator",
+    "component": "Shifting Fork",
+    "branches": [
+      {
+        "question": "Is the shifting fork damaged or worn?",
+        "yes_next": "Replace shifting fork",
+        "no_next": "Check shifting fork for proper alignment"
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "ASW",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Motor hums but does not rotate\nCOMPONENT: Shifting Fork\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "shifting_fork_e561a8",
+    "fault_id": "fault_motor_hums_but_does_e2de0bb6"
+  },
+  {
+    "symptom": "Clutch fork does not engage",
+    "machine_family": "Rotavator",
+    "component": "Clutch Fork",
+    "branches": [
+      {
+        "question": "Is the clutch fork damaged or worn?",
+        "yes_next": "Replace clutch fork",
+        "no_next": "Check clutch fork for proper adjustment"
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "ASW",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Clutch fork does not engage\nCOMPONENT: Clutch Fork\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "clutch_fork_4ee2f9",
+    "fault_id": "fault_clutch_fork_does_not_715391e1"
+  },
+  {
+    "symptom": "Gear box ball does not rotate",
+    "machine_family": "Rotavator",
+    "component": "Gear Box Ball",
+    "branches": [
+      {
+        "question": "Is the gear box ball damaged or worn?",
+        "yes_next": "Replace gear box ball",
+        "no_next": "Check gear box ball for proper installation"
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "ASW",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Gear box ball does not rotate\nCOMPONENT: Gear Box Ball\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "gear_box_f42ea6",
+    "fault_id": "fault_gear_box_ball_does_ff9882ac"
+  },
+  {
+    "symptom": "Front wheel does not rotate",
+    "machine_family": "Rotavator",
+    "component": "Front Axle Bracket",
+    "branches": [
+      {
+        "question": "Is the front axle bracket loose?",
+        "yes_next": "Check the front axle bracket bolts for any signs of damage or wear.",
+        "no_next": "Check the spindle arm for any signs of damage or wear."
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "ASW",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Front wheel does not rotate\nCOMPONENT: Front Axle Bracket\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "front_axle_e2b1fc",
+    "fault_id": "fault_front_wheel_does_not_1714a7d9"
+  },
+  {
+    "symptom": "Steering shaft is not rotating",
+    "machine_family": "Rotavator",
+    "component": "Steering Shaft",
+    "branches": [
+      {
+        "question": "Is the steering shaft the correct length?",
+        "yes_next": "Is the steering shaft assembly obstructed?",
+        "no_next": "Is the steering box assembly the correct type?"
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "**STEERING DETAILS**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Steering shaft is not rotating\nCOMPONENT: Steering Shaft\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "steering_shaft_676405",
+    "fault_id": "fault_steering_shaft_is_not_fb089427"
+  },
+  {
+    "symptom": "Gear lever does not shift gears",
+    "machine_family": "Harvester",
+    "component": "Gear Lever",
+    "branches": [
+      {
+        "question": "Is the gear lever pin stuck?",
+        "yes_next": "Check if the gear lever pin is worn out",
+        "no_next": "Check if the gear shift lever is properly aligned"
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "ASW",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Gear lever does not shift gears\nCOMPONENT: Gear Lever\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "gear_lever_1f69eb",
+    "fault_id": "fault_gear_lever_does_not_d0135b4d"
+  },
+  {
+    "symptom": "Gear shift lever does not shift gears",
+    "machine_family": "Harvester",
+    "component": "Gear Shift Lever",
+    "branches": [
+      {
+        "question": "Is the gear shift lever bushing stuck?",
+        "yes_next": "Check if the gear shift lever bushing is worn out",
+        "no_next": "Check if the gear lever is properly aligned"
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "ASW",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Gear shift lever does not shift gears\nCOMPONENT: Gear Shift Lever\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "gear_shift_022fc8",
+    "fault_id": "fault_gear_shift_lever_does_0d5c3d35"
+  },
+  {
+    "symptom": "Bull gear does not rotate",
+    "machine_family": "Rotavator",
+    "component": "Bull Gear",
+    "branches": [
+      {
+        "question": "Is the bull gear properly installed?",
+        "yes_next": "Check if the bull gear is stuck due to rust or corrosion",
+        "no_next": "Inspect the bull gear for any signs of wear or damage"
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "ASW",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Bull gear does not rotate\nCOMPONENT: Bull Gear\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "bull_gear_37102d",
+    "fault_id": "fault_bull_gear_does_not_6eed0b21"
+  },
+  {
+    "symptom": "Bull pinion does not rotate",
+    "machine_family": "Rotavator",
+    "component": "Bull Pinion",
+    "branches": [
+      {
+        "question": "Is the bull pinion properly installed?",
+        "yes_next": "Check if the bull pinion is stuck due to rust or corrosion",
+        "no_next": "Inspect the bull pinion for any signs of wear or damage"
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "ASW",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Bull pinion does not rotate\nCOMPONENT: Bull Pinion\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "bull_pinion_7dd15f",
+    "fault_id": "fault_bull_pinion_does_not_7d9a0d65"
+  },
+  {
+    "symptom": "Spider kit does not rotate",
+    "machine_family": "Rotavator",
+    "component": "Spider Kit",
+    "branches": [
+      {
+        "question": "Is the spider kit properly installed?",
+        "yes_next": "Check if the spider kit is stuck due to rust or corrosion",
+        "no_next": "Inspect the spider kit for any signs of wear or damage"
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "ASW",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Spider kit does not rotate\nCOMPONENT: Spider Kit\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "spider_kit_363e24",
+    "fault_id": "fault_spider_kit_does_not_ee46a82d"
+  },
+  {
+    "symptom": "brake pedal feels spongy",
+    "machine_family": "Hydraulic Unit",
+    "component": "BRAKE ROD",
+    "branches": [
+      {
+        "question": "Is the brake rod seal worn out?",
+        "yes_next": "replace brake rod seal",
+        "no_next": "check for other causes"
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "ASW",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: brake pedal feels spongy\nCOMPONENT: BRAKE ROD\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "brake_rod_bc9907",
+    "fault_id": "fault_brake_pedal_feels_spongy_439685b6"
+  },
+  {
+    "symptom": "Coupler is loose",
+    "machine_family": "Rotavator",
+    "component": "Coupler",
+    "branches": [
+      {
+        "question": "Is the coupler pin worn out?",
+        "yes_next": "Replace the coupler pin with a new one.",
+        "no_next": "Check the coupler for other damage."
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "ASW",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Coupler is loose\nCOMPONENT: Coupler\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "coupler_34bc4d",
+    "fault_id": "fault_coupler_is_loose_871aafaf"
+  },
+  {
+    "symptom": "Draft control rod is damaged",
+    "machine_family": "Rotavator",
+    "component": "Draft control rod",
+    "branches": [
+      {
+        "question": "Is the draft control rod worn out?",
+        "yes_next": "Replace the draft control rod with a new one.",
+        "no_next": "Check the draft control rod for other damage."
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "ASW",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Draft control rod is damaged\nCOMPONENT: Draft control rod\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "draft_control_cfe1f6",
+    "fault_id": "fault_draft_control_rod_is_3b41cfcb"
+  },
+  {
+    "symptom": "Sensor linkage bracket is loose",
+    "machine_family": "Rotavator",
+    "component": "Sensor linkage bracket",
+    "branches": [
+      {
+        "question": "Is the sensor linkage bracket worn out?",
+        "yes_next": "Replace the sensor linkage bracket with a new one.",
+        "no_next": "Check the sensor linkage bracket for other damage."
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "ASW",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Sensor linkage bracket is loose\nCOMPONENT: Sensor linkage bracket\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "sensor_linkage_67ddd8",
+    "fault_id": "fault_sensor_linkage_bracket_is_40a1e810"
+  },
+  {
+    "symptom": "Piston ring is stuck in the cylinder",
+    "machine_family": "Hydraulic Unit",
+    "component": "Piston Ring",
+    "branches": [
+      {
+        "question": "Is the piston ring stuck due to excessive wear?",
+        "yes_next": "Check if the piston ring is worn out",
+        "no_next": "Check if the cylinder is damaged"
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "**HYD. RAM CYLINDER & RELATED COMPONENTS**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Piston ring is stuck in the cylinder\nCOMPONENT: Piston Ring\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "piston_ring_9297be",
+    "fault_id": "fault_piston_ring_is_stuck_ae089e00"
+  },
+  {
+    "symptom": "Piston is stuck in the cylinder",
+    "machine_family": "Hydraulic Unit",
+    "component": "Piston",
+    "branches": [
+      {
+        "question": "Is the piston stuck due to excessive wear?",
+        "yes_next": "Check if the piston is worn out",
+        "no_next": "Check if the cylinder is damaged"
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "**HYD. RAM CYLINDER & RELATED COMPONENTS**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Piston is stuck in the cylinder\nCOMPONENT: Piston\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "piston_912168",
+    "fault_id": "fault_piston_is_stuck_in_bb48b46d"
+  },
+  {
+    "symptom": "Hydraulic lift bush is worn out",
+    "machine_family": "Hydraulic Unit",
+    "component": "Hydraulic Lift Bush",
+    "branches": [
+      {
+        "question": "Is the hydraulic lift bush stuck due to excessive wear?",
+        "yes_next": "Check if the hydraulic lift bush is worn out",
+        "no_next": "Check if the hydraulic lift shaft is damaged"
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "**HYD. RAM CYLINDER & RELATED COMPONENTS**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Hydraulic lift bush is worn out\nCOMPONENT: Hydraulic Lift Bush\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "hydraulic_lift_f15b5a",
+    "fault_id": "fault_hydraulic_lift_bush_is_38c279b5"
+  },
+  {
+    "symptom": "Hydraulic lift shaft bush is worn out",
+    "machine_family": "Hydraulic Unit",
+    "component": "Hyd. LIFT SHAFT BUSH 744 O/E",
+    "branches": [
+      {
+        "question": "Is the hydraulic lift shaft bush stuck?",
+        "yes_next": "Apply lubricant to the hydraulic lift shaft bush and try to remove it again.",
+        "no_next": "Proceed to inspect the hydraulic lift shaft bush for any signs of wear or damage."
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "ASW",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Hydraulic lift shaft bush is worn out\nCOMPONENT: Hyd. LIFT SHAFT BUSH 744 O/E\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "hyd_lift_b904e6",
+    "fault_id": "fault_hydraulic_lift_shaft_bush_277bf8f8"
+  },
+  {
+    "symptom": "Hydraulic lift shaft oil seal is leaking",
+    "machine_family": "Hydraulic Unit",
+    "component": "Hyd. LIFT SHAFT OIL SEAL",
+    "branches": [
+      {
+        "question": "Is the hydraulic lift shaft oil seal stuck?",
+        "yes_next": "Apply lubricant to the hydraulic lift shaft oil seal and try to remove it again.",
+        "no_next": "Proceed to inspect the hydraulic lift shaft oil seal for any signs of wear or damage."
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "ASW",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Hydraulic lift shaft oil seal is leaking\nCOMPONENT: Hyd. LIFT SHAFT OIL SEAL\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "hyd_lift_941771",
+    "fault_id": "fault_hydraulic_lift_shaft_oil_bb617185"
+  },
+  {
+    "symptom": "Lower link does not move",
+    "machine_family": "Rotavator",
+    "component": "Lower Link",
+    "branches": [
+      {
+        "question": "Is the lower link stuck or damaged?",
+        "yes_next": "Check if the lower link is properly installed",
+        "no_next": "Replace the lower link with a new one"
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "ASW",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Lower link does not move\nCOMPONENT: Lower Link\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "lower_link_e1e4ad",
+    "fault_id": "fault_lower_link_does_not_312580ef"
+  },
+  {
+    "symptom": "Lift arm does not move",
+    "machine_family": "Rotavator",
+    "component": "Lift Arm",
+    "branches": [
+      {
+        "question": "Is the lift arm pin stuck or damaged?",
+        "yes_next": "Check if the lift arm pin is properly installed",
+        "no_next": "Replace the lift arm pin with a new one"
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "ASW",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Lift arm does not move\nCOMPONENT: Lift Arm\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "lift_arm_01298f",
+    "fault_id": "fault_lift_arm_does_not_56d622c7"
+  },
+  {
+    "symptom": "Generator does not start",
+    "machine_family": "Generator",
+    "component": "Starting switch",
+    "branches": [
+      {
+        "question": "Is the voltage at the starting switch terminals within specification (230V ±10%)?",
+        "yes_next": "Check the brake switch for continuity (using a multimeter)",
+        "no_next": "Check the wiring harness for damage or corrosion"
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "**ALL HEAD LIGHT & ELECTRICAL PARTS**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Generator does not start\nCOMPONENT: Starting switch\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "starting_switch_ad56a5",
+    "fault_id": "fault_generator_does_not_start_7f5172b9"
+  },
+  {
+    "symptom": "Pump makes a grinding noise",
+    "machine_family": "Tractor",
+    "component": "Hydraulic Pump",
+    "branches": [
+      {
+        "question": "Is the filter clogged?",
+        "yes_next": "Check the filter for any blockages",
+        "no_next": "Check the bearings for any signs of wear"
+      }
+    ],
+    "manual_source": "Swaraj_Tractors.pdf",
+    "source_section": "TERMS OF BUSINESS",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Pump makes a grinding noise\nCOMPONENT: Hydraulic Pump\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "hydraulic_pump_94eea3",
+    "fault_id": "fault_pump_makes_a_grinding_a4a78d95"
+  },
+  {
+    "symptom": "Tractor will not start",
+    "machine_family": "Tractor",
+    "component": "Start Circuit",
+    "branches": [
+      {
+        "question": "Is the starter solenoid voltage present?",
+        "yes_next": "Check battery voltage",
+        "no_next": "Check starter motor"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "After this training you are expected to:",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Tractor will not start\nCOMPONENT: Start Circuit\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "start_circuit_3371ac",
+    "fault_id": "fault_tractor_will_not_start_20ed76aa"
+  },
+  {
+    "symptom": "Gauge shows incorrect fuel level",
+    "machine_family": "Generator",
+    "component": "Fuel Gauge",
+    "branches": [
+      {
+        "question": "Is the fuel gauge sensor voltage within range?",
+        "yes_next": "Check calibration",
+        "no_next": "Check sensor wiring for damage"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "Fuel gauge",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Gauge shows incorrect fuel level\nCOMPONENT: Fuel Gauge\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "fuel_gauge_67aa75",
+    "fault_id": "fault_gauge_shows_incorrect_fuel_bbb6aa53"
+  },
+  {
+    "symptom": "Indicator light stays on even at high engine speed",
+    "machine_family": "Generator",
+    "component": "Battery Charging Indicator",
+    "branches": [
+      {
+        "question": "Is the charging indicator light voltage within range?",
+        "yes_next": "Check charging system wiring for damage",
+        "no_next": "Check light wiring for damage"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "Fuel gauge",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Indicator light stays on even at high engine speed\nCOMPONENT: Battery Charging Indicator\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "battery_charging_981976",
+    "fault_id": "fault_indicator_light_stays_on_c0dcb227"
+  },
+  {
+    "symptom": "Indicator light stays on even at high engine speed",
+    "machine_family": "Generator",
+    "component": "Low Oil Pressure Indicator",
+    "branches": [
+      {
+        "question": "Is the oil pressure sensor voltage within range?",
+        "yes_next": "Check calibration",
+        "no_next": "Check sensor wiring for damage"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "Fuel gauge",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Indicator light stays on even at high engine speed\nCOMPONENT: Low Oil Pressure Indicator\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "low_oil_d0524a",
+    "fault_id": "fault_indicator_light_stays_on_c0dcb227"
+  },
+  {
+    "symptom": "Differential lock pedal is pressed, but wheels do not lock",
+    "machine_family": "Tractor",
+    "component": "Differential Lock Pedal",
+    "branches": [
+      {
+        "question": "Is the pedal pressed far enough?",
+        "yes_next": "Shafts on rear axle lock",
+        "no_next": "Check if shafts on rear axle are functioning"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "Differential lock pedal",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Differential lock pedal is pressed, but wheels do not lock\nCOMPONENT: Differential Lock Pedal\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "differential_lock_e40e13",
+    "fault_id": "fault_differential_lock_pedal_is_5de7f896"
+  },
+  {
+    "symptom": "PTO power not transmitted",
+    "machine_family": "Tractor",
+    "component": "IPTO Clutch",
+    "branches": [
+      {
+        "question": "Is IPTO clutch lever engaged?",
+        "yes_next": "Check if PTO 'ON-OFF' lever is in correct position",
+        "no_next": "Check if IPTO clutch lever is disengaged"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "**IPTO clutch**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: PTO power not transmitted\nCOMPONENT: IPTO Clutch\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "ipto_clutch_d5f725",
+    "fault_id": "fault_pto_power_not_transmitted_bdef1f3d"
+  },
+  {
+    "symptom": "Lever does not move",
+    "machine_family": "Tractor",
+    "component": "Lever",
+    "branches": [
+      {
+        "question": "Is the lever stuck?",
+        "yes_next": "Check for binding or obstruction",
+        "no_next": "Check for worn or damaged linkage"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "Position control lever:",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Lever does not move\nCOMPONENT: Lever\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "lever_ba6e7e",
+    "fault_id": "fault_lever_does_not_move_b28984b5"
+  },
+  {
+    "symptom": "Implement drops suddenly",
+    "machine_family": "Tractor",
+    "component": "Position Control Lever",
+    "branches": [
+      {
+        "question": "Is the Position Control lever moved carefully?",
+        "yes_next": "Implement at maximum height",
+        "no_next": "Implement drops suddenly"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "Is **olating valve**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Implement drops suddenly\nCOMPONENT: Position Control Lever\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "position_control_047eb8",
+    "fault_id": "fault_implement_drops_suddenly_e845253e"
+  },
+  {
+    "symptom": "Draft control lever (C) must be kept in the lower position",
+    "machine_family": "Tractor",
+    "component": "Draft Control Lever",
+    "branches": [
+      {
+        "question": "Is the draft control lever (C) in the lower position?",
+        "yes_next": "Draft control lever (C) is in the correct position",
+        "no_next": "Adjust the draft control lever (C) to the lower position"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "Warning :",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Draft control lever (C) must be kept in the lower position\nCOMPONENT: Draft Control Lever\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "draft_control_dc4c82",
+    "fault_id": "fault_draft_control_lever_c_cf671b62"
+  },
+  {
+    "symptom": "Isolating valve in closed position",
+    "machine_family": "Tractor",
+    "component": "Isolating Valve",
+    "branches": [
+      {
+        "question": "Is the isolating valve in the closed position?",
+        "yes_next": "Isolating valve is in the correct position",
+        "no_next": "Adjust the isolating valve to the closed position"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "Warning :",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Isolating valve in closed position\nCOMPONENT: Isolating Valve\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "isolating_valve_4107ee",
+    "fault_id": "fault_isolating_valve_in_closed_711e30d0"
+  },
+  {
+    "symptom": "Motor hums but does not rotate",
+    "machine_family": "Tractor",
+    "component": "Alternator",
+    "branches": [
+      {
+        "question": "Is the alternator voltage output within specified range?",
+        "yes_next": "Check electrical connections",
+        "no_next": "Replace alternator"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "Maintenance Schedule",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Motor hums but does not rotate\nCOMPONENT: Alternator\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "alternator_da9c10",
+    "fault_id": "fault_motor_hums_but_does_e2de0bb6"
+  },
+  {
+    "symptom": "Coolant is slow to drain",
+    "machine_family": "Tractor",
+    "component": "Drain plug",
+    "branches": [
+      {
+        "question": "Is the drain plug opened?",
+        "yes_next": "Check if the radiator cap is properly seated",
+        "no_next": "Check if the drain plug is properly seated"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "Change coolant",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Coolant is slow to drain\nCOMPONENT: Drain plug\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "drain_plug_d9959f",
+    "fault_id": "fault_coolant_is_slow_to_4716f5a2"
+  },
+  {
+    "symptom": "Pistons rise from B.D.C. to T.D.C.",
+    "machine_family": "Diesel Engine",
+    "component": "Piston",
+    "branches": [
+      {
+        "question": "Is Piston movement within normal operating range?",
+        "yes_next": "Check Air pressure in Cylinder",
+        "no_next": "Check Temperature in Cylinder"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "COMPRESSION STROKE",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Pistons rise from B.D.C. to T.D.C.\nCOMPONENT: Piston\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "piston_912168",
+    "fault_id": "fault_pistons_rise_from_bdc_fe7fe093"
+  },
+  {
+    "symptom": "Cylinder Head is leaking coolant",
+    "machine_family": "Diesel Engine",
+    "component": "Cylinder Head",
+    "branches": [
+      {
+        "question": "Is the Gasket in good condition?",
+        "yes_next": "Proceed to step 3.",
+        "no_next": "Replace the Gasket with a new one."
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "In Direct Combustion Chambers",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Cylinder Head is leaking coolant\nCOMPONENT: Cylinder Head\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "cylinder_head_ddecdc",
+    "fault_id": "fault_cylinder_head_is_leaking_8514b98a"
+  },
+  {
+    "symptom": "Valve does not allow air to enter inside the cylinder",
+    "machine_family": "Diesel Engine",
+    "component": "Inlet Valve",
+    "branches": [
+      {
+        "question": "Is the valve seat clean and undamaged?",
+        "yes_next": "Check the valve stem and guide for any signs of wear",
+        "no_next": "Replace the valve seat"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "VALVES",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Valve does not allow air to enter inside the cylinder\nCOMPONENT: Inlet Valve\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "inlet_valve_d7e0d0",
+    "fault_id": "fault_valve_does_not_allow_fac25da7"
+  },
+  {
+    "symptom": "Valve does not allow exhaust gases to escape",
+    "machine_family": "Diesel Engine",
+    "component": "Exhaust Valve",
+    "branches": [
+      {
+        "question": "Is the valve seat clean and undamaged?",
+        "yes_next": "Check the valve stem and guide for any signs of wear",
+        "no_next": "Replace the valve seat"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "VALVES",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Valve does not allow exhaust gases to escape\nCOMPONENT: Exhaust Valve\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "exhaust_valve_0ba2d5",
+    "fault_id": "fault_valve_does_not_allow_c991f388"
+  },
+  {
+    "symptom": "Camshaft rotates at half the speed of crankshaft",
+    "machine_family": "Tractor",
+    "component": "Camshaft",
+    "branches": [
+      {
+        "question": "Is the timing gear ratio correct?",
+        "yes_next": "Check the cam lobe position",
+        "no_next": "Adjust the timing gear ratio"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "VALVE MECHANISM",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Camshaft rotates at half the speed of crankshaft\nCOMPONENT: Camshaft\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "camshaft_6c8d5a",
+    "fault_id": "fault_camshaft_rotates_at_half_25770588"
+  },
+  {
+    "symptom": "Engine makes unusual noises",
+    "machine_family": "Diesel Engine",
+    "component": "Bimetal Bearings",
+    "branches": [
+      {
+        "question": "Have you checked the bearing surface for damage?",
+        "yes_next": "Proceed to step 2",
+        "no_next": "Check the bearing surface for damage"
+      },
+      {
+        "question": "Is the bearing installation correct?",
+        "yes_next": "Proceed to step 3",
+        "no_next": "Verify the bearing installation for correct torque specification"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "BEARINGS",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Engine makes unusual noises\nCOMPONENT: Bimetal Bearings\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "bimetal_bearings_59a5d0",
+    "fault_id": "fault_engine_makes_unusual_noises_6e38399d"
+  },
+  {
+    "symptom": "Engine noise increased",
+    "machine_family": "Engine",
+    "component": "Piston Rings",
+    "branches": [
+      {
+        "question": "Are piston rings worn?",
+        "yes_next": "Replace piston rings",
+        "no_next": "Check for other causes"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "LUBRICATION SYSTEM",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Engine noise increased\nCOMPONENT: Piston Rings\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "piston_rings_b292ed",
+    "fault_id": "fault_engine_noise_increased_0d91c92a"
+  },
+  {
+    "symptom": "Oil pump not delivering oil",
+    "machine_family": "Diesel Engine",
+    "component": "Oil Pump",
+    "branches": [
+      {
+        "question": "Is the oil filter clogged?",
+        "yes_next": "Check oil pump for faults",
+        "no_next": "Check oil level"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "**LUBRICATION SYSTEM (CONTD..,)**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Oil pump not delivering oil\nCOMPONENT: Oil Pump\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "oil_pump_12c022",
+    "fault_id": "fault_oil_pump_not_delivering_cd9fbc87"
+  },
+  {
+    "symptom": "Gear teeth do not mesh",
+    "machine_family": "Pump",
+    "component": "Gears",
+    "branches": [
+      {
+        "question": "Is oil level within recommended range?",
+        "yes_next": "Check oil inlet for blockage",
+        "no_next": "Check power supply to inner rotor"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "**LUBRICATION SYSTEM (CONTD..,)**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Gear teeth do not mesh\nCOMPONENT: Gears\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "gears_56f3f8",
+    "fault_id": "fault_gear_teeth_do_not_2fdf53aa"
+  },
+  {
+    "symptom": "Engine temperature exceeds limits",
+    "machine_family": "Diesel Engine",
+    "component": "Cooling System",
+    "branches": [
+      {
+        "question": "Is the coolant level at the recommended level?",
+        "yes_next": "Check for leaks in cooling system",
+        "no_next": "Top off coolant level"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "**COOLING SYSTEM**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Engine temperature exceeds limits\nCOMPONENT: Cooling System\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "cooling_system_5c77a6",
+    "fault_id": "fault_engine_temperature_exceeds_limits_2d688b1d"
+  },
+  {
+    "symptom": "Engine overheats",
+    "machine_family": "Diesel Engine",
+    "component": "Water Pump",
+    "branches": [
+      {
+        "question": "Is the water pump pressure within 10-15 bar at 1000 RPM?",
+        "yes_next": "Check for blockages in water flow",
+        "no_next": "Inspect water pump for signs of wear or damage"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "Water Cooling",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Engine overheats\nCOMPONENT: Water Pump\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "water_pump_b17bf0",
+    "fault_id": "fault_engine_overheats_5c8ff87e"
+  },
+  {
+    "symptom": "Impeller shaft vibrates",
+    "machine_family": "Water Pump",
+    "component": "Impeller shaft bearings",
+    "branches": [
+      {
+        "question": "Is bearing condition normal?",
+        "yes_next": "Check vibration level at 1000 RPM",
+        "no_next": "Replace bearings"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "Water Pump",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Impeller shaft vibrates\nCOMPONENT: Impeller shaft bearings\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "impeller_shaft_12e687",
+    "fault_id": "fault_impeller_shaft_vibrates_176ec2f6"
+  },
+  {
+    "symptom": "Engine temperature is low",
+    "machine_family": "Diesel Engine",
+    "component": "Thermostat",
+    "branches": [
+      {
+        "question": "Is the coolant temperature below 85 Deg?",
+        "yes_next": "Check the thermostat for blockage or damage",
+        "no_next": "Check the thermostat for proper function"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "THERMOSTAT",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Engine temperature is low\nCOMPONENT: Thermostat\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "thermostat_c44986",
+    "fault_id": "fault_engine_temperature_is_low_dbf249b5"
+  },
+  {
+    "symptom": "Feed Pump does not draw fuel from Fuel Tank",
+    "machine_family": "Diesel Engine",
+    "component": "Feed Pump",
+    "branches": [
+      {
+        "question": "Is the Fuel Filter clogged?",
+        "yes_next": "Check Feed Pump for mechanical failure",
+        "no_next": ""
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "**FUEL SYSTEM Contd..,**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Feed Pump does not draw fuel from Fuel Tank\nCOMPONENT: Feed Pump\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "feed_pump_62c91a",
+    "fault_id": "fault_feed_pump_does_not_90866bbb"
+  },
+  {
+    "symptom": "Fuel injection pump not working",
+    "machine_family": "Diesel Engine",
+    "component": "Fuel Injection Pump",
+    "branches": [
+      {
+        "question": "Is the fuel pressure gauge reading within specified range?",
+        "yes_next": "Check lubrication oil level and condition",
+        "no_next": "Check governor malfunction"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "**FUEL SYSTEM Contd..,**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Fuel injection pump not working\nCOMPONENT: Fuel Injection Pump\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "fuel_injection_792aeb",
+    "fault_id": "fault_fuel_injection_pump_not_58a05324"
+  },
+  {
+    "symptom": "Engine overheats",
+    "machine_family": "Diesel Engine",
+    "component": "Head Gaskets",
+    "branches": [
+      {
+        "question": "Is the coolant level low?",
+        "yes_next": "Check thermostat operation",
+        "no_next": "Check head gasket condition"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "Other Important Components in an Engine",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Engine overheats\nCOMPONENT: Head Gaskets\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "head_gaskets_d717d5",
+    "fault_id": "fault_engine_overheats_5c8ff87e"
+  },
+  {
+    "symptom": "Gearbox makes grinding noise",
+    "machine_family": "Rotavator",
+    "component": "Gearbox",
+    "branches": [
+      {
+        "question": "Is gear alignment proper?",
+        "yes_next": "Check gear teeth for wear",
+        "no_next": "Inspect gear alignment and meshing"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "TYPES OF GEARS",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Gearbox makes grinding noise\nCOMPONENT: Gearbox\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "gearbox_61a729",
+    "fault_id": "fault_gearbox_makes_grinding_noise_c9543972"
+  },
+  {
+    "symptom": "Differential case does not rotate",
+    "machine_family": "Tractor",
+    "component": "Differential case",
+    "branches": [
+      {
+        "question": "Is the drive pinion secure and free of damage?",
+        "yes_next": "Check the Crown Wheel for any issues",
+        "no_next": "Inspect the differential case for any issues"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "DIFFERENTIAL",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Differential case does not rotate\nCOMPONENT: Differential case\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "differential_case_f481a9",
+    "fault_id": "fault_differential_case_does_not_c7c06b6b"
+  },
+  {
+    "symptom": "Rear axle makes grinding noise",
+    "machine_family": "Tractor",
+    "component": "Bull Pinion Shaft",
+    "branches": [
+      {
+        "question": "Is the bull pinion shaft worn out?",
+        "yes_next": "Replace the bull pinion shaft with a new one",
+        "no_next": "Check for any damage or debris on the bull pinion shaft"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "OPERATION OF AN DIFFERENTIAL",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Rear axle makes grinding noise\nCOMPONENT: Bull Pinion Shaft\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "bull_pinion_ca9c71",
+    "fault_id": "fault_rear_axle_makes_grinding_7ef7aa77"
+  },
+  {
+    "symptom": "Rear axle makes grinding noise",
+    "machine_family": "Tractor",
+    "component": "Crown & Pinion",
+    "branches": [
+      {
+        "question": "Is the crown and pinion worn out?",
+        "yes_next": "Replace the crown and pinion with a new one",
+        "no_next": "Check for any damage or debris on the crown and pinion"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "OPERATION OF AN DIFFERENTIAL",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Rear axle makes grinding noise\nCOMPONENT: Crown & Pinion\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "crown_pinion_1d159d",
+    "fault_id": "fault_rear_axle_makes_grinding_7ef7aa77"
+  },
+  {
+    "symptom": "Rear axle makes grinding noise",
+    "machine_family": "Tractor",
+    "component": "Differential Bevel Gear",
+    "branches": [
+      {
+        "question": "Is the differential bevel gear worn out?",
+        "yes_next": "Replace the differential bevel gear with a new one",
+        "no_next": "Check for any damage or debris on the differential bevel gear"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "OPERATION OF AN DIFFERENTIAL",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Rear axle makes grinding noise\nCOMPONENT: Differential Bevel Gear\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "differential_bevel_f795db",
+    "fault_id": "fault_rear_axle_makes_grinding_7ef7aa77"
+  },
+  {
+    "symptom": "Rear axle makes grinding noise",
+    "machine_family": "Tractor",
+    "component": "Differential Case",
+    "branches": [
+      {
+        "question": "Is the differential case worn out?",
+        "yes_next": "Replace the differential case with a new one",
+        "no_next": "Check for any damage or debris on the differential case"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "OPERATION OF AN DIFFERENTIAL",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Rear axle makes grinding noise\nCOMPONENT: Differential Case\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "differential_case_f481a9",
+    "fault_id": "fault_rear_axle_makes_grinding_7ef7aa77"
+  },
+  {
+    "symptom": "Hydraulic system not functioning",
+    "machine_family": "Tractor",
+    "component": "Hydraulic Pump",
+    "branches": [
+      {
+        "question": "Is the hydraulic pressure gauge reading within the normal range?",
+        "yes_next": "Check Hydraulic Pump for any signs of damage or wear",
+        "no_next": "Check for blockages in hydraulic lines"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "HYDRAULICS",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Hydraulic system not functioning\nCOMPONENT: Hydraulic Pump\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "hydraulic_pump_94eea3",
+    "fault_id": "fault_hydraulic_system_not_functioning_93e3d4a6"
+  },
+  {
+    "symptom": "Oil flow restricted",
+    "machine_family": "Hydraulic Unit",
+    "component": "Primary Filter",
+    "branches": [
+      {
+        "question": "Is the filter housing loose?",
+        "yes_next": "Check for any blockages in the filter housing",
+        "no_next": "Check for any leaks in the filter housing"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "**FILTERS**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Oil flow restricted\nCOMPONENT: Primary Filter\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "primary_filter_f7b96d",
+    "fault_id": "fault_oil_flow_restricted_d6cb76fa"
+  },
+  {
+    "symptom": "Oil pressure drops",
+    "machine_family": "Hydraulic Unit",
+    "component": "Secondary Filter",
+    "branches": [
+      {
+        "question": "Is the filter housing loose?",
+        "yes_next": "Check for any blockages in the filter housing",
+        "no_next": "Check for any leaks in the filter housing"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "**FILTERS**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Oil pressure drops\nCOMPONENT: Secondary Filter\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "secondary_filter_e060e7",
+    "fault_id": "fault_oil_pressure_drops_fde82c46"
+  },
+  {
+    "symptom": "Flow Divider does not divide flow of oil",
+    "machine_family": "Hydraulic Unit",
+    "component": "Flow Divider",
+    "branches": [
+      {
+        "question": "Is the Flow Divider blocked or damaged?",
+        "yes_next": "Replace Flow Divider",
+        "no_next": "Check hydraulic pressure gauge for correct pressure"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "**CONTROL VALVE ASSLY**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Flow Divider does not divide flow of oil\nCOMPONENT: Flow Divider\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "flow_divider_41ac38",
+    "fault_id": "fault_flow_divider_does_not_e6bfee14"
+  },
+  {
+    "symptom": "Compensator Valve does not compensate flow of oil",
+    "machine_family": "Hydraulic Unit",
+    "component": "Compensator Valve",
+    "branches": [
+      {
+        "question": "Is the Compensator Valve blocked or damaged?",
+        "yes_next": "Replace Compensator Valve",
+        "no_next": "Check hydraulic pressure gauge for correct pressure"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "**CONTROL VALVE ASSLY**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Compensator Valve does not compensate flow of oil\nCOMPONENT: Compensator Valve\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "compensator_valve_7cdcd4",
+    "fault_id": "fault_compensator_valve_does_not_bd4b74e3"
+  },
+  {
+    "symptom": "Relief Valve does not release excess pressure",
+    "machine_family": "Hydraulic Unit",
+    "component": "Relief Valve",
+    "branches": [
+      {
+        "question": "Is the Relief Valve blocked or damaged?",
+        "yes_next": "Replace Relief Valve",
+        "no_next": "Check hydraulic pressure gauge for correct pressure"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "**CONTROL VALVE ASSLY**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Relief Valve does not release excess pressure\nCOMPONENT: Relief Valve\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "relief_valve_2e1f12",
+    "fault_id": "fault_relief_valve_does_not_d504a874"
+  },
+  {
+    "symptom": "Non-Return Valve does not allow oil to flow to cylinder",
+    "machine_family": "Hydraulic Unit",
+    "component": "Non-Return Valve",
+    "branches": [
+      {
+        "question": "Is the Non-Return Valve blocked or damaged?",
+        "yes_next": "Replace Non-Return Valve",
+        "no_next": "Check hydraulic pressure gauge for correct pressure"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "**CONTROL VALVE ASSLY**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Non-Return Valve does not allow oil to flow to cylinder\nCOMPONENT: Non-Return Valve\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "nonreturn_valve_7dda14",
+    "fault_id": "fault_nonreturn_valve_does_not_867130cb"
+  },
+  {
+    "symptom": "Thermal Relief Valve does not release excessive pressure",
+    "machine_family": "Hydraulic Unit",
+    "component": "Thermal Relief Valve",
+    "branches": [
+      {
+        "question": "Is the Thermal Relief Valve blocked or damaged?",
+        "yes_next": "Replace Thermal Relief Valve",
+        "no_next": "Check hydraulic pressure gauge for correct pressure"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "**CONTROL VALVE ASSLY**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Thermal Relief Valve does not release excessive pressure\nCOMPONENT: Thermal Relief Valve\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "thermal_relief_f48b4b",
+    "fault_id": "fault_thermal_relief_valve_does_fdd89082"
+  },
+  {
+    "symptom": "Regulator valve not responding",
+    "machine_family": "Hydraulic Unit",
+    "component": "Regulator Valve",
+    "branches": [
+      {
+        "question": "Is the valve spool stuck or damaged?",
+        "yes_next": "Replace valve spool with new one",
+        "no_next": "Check for other causes"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "**FAST SLOW CONTROL ORIFICE FILTER**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Regulator valve not responding\nCOMPONENT: Regulator Valve\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "regulator_valve_6cc3da",
+    "fault_id": "fault_regulator_valve_not_responding_d1f5586d"
+  },
+  {
+    "symptom": "Relief valve not releasing pressure",
+    "machine_family": "Hydraulic Unit",
+    "component": "Relief & Non-Return Valve Position Control Spool",
+    "branches": [
+      {
+        "question": "Is the spool stuck or damaged?",
+        "yes_next": "Replace spool with new one",
+        "no_next": "Check for other causes"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "**FAST SLOW CONTROL ORIFICE FILTER**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Relief valve not releasing pressure\nCOMPONENT: Relief & Non-Return Valve Position Control Spool\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "relief_nonreturn_bb9b79",
+    "fault_id": "fault_relief_valve_not_releasing_145d91ff"
+  },
+  {
+    "symptom": "Draft control not functioning",
+    "machine_family": "Hydraulic Unit",
+    "component": "Draft Control Spool Remote Cylinder",
+    "branches": [
+      {
+        "question": "Is the spool stuck or damaged?",
+        "yes_next": "Replace spool with new one",
+        "no_next": "Check for other causes"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "**FAST SLOW CONTROL ORIFICE FILTER**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Draft control not functioning\nCOMPONENT: Draft Control Spool Remote Cylinder\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "draft_control_a330e2",
+    "fault_id": "fault_draft_control_not_functioning_b49aec11"
+  },
+  {
+    "symptom": "Inlet not supplying hydraulic fluid",
+    "machine_family": "Hydraulic Unit",
+    "component": "Inlet from Pump",
+    "branches": [
+      {
+        "question": "Is the inlet clogged or damaged?",
+        "yes_next": "Replace inlet with new one",
+        "no_next": "Check for other causes"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "**FAST SLOW CONTROL ORIFICE FILTER**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Inlet not supplying hydraulic fluid\nCOMPONENT: Inlet from Pump\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "inlet_from_45db32",
+    "fault_id": "fault_inlet_not_supplying_hydraulic_a5fe8af4"
+  },
+  {
+    "symptom": "Cylinder not extending or retracting",
+    "machine_family": "Hydraulic Unit",
+    "component": "Hydraulic Cylinder",
+    "branches": [
+      {
+        "question": "Is the piston rod stuck or damaged?",
+        "yes_next": "Replace piston rod with new one",
+        "no_next": "Check for other causes"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "**FAST SLOW CONTROL ORIFICE FILTER**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Cylinder not extending or retracting\nCOMPONENT: Hydraulic Cylinder\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "hydraulic_cylinder_d3d4ac",
+    "fault_id": "fault_cylinder_not_extending_or_e62de009"
+  },
+  {
+    "symptom": "Lifting arms do not move",
+    "machine_family": "Rotavator",
+    "component": "Lifting Arms",
+    "branches": [
+      {
+        "question": "Is the tension spring damaged or worn?",
+        "yes_next": "Replace tension spring",
+        "no_next": "Check bell crank mechanism for damage or wear"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "Lifting Arms",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Lifting arms do not move\nCOMPONENT: Lifting Arms\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "lifting_arms_dfcf14",
+    "fault_id": "fault_lifting_arms_do_not_2b3bb0f3"
+  },
+  {
+    "symptom": "Steering wheel rotates but steering arm does not move",
+    "machine_family": "Steering",
+    "component": "Main Nut",
+    "branches": [
+      {
+        "question": "Is the Main Nut loose?",
+        "yes_next": "Check for any obstructions or damage to the Main Nut",
+        "no_next": "Check the Rocker Shaft for any damage or wear"
+      }
+    ],
+    "manual_source": "Tractors_part_all images.pdf",
+    "source_section": "**INNER COLUMN**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Steering wheel rotates but steering arm does not move\nCOMPONENT: Main Nut\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "main_nut_3060c9",
+    "fault_id": "fault_steering_wheel_rotates_but_35c59920"
+  }
+]

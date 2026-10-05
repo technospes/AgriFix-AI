@@ -1,0 +1,680 @@
+[
+  {
+    "symptom": "Motor trips, control panel indicates 'Oil Contamination' or 'Seal Fault'",
+    "problem_description": "Pumped liquid has entered the mechanical seal housing, contaminating the lubricating oil and triggering a sensor.",
+    "likely_causes": [
+      "Failure of the mechanical seal near the impeller",
+      "Damaged O-rings or gaskets in the seal housing"
+    ],
+    "understanding": "The primary seal designed to prevent liquid ingress into the oil chamber has failed, allowing the pumped medium to mix with the lubricating oil, which is detected by the moisture sensor.",
+    "verify": [
+      "Check the oil in the mechanical seal housing for discoloration or presence of water/pumped liquid",
+      "Inspect the mechanical seal for visible damage"
+    ],
+    "repair": [
+      "Replace the failed mechanical seal(s)",
+      "Drain and refill the mechanical seal housing with specified oil"
+    ],
+    "machine_family": "Submersible Pump",
+    "component": "Mechanical Seal",
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "1.2 **The pump comprises of three units :**",
+    "embedding_text": "Motor trips, control panel indicates 'Oil Contamination' or 'Seal Fault' Mechanical Seal Failure of the mechanical seal near the impeller Damaged O-rings or gaskets in the seal housing The primary seal designed to prevent liquid ingress into the oil chamber has failed, allowing the pumped medium to mix with the lubricating oil, which is detected by the moisture sensor. Check the oil in the mechanical seal housing for discoloration or presence of water/pumped liquid Inspect the mechanical seal for visible damage REPAIR PROCEDURES: Flush and Fill Mechanical Seal Oil Chamber",
+    "repair_refs": [
+      "Flush and Fill Mechanical Seal Oil Chamber"
+    ]
+  },
+  {
+    "symptom": "Motor trips, pump stops, control panel indicates 'Dry Run' or 'Low Level'",
+    "problem_description": "The pump is operating without sufficient liquid, leading to potential overheating and damage, and has been shut down by protective controls.",
+    "likely_causes": [
+      "Low liquid level in the well or sump",
+      "Faulty high/low liquid level controllers",
+      "Blocked suction line"
+    ],
+    "understanding": "The pump's level controllers detected an unsafe operating condition (lack of water) and shut down the pump to prevent damage from cavitation or overheating.",
+    "verify": [
+      "Check the liquid level in the well or sump",
+      "Inspect the high/low liquid level controllers for proper operation and connection",
+      "Check the suction line for blockages"
+    ],
+    "repair": [
+      "Restore adequate liquid level in the well/sump",
+      "Repair or replace faulty liquid level controllers",
+      "Clear any blockages in the suction line"
+    ],
+    "machine_family": "Submersible Pump",
+    "component": "Liquid Level Controllers",
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "1.2 **The pump comprises of three units :**",
+    "embedding_text": "Motor trips, pump stops, control panel indicates 'Dry Run' or 'Low Level' Liquid Level Controllers Low liquid level in the well or sump Faulty high/low liquid level controllers Blocked suction line The pump's level controllers detected an unsafe operating condition (lack of water) and shut down the pump to prevent damage from cavitation or overheating. Check the liquid level in the well or sump Inspect the high/low liquid level controllers for proper operation and connection Check the suction line for blockages",
+    "repair_refs": []
+  },
+  {
+    "symptom": "Motor trips, control panel indicates 'Phase Fault' or 'Motor does not start/runs rough'",
+    "problem_description": "The three-phase power supply to the motor is either missing a phase or has an incorrect phase sequence, causing the control panel to trip the motor.",
+    "likely_causes": [
+      "Blown fuse or tripped circuit breaker in one phase",
+      "Loose electrical connection in the power supply circuit",
+      "Utility power supply issue (missing phase)",
+      "Incorrect wiring of motor or control panel"
+    ],
+    "understanding": "The control panel's protection system detects an imbalance or incorrect sequence in the three-phase power supply, which can cause severe motor damage, and initiates a shutdown.",
+    "verify": [
+      "Check all fuses and circuit breakers in the control panel and supply circuit",
+      "Measure voltage across all three phases at the control panel input with a multimeter",
+      "Verify phase sequence if motor runs rough but doesn't trip immediately"
+    ],
+    "repair": [
+      "Replace blown fuses or reset tripped breakers",
+      "Tighten all electrical connections",
+      "Contact utility provider if supply issue",
+      "Correct wiring as per connection diagram"
+    ],
+    "machine_family": "Submersible Pump",
+    "component": "Control Panel",
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "1.2 **The pump comprises of three units :**",
+    "embedding_text": "Motor trips, control panel indicates 'Phase Fault' or 'Motor does not start/runs rough' Control Panel Blown fuse or tripped circuit breaker in one phase Loose electrical connection in the power supply circuit Utility power supply issue (missing phase) The control panel's protection system detects an imbalance or incorrect sequence in the three-phase power supply, which can cause severe motor damage, and initiates a shutdown. Check all fuses and circuit breakers in the control panel and supply circuit Measure voltage across all three phases at the control panel input with a multimeter Verify phase sequence if motor runs rough but doesn't trip immediately",
+    "repair_refs": []
+  },
+  {
+    "symptom": "Motor trips, control panel indicates 'Overload'",
+    "problem_description": "The electric motor is drawing excessive current beyond its rated capacity, indicating it is working too hard or encountering abnormal resistance.",
+    "likely_causes": [
+      "Impeller jammed by foreign object or debris",
+      "Worn or seized motor bearings",
+      "Pump operating against excessive head or closed discharge valve",
+      "Low supply voltage causing increased current draw",
+      "Incorrect motor sizing for application"
+    ],
+    "understanding": "The motor's overload protection detects current exceeding safe limits, which could lead to winding damage, and shuts down the motor.",
+    "verify": [
+      "Attempt to rotate the pump shaft by hand (if accessible) to check for free movement",
+      "Measure the motor's operating current and compare to nameplate FLA",
+      "Check the discharge pressure and flow rate",
+      "Verify supply voltage at the motor terminals"
+    ],
+    "repair": [
+      "Clear any foreign objects jamming the impeller",
+      "Replace worn or seized motor bearings",
+      "Adjust system hydraulics or open discharge valve",
+      "Correct supply voltage issues"
+    ],
+    "machine_family": "Submersible Pump",
+    "component": "Motor",
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "1.2 **The pump comprises of three units :**",
+    "embedding_text": "Motor trips, control panel indicates 'Overload' Motor Impeller jammed by foreign object or debris Worn or seized motor bearings Pump operating against excessive head or closed discharge valve The motor's overload protection detects current exceeding safe limits, which could lead to winding damage, and shuts down the motor. Attempt to rotate the pump shaft by hand (if accessible) to check for free movement Measure the motor's operating current and compare to nameplate FLA Check the discharge pressure and flow rate",
+    "repair_refs": []
+  },
+  {
+    "symptom": "Motor trips, control panel indicates 'Overheat' or 'Thermal Fault'",
+    "problem_description": "The motor windings have exceeded their safe operating temperature, triggering the thermistor protection and causing the control panel to shut down the motor.",
+    "likely_causes": [
+      "Sustained overload condition",
+      "Insufficient cooling around the motor (e.g., pump not fully submerged)",
+      "Low supply voltage",
+      "Single phasing",
+      "Internal motor winding fault"
+    ],
+    "understanding": "The thermistor embedded in the motor windings detects an dangerously high temperature, signaling the control panel to protect the motor from insulation breakdown and permanent damage.",
+    "verify": [
+      "Check for any conditions that could cause motor overload (e.g., jammed impeller, high discharge pressure)",
+      "Ensure the pump is adequately submerged for cooling",
+      "Measure supply voltage at the motor terminals",
+      "Check for single phasing"
+    ],
+    "repair": [
+      "Address the root cause of the overload or heating",
+      "Ensure proper cooling environment for the motor",
+      "Correct supply voltage issues",
+      "Repair or replace motor if internal winding fault is confirmed"
+    ],
+    "machine_family": "Submersible Pump",
+    "component": "Motor",
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "1.2 **The pump comprises of three units :**",
+    "embedding_text": "Motor trips, control panel indicates 'Overheat' or 'Thermal Fault' Motor Sustained overload condition Insufficient cooling around the motor (e.g., pump not fully submerged) Low supply voltage The thermistor embedded in the motor windings detects an dangerously high temperature, signaling the control panel to protect the motor from insulation breakdown and permanent damage. Check for any conditions that could cause motor overload (e.g., jammed impeller, high discharge pressure) Ensure the pump is adequately submerged for cooling Measure supply voltage at the motor terminals",
+    "repair_refs": []
+  },
+  {
+    "symptom": "Water leakage around pump connection",
+    "problem_description": "The farmer observes water dripping or spraying from the joint where the pump's connector unit attaches to its support bracket.",
+    "likely_causes": [
+      "Damaged or improperly seated rubber diaphragm",
+      "Loose connection bolts at the pump connector unit",
+      "Misaligned or damaged guide shoe",
+      "Debris caught in the sealing surface"
+    ],
+    "understanding": "The integrity of the 'leak proof joint' is crucial for pump operation, and any compromise in the rubber diaphragm, guide shoe, or connection tightness will lead to leaks and potential performance issues.",
+    "verify": [
+      "Visually inspect the joint for obvious signs of damage to the rubber diaphragm or misalignment of the guide shoe.",
+      "Attempt to gently tighten the connection bolts to see if the leak stops or reduces."
+    ],
+    "repair": [
+      "De-energize and depressurize the pump. Disassemble the joint, inspect and replace the rubber diaphragm if damaged. Clean sealing surfaces. Reassemble, ensuring the guide shoe is correctly positioned and all bolts are tightened securely."
+    ],
+    "machine_family": "NS Pump",
+    "component": "Pump Connector Unit to Support Bracket Joint",
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "3. **INSTALLATION :**",
+    "embedding_text": "Water leakage around pump connection Pump Connector Unit to Support Bracket Joint Damaged or improperly seated rubber diaphragm Loose connection bolts at the pump connector unit Misaligned or damaged guide shoe The integrity of the 'leak proof joint' is crucial for pump operation, and any compromise in the rubber diaphragm, guide shoe, or connection tightness will lead to leaks and potential performance issues. Visually inspect the joint for obvious signs of damage to the rubber diaphragm or misalignment of the guide shoe. Attempt to gently tighten the connection bolts to see if the leak stops or reduces.",
+    "repair_refs": []
+  },
+  {
+    "symptom": "Excessive pump vibration and noise",
+    "problem_description": "The pump vibrates excessively and makes unusual noises during operation, indicating an unstable foundation or misalignment.",
+    "likely_causes": [
+      "Sump bottom not flat or leveled",
+      "Pump not seated vertically on support bracket"
+    ],
+    "understanding": "An uneven or unlevel sump bottom creates an unstable base, leading to pump misalignment and increased vibration.",
+    "verify": [
+      "Visually inspect the sump bottom for levelness and flatness.",
+      "Use a spirit level to check the pump's verticality on its support bracket."
+    ],
+    "repair": [
+      "Level the sump bottom using appropriate civil engineering methods.",
+      "Re-seat the pump on the support bracket, ensuring it is exactly vertical."
+    ],
+    "machine_family": "Submersible Pump",
+    "component": "Sump Bottom",
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "3.1.1 **Installation of support bracket & bend –**",
+    "embedding_text": "Excessive pump vibration and noise Sump Bottom Sump bottom not flat or leveled Pump not seated vertically on support bracket An uneven or unlevel sump bottom creates an unstable base, leading to pump misalignment and increased vibration. Visually inspect the sump bottom for levelness and flatness. Use a spirit level to check the pump's verticality on its support bracket.",
+    "repair_refs": []
+  },
+  {
+    "symptom": "Pump binds or is difficult to lower/lift",
+    "problem_description": "The pump gets stuck or requires excessive force when being lowered into or lifted from the sump, suggesting an issue with the guide system.",
+    "likely_causes": [
+      "Guide pipe not exactly vertical",
+      "Support bracket and bend not fixed vertically",
+      "Unsupported guide pipe length exceeds 6 m"
+    ],
+    "understanding": "Misalignment or excessive flexibility in the guide pipe system causes the pump's guide shoe to bind, hindering smooth movement.",
+    "verify": [
+      "Use a plumb bob to check the verticality of the guide pipe.",
+      "Measure the unsupported length of the guide pipe."
+    ],
+    "repair": [
+      "Adjust the support bracket and bend to ensure the guide pipe is exactly vertical.",
+      "Add intermediate supports to the guide pipe if its unsupported length exceeds 6 m."
+    ],
+    "machine_family": "Submersible Pump",
+    "component": "Guide Pipe",
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "3.1.1 **Installation of support bracket & bend –**",
+    "embedding_text": "Pump binds or is difficult to lower/lift Guide Pipe Guide pipe not exactly vertical Support bracket and bend not fixed vertically Unsupported guide pipe length exceeds 6 m Misalignment or excessive flexibility in the guide pipe system causes the pump's guide shoe to bind, hindering smooth movement. Use a plumb bob to check the verticality of the guide pipe. Measure the unsupported length of the guide pipe. REPAIR PROCEDURES: Fixing the Guide Pipe",
+    "repair_refs": [
+      "Fixing the Guide Pipe"
+    ]
+  },
+  {
+    "symptom": "Pump fails to start or trips circuit breaker during/after installation",
+    "problem_description": "The pump does not start, or the electrical circuit breaker trips immediately, especially after the pump has been lowered into the sump.",
+    "likely_causes": [
+      "Power cable snagged or pinched during lowering",
+      "Excessive tension on power cable causing internal damage",
+      "Cable insulation damaged"
+    ],
+    "understanding": "Damage to the power cable during installation can lead to short circuits or open circuits, preventing pump operation.",
+    "verify": [
+      "Visually inspect the entire length of the power cable for cuts, pinches, or signs of tension.",
+      "Perform continuity and insulation resistance tests on the power cable (requires specialized tools)."
+    ],
+    "repair": [
+      "Replace the damaged power cable unit.",
+      "Ensure proper cable routing and slack during future lowering operations."
+    ],
+    "machine_family": "Submersible Pump",
+    "component": "Power Cable",
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "3.1.1 **Installation of support bracket & bend –**",
+    "embedding_text": "Pump fails to start or trips circuit breaker during/after installation Power Cable Power cable snagged or pinched during lowering Excessive tension on power cable causing internal damage Cable insulation damaged Damage to the power cable during installation can lead to short circuits or open circuits, preventing pump operation. Visually inspect the entire length of the power cable for cuts, pinches, or signs of tension. Perform continuity and insulation resistance tests on the power cable (requires specialized tools).",
+    "repair_refs": []
+  },
+  {
+    "symptom": "Pump clogs frequently or has reduced water flow",
+    "problem_description": "The pump frequently stops pumping or delivers significantly less water than expected, often accompanied by grinding noises.",
+    "likely_causes": [
+      "Loose solid pieces or other material on bottom of sump",
+      "Impeller damage from foreign objects",
+      "Pump intake blocked"
+    ],
+    "understanding": "Debris in the sump can be drawn into the pump, causing blockages, impeller damage, and reduced performance.",
+    "verify": [
+      "Visually inspect the sump bottom for any debris or foreign objects.",
+      "Check the pump intake for blockages."
+    ],
+    "repair": [
+      "Clean the sump thoroughly, removing all loose solid pieces and debris.",
+      "If impeller damage is suspected, lift the pump and inspect/replace the impeller."
+    ],
+    "machine_family": "Submersible Pump",
+    "component": "Sump Bottom",
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "3.1.1 **Installation of support bracket & bend –**",
+    "embedding_text": "Pump clogs frequently or has reduced water flow Sump Bottom Loose solid pieces or other material on bottom of sump Impeller damage from foreign objects Pump intake blocked Debris in the sump can be drawn into the pump, causing blockages, impeller damage, and reduced performance. Visually inspect the sump bottom for any debris or foreign objects. Check the pump intake for blockages.",
+    "repair_refs": []
+  },
+  {
+    "symptom": "Pump drops during lifting operation",
+    "problem_description": "The pump falls unexpectedly while being lifted, potentially causing severe damage to the pump and posing a safety risk.",
+    "likely_causes": [
+      "Pump lifted using power cables instead of proper lifting chain",
+      "Lifting chain capacity insufficient for pump weight",
+      "Damaged or improperly attached lifting chain"
+    ],
+    "understanding": "Using the power cables for lifting or an undersized chain can lead to catastrophic failure of the lifting mechanism.",
+    "verify": [
+      "Confirm that a lifting chain, not the power cables, was used for lifting.",
+      "Check the lifting chain's rated capacity against the pump's weight."
+    ],
+    "repair": [
+      "Always use a lifting chain with adequate capacity for the pump's weight.",
+      "Never use power cables for lifting the pump.",
+      "Inspect the pump for damage and repair/replace as necessary."
+    ],
+    "machine_family": "Submersible Pump",
+    "component": "Lifting Method",
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "3.1.1 **Installation of support bracket & bend –**",
+    "embedding_text": "Pump drops during lifting operation Lifting Method Pump lifted using power cables instead of proper lifting chain Lifting chain capacity insufficient for pump weight Damaged or improperly attached lifting chain Using the power cables for lifting or an undersized chain can lead to catastrophic failure of the lifting mechanism. Confirm that a lifting chain, not the power cables, was used for lifting. Check the lifting chain's rated capacity against the pump's weight.",
+    "repair_refs": []
+  },
+  {
+    "symptom": "Water leaks at pump discharge flange (portable installation)",
+    "problem_description": "Water is leaking from the connection point where the delivery pipe attaches to the pump casing, specifically in portable setups.",
+    "likely_causes": [
+      "Delivery pipe weight acting directly on pump casing",
+      "Insufficient support for delivery pipeline",
+      "Stress on pump discharge connection"
+    ],
+    "understanding": "Unsupported delivery piping can exert excessive stress on the pump's discharge flange, leading to leaks or casing damage.",
+    "verify": [
+      "Visually inspect the delivery pipeline for independent supports.",
+      "Check for any visible strain or bending at the pump's discharge connection."
+    ],
+    "repair": [
+      "Install additional supports for the delivery pipeline to ensure its weight is not acting on the pump casing directly.",
+      "Tighten or replace the discharge flange gasket if necessary after relieving stress."
+    ],
+    "machine_family": "Submersible Pump",
+    "component": "Delivery Pipe",
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "3.1.1 **Installation of support bracket & bend –**",
+    "embedding_text": "Water leaks at pump discharge flange (portable installation) Delivery Pipe Delivery pipe weight acting directly on pump casing Insufficient support for delivery pipeline Stress on pump discharge connection Unsupported delivery piping can exert excessive stress on the pump's discharge flange, leading to leaks or casing damage. Visually inspect the delivery pipeline for independent supports. Check for any visible strain or bending at the pump's discharge connection.",
+    "repair_refs": []
+  },
+  {
+    "symptom": "Water hammer noise in pipes or pump loses prime",
+    "problem_description": "Loud banging noises are heard in the pipeline when the pump stops, or the pump frequently loses its prime and struggles to restart.",
+    "likely_causes": [
+      "Non-return valve not installed or incorrectly placed",
+      "Backflow of water into pump or sump",
+      "Pressure surges in the delivery line"
+    ],
+    "understanding": "The absence or incorrect placement of a non-return valve allows water to flow back, causing water hammer and loss of prime.",
+    "verify": [
+      "Visually inspect the delivery pipeline to confirm the presence and correct location of a non-return valve (before the sluice valve).",
+      "Check for signs of backflow when the pump stops."
+    ],
+    "repair": [
+      "Install a non-return valve in the delivery pipe line, ensuring it is located before the sluice valve.",
+      "If present, inspect the non-return valve for proper function and repair/replace if faulty."
+    ],
+    "machine_family": "Submersible Pump",
+    "component": "Non-return Valve",
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "3.1.1 **Installation of support bracket & bend –**",
+    "embedding_text": "Water hammer noise in pipes or pump loses prime Non-return Valve Non-return valve not installed or incorrectly placed Backflow of water into pump or sump Pressure surges in the delivery line The absence or incorrect placement of a non-return valve allows water to flow back, causing water hammer and loss of prime. Visually inspect the delivery pipeline to confirm the presence and correct location of a non-return valve (before the sluice valve). Check for signs of backflow when the pump stops.",
+    "repair_refs": []
+  },
+  {
+    "symptom": "Pump making noise and vibrations",
+    "problem_description": "The pump is experiencing unusual sounds and shaking during operation, indicating potential internal issues.",
+    "likely_causes": [
+      "Bearing failure",
+      "Impeller choking",
+      "Casing choking"
+    ],
+    "understanding": "Noise and vibrations are early indicators of mechanical problems such as worn bearings or obstructions within the pump's rotating or stationary components.",
+    "verify": [
+      "Observe pump operation for unusual noise and vibration levels."
+    ],
+    "repair": [],
+    "machine_family": "Water Pump",
+    "component": "Pump",
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "**5.1 Daily checks –**",
+    "embedding_text": "Pump making noise and vibrations Pump Bearing failure Impeller choking Casing choking Noise and vibrations are early indicators of mechanical problems such as worn bearings or obstructions within the pump's rotating or stationary components. Observe pump operation for unusual noise and vibration levels.",
+    "repair_refs": []
+  },
+  {
+    "symptom": "Reduced water output and pressure",
+    "problem_description": "The pump is not delivering the expected volume of water or maintaining sufficient pressure, indicating internal inefficiencies.",
+    "likely_causes": [
+      "Excessive clearance between impeller and casing ring/cover due to wear",
+      "Impeller damaged or worn",
+      "Casing ring or casing cover worn"
+    ],
+    "understanding": "Proper internal clearances are crucial for pump efficiency; excessive clearance allows water to recirculate instead of being pushed forward.",
+    "verify": [
+      "Check pump for unusual noises (e.g., grinding, scraping)",
+      "Measure pump flow rate and pressure against specifications",
+      "Disassemble pump and visually inspect impeller and casing for wear"
+    ],
+    "repair": [
+      "Replace worn impeller, casing ring, or casing cover to restore proper clearances."
+    ],
+    "machine_family": "Water Pump",
+    "component": "Impeller-Casing Clearance",
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "5.3 **Annual checks [after one year minimum] –**",
+    "embedding_text": "Reduced water output and pressure Impeller-Casing Clearance Excessive clearance between impeller and casing ring/cover due to wear Impeller damaged or worn Casing ring or casing cover worn Proper internal clearances are crucial for pump efficiency; excessive clearance allows water to recirculate instead of being pushed forward. Check pump for unusual noises (e.g., grinding, scraping) Measure pump flow rate and pressure against specifications Disassemble pump and visually inspect impeller and casing for wear",
+    "repair_refs": []
+  },
+  {
+    "symptom": "Pump making grinding/scraping noise and overheating",
+    "problem_description": "The pump is producing loud metallic noises and its housing is unusually hot to the touch, potentially leading to motor overload.",
+    "likely_causes": [
+      "Insufficient clearance between impeller and casing due to improper assembly",
+      "Foreign object lodged in pump",
+      "Bearing failure causing shaft misalignment"
+    ],
+    "understanding": "If the impeller rubs against the casing, it generates friction, heat, noise, and can quickly damage components or overload the motor.",
+    "verify": [
+      "Listen for specific grinding or scraping sounds from the pump",
+      "Check motor current draw for overload",
+      "Disassemble pump and inspect impeller and casing for rub marks or foreign objects"
+    ],
+    "repair": [
+      "Clear any foreign objects, replace damaged components, and ensure correct clearances during reassembly."
+    ],
+    "machine_family": "Water Pump",
+    "component": "Impeller-Casing Clearance",
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "5.3 **Annual checks [after one year minimum] –**",
+    "embedding_text": "Pump making grinding/scraping noise and overheating Impeller-Casing Clearance Insufficient clearance between impeller and casing due to improper assembly Foreign object lodged in pump Bearing failure causing shaft misalignment If the impeller rubs against the casing, it generates friction, heat, noise, and can quickly damage components or overload the motor. Listen for specific grinding or scraping sounds from the pump Check motor current draw for overload Disassemble pump and inspect impeller and casing for rub marks or foreign objects",
+    "repair_refs": []
+  },
+  {
+    "symptom": "Premature pump failure or rapid performance degradation",
+    "problem_description": "The pump components are failing much faster than expected, or the pump's performance is declining rapidly, often accompanied by leaks or unusual noises.",
+    "likely_causes": [
+      "Pump components made of unsuitable material for the liquid being pumped",
+      "Highly corrosive or abrasive liquid causing accelerated wear"
+    ],
+    "understanding": "The material of pump components must be resistant to the chemical and physical properties of the liquid handled to ensure longevity and performance.",
+    "verify": [
+      "Inspect disassembled pump components for signs of abnormal corrosion (pitting, discoloration) or erosion (material loss, thinning)",
+      "Review pump specifications and liquid properties to confirm material compatibility"
+    ],
+    "repair": [
+      "Replace corroded/eroded components with parts made from materials specifically designed to withstand the pumped liquid's properties."
+    ],
+    "machine_family": "Water Pump",
+    "component": "Pump Components",
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "5.3 **Annual checks [after one year minimum] –**",
+    "embedding_text": "Premature pump failure or rapid performance degradation Pump Components Pump components made of unsuitable material for the liquid being pumped Highly corrosive or abrasive liquid causing accelerated wear The material of pump components must be resistant to the chemical and physical properties of the liquid handled to ensure longevity and performance. Inspect disassembled pump components for signs of abnormal corrosion (pitting, discoloration) or erosion (material loss, thinning) Review pump specifications and liquid properties to confirm material compatibility REPAIR PROCEDURES: Pump Component Material Suitability Assessment",
+    "repair_refs": [
+      "Pump Component Material Suitability Assessment"
+    ]
+  },
+  {
+    "symptom": "Water leaking from pump shaft",
+    "problem_description": "Water is observed dripping or spraying from the area where the pump shaft exits the pump casing, often near the motor.",
+    "likely_causes": [
+      "Worn mechanical seal faces",
+      "Improperly installed mechanical seal",
+      "Damaged or hardened O-rings around the seal housing",
+      "Excessive shaft runout"
+    ],
+    "understanding": "The mechanical seal is designed to prevent fluid leakage along the rotating shaft. If it's compromised, water will leak.",
+    "verify": [
+      "Visually inspect the seal area for drips or streams while the pump is running.",
+      "Check for signs of wear, scratches, or chips on the mechanical seal faces upon disassembly.",
+      "Inspect O-rings for damage or improper seating."
+    ],
+    "repair": [
+      "Replace the mechanical seal assembly (2300101 or 2300202) and all associated O-rings.",
+      "Ensure the shaft is clean and free of burrs during reassembly.",
+      "Follow manufacturer's installation guidelines carefully."
+    ],
+    "machine_family": "NS Pump",
+    "component": "MECHANICAL SEAL",
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "CROSS SECTIONAL VIEW OF NS PUMP UNIT IV & ABOVE (SDS)",
+    "embedding_text": "Water leaking from pump shaft MECHANICAL SEAL Worn mechanical seal faces Improperly installed mechanical seal Damaged or hardened O-rings around the seal housing The mechanical seal is designed to prevent fluid leakage along the rotating shaft. If it's compromised, water will leak. Visually inspect the seal area for drips or streams while the pump is running. Check for signs of wear, scratches, or chips on the mechanical seal faces upon disassembly. Inspect O-rings for damage or improper seating. REPAIR PROCEDURES: Flush and Fill Mechanical Seal Oil Chamber",
+    "repair_refs": [
+      "Flush and Fill Mechanical Seal Oil Chamber"
+    ]
+  },
+  {
+    "symptom": "Loud grinding or squealing noise from pump",
+    "problem_description": "A distinct grinding, squealing, or rumbling noise is emanating from the pump, often accompanied by vibration or heat.",
+    "likely_causes": [
+      "Worn or damaged bearings",
+      "Lack of lubrication in bearings",
+      "Improper bearing installation (e.g., misalignment, excessive force)",
+      "Contamination inside bearings"
+    ],
+    "understanding": "Bearings support the rotating shaft. When they fail or are improperly installed, friction increases, leading to noise, heat, and eventual seizure.",
+    "verify": [
+      "Listen to the pump with a stethoscope or screwdriver handle to pinpoint the noise source.",
+      "Feel the bearing housing for excessive heat (should be warm, not hot).",
+      "Check for excessive shaft play if accessible.",
+      "Disassemble and inspect bearings for pitting, discoloration, or cage damage."
+    ],
+    "repair": [
+      "Replace all affected bearings (2600101, 2600201, 2600103, 2600105).",
+      "Ensure proper installation techniques are used, avoiding direct impact.",
+      "If applicable, ensure proper lubrication (though no specific type is mentioned)."
+    ],
+    "machine_family": "NS Pump",
+    "component": "BEARING",
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "CROSS SECTIONAL VIEW OF NS PUMP UNIT IV & ABOVE (SDS)",
+    "embedding_text": "Loud grinding or squealing noise from pump BEARING Worn or damaged bearings Lack of lubrication in bearings Improper bearing installation (e.g., misalignment, excessive force) Bearings support the rotating shaft. When they fail or are improperly installed, friction increases, leading to noise, heat, and eventual seizure. Listen to the pump with a stethoscope or screwdriver handle to pinpoint the noise source. Feel the bearing housing for excessive heat (should be warm, not hot). Check for excessive shaft play if accessible.",
+    "repair_refs": []
+  },
+  {
+    "symptom": "Reduced pump flow or pressure",
+    "problem_description": "The pump is running but delivering significantly less water or at a lower pressure than expected.",
+    "likely_causes": [
+      "Impeller loose on shaft due to improper fastening or damaged key",
+      "Excessive impeller-to-casing clearance",
+      "Damaged or worn impeller vanes",
+      "Cavitation due to air ingress or suction issues"
+    ],
+    "understanding": "The impeller is responsible for moving the fluid. If it's not securely attached, damaged, or has incorrect clearances, its ability to pump effectively is compromised.",
+    "verify": [
+      "Listen for rattling or grinding noises indicating a loose impeller.",
+      "Check for excessive vibration.",
+      "Upon disassembly, inspect the impeller (1530001) for damage, and verify the key (3200001) and lock nut (3300001) are secure and undamaged.",
+      "Check impeller clearance to pump casing."
+    ],
+    "repair": [
+      "Re-secure the impeller using a new key and lock nut if necessary, ensuring proper torque.",
+      "Replace damaged impeller.",
+      "Adjust impeller clearance if adjustable and out of specification."
+    ],
+    "machine_family": "NS Pump",
+    "component": "SEMI OPEN IMPELLER",
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "CROSS SECTIONAL VIEW OF NS PUMP UNIT IV & ABOVE (SDS)",
+    "embedding_text": "Reduced pump flow or pressure SEMI OPEN IMPELLER Impeller loose on shaft due to improper fastening or damaged key Excessive impeller-to-casing clearance Damaged or worn impeller vanes The impeller is responsible for moving the fluid. If it's not securely attached, damaged, or has incorrect clearances, its ability to pump effectively is compromised. Listen for rattling or grinding noises indicating a loose impeller. Check for excessive vibration. Upon disassembly, inspect the impeller (1530001) for damage, and verify the key (3200001) and lock nut (3300001) are secure and undamaged.",
+    "repair_refs": []
+  },
+  {
+    "symptom": "Water leaking from pump joints",
+    "problem_description": "Water is observed leaking from various bolted joints or plugs on the pump casing or housing.",
+    "likely_causes": [
+      "Damaged O-rings at the joint",
+      "Improperly seated O-rings",
+      "O-rings hardened or lost elasticity over time",
+      "Loose fasteners at the joint"
+    ],
+    "understanding": "O-rings create a static seal between non-moving parts. If they are compromised or improperly installed, the seal fails, leading to leakage.",
+    "verify": [
+      "Visually inspect all joints for signs of leakage.",
+      "Upon disassembly, inspect the O-rings for cuts, nicks, flattening, or signs of chemical degradation.",
+      "Check if O-rings are correctly seated in their grooves."
+    ],
+    "repair": [
+      "Replace all affected O-rings with new ones of the correct part number.",
+      "Ensure mating surfaces are clean and free of burrs.",
+      "Lubricate O-rings lightly before installation and ensure proper seating.",
+      "Tighten fasteners to manufacturer's specifications."
+    ],
+    "machine_family": "NS Pump",
+    "component": "O-RING",
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "CROSS SECTIONAL VIEW OF NS PUMP UNIT IV & ABOVE (SDS)",
+    "embedding_text": "Water leaking from pump joints O-RING Damaged O-rings at the joint Improperly seated O-rings O-rings hardened or lost elasticity over time O-rings create a static seal between non-moving parts. If they are compromised or improperly installed, the seal fails, leading to leakage. Visually inspect all joints for signs of leakage. Upon disassembly, inspect the O-rings for cuts, nicks, flattening, or signs of chemical degradation. Check if O-rings are correctly seated in their grooves.",
+    "repair_refs": []
+  },
+  {
+    "symptom": "Motor not starting or tripping breaker",
+    "problem_description": "The pump motor either fails to start when power is applied, or it starts briefly and then immediately trips the circuit breaker or overload protection.",
+    "likely_causes": [
+      "Incorrect wiring at the terminal board",
+      "Loose or corroded electrical connections",
+      "Short circuit in the motor winding or cable",
+      "Water ingress into the motor housing via a faulty cable gland or seal",
+      "Faulty moisture sensor causing a trip"
+    ],
+    "understanding": "Electrical components require precise connections and protection. Any fault in wiring, sealing, or component integrity can prevent operation or cause safety trips.",
+    "verify": [
+      "Check all terminal board connections for tightness and correct wiring (refer to manufacturer's diagram if available).",
+      "Inspect the cable gland (9100101, 9100201) for proper sealing and signs of water ingress.",
+      "Use a multimeter to check for continuity and insulation resistance of the motor windings and cable.",
+      "Check the moisture sensor (9320001, 9320203) for proper connection and sealing."
+    ],
+    "repair": [
+      "Correct any wiring errors or tighten loose connections.",
+      "Replace damaged cables or terminal board components.",
+      "Re-seal or replace faulty cable glands and O-rings.",
+      "Replace faulty moisture sensor."
+    ],
+    "machine_family": "NS Pump",
+    "component": "CABLE GLAND / TERMINAL BOARD / MOISTURE SENSOR",
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "CROSS SECTIONAL VIEW OF NS PUMP UNIT IV & ABOVE (SDS)",
+    "embedding_text": "Motor not starting or tripping breaker CABLE GLAND / TERMINAL BOARD / MOISTURE SENSOR Incorrect wiring at the terminal board Loose or corroded electrical connections Short circuit in the motor winding or cable Electrical components require precise connections and protection. Any fault in wiring, sealing, or component integrity can prevent operation or cause safety trips. Check all terminal board connections for tightness and correct wiring (refer to manufacturer's diagram if available). Inspect the cable gland (9100101, 9100201) for proper sealing and signs of water ingress. Use a multimeter to check for continuity and insulation resistance of the motor windings and cable.",
+    "repair_refs": []
+  },
+  {
+    "symptom": "Excessive pump vibration and noise",
+    "problem_description": "The pump is vibrating more than usual and producing rattling or clunking noises, especially from bolted sections.",
+    "likely_causes": [
+      "Loose nuts, studs, or screws securing pump components",
+      "Missing washers, especially spring washers",
+      "Damaged threads preventing proper tightening",
+      "Component misalignment due to loose fasteners"
+    ],
+    "understanding": "Fasteners hold the pump assembly together. If they are not properly tightened, components can move, vibrate, and cause damage or leakage.",
+    "verify": [
+      "Visually inspect all external nuts, studs, and screws for looseness.",
+      "Attempt to tighten accessible fasteners with a wrench; if they turn easily, they were loose.",
+      "Check for missing washers or signs of stripped threads."
+    ],
+    "repair": [
+      "Tighten all loose fasteners to the manufacturer's specified torque (if available, otherwise to general engineering practice).",
+      "Replace any stripped or damaged fasteners and their corresponding washers.",
+      "Ensure all components are properly aligned before final tightening."
+    ],
+    "machine_family": "NS Pump",
+    "component": "HEX NUT / STUD / HEX SOC CAP SCREW",
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "CROSS SECTIONAL VIEW OF NS PUMP UNIT IV & ABOVE (SDS)",
+    "embedding_text": "Excessive pump vibration and noise HEX NUT / STUD / HEX SOC CAP SCREW Loose nuts, studs, or screws securing pump components Missing washers, especially spring washers Damaged threads preventing proper tightening Fasteners hold the pump assembly together. If they are not properly tightened, components can move, vibrate, and cause damage or leakage. Visually inspect all external nuts, studs, and screws for looseness. Attempt to tighten accessible fasteners with a wrench; if they turn easily, they were loose. Check for missing washers or signs of stripped threads.",
+    "repair_refs": []
+  },
+  {
+    "symptom": "Oil contamination LED is on",
+    "problem_description": "Moisture or water has entered the oil chamber of the pump.",
+    "likely_causes": [
+      "Ingress of moisture or water into oil of the oil chamber"
+    ],
+    "understanding": "The control panel's moisture sensing circuit has detected contamination, causing the motor to trip to prevent damage.",
+    "verify": [],
+    "repair": [],
+    "machine_family": "Submersible Pump",
+    "component": "Oil Chamber",
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "11 **ANNEXURE: CONTROL PANEL SPECIFICATIONS**",
+    "embedding_text": "Oil contamination LED is on Oil Chamber Ingress of moisture or water into oil of the oil chamber The control panel's moisture sensing circuit has detected contamination, causing the motor to trip to prevent damage.",
+    "repair_refs": []
+  },
+  {
+    "symptom": "Low liquid level LED is on",
+    "problem_description": "The liquid level around the pump is below the low-level probe.",
+    "likely_causes": [
+      "Low liquid level"
+    ],
+    "understanding": "The control panel's liquid level controller has detected a low liquid level, tripping the pump to prevent dry running.",
+    "verify": [],
+    "repair": [],
+    "machine_family": "Submersible Pump",
+    "component": "Liquid Level Controller",
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "11 **ANNEXURE: CONTROL PANEL SPECIFICATIONS**",
+    "embedding_text": "Low liquid level LED is on Liquid Level Controller Low liquid level The control panel's liquid level controller has detected a low liquid level, tripping the pump to prevent dry running.",
+    "repair_refs": []
+  },
+  {
+    "symptom": "High temperature of the motor winding LED is on",
+    "problem_description": "The motor winding temperature has exceeded safe operating limits.",
+    "likely_causes": [
+      "High winding temperature"
+    ],
+    "understanding": "The control panel's thermistor relay has detected high winding temperature, tripping the motor to prevent damage.",
+    "verify": [],
+    "repair": [],
+    "machine_family": "Submersible Pump",
+    "component": "Motor Winding",
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "11 **ANNEXURE: CONTROL PANEL SPECIFICATIONS**",
+    "embedding_text": "High temperature of the motor winding LED is on Motor Winding High winding temperature The control panel's thermistor relay has detected high winding temperature, tripping the motor to prevent damage.",
+    "repair_refs": []
+  },
+  {
+    "symptom": "Low/High Voltage / Rev. Phasing / single phasing LED is on",
+    "problem_description": "The electrical supply to the motor has an issue with voltage, phase sequence, or phase loss.",
+    "likely_causes": [
+      "Low Voltage",
+      "High Voltage",
+      "Reverse Phasing",
+      "Single Phasing"
+    ],
+    "understanding": "The control panel has detected an electrical supply fault, tripping the motor to prevent damage to the motor.",
+    "verify": [],
+    "repair": [],
+    "machine_family": "Submersible Pump",
+    "component": "Electrical Supply",
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "11 **ANNEXURE: CONTROL PANEL SPECIFICATIONS**",
+    "embedding_text": "Low/High Voltage / Rev. Phasing / single phasing LED is on Electrical Supply Low Voltage High Voltage Reverse Phasing The control panel has detected an electrical supply fault, tripping the motor to prevent damage to the motor.",
+    "repair_refs": []
+  },
+  {
+    "symptom": "Over loading of motor LED is on",
+    "problem_description": "The motor is drawing excessive current beyond its rated capacity.",
+    "likely_causes": [
+      "Overload"
+    ],
+    "understanding": "The control panel's thermal overload relay has detected an overload condition, tripping the motor to prevent damage.",
+    "verify": [],
+    "repair": [],
+    "machine_family": "Submersible Pump",
+    "component": "Motor",
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "11 **ANNEXURE: CONTROL PANEL SPECIFICATIONS**",
+    "embedding_text": "Over loading of motor LED is on Motor Overload The control panel's thermal overload relay has detected an overload condition, tripping the motor to prevent damage.",
+    "repair_refs": []
+  }
+]

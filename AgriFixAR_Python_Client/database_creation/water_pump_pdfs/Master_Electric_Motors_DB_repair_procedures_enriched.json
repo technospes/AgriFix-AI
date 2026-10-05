@@ -1,0 +1,198 @@
+[
+  {
+    "procedure": "Lowering the Pump Assembly",
+    "component": "Pump",
+    "machine_family": "Submersible Pump",
+    "steps": [
+      "Attach the guide shoe & guide pipe adapter to the pump.",
+      "Insert the above assembly in the guide pipe by dismantling the guide pipe holder & refit the holder in the guide pipe.",
+      "Lower the pump with the help of chain. While sliding over the guide pipe into the sump, check that the cable is not sagging and is not under tension."
+    ],
+    "tools": [
+      "Lifting chain with intermediate hooks"
+    ],
+    "expected_result": "Pump is smoothly lowered into the sump, seated on its support bracket, with the power cable free of sag and tension.",
+    "safety_warnings": [
+      "DO NOT LIFT THE PUMP WITH THE HELP OF CABLES.",
+      "Ensure lifting chain capacity is adequate for pump weight."
+    ],
+    "part_numbers": [],
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "3.1.1 **Installation of support bracket & bend –**",
+    "embedding_text": "Lowering the Pump Assembly Pump Attach the guide shoe & guide pipe adapter to the pump. Insert the above assembly in the guide pipe by dismantling the guide pipe holder & refit the holder in the guide pipe. Lower the pump with the help of chain. While sliding over the guide pipe into the sump, check that the cable is not sagging and is not under tension."
+  },
+  {
+    "procedure": "Fixing the Guide Pipe",
+    "component": "Guide Pipe",
+    "machine_family": "Submersible Pump",
+    "steps": [
+      "Fix the guide pipe in the support bracket.",
+      "Locate the vertical position of guide pipe holder at the top of the pit.",
+      "Grout the guide pipe holder."
+    ],
+    "tools": [
+      "Plumb bob",
+      "Spirit level",
+      "Grouting materials"
+    ],
+    "expected_result": "Guide pipe is securely fixed in the support bracket and its holder is grouted, ensuring exact verticality.",
+    "safety_warnings": [],
+    "part_numbers": [],
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "3.1.1 **Installation of support bracket & bend –**",
+    "embedding_text": "Fixing the Guide Pipe Guide Pipe Fix the guide pipe in the support bracket. Locate the vertical position of guide pipe holder at the top of the pit. Grout the guide pipe holder."
+  },
+  {
+    "procedure": "Pre-commissioning Pump Installation Checks",
+    "component": "Pump & Sump",
+    "machine_family": "Submersible Pump",
+    "steps": [
+      "Ensure that the pump position is exactly vertical on the support bracket. Check by giving a jerk.",
+      "Before taking the pumping station into use, check that there are no loose solid pieces or other material on bottom of sump that would damage the pump."
+    ],
+    "tools": [
+      "Spirit level",
+      "Visual inspection"
+    ],
+    "expected_result": "Pump is vertically stable on its support, and the sump is clear of debris, ready for operation.",
+    "safety_warnings": [],
+    "part_numbers": [],
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "3.1.1 **Installation of support bracket & bend –**",
+    "embedding_text": "Pre-commissioning Pump Installation Checks Pump & Sump Ensure that the pump position is exactly vertical on the support bracket. Check by giving a jerk. Before taking the pumping station into use, check that there are no loose solid pieces or other material on bottom of sump that would damage the pump."
+  },
+  {
+    "procedure": "Flush and Fill Mechanical Seal Oil Chamber",
+    "component": "Mechanical Seal",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Flush the mechanical seal oil chamber.",
+      "Heat fresh oil [Servo system 317] to 140°C to remove moisture.",
+      "Fill the oil chamber with the heated fresh oil."
+    ],
+    "tools": [],
+    "expected_result": "Oil chamber filled with clean, moisture-free lubricant.",
+    "safety_warnings": [],
+    "part_numbers": [
+      "Servo system 317"
+    ],
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "5.2 **Periodical checks –**",
+    "embedding_text": "Flush and Fill Mechanical Seal Oil Chamber Mechanical Seal Flush the mechanical seal oil chamber. Heat fresh oil [Servo system 317] to 140°C to remove moisture. Fill the oil chamber with the heated fresh oil."
+  },
+  {
+    "procedure": "Clean Electrodes/Float Switches",
+    "component": "Electrodes, Float Switches",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Clean the electrodes/float switches whenever possible but not later than 15 days for smooth working of pump."
+    ],
+    "tools": [],
+    "expected_result": "Smooth working of pump.",
+    "safety_warnings": [],
+    "part_numbers": [],
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "5.2 **Periodical checks –**",
+    "embedding_text": "Clean Electrodes/Float Switches Electrodes, Float Switches Clean the electrodes/float switches whenever possible but not later than 15 days for smooth working of pump."
+  },
+  {
+    "procedure": "Clean Sump",
+    "component": "Sump",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Clean the sump if there are chances of deposition of the contents of liquid handled."
+    ],
+    "tools": [],
+    "expected_result": "Sump free of depositions.",
+    "safety_warnings": [],
+    "part_numbers": [],
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "5.2 **Periodical checks –**",
+    "embedding_text": "Clean Sump Sump Clean the sump if there are chances of deposition of the contents of liquid handled."
+  },
+  {
+    "procedure": "Replace Pump Oil",
+    "component": "Pump Oil",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Replace the Oil from pump periodically after 2000 hrs."
+    ],
+    "tools": [],
+    "expected_result": "Fresh oil in pump.",
+    "safety_warnings": [],
+    "part_numbers": [],
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "5.2 **Periodical checks –**",
+    "embedding_text": "Replace Pump Oil Pump Oil Replace the Oil from pump periodically after 2000 hrs."
+  },
+  {
+    "procedure": "Pump Overhaul and Clearance Inspection",
+    "component": "Pump Portion of Motor Pump Set",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Isolate power to the motor pump set and shut off all valves.",
+      "Drain the pump casing completely.",
+      "Disassemble the pump portion, carefully removing the casing cover, impeller, and any associated components.",
+      "Thoroughly clean all internal components.",
+      "Visually inspect the impeller, casing ring, and casing cover for signs of wear, damage, or foreign material.",
+      "Measure the clearance between the impeller and the casing ring, and between the impeller and the casing cover (using feeler gauges or manufacturer-specified tools).",
+      "Compare measured clearances to manufacturer's specifications.",
+      "Replace any worn-out parts (impeller, casing ring, casing cover, seals, bearings) as necessary.",
+      "Reassemble the pump, ensuring all fasteners are torqued to specification and clearances are within tolerance.",
+      "Perform a functional test after reassembly."
+    ],
+    "tools": [
+      "Wrenches",
+      "Screwdrivers",
+      "Feeler gauges",
+      "Micrometer",
+      "Cleaning supplies",
+      "Torque wrench"
+    ],
+    "expected_result": "Pump internal clearances are within manufacturer's specifications, and all worn parts are replaced, restoring optimal pump efficiency and preventing rubbing.",
+    "safety_warnings": [
+      "Ensure power is disconnected and locked out before starting work.",
+      "Wear appropriate PPE (gloves, eye protection).",
+      "Be aware of residual pressure or hot liquids."
+    ],
+    "part_numbers": [],
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "5.3 **Annual checks [after one year minimum] –**",
+    "embedding_text": "Pump Overhaul and Clearance Inspection Pump Portion of Motor Pump Set Isolate power to the motor pump set and shut off all valves. Drain the pump casing completely. Disassemble the pump portion, carefully removing the casing cover, impeller, and any associated components. Thoroughly clean all internal components. Visually inspect the impeller, casing ring, and casing cover for signs of wear, damage, or foreign material."
+  },
+  {
+    "procedure": "Pump Component Material Suitability Assessment",
+    "component": "Pump Components",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Isolate power to the motor pump set and shut off all valves.",
+      "Drain the pump casing completely.",
+      "Disassemble the pump, removing all components that come into contact with the pumped liquid (impeller, casing, shaft, seals).",
+      "Thoroughly clean and visually inspect each component for signs of abnormal corrosion (pitting, uniform attack, crevice corrosion) or erosion (material loss, surface roughening).",
+      "Document the type and extent of observed damage.",
+      "Identify the specific liquid being pumped and its chemical/physical properties (pH, temperature, abrasiveness).",
+      "Consult pump manufacturer's material compatibility charts or a materials specialist to determine if the current component materials are suitable for the liquid.",
+      "If abnormal corrosion/erosion is observed and material incompatibility is confirmed, identify and order replacement components made from a more resistant material (e.g., stainless steel, bronze, specific alloys).",
+      "Replace the affected components with the new, suitable material parts.",
+      "Reassemble the pump, ensuring all seals and gaskets are new and correctly installed.",
+      "Perform a functional test after reassembly."
+    ],
+    "tools": [
+      "Wrenches",
+      "Screwdrivers",
+      "Cleaning supplies",
+      "Magnifying glass"
+    ],
+    "expected_result": "Pump components are made of materials suitable for the liquid being pumped, preventing premature failure due to corrosion or erosion, and extending pump service life.",
+    "safety_warnings": [
+      "Ensure power is disconnected and locked out before starting work.",
+      "Wear appropriate PPE (gloves, eye protection).",
+      "Be aware of residual pressure or hot/hazardous liquids.",
+      "Handle corroded parts carefully."
+    ],
+    "part_numbers": [],
+    "manual_source": "submersible_manual.pdf",
+    "source_section": "5.3 **Annual checks [after one year minimum] –**",
+    "embedding_text": "Pump Component Material Suitability Assessment Pump Components Isolate power to the motor pump set and shut off all valves. Drain the pump casing completely. Disassemble the pump, removing all components that come into contact with the pumped liquid (impeller, casing, shaft, seals). Thoroughly clean and visually inspect each component for signs of abnormal corrosion (pitting, uniform attack, crevice corrosion) or erosion (material loss, surface roughening). Document the type and extent of observed damage."
+  }
+]

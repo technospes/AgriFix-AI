@@ -1,0 +1,716 @@
+[
+  {
+    "component": "Rotavator Assembly",
+    "procedure_ids": [
+      "6612ecc9560a"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "gearbox",
+      "transmission components"
+    ],
+    "embedding_text": "Rotavator Assembly gearbox transmission components"
+  },
+  {
+    "component": "Pto Drive Shaft Guard",
+    "procedure_ids": [
+      "68fa75825c56"
+    ],
+    "fault_ids": [
+      "PTO guard damaged or broken"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "pto drive shaft",
+      "tractor",
+      "implement"
+    ],
+    "embedding_text": "Pto Drive Shaft Guard pto drive shaft tractor implement PTO guard damaged or broken"
+  },
+  {
+    "component": "Gearbox And Side Drive",
+    "procedure_ids": [
+      "865f57592050",
+      "a73d0f266a28"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "gearbox",
+      "side drive"
+    ],
+    "embedding_text": "Gearbox And Side Drive gearbox side drive"
+  },
+  {
+    "component": "Pto Drive Shaft",
+    "procedure_ids": [
+      "8a12e7fcddf6",
+      "7e2fb41ba444",
+      "f495fdf30c2b"
+    ],
+    "fault_ids": [
+      "PTO shaft bottoms out or separates during operation",
+      "PTO shaft angle exceeds 40 degrees",
+      "drive shaft stiff or noisy during operation"
+    ],
+    "spec_ids": [
+      "clearance:pto drive shaft"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "tractor pto",
+      "gearbox input shaft",
+      "tractor",
+      "rotavator",
+      "tractor pto output",
+      "implement pto input",
+      "3-point hitch",
+      "pump input shaft"
+    ],
+    "embedding_text": "Pto Drive Shaft tractor pto gearbox input shaft tractor rotavator PTO shaft bottoms out or separates during operation PTO shaft angle exceeds 40 degrees drive shaft stiff or noisy during operation"
+  },
+  {
+    "component": "Impeller Blades",
+    "procedure_ids": [
+      "f3ae11f96b1c"
+    ],
+    "fault_ids": [
+      "Pump efficiency drop or excessive vibration"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "pump shaft",
+      "impeller hub"
+    ],
+    "embedding_text": "Impeller Blades pump shaft impeller hub Pump efficiency drop or excessive vibration"
+  },
+  {
+    "component": "Blade Assembly",
+    "procedure_ids": [
+      "5bfce0c82a05",
+      "94f97cb69ded"
+    ],
+    "fault_ids": [
+      "Excessive vibration and uneven soil cultivation"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "rotor flanges",
+      "propeller shaft"
+    ],
+    "embedding_text": "Blade Assembly rotor flanges propeller shaft Excessive vibration and uneven soil cultivation"
+  },
+  {
+    "component": "Blade Bolt",
+    "procedure_ids": [
+      "5bfce0c82a05"
+    ],
+    "fault_ids": [
+      "Blade detachment or loose blades",
+      "Excessive vibration during operation"
+    ],
+    "spec_ids": [
+      "torque:blade bolt"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "blade",
+      "flange"
+    ],
+    "embedding_text": "Blade Bolt blade flange Blade detachment or loose blades Excessive vibration during operation"
+  },
+  {
+    "component": "Howard Blade Bolt",
+    "procedure_ids": [
+      "179e8deb6e80"
+    ],
+    "fault_ids": [],
+    "spec_ids": [
+      "torque:howard blade bolt"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "blade",
+      "flange"
+    ],
+    "embedding_text": "Howard Blade Bolt blade flange"
+  },
+  {
+    "component": "Bolts And Screws",
+    "procedure_ids": [
+      "dfcb9b185de7"
+    ],
+    "fault_ids": [
+      "Excessive vibration or loose parts"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "structural frame",
+      "transmission housing"
+    ],
+    "embedding_text": "Bolts And Screws structural frame transmission housing Excessive vibration or loose parts"
+  },
+  {
+    "component": "Rotor Axis",
+    "procedure_ids": [
+      "d9631799980c"
+    ],
+    "fault_ids": [
+      "Excessive vibration during operation"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "side transmission unit",
+      "blades"
+    ],
+    "embedding_text": "Rotor Axis side transmission unit blades Excessive vibration during operation"
+  },
+  {
+    "component": "Machine Support/Stabilization",
+    "procedure_ids": [
+      "fb4c7b251a46"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "tractor",
+      "ground surface"
+    ],
+    "embedding_text": "Machine Support/Stabilization tractor ground surface"
+  },
+  {
+    "component": "Front Ballast / Weight",
+    "procedure_ids": [
+      "47fa88b4b57d"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "front axle",
+      "front tires",
+      "implement"
+    ],
+    "embedding_text": "Front Ballast / Weight front axle front tires implement"
+  },
+  {
+    "component": "Cutting Blades",
+    "procedure_ids": [
+      "da0eed16d0b4"
+    ],
+    "fault_ids": [
+      "Machine vibrates excessively during operation"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "flange",
+      "bridle"
+    ],
+    "embedding_text": "Cutting Blades flange bridle Machine vibrates excessively during operation"
+  },
+  {
+    "component": "Tensor Arm",
+    "procedure_ids": [
+      "a9b4582988ef"
+    ],
+    "fault_ids": [
+      "Pump drive belt squeals or slips"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "rear cover",
+      "collar"
+    ],
+    "embedding_text": "Tensor Arm rear cover collar Pump drive belt squeals or slips"
+  },
+  {
+    "component": "Rear Cover Hinge",
+    "procedure_ids": [
+      "10e9e8687606"
+    ],
+    "fault_ids": [
+      "Rear cover will not close or binds"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "chassis",
+      "rear cover"
+    ],
+    "embedding_text": "Rear Cover Hinge chassis rear cover Rear cover will not close or binds"
+  },
+  {
+    "component": "Tension Arms",
+    "procedure_ids": [
+      "10e9e8687606"
+    ],
+    "fault_ids": [
+      "Excessive vibration or rattling from the rear of the machine"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "chassis",
+      "tension arms"
+    ],
+    "embedding_text": "Tension Arms chassis tension arms Excessive vibration or rattling from the rear of the machine"
+  },
+  {
+    "component": "Fasteners (Screws And Nuts)",
+    "procedure_ids": [
+      "715914eadd39"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "chassis",
+      "tine assembly",
+      "transmission housing"
+    ],
+    "embedding_text": "Fasteners (Screws And Nuts) chassis tine assembly transmission housing"
+  },
+  {
+    "component": "Lubrication System",
+    "procedure_ids": [
+      "715914eadd39"
+    ],
+    "fault_ids": [
+      "Overheating and power loss"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "gearbox",
+      "drive train"
+    ],
+    "embedding_text": "Lubrication System gearbox drive train Overheating and power loss"
+  },
+  {
+    "component": "Driveshaft Universal Joint",
+    "procedure_ids": [
+      "bf71d178cd79"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "tractor pto",
+      "gearbox"
+    ],
+    "embedding_text": "Driveshaft Universal Joint tractor pto gearbox"
+  },
+  {
+    "component": "Drive Shaft (Pto)",
+    "procedure_ids": [
+      "de89ef2b8cca"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "tractor pto",
+      "machine input shaft"
+    ],
+    "embedding_text": "Drive Shaft (Pto) tractor pto machine input shaft"
+  },
+  {
+    "component": "Pto Driveshaft",
+    "procedure_ids": [
+      "3c5321f0174c"
+    ],
+    "fault_ids": [
+      "Driveshaft bends or damages equipment"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Pto Driveshaft Driveshaft bends or damages equipment"
+  },
+  {
+    "component": "Cardan Driveshaft",
+    "procedure_ids": [
+      "17b7a2edbe3b"
+    ],
+    "fault_ids": [
+      "Driveshaft vibration or mechanical binding"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "tractor pto",
+      "implement gearbox"
+    ],
+    "embedding_text": "Cardan Driveshaft tractor pto implement gearbox Driveshaft vibration or mechanical binding"
+  },
+  {
+    "component": "Fusible Screw",
+    "procedure_ids": [
+      "742840c1527b"
+    ],
+    "fault_ids": [
+      "Equipment stops rotating or loses power transmission"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "drive shaft",
+      "coupling"
+    ],
+    "embedding_text": "Fusible Screw drive shaft coupling Equipment stops rotating or loses power transmission"
+  },
+  {
+    "component": "Pto Shaft (Cardan)",
+    "procedure_ids": [
+      "933f6fec54a1"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "tractor pto",
+      "rototiller input shaft"
+    ],
+    "embedding_text": "Pto Shaft (Cardan) tractor pto rototiller input shaft"
+  },
+  {
+    "component": "Pto Engagement",
+    "procedure_ids": [
+      "933f6fec54a1"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "tractor engine",
+      "rototiller gearbox"
+    ],
+    "embedding_text": "Pto Engagement tractor engine rototiller gearbox"
+  },
+  {
+    "component": "Rotor Blade",
+    "procedure_ids": [
+      "e2278fa38a42"
+    ],
+    "fault_ids": [
+      "Excessive vibration during operation"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "rotor"
+    ],
+    "embedding_text": "Rotor Blade rotor Excessive vibration during operation"
+  },
+  {
+    "component": "Skate (Depth Control)",
+    "procedure_ids": [
+      "f9307ed8a7fe"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "rototiller frame",
+      "adjustment screws (b)",
+      "bolts (a)"
+    ],
+    "embedding_text": "Skate (Depth Control) rototiller frame adjustment screws (b) bolts (a)"
+  },
+  {
+    "component": "Grease Fittings",
+    "procedure_ids": [
+      "99a0a9e7a9b9"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "rototiller lubrication points"
+    ],
+    "embedding_text": "Grease Fittings rototiller lubrication points"
+  },
+  {
+    "component": "Differentials And Gears",
+    "procedure_ids": [
+      "aad063696446"
+    ],
+    "fault_ids": [
+      "Increased gear noise"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "gears",
+      "differential"
+    ],
+    "embedding_text": "Differentials And Gears gears differential Increased gear noise"
+  },
+  {
+    "component": "Propeller Shaft",
+    "procedure_ids": [
+      "94f97cb69ded"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "universal joints"
+    ],
+    "embedding_text": "Propeller Shaft universal joints"
+  },
+  {
+    "component": "Drive Shaft",
+    "procedure_ids": [
+      "b676499bbef6"
+    ],
+    "fault_ids": [
+      "Driveshaft vibration or mechanical failure"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "universal joint",
+      "bearings"
+    ],
+    "embedding_text": "Drive Shaft universal joint bearings Driveshaft vibration or mechanical failure"
+  },
+  {
+    "component": "Universal Joint",
+    "procedure_ids": [
+      "b676499bbef6"
+    ],
+    "fault_ids": [
+      "Loud knocking or vibration during PTO operation"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "drive shaft"
+    ],
+    "embedding_text": "Universal Joint drive shaft Loud knocking or vibration during PTO operation"
+  },
+  {
+    "component": "Gearbox",
+    "procedure_ids": [
+      "faa2c469ca05"
+    ],
+    "fault_ids": [
+      "Excessive noise or heat from gearbox",
+      "Low oil level in gearbox",
+      "Gearbox Overheated",
+      "Noisy gearbox",
+      "Escape in the Gearbox"
+    ],
+    "spec_ids": [],
+    "image_ids": [
+      "Shaktiman_Rotavator_Guide_p1_img2.jpeg"
+    ],
+    "connected_components": [
+      "side transmission",
+      "pto input shaft",
+      "three-point hitch frame"
+    ],
+    "embedding_text": "Gearbox side transmission pto input shaft three-point hitch frame Excessive noise or heat from gearbox Low oil level in gearbox Gearbox Overheated"
+  },
+  {
+    "component": "Transmission",
+    "procedure_ids": [
+      "c4795b4f4b37"
+    ],
+    "fault_ids": [
+      "Low oil level in transmission",
+      "The wheel doesn't turn"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "breather plug (a)",
+      "level plug (b)"
+    ],
+    "embedding_text": "Transmission breather plug (a) level plug (b) Low oil level in transmission The wheel doesn't turn"
+  },
+  {
+    "component": "Blade",
+    "procedure_ids": [
+      "b14d1260e777"
+    ],
+    "fault_ids": [
+      "Excessive vibration and noise"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "shaft",
+      "flange"
+    ],
+    "embedding_text": "Blade shaft flange Excessive vibration and noise"
+  },
+  {
+    "component": "Fasteners",
+    "procedure_ids": [],
+    "fault_ids": [
+      "Loose bolts or rattling during operation",
+      "Excessive vibration and rattling"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Fasteners Loose bolts or rattling during operation Excessive vibration and rattling"
+  },
+  {
+    "component": "Braking System",
+    "procedure_ids": [],
+    "fault_ids": [
+      "Reduction in braking capacity or inability to stop quickly"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Braking System Reduction in braking capacity or inability to stop quickly"
+  },
+  {
+    "component": "Stabilization System",
+    "procedure_ids": [],
+    "fault_ids": [
+      "Machine shifts or rolls during maintenance"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Stabilization System Machine shifts or rolls during maintenance"
+  },
+  {
+    "component": "Front Ballast",
+    "procedure_ids": [],
+    "fault_ids": [
+      "Tractor front end lifts or steering feels light"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Front Ballast Tractor front end lifts or steering feels light"
+  },
+  {
+    "component": "Cardan shaft",
+    "procedure_ids": [],
+    "fault_ids": [
+      "Rototiller vibration or detachment"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Cardan shaft Rototiller vibration or detachment"
+  },
+  {
+    "component": "PTO engagement system",
+    "procedure_ids": [],
+    "fault_ids": [
+      "Mechanical damage to tractor or tiller gearbox"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "PTO engagement system Mechanical damage to tractor or tiller gearbox"
+  },
+  {
+    "component": "Skate",
+    "procedure_ids": [],
+    "fault_ids": [
+      "Uneven tillage depth"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Skate Uneven tillage depth"
+  },
+  {
+    "component": "Grease Fitting",
+    "procedure_ids": [],
+    "fault_ids": [
+      "Grease fitting does not accept grease"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Grease Fitting Grease fitting does not accept grease"
+  },
+  {
+    "component": "Propeller Shaft/Blades",
+    "procedure_ids": [],
+    "fault_ids": [
+      "Excessive vibration during operation"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Propeller Shaft/Blades Excessive vibration during operation"
+  },
+  {
+    "component": "Blades",
+    "procedure_ids": [],
+    "fault_ids": [
+      "Excessive vibration or noise from blades",
+      "Rototiller blades show signs of wear"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Blades Excessive vibration or noise from blades Rototiller blades show signs of wear"
+  },
+  {
+    "component": "Frame/Chassis",
+    "procedure_ids": [],
+    "fault_ids": [
+      "Oxidation or rust on metal surfaces"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Frame/Chassis Oxidation or rust on metal surfaces"
+  },
+  {
+    "component": "PTO Drive Line",
+    "procedure_ids": [],
+    "fault_ids": [
+      "PTO Vibrate"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "PTO Drive Line PTO Vibrate"
+  },
+  {
+    "component": "Rotor",
+    "procedure_ids": [],
+    "fault_ids": [
+      "Vibration and rebound of rotary tiller"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Rotor Vibration and rebound of rotary tiller"
+  },
+  {
+    "component": "General Assembly",
+    "procedure_ids": [],
+    "fault_ids": [
+      "Irregular sound or abnormal operation"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "General Assembly Irregular sound or abnormal operation"
+  }
+]

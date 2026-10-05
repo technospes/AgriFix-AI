@@ -1,0 +1,1563 @@
+[
+  {
+    "component": "Tiller Blade",
+    "procedure_ids": [
+      "144f867a79a2",
+      "23a7c0e61f3a"
+    ],
+    "fault_ids": [
+      "fault_tiller_blade_does_not_dff02c30",
+      "fault_machine_tilts_when_farming_e04eded2"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "tiller shaft",
+      "tiller blade mounting system"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Tiller Blade\n\nFAULT IDS:\n- fault_tiller_blade_does_not_dff02c30\n- fault_machine_tilts_when_farming_e04eded2\n\nCONNECTED:\n- tiller shaft\n- tiller blade mounting system\n",
+    "component_id": "tiller_blade_f3d103"
+  },
+  {
+    "component": "Ignition Coil",
+    "procedure_ids": [
+      "144f867a79a2"
+    ],
+    "fault_ids": [
+      "fault_power_tiller_will_not_622c8ff9"
+    ],
+    "spec_ids": [
+      "voltage:ignition coil"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "ignition module"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Ignition Coil\n\nFAULT IDS:\n- fault_power_tiller_will_not_622c8ff9\n\nCONNECTED:\n- ignition module\n",
+    "component_id": "ignition_coil_061ff9"
+  },
+  {
+    "component": "Hydraulic Pump",
+    "procedure_ids": [
+      "165d32039d2e"
+    ],
+    "fault_ids": [
+      "fault_tiller_does_not_move_31dd4141"
+    ],
+    "spec_ids": [
+      "pressure:hydraulic pump"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "tiller cylinder"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Hydraulic Pump\n\nFAULT IDS:\n- fault_tiller_does_not_move_31dd4141\n\nCONNECTED:\n- tiller cylinder\n",
+    "component_id": "hydraulic_pump_94eea3"
+  },
+  {
+    "component": "Primary Filter",
+    "procedure_ids": [
+      "ce0dd0d0e6f9"
+    ],
+    "fault_ids": [
+      "fault_engine_sputters_and_loses_870d60a0"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "engine cylinders"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Primary Filter\n\nFAULT IDS:\n- fault_engine_sputters_and_loses_870d60a0\n\nCONNECTED:\n- engine cylinders\n",
+    "component_id": "primary_filter_f7b96d"
+  },
+  {
+    "component": "Hand Clutch",
+    "procedure_ids": [
+      "ce0dd0d0e6f9"
+    ],
+    "fault_ids": [
+      "fault_engine_does_not_engage_433438c8"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "transmission gears"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Hand Clutch\n\nFAULT IDS:\n- fault_engine_does_not_engage_433438c8\n\nCONNECTED:\n- transmission gears\n",
+    "component_id": "hand_clutch_b5c0ef"
+  },
+  {
+    "component": "Clutch-Brake Handle",
+    "procedure_ids": [
+      "89b1ac6986f4"
+    ],
+    "fault_ids": [],
+    "spec_ids": [
+      "torque:clutch-brake handle"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "speed-changing lever, throttle"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Clutch-Brake Handle\n\nFAULT IDS:\n- \n\nCONNECTED:\n- speed-changing lever, throttle\n",
+    "component_id": "clutchbrake_handle_6cab8d"
+  },
+  {
+    "component": "Speed-Changing Lever",
+    "procedure_ids": [
+      "89b1ac6986f4"
+    ],
+    "fault_ids": [],
+    "spec_ids": [
+      "torque:speed-changing lever"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "clutch-brake handle, throttle"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Speed-Changing Lever\n\nFAULT IDS:\n- \n\nCONNECTED:\n- clutch-brake handle, throttle\n",
+    "component_id": "speedchanging_lever_2f6d0f"
+  },
+  {
+    "component": "Throttle",
+    "procedure_ids": [
+      "89b1ac6986f4"
+    ],
+    "fault_ids": [],
+    "spec_ids": [
+      "torque:throttle"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "clutch-brake handle, speed-changing lever"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Throttle\n\nFAULT IDS:\n- \n\nCONNECTED:\n- clutch-brake handle, speed-changing lever\n",
+    "component_id": "throttle_1cb60f"
+  },
+  {
+    "component": "Steering Hand Grip",
+    "procedure_ids": [
+      "3664fa3bdaf0"
+    ],
+    "fault_ids": [
+      "fault_steering_is_affected_on_d62683f1"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "handlebars",
+      "pedals of the wheel"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Steering Hand Grip\n\nFAULT IDS:\n- fault_steering_is_affected_on_d62683f1\n\nCONNECTED:\n- handlebars\n- pedals of the wheel\n",
+    "component_id": "steering_hand_aab612"
+  },
+  {
+    "component": "Handlebars",
+    "procedure_ids": [
+      "3664fa3bdaf0"
+    ],
+    "fault_ids": [
+      "fault_steering_is_affected_on_7aadee77"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "steering hand grip",
+      "pedals of the wheel"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Handlebars\n\nFAULT IDS:\n- fault_steering_is_affected_on_7aadee77\n\nCONNECTED:\n- steering hand grip\n- pedals of the wheel\n",
+    "component_id": "handlebars_b644d7"
+  },
+  {
+    "component": "Pedals Of The Wheel",
+    "procedure_ids": [
+      "3664fa3bdaf0"
+    ],
+    "fault_ids": [
+      "fault_steering_is_affected_on_d62683f1"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "steering hand grip",
+      "handlebars"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Pedals Of The Wheel\n\nFAULT IDS:\n- fault_steering_is_affected_on_d62683f1\n\nCONNECTED:\n- steering hand grip\n- handlebars\n",
+    "component_id": "pedals_of_6edc3a"
+  },
+  {
+    "component": "Power Tiller",
+    "procedure_ids": [
+      "3664fa3bdaf0"
+    ],
+    "fault_ids": [
+      "fault_operating_at_high_speed_1bca1e82"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "steering hand grip",
+      "handlebars",
+      "pedals of the wheel"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Power Tiller\n\nFAULT IDS:\n- fault_operating_at_high_speed_1bca1e82\n\nCONNECTED:\n- steering hand grip\n- handlebars\n- pedals of the wheel\n",
+    "component_id": "power_tiller_3c67a3"
+  },
+  {
+    "component": "Clutch",
+    "procedure_ids": [
+      "b33170dac873",
+      "48c866d9c4f8",
+      "9a9e561f8a35",
+      "72fce92ad178",
+      "5f014d27419e"
+    ],
+    "fault_ids": [
+      "fault_clutch_engages_but_does_9ca2803b",
+      "fault_clutch_failure_bc404352",
+      "fault_clutch_does_not_engage_d29e71ac",
+      "fault_clutch_may_not_perform_46b592f2",
+      "fault_clutch_fails_to_work_74e4bfe2"
+    ],
+    "spec_ids": [
+      "clearance:clutch"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "transmission",
+      "gearbox",
+      "gear box",
+      "clutch fork",
+      "friction piece",
+      "diesel engine",
+      "gear box main shaft",
+      "positioning gear",
+      "pushing plate"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Clutch\n\nFAULT IDS:\n- fault_clutch_engages_but_does_9ca2803b\n- fault_clutch_failure_bc404352\n- fault_clutch_does_not_engage_d29e71ac\n- fault_clutch_may_not_perform_46b592f2\n- fault_clutch_fails_to_work_74e4bfe2\n\nCONNECTED:\n- transmission\n- gearbox\n- gear box\n- clutch fork\n- friction piece\n- diesel engine\n- gear box main shaft\n- positioning gear\n- pushing plate\n",
+    "component_id": "clutch_22275a"
+  },
+  {
+    "component": "Spark Plug",
+    "procedure_ids": [
+      "b33170dac873"
+    ],
+    "fault_ids": [
+      "fault_engine_does_not_start_9434987c"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "engine"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Spark Plug\n\nFAULT IDS:\n- fault_engine_does_not_start_9434987c\n\nCONNECTED:\n- engine\n",
+    "component_id": "spark_plug_2c738e"
+  },
+  {
+    "component": "Tiller Transmission",
+    "procedure_ids": [
+      "fdea3a6e045a",
+      "d841e8aa1318"
+    ],
+    "fault_ids": [
+      "fault_wheels_turning_but_tines_adc65f87",
+      "fault_not_turning_66f644df"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "engine",
+      "tines"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Tiller Transmission\n\nFAULT IDS:\n- fault_wheels_turning_but_tines_adc65f87\n- fault_not_turning_66f644df\n\nCONNECTED:\n- engine\n- tines\n",
+    "component_id": "tiller_transmission_d889ee"
+  },
+  {
+    "component": "Carburetor",
+    "procedure_ids": [
+      "fdea3a6e045a"
+    ],
+    "fault_ids": [
+      "fault_engine_not_starting_at_a2ab2392"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "engine",
+      "fuel line"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Carburetor\n\nFAULT IDS:\n- fault_engine_not_starting_at_a2ab2392\n\nCONNECTED:\n- engine\n- fuel line\n",
+    "component_id": "carburetor_e6d299"
+  },
+  {
+    "component": "Decompression Device",
+    "procedure_ids": [
+      "d841e8aa1318"
+    ],
+    "fault_ids": [
+      "fault_decompression_device_failure_abc43a96"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "engine"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Decompression Device\n\nFAULT IDS:\n- fault_decompression_device_failure_abc43a96\n\nCONNECTED:\n- engine\n",
+    "component_id": "decompression_device_8c0b33"
+  },
+  {
+    "component": "Fuel System",
+    "procedure_ids": [
+      "d841e8aa1318"
+    ],
+    "fault_ids": [
+      "fault_the_fuel_system_develops_923a2e21"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "engine"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Fuel System\n\nFAULT IDS:\n- fault_the_fuel_system_develops_923a2e21\n\nCONNECTED:\n- engine\n",
+    "component_id": "fuel_system_c71de4"
+  },
+  {
+    "component": "Cylinder Head Gasket",
+    "procedure_ids": [
+      "d841e8aa1318"
+    ],
+    "fault_ids": [
+      "fault_compression_pressure_in_the_57d96a64"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "engine"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Cylinder Head Gasket\n\nFAULT IDS:\n- fault_compression_pressure_in_the_57d96a64\n\nCONNECTED:\n- engine\n",
+    "component_id": "cylinder_head_5cd6b8"
+  },
+  {
+    "component": "Piston Rings",
+    "procedure_ids": [
+      "d841e8aa1318"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "engine"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Piston Rings\n\nFAULT IDS:\n- \n\nCONNECTED:\n- engine\n",
+    "component_id": "piston_rings_b292ed"
+  },
+  {
+    "component": "Air Filter",
+    "procedure_ids": [
+      "d841e8aa1318"
+    ],
+    "fault_ids": [
+      "fault_air_filter_choked_up_1552ab66"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "engine"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Air Filter\n\nFAULT IDS:\n- fault_air_filter_choked_up_1552ab66\n\nCONNECTED:\n- engine\n",
+    "component_id": "air_filter_74d1b9"
+  },
+  {
+    "component": "Governor Spring",
+    "procedure_ids": [
+      "d841e8aa1318"
+    ],
+    "fault_ids": [
+      "fault_engine_speed_is_too_ea02e548"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "engine"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Governor Spring\n\nFAULT IDS:\n- fault_engine_speed_is_too_ea02e548\n\nCONNECTED:\n- engine\n",
+    "component_id": "governor_spring_c5d12f"
+  },
+  {
+    "component": "Tines",
+    "procedure_ids": [
+      "82ea14e8d878"
+    ],
+    "fault_ids": [
+      "fault_tines_jarring_up_or_43335fc9"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "rotavator frame"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Tines\n\nFAULT IDS:\n- fault_tines_jarring_up_or_43335fc9\n\nCONNECTED:\n- rotavator frame\n",
+    "component_id": "tines_52eca5"
+  },
+  {
+    "component": "Fuel Filter",
+    "procedure_ids": [
+      "82ea14e8d878",
+      "9a9e561f8a35"
+    ],
+    "fault_ids": [
+      "fault_engine_performance_decreases_44cce3ca",
+      "fault_engine_stalls_af6b62c1"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "fuel tank",
+      "engine"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Fuel Filter\n\nFAULT IDS:\n- fault_engine_performance_decreases_44cce3ca\n- fault_engine_stalls_af6b62c1\n\nCONNECTED:\n- fuel tank\n- engine\n",
+    "component_id": "fuel_filter_7ae732"
+  },
+  {
+    "component": "Gearbox",
+    "procedure_ids": [
+      "8c9a9c88f724"
+    ],
+    "fault_ids": [
+      "fault_machine_shakes_violently_40883cca"
+    ],
+    "spec_ids": [
+      "torque:gearbox"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "transmission",
+      "engine",
+      "diesel engine crankcase"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Gearbox\n\nFAULT IDS:\n- fault_machine_shakes_violently_40883cca\n\nCONNECTED:\n- transmission\n- engine\n- diesel engine crankcase\n",
+    "component_id": "gearbox_61a729"
+  },
+  {
+    "component": "Battery",
+    "procedure_ids": [
+      "8c9a9c88f724",
+      "645e9323ed0c"
+    ],
+    "fault_ids": [
+      "fault_machine_does_not_start_0cfcbac1",
+      "fault_machine_does_not_start_0cfcbac1",
+      "fault_motor_hums_2ddf36dc"
+    ],
+    "spec_ids": [
+      "voltage:battery"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "starter motor",
+      "alternator",
+      "diesel engine"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Battery\n\nFAULT IDS:\n- fault_machine_does_not_start_0cfcbac1\n- fault_machine_does_not_start_0cfcbac1\n- fault_motor_hums_2ddf36dc\n\nCONNECTED:\n- starter motor\n- alternator\n- diesel engine\n",
+    "component_id": "battery_20c1d1"
+  },
+  {
+    "component": "Capacitor",
+    "procedure_ids": [
+      "48c866d9c4f8"
+    ],
+    "fault_ids": [
+      "fault_motor_hums_2ddf36dc"
+    ],
+    "spec_ids": [
+      "capacitor_rating:capacitor"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "motor"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Capacitor\n\nFAULT IDS:\n- fault_motor_hums_2ddf36dc\n\nCONNECTED:\n- motor\n",
+    "component_id": "capacitor_e271ca"
+  },
+  {
+    "component": "Alternator",
+    "procedure_ids": [
+      "46492d162b01"
+    ],
+    "fault_ids": [
+      "fault_motor_hums_but_does_e2de0bb6"
+    ],
+    "spec_ids": [
+      "torque:alternator"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "battery, starter motor"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Alternator\n\nFAULT IDS:\n- fault_motor_hums_but_does_e2de0bb6\n\nCONNECTED:\n- battery, starter motor\n",
+    "component_id": "alternator_da9c10"
+  },
+  {
+    "component": "Shift Bar",
+    "procedure_ids": [
+      "723c5851b62a"
+    ],
+    "fault_ids": [
+      "fault_shift_bar_does_not_69bef715"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "rotary blades"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Shift Bar\n\nFAULT IDS:\n- fault_shift_bar_does_not_69bef715\n\nCONNECTED:\n- rotary blades\n",
+    "component_id": "shift_bar_69b46e"
+  },
+  {
+    "component": "Engine",
+    "procedure_ids": [
+      "723c5851b62a"
+    ],
+    "fault_ids": [
+      "fault_abnormal_shaking_of_the_2b8c2393"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "engine block"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Engine\n\nFAULT IDS:\n- fault_abnormal_shaking_of_the_2b8c2393\n\nCONNECTED:\n- engine block\n",
+    "component_id": "engine_ad1943"
+  },
+  {
+    "component": "Bolts",
+    "procedure_ids": [
+      "6e17b299a983",
+      "502e8d847d97"
+    ],
+    "fault_ids": [
+      "fault_machine_does_not_start_0cfcbac1",
+      "fault_bolts_loosen_during_operation_2051d889"
+    ],
+    "spec_ids": [
+      "torque:bolts"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "engine",
+      "engine block"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Bolts\n\nFAULT IDS:\n- fault_machine_does_not_start_0cfcbac1\n- fault_bolts_loosen_during_operation_2051d889\n\nCONNECTED:\n- engine\n- engine block\n",
+    "component_id": "bolts_af996f"
+  },
+  {
+    "component": "Gear Transmission",
+    "procedure_ids": [
+      "119d8e1b105a"
+    ],
+    "fault_ids": [
+      "fault_blades_do_not_rotate_098a2d51"
+    ],
+    "spec_ids": [
+      "clearance:gear transmission"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "engine, transmission"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Gear Transmission\n\nFAULT IDS:\n- fault_blades_do_not_rotate_098a2d51\n\nCONNECTED:\n- engine, transmission\n",
+    "component_id": "gear_transmission_776822"
+  },
+  {
+    "component": "Speeder Rod",
+    "procedure_ids": [
+      "645e9323ed0c"
+    ],
+    "fault_ids": [
+      "fault_vibration_036f0ff1"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "transmission assembly"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Speeder Rod\n\nFAULT IDS:\n- fault_vibration_036f0ff1\n\nCONNECTED:\n- transmission assembly\n",
+    "component_id": "speeder_rod_531225"
+  },
+  {
+    "component": "M8*55 Screw Bolts",
+    "procedure_ids": [
+      "08ab1c176cf8"
+    ],
+    "fault_ids": [],
+    "spec_ids": [
+      "torque:m8*55 screw bolts"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "output shaft",
+      "revolving farming device",
+      "step box hexagonal shaft",
+      "tilling blades"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: M8*55 Screw Bolts\n\nFAULT IDS:\n- \n\nCONNECTED:\n- output shaft\n- revolving farming device\n- step box hexagonal shaft\n- tilling blades\n",
+    "component_id": "m855_screw_d3e92f"
+  },
+  {
+    "component": "Shaft",
+    "procedure_ids": [
+      "11a2800a0eb7"
+    ],
+    "fault_ids": [
+      "fault_vibration_036f0ff1"
+    ],
+    "spec_ids": [
+      "clearance:shaft"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "coupling",
+      "motor"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Shaft\n\nFAULT IDS:\n- fault_vibration_036f0ff1\n\nCONNECTED:\n- coupling\n- motor\n",
+    "component_id": "shaft_b95ff8"
+  },
+  {
+    "component": "Motor",
+    "procedure_ids": [
+      "11a2800a0eb7"
+    ],
+    "fault_ids": [
+      "fault_motor_hums_2ddf36dc"
+    ],
+    "spec_ids": [
+      "capacitor_rating:motor"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "shaft",
+      "coupling"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Motor\n\nFAULT IDS:\n- fault_motor_hums_2ddf36dc\n\nCONNECTED:\n- shaft\n- coupling\n",
+    "component_id": "motor_594171"
+  },
+  {
+    "component": "Ditcher",
+    "procedure_ids": [
+      "8d065dcbc126"
+    ],
+    "fault_ids": [
+      "fault_ditcher_does_not_adjust_7dfecb11"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "ditching system"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Ditcher\n\nFAULT IDS:\n- fault_ditcher_does_not_adjust_7dfecb11\n\nCONNECTED:\n- ditching system\n",
+    "component_id": "ditcher_a1e2f5"
+  },
+  {
+    "component": "Transmission Shaft",
+    "procedure_ids": [
+      "937c0bd69469"
+    ],
+    "fault_ids": [
+      "fault_machine_can_do_the_9cf490fe"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "wagon box forearm",
+      "wheels"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Transmission Shaft\n\nFAULT IDS:\n- fault_machine_can_do_the_9cf490fe\n\nCONNECTED:\n- wagon box forearm\n- wheels\n",
+    "component_id": "transmission_shaft_83378e"
+  },
+  {
+    "component": "Gear-Box",
+    "procedure_ids": [
+      "2aab49aaf17e"
+    ],
+    "fault_ids": [
+      "fault_vibration_036f0ff1",
+      "fault_noise_aaddc345"
+    ],
+    "spec_ids": [
+      "torque:gear-box"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "main shaft",
+      "belt pulley or coupling"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Gear-Box\n\nFAULT IDS:\n- fault_vibration_036f0ff1\n- fault_noise_aaddc345\n\nCONNECTED:\n- main shaft\n- belt pulley or coupling\n",
+    "component_id": "gearbox_61a729"
+  },
+  {
+    "component": "Belt Pulley Or Coupling",
+    "procedure_ids": [
+      "2aab49aaf17e"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "gear-box's main shaft"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Belt Pulley Or Coupling\n\nFAULT IDS:\n- \n\nCONNECTED:\n- gear-box's main shaft\n",
+    "component_id": "belt_pulley_c495eb"
+  },
+  {
+    "component": "Hexagonal Axle",
+    "procedure_ids": [
+      "78481f98d8c2"
+    ],
+    "fault_ids": [
+      "fault_machine_does_not_move_ec8ceede"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "step box axle hole"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Hexagonal Axle\n\nFAULT IDS:\n- fault_machine_does_not_move_ec8ceede\n\nCONNECTED:\n- step box axle hole\n",
+    "component_id": "hexagonal_axle_ee74c1"
+  },
+  {
+    "component": "Wheels",
+    "procedure_ids": [
+      "1dc958e13ad6"
+    ],
+    "fault_ids": [
+      "fault_vibration_036f0ff1",
+      "fault_noise_aaddc345"
+    ],
+    "spec_ids": [
+      "torque:wheels"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "hexagonal axle ends"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Wheels\n\nFAULT IDS:\n- fault_vibration_036f0ff1\n- fault_noise_aaddc345\n\nCONNECTED:\n- hexagonal axle ends\n",
+    "component_id": "wheels_f13863"
+  },
+  {
+    "component": "Connecting Frame",
+    "procedure_ids": [
+      "1dc958e13ad6"
+    ],
+    "fault_ids": [],
+    "spec_ids": [
+      "torque:connecting frame"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "trailer"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Connecting Frame\n\nFAULT IDS:\n- \n\nCONNECTED:\n- trailer\n",
+    "component_id": "connecting_frame_3e26a5"
+  },
+  {
+    "component": "Armrest",
+    "procedure_ids": [
+      "1dc958e13ad6"
+    ],
+    "fault_ids": [],
+    "spec_ids": [
+      "torque:armrest"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "armrest connection piece"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Armrest\n\nFAULT IDS:\n- \n\nCONNECTED:\n- armrest connection piece\n",
+    "component_id": "armrest_a66e16"
+  },
+  {
+    "component": "Shift Lever",
+    "procedure_ids": [
+      "1dc958e13ad6"
+    ],
+    "fault_ids": [],
+    "spec_ids": [
+      "torque:shift lever"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "support block of the shift arm"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Shift Lever\n\nFAULT IDS:\n- \n\nCONNECTED:\n- support block of the shift arm\n",
+    "component_id": "shift_lever_0f8348"
+  },
+  {
+    "component": "Clutch Cable",
+    "procedure_ids": [
+      "601c449fe1df",
+      "5f014d27419e"
+    ],
+    "fault_ids": [
+      "fault_clutch_handle_cannot_reset_4479952d",
+      "fault_clutch_cable_is_not_f979b759"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "clutch fork arm seat",
+      "clutch cable seat",
+      "clutch"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Clutch Cable\n\nFAULT IDS:\n- fault_clutch_handle_cannot_reset_4479952d\n- fault_clutch_cable_is_not_f979b759\n\nCONNECTED:\n- clutch fork arm seat\n- clutch cable seat\n- clutch\n",
+    "component_id": "clutch_cable_9d7b70"
+  },
+  {
+    "component": "Reversing Cable",
+    "procedure_ids": [
+      "601c449fe1df"
+    ],
+    "fault_ids": [
+      "fault_reversing_handle_cannot_reset_cb3d8477"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "reversing cable fork shaft",
+      "reversing cable seat"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Reversing Cable\n\nFAULT IDS:\n- fault_reversing_handle_cannot_reset_cb3d8477\n\nCONNECTED:\n- reversing cable fork shaft\n- reversing cable seat\n",
+    "component_id": "reversing_cable_4f5ef2"
+  },
+  {
+    "component": "Throttle Cable",
+    "procedure_ids": [
+      "601c449fe1df"
+    ],
+    "fault_ids": [
+      "fault_throttle_handle_cannot_reset_19c5ce5d"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "throttle adjustment board",
+      "throttle switch"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Throttle Cable\n\nFAULT IDS:\n- fault_throttle_handle_cannot_reset_19c5ce5d\n\nCONNECTED:\n- throttle adjustment board\n- throttle switch\n",
+    "component_id": "throttle_cable_9ae0fe"
+  },
+  {
+    "component": "Connection Bolts",
+    "procedure_ids": [
+      "601c449fe1df"
+    ],
+    "fault_ids": [
+      "fault_machine_vibrates_e2edaad4"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "flange and diesel engine",
+      "flange and gear box"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Connection Bolts\n\nFAULT IDS:\n- fault_machine_vibrates_e2edaad4\n\nCONNECTED:\n- flange and diesel engine\n- flange and gear box\n",
+    "component_id": "connection_bolts_8f879b"
+  },
+  {
+    "component": "Diesel Engine",
+    "procedure_ids": [
+      "f49a23fcabc7"
+    ],
+    "fault_ids": [
+      "fault_diesel_engine_hums_but_97b52e33"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "INDEX\nCOMPONENT: Diesel Engine\n\nFAULT IDS:\n- fault_diesel_engine_hums_but_97b52e33\n\nCONNECTED:\n- \n",
+    "component_id": "diesel_engine_bc280e"
+  },
+  {
+    "component": "M8*55 Bolt",
+    "procedure_ids": [
+      "188365c01009"
+    ],
+    "fault_ids": [
+      "fault_loose_blades_c8f3b445"
+    ],
+    "spec_ids": [
+      "torque:m8*55 bolt"
+    ],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "INDEX\nCOMPONENT: M8*55 Bolt\n\nFAULT IDS:\n- fault_loose_blades_c8f3b445\n\nCONNECTED:\n- \n",
+    "component_id": "m855_bolt_f18664"
+  },
+  {
+    "component": "Tilling Blades",
+    "procedure_ids": [
+      "188365c01009"
+    ],
+    "fault_ids": [
+      "fault_uneven_tilling_87311f36"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "step box hexagonal shaft",
+      "m8*55 bolt"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Tilling Blades\n\nFAULT IDS:\n- fault_uneven_tilling_87311f36\n\nCONNECTED:\n- step box hexagonal shaft\n- m8*55 bolt\n",
+    "component_id": "tilling_blades_258058"
+  },
+  {
+    "component": "Opening Width",
+    "procedure_ids": [
+      "188365c01009"
+    ],
+    "fault_ids": [
+      "fault_inadequate_opening_10551bc2"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "opener"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Opening Width\n\nFAULT IDS:\n- fault_inadequate_opening_10551bc2\n\nCONNECTED:\n- opener\n",
+    "component_id": "opening_width_85b81a"
+  },
+  {
+    "component": "Opening Depth",
+    "procedure_ids": [
+      "188365c01009"
+    ],
+    "fault_ids": [
+      "fault_inadequate_opening_10551bc2"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "opener"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Opening Depth\n\nFAULT IDS:\n- fault_inadequate_opening_10551bc2\n\nCONNECTED:\n- opener\n",
+    "component_id": "opening_depth_72dd8c"
+  },
+  {
+    "component": "Sucking Depth",
+    "procedure_ids": [
+      "188365c01009"
+    ],
+    "fault_ids": [
+      "fault_inadequate_tilling_e4a8f8c3"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "paddy land tilling blades"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Sucking Depth\n\nFAULT IDS:\n- fault_inadequate_tilling_e4a8f8c3\n\nCONNECTED:\n- paddy land tilling blades\n",
+    "component_id": "sucking_depth_eee915"
+  },
+  {
+    "component": "Rated Load",
+    "procedure_ids": [
+      "188365c01009"
+    ],
+    "fault_ids": [
+      "fault_overloading_5d606540"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "wagon box forearm"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Rated Load\n\nFAULT IDS:\n- fault_overloading_5d606540\n\nCONNECTED:\n- wagon box forearm\n",
+    "component_id": "rated_load_1e707f"
+  },
+  {
+    "component": "Speed",
+    "procedure_ids": [
+      "188365c01009"
+    ],
+    "fault_ids": [
+      "fault_inadequate_speed_2732057c"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "diesel engine"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Speed\n\nFAULT IDS:\n- fault_inadequate_speed_2732057c\n\nCONNECTED:\n- diesel engine\n",
+    "component_id": "speed_ce4ef3"
+  },
+  {
+    "component": "Air Cleaner",
+    "procedure_ids": [
+      "23a7c0e61f3a"
+    ],
+    "fault_ids": [
+      "fault_sponge_or_wire_mesh_2350d43d"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "engine"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Air Cleaner\n\nFAULT IDS:\n- fault_sponge_or_wire_mesh_2350d43d\n\nCONNECTED:\n- engine\n",
+    "component_id": "air_cleaner_0e9d9f"
+  },
+  {
+    "component": "Diesel Engine Oil",
+    "procedure_ids": [
+      "23a7c0e61f3a"
+    ],
+    "fault_ids": [
+      "fault_oil_levels_low_cdc5b249"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "diesel engine"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Diesel Engine Oil\n\nFAULT IDS:\n- fault_oil_levels_low_cdc5b249\n\nCONNECTED:\n- diesel engine\n",
+    "component_id": "diesel_engine_a3ed4c"
+  },
+  {
+    "component": "Parts",
+    "procedure_ids": [
+      "502e8d847d97"
+    ],
+    "fault_ids": [
+      "fault_parts_wear_out_during_86f584a9"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "engine block"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Parts\n\nFAULT IDS:\n- fault_parts_wear_out_during_86f584a9\n\nCONNECTED:\n- engine block\n",
+    "component_id": "parts_78f080"
+  },
+  {
+    "component": "Gear Box",
+    "procedure_ids": [
+      "8608d0be7f62"
+    ],
+    "fault_ids": [
+      "fault_gear_box_leaks_oil_3c8f1b90"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "INDEX\nCOMPONENT: Gear Box\n\nFAULT IDS:\n- fault_gear_box_leaks_oil_3c8f1b90\n\nCONNECTED:\n- \n",
+    "component_id": "gear_box_7e5657"
+  },
+  {
+    "component": "Diesel Engine Crankcase",
+    "procedure_ids": [
+      "8608d0be7f62"
+    ],
+    "fault_ids": [
+      "fault_diesel_engine_crankcase_leaks_0304970b"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "gear box"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Diesel Engine Crankcase\n\nFAULT IDS:\n- fault_diesel_engine_crankcase_leaks_0304970b\n\nCONNECTED:\n- gear box\n",
+    "component_id": "diesel_engine_66176e"
+  },
+  {
+    "component": "Bevel Gear",
+    "procedure_ids": [
+      "1b86ad6f23d6"
+    ],
+    "fault_ids": [
+      "fault_abnormal_sound_3e4e4e6a"
+    ],
+    "spec_ids": [
+      "clearance:bevel gear"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "gear box",
+      "step box"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Bevel Gear\n\nFAULT IDS:\n- fault_abnormal_sound_3e4e4e6a\n\nCONNECTED:\n- gear box\n- step box\n",
+    "component_id": "bevel_gear_2cce8e"
+  },
+  {
+    "component": "Step Box Gear",
+    "procedure_ids": [
+      "1b86ad6f23d6"
+    ],
+    "fault_ids": [],
+    "spec_ids": [
+      "clearance:step box gear"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "gear box",
+      "step box"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Step Box Gear\n\nFAULT IDS:\n- \n\nCONNECTED:\n- gear box\n- step box\n",
+    "component_id": "step_box_db9838"
+  },
+  {
+    "component": "Reversing Gears",
+    "procedure_ids": [
+      "1b86ad6f23d6"
+    ],
+    "fault_ids": [
+      "fault_cannot_reverse_normally_74062b88"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "gear box",
+      "reversing handle"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Reversing Gears\n\nFAULT IDS:\n- fault_cannot_reverse_normally_74062b88\n\nCONNECTED:\n- gear box\n- reversing handle\n",
+    "component_id": "reversing_gears_32e0d1"
+  },
+  {
+    "component": "Accelerator Cable",
+    "procedure_ids": [
+      "d9c552830de1"
+    ],
+    "fault_ids": [
+      "fault_diesel_engine_not_in_c2338260"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "accelerator switch"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Accelerator Cable\n\nFAULT IDS:\n- fault_diesel_engine_not_in_c2338260\n\nCONNECTED:\n- accelerator switch\n",
+    "component_id": "accelerator_cable_56ee96"
+  },
+  {
+    "component": "Adjustment Screw",
+    "procedure_ids": [
+      "15785cc1d75a"
+    ],
+    "fault_ids": [
+      "fault_up_and_down_adjustment_c1c2828a"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "adjustment lever"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Adjustment Screw\n\nFAULT IDS:\n- fault_up_and_down_adjustment_c1c2828a\n\nCONNECTED:\n- adjustment lever\n",
+    "component_id": "adjustment_screw_5e22e5"
+  },
+  {
+    "component": "Armrest Handle Assembly",
+    "procedure_ids": [
+      "a8d3b63901bc"
+    ],
+    "fault_ids": [
+      "fault_armrest_handle_assembly_not_ca743a0b"
+    ],
+    "spec_ids": [
+      "clearance:armrest handle assembly"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "armrest base"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Armrest Handle Assembly\n\nFAULT IDS:\n- fault_armrest_handle_assembly_not_ca743a0b\n\nCONNECTED:\n- armrest base\n",
+    "component_id": "armrest_handle_e5bee6"
+  },
+  {
+    "component": "Locknut Handle",
+    "procedure_ids": [
+      "a8d3b63901bc"
+    ],
+    "fault_ids": [
+      "fault_armrest_not_moving_left_187afe1a"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "armrest base"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Locknut Handle\n\nFAULT IDS:\n- fault_armrest_not_moving_left_187afe1a\n\nCONNECTED:\n- armrest base\n",
+    "component_id": "locknut_handle_ed4788"
+  },
+  {
+    "component": "Main Shaft",
+    "procedure_ids": [
+      "5592284bdfa1"
+    ],
+    "fault_ids": [
+      "fault_shift_failure_27fdb5c9"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "gear box cover"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Main Shaft\n\nFAULT IDS:\n- fault_shift_failure_27fdb5c9\n\nCONNECTED:\n- gear box cover\n",
+    "component_id": "main_shaft_d9a5f2"
+  },
+  {
+    "component": "Main Shaft Positioning Spring",
+    "procedure_ids": [
+      "5592284bdfa1"
+    ],
+    "fault_ids": [
+      "fault_main_shaft_positioning_spring_2f9fd311"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "gear box cover"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Main Shaft Positioning Spring\n\nFAULT IDS:\n- fault_main_shaft_positioning_spring_2f9fd311\n\nCONNECTED:\n- gear box cover\n",
+    "component_id": "main_shaft_223115"
+  },
+  {
+    "component": "Reversing Fork",
+    "procedure_ids": [
+      "5592284bdfa1"
+    ],
+    "fault_ids": [
+      "fault_reversing_fork_is_blocked_d1e95ea5"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "reversing pushing plate"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Reversing Fork\n\nFAULT IDS:\n- fault_reversing_fork_is_blocked_d1e95ea5\n\nCONNECTED:\n- reversing pushing plate\n",
+    "component_id": "reversing_fork_c816a1"
+  },
+  {
+    "component": "Reversing Shaft",
+    "procedure_ids": [
+      "5592284bdfa1"
+    ],
+    "fault_ids": [
+      "fault_reversing_shaft_is_loosen_5417befd"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "reversing shaft back bolts"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Reversing Shaft\n\nFAULT IDS:\n- fault_reversing_shaft_is_loosen_5417befd\n\nCONNECTED:\n- reversing shaft back bolts\n",
+    "component_id": "reversing_shaft_7a5424"
+  },
+  {
+    "component": "Reversing Shaft O-Ring",
+    "procedure_ids": [
+      "5592284bdfa1"
+    ],
+    "fault_ids": [
+      "fault_reversing_shaft_oring_failure_f37adb8e"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "reversing shaft"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Reversing Shaft O-Ring\n\nFAULT IDS:\n- fault_reversing_shaft_oring_failure_f37adb8e\n\nCONNECTED:\n- reversing shaft\n",
+    "component_id": "reversing_shaft_4e3e39"
+  },
+  {
+    "component": "Gear Box Oil",
+    "procedure_ids": [
+      "5592284bdfa1"
+    ],
+    "fault_ids": [
+      "fault_gear_box_oil_leakage_a9e7aeec"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "gear box"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Gear Box Oil\n\nFAULT IDS:\n- fault_gear_box_oil_leakage_a9e7aeec\n\nCONNECTED:\n- gear box\n",
+    "component_id": "gear_box_fa8e74"
+  },
+  {
+    "component": "Gear",
+    "procedure_ids": [
+      "f1268234485b"
+    ],
+    "fault_ids": [
+      "fault_too_loud_noise_from_ae4675ef"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "gear box connection"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Gear\n\nFAULT IDS:\n- fault_too_loud_noise_from_ae4675ef\n\nCONNECTED:\n- gear box connection\n",
+    "component_id": "gear_fae005"
+  },
+  {
+    "component": "Gear Box Connection",
+    "procedure_ids": [
+      "f1268234485b"
+    ],
+    "fault_ids": [
+      "fault_oil_leakage_of_the_04931ae6"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "gear box connection"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Gear Box Connection\n\nFAULT IDS:\n- fault_oil_leakage_of_the_04931ae6\n\nCONNECTED:\n- gear box connection\n",
+    "component_id": "gear_box_2e4fa8"
+  },
+  {
+    "component": "Oil Seal",
+    "procedure_ids": [
+      "f1268234485b"
+    ],
+    "fault_ids": [
+      "fault_oil_leakage_of_the_132b9493"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "output shaft casing"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Oil Seal\n\nFAULT IDS:\n- fault_oil_leakage_of_the_132b9493\n\nCONNECTED:\n- output shaft casing\n",
+    "component_id": "oil_seal_26e225"
+  },
+  {
+    "component": "Shaft Casing",
+    "procedure_ids": [
+      "f1268234485b"
+    ],
+    "fault_ids": [
+      "fault_serious_oil_leakage_of_04aeaac1"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "shaft casing"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Shaft Casing\n\nFAULT IDS:\n- fault_serious_oil_leakage_of_04aeaac1\n\nCONNECTED:\n- shaft casing\n",
+    "component_id": "shaft_casing_6fcb6b"
+  },
+  {
+    "component": "O- Ring",
+    "procedure_ids": [
+      "f1268234485b"
+    ],
+    "fault_ids": [
+      "fault_oil_leakage_of_the_63d90f2c"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "drain hole"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: O- Ring\n\nFAULT IDS:\n- fault_oil_leakage_of_the_63d90f2c\n\nCONNECTED:\n- drain hole\n",
+    "component_id": "o_ring_464d3d"
+  },
+  {
+    "component": "Step Box Padding",
+    "procedure_ids": [
+      "f1268234485b"
+    ],
+    "fault_ids": [
+      "fault_leakage_of_the_step_162e29c7"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "step box"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Step Box Padding\n\nFAULT IDS:\n- fault_leakage_of_the_step_162e29c7\n\nCONNECTED:\n- step box\n",
+    "component_id": "step_box_ccb21f"
+  },
+  {
+    "component": "Blade",
+    "procedure_ids": [
+      "1c4341cdefbe"
+    ],
+    "fault_ids": [
+      "fault_blade_is_broken_29f21e5c"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "rotavator"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Blade\n\nFAULT IDS:\n- fault_blade_is_broken_29f21e5c\n\nCONNECTED:\n- rotavator\n",
+    "component_id": "blade_2c066a"
+  },
+  {
+    "component": "Manipulation Cable",
+    "procedure_ids": [
+      "1c4341cdefbe"
+    ],
+    "fault_ids": [
+      "fault_manipulation_cable_is_broken_83c9de66"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "rotavator"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Manipulation Cable\n\nFAULT IDS:\n- fault_manipulation_cable_is_broken_83c9de66\n\nCONNECTED:\n- rotavator\n",
+    "component_id": "manipulation_cable_5ebc6f"
+  },
+  {
+    "component": "Solid Wrench",
+    "procedure_ids": [
+      "c0d007db143f"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "bolt"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Solid Wrench\n\nFAULT IDS:\n- \n\nCONNECTED:\n- bolt\n",
+    "component_id": "solid_wrench_c403fd"
+  },
+  {
+    "component": "Hex Bolt Wrench",
+    "procedure_ids": [
+      "c0d007db143f"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "bolt"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Hex Bolt Wrench\n\nFAULT IDS:\n- \n\nCONNECTED:\n- bolt\n",
+    "component_id": "hex_bolt_c2bb6b"
+  },
+  {
+    "component": "Two-Use Screwdriver",
+    "procedure_ids": [
+      "c0d007db143f"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "di bolt"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Two-Use Screwdriver\n\nFAULT IDS:\n- \n\nCONNECTED:\n- di bolt\n",
+    "component_id": "twouse_screwdriver_0cad77"
+  },
+  {
+    "component": "Srd178F/186F/Sr186Fa",
+    "procedure_ids": [
+      "c0d007db143f"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "t tl t"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Srd178F/186F/Sr186Fa\n\nFAULT IDS:\n- \n\nCONNECTED:\n- t tl t\n",
+    "component_id": "srd178f186fsr186fa_e89322"
+  },
+  {
+    "component": "Srd178/186Fa",
+    "procedure_ids": [
+      "c0d007db143f"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "INDEX\nCOMPONENT: Srd178/186Fa\n\nFAULT IDS:\n- \n\nCONNECTED:\n- \n",
+    "component_id": "srd178186fa_255769"
+  },
+  {
+    "component": "Sr1Z-135(D)/Sr1Z-105(D)",
+    "procedure_ids": [
+      "c0d007db143f"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "t tl t"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Sr1Z-135(D)/Sr1Z-105(D)\n\nFAULT IDS:\n- \n\nCONNECTED:\n- t tl t\n",
+    "component_id": "sr1z135dsr1z105d_fd8db0"
+  },
+  {
+    "component": "Paddy Wheel Piece",
+    "procedure_ids": [
+      "87c42283b3af"
+    ],
+    "fault_ids": [
+      "fault_paddy_wheel_piece_does_45d71f93"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "gearbox, engine"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Paddy Wheel Piece\n\nFAULT IDS:\n- fault_paddy_wheel_piece_does_45d71f93\n\nCONNECTED:\n- gearbox, engine\n",
+    "component_id": "paddy_wheel_bf3a49"
+  },
+  {
+    "component": "Fuel Pump",
+    "procedure_ids": [
+      "87c42283b3af"
+    ],
+    "fault_ids": [
+      "fault_fuel_pump_does_not_feaba6c5"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "engine, fuel tank"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Fuel Pump\n\nFAULT IDS:\n- fault_fuel_pump_does_not_feaba6c5\n\nCONNECTED:\n- engine, fuel tank\n",
+    "component_id": "fuel_pump_3cd13e"
+  },
+  {
+    "component": "Bolt",
+    "procedure_ids": [],
+    "fault_ids": [
+      "fault_tightening_or_loosening_the_e02abf60"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "INDEX\nCOMPONENT: Bolt\n\nFAULT IDS:\n- fault_tightening_or_loosening_the_e02abf60\n\nCONNECTED:\n- \n",
+    "component_id": "bolt_a6fe88"
+  },
+  {
+    "component": "Di bolt",
+    "procedure_ids": [],
+    "fault_ids": [
+      "fault_tightening_or_loosening_the_05f74a10"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "INDEX\nCOMPONENT: Di bolt\n\nFAULT IDS:\n- fault_tightening_or_loosening_the_05f74a10\n\nCONNECTED:\n- \n",
+    "component_id": "di_bolt_d197e8"
+  },
+  {
+    "component": "T tl t",
+    "procedure_ids": [],
+    "fault_ids": [
+      "fault_helping_to_know_the_3308a3db"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "INDEX\nCOMPONENT: T tl t\n\nFAULT IDS:\n- fault_helping_to_know_the_3308a3db\n\nCONNECTED:\n- \n",
+    "component_id": "t_tl_0bc471"
+  }
+]

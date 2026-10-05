@@ -1,0 +1,1348 @@
+[
+  {
+    "filename": "UnScanned_Water_Pump_Servicing-1_p6_img0.png",
+    "page": 6,
+    "width": 1275,
+    "height": 1650,
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "section_context": "General",
+    "surrounding_text": "www.PDHcenter.com \nPDHonline Course M524 \nwww.PDHonline.org \n3.2 TROUBLESHOOTING CENTRIFUGAL PUMPS. Symptoms and possible causes \nof operating difficulties are listed in Table 3. See also Table 10, a troubleshooting \nchecklist for vertical turbine well pumps, which are a class of centrifugal pump. \n3.2.1 CAVITATION PROBLEMS. Cavitation is one of the most serious operational \nproblems with centrifugal pumps. Cavitation occurs when cavities or bubbles of vapor \nform in the liquid. The bubbles collapse against the impeller, making a sound as \nthough there were rocks in the pump. If left uncorrected, cavitation will seriously \ndamage the pump. \n3.2.2 CAUSES OF CAVITATION. Conditions that typically cause cavitation include \noperating the pump with too great a suction lift or an insufficiently submerged suction \ninlet. Cavitation develops when normal pump operating conditions have been \nexceeded. Noise, vibration, impeller erosion, and reduction in total head and efficiency \nresult from cavitation. Cavitation in a centrifugal pump may be caused by any of the \nfollowing: \na) The impeller vane is traveling at higher revolutions per minutes (rpm) than the \nliquid. \nb) Suction is restricted. (Note: Do not throttle the suction of a centrifugal pump.) \nc) The required net positive suction head (NPSH) is equal to or greater than the \navailable NPSH. \nd) The specific pump speed is too high for the operating conditions. \ne) The liquid temperature is too high for the suction conditions. \n©20",
+    "figure_references": [
+      "Table 3",
+      "Table 10"
+    ],
+    "caption": "This page provides technical guidance on troubleshooting centrifugal pumps, specifically focusing on the identification and causes of cavitation. It outlines critical operational conditions that lead to pump damage, such as excessive suction lift, restricted suction, and NPSH (Net Positive Suction Head) mismatches. Technicians should use this information to diagnose noise and vibration issues that indicate potential impeller erosion.",
+    "diagram_type": "chart",
+    "diagram_type_classifier": "chart",
+    "components_shown": [
+      "centrifugal pump",
+      "impeller",
+      "suction inlet"
+    ],
+    "fault_relevance": [
+      "cavitation",
+      "impeller erosion",
+      "excessive suction lift",
+      "insufficiently submerged suction inlet",
+      "restricted suction",
+      "NPSH mismatch",
+      "high specific pump speed",
+      "excessive liquid temperature"
+    ],
+    "search_keywords": [
+      "centrifugal pump troubleshooting",
+      "cavitation causes",
+      "pump noise",
+      "NPSH",
+      "impeller erosion",
+      "suction lift"
+    ],
+    "prev_context": "",
+    "next_context": "UnScanned_Water_Pump_Servicing-1_p7_img0.png (p7, section: General)",
+    "priority_score": 8,
+    "components_visible": [
+      "centrifugal pump",
+      "impeller",
+      "suction inlet"
+    ],
+    "labels_detected": [
+      "3.2",
+      "3.2.1",
+      "3.2.2",
+      "a",
+      "b",
+      "c",
+      "d",
+      "e"
+    ],
+    "arrows_point_to": [],
+    "relationships": [],
+    "specifications": [],
+    "repair_relevance": [
+      "troubleshooting pump noise",
+      "diagnosing pump vibration",
+      "preventing impeller damage",
+      "optimizing suction conditions"
+    ],
+    "assembly_order": [],
+    "connected_relationships": [],
+    "embedding_text": "IMAGE:\nThis page provides technical guidance on troubleshooting centrifugal pumps, specifically focusing on the identification and causes of cavitation. It outlines critical operational conditions that lead to pump damage, such as excessive suction lift, restricted suction, and NPSH (Net Positive Suction Head) mismatches. Technicians should use this information to diagnose noise and vibration issues that indicate potential impeller erosion.\nVISIBLE COMPONENTS:\n- centrifugal pump\n- impeller\n- suction inlet\nKEYWORDS:\n- centrifugal pump troubleshooting\n- cavitation causes\n- pump noise\n- NPSH\n- impeller erosion\n- suction lift\nUSEFUL FOR:\nREPAIR:\n- troubleshooting pump noise\n- diagnosing pump vibration\n- preventing impeller damage\n- optimizing suction conditions\nFAULTS:\n- cavitation\n- impeller erosion\n- excessive suction lift\n- insufficiently submerged suction inlet\n- restricted suction\n- NPSH mismatch\n- high specific pump speed\n- excessive liquid temperature\n"
+  },
+  {
+    "filename": "UnScanned_Water_Pump_Servicing-1_p7_img0.png",
+    "page": 7,
+    "width": 1275,
+    "height": 1650,
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "section_context": "General",
+    "surrounding_text": "www.PDHcenter.com \nPDHonline Course M524 \nwww.PDHonline.org \nInspection \nAction \nPrestart Checks \nValves \nRotors \nStarting the Pump \nEquipment area \nValves \nOpen the valve in the cooling liquid supply to the bearing, if \nthe bearings are liquid cooled. \nOpen the valve in the flushing water supply to the stuffing \nboxes, if so equipped. \nOpen the valve in the sealing liquid supply to the stuffing \nboxes or mechanical seals, \nif so equipped. \nOpen or close the discharge valves according to the \nmanufacturer's manual. \nCheck the rotor to see that it is free. You should be able to \nturn the rotor shaft by hand. Do not start the pump until any \ndifficulty is corrected. \nPrime centrifugal pumps before startup. The equipment will \nnot pump water unless air in the pump and suction piping is \nreplaced with water. \nIn addition, the rotating element may \nseize from a lack of lubrication. \nUse one of the following methods to prime the pump, \ndepending on operating conditions: positive suction head \n(1) or negative suction head (2). \nAlways start the pump according to the manufacturer’s \nmanual. \nEnsure that all personnel are clear of dangerous areas. \nFor pumps started with discharge valves closed, open \nvalves slowly after pump approaches operating speed. \nDo \nnot operate the pump with a closed discharge valve. \nTable 2 \nRoutine operations check list for centrifugal pumps \n©2014 J. Paul Guyer \nPage 7 of 57",
+    "figure_references": [
+      "Table 2"
+    ],
+    "caption": "This table provides a routine pre-start checklist for centrifugal pumps. It outlines critical inspection points including valve positioning for cooling and sealing systems, rotor freedom checks, priming procedures, and safety protocols for starting the pump.",
+    "diagram_type": "chart",
+    "diagram_type_classifier": "chart",
+    "components_shown": [
+      "valves",
+      "bearings",
+      "stuffing boxes",
+      "mechanical seals",
+      "discharge valves",
+      "rotor",
+      "rotor shaft",
+      "centrifugal pump",
+      "suction piping"
+    ],
+    "fault_relevance": [
+      "seizure due to lack of lubrication",
+      "pump failure due to air in suction piping",
+      "rotor binding"
+    ],
+    "search_keywords": [
+      "centrifugal pump startup",
+      "pump priming",
+      "pre-start checklist",
+      "rotor inspection",
+      "stuffing box maintenance"
+    ],
+    "prev_context": "UnScanned_Water_Pump_Servicing-1_p6_img0.png (p6, section: General)",
+    "next_context": "UnScanned_Water_Pump_Servicing-1_p8_img0.png (p8, section: General)",
+    "priority_score": 8,
+    "components_visible": [
+      "valves",
+      "bearings",
+      "stuffing boxes",
+      "mechanical seals",
+      "discharge valves",
+      "rotor",
+      "rotor shaft",
+      "centrifugal pump",
+      "suction piping"
+    ],
+    "labels_detected": [
+      "Table 2"
+    ],
+    "arrows_point_to": [],
+    "relationships": [
+      {
+        "from": "cooling liquid supply",
+        "to": "bearing",
+        "type": "connects_to"
+      },
+      {
+        "from": "flushing water supply",
+        "to": "stuffing boxes",
+        "type": "connects_to"
+      },
+      {
+        "from": "sealing liquid supply",
+        "to": "stuffing boxes or mechanical seals",
+        "type": "connects_to"
+      }
+    ],
+    "specifications": [],
+    "repair_relevance": [
+      "pre-start inspection",
+      "pump priming procedure",
+      "startup safety checks"
+    ],
+    "assembly_order": [],
+    "connected_relationships": [
+      {
+        "from": "cooling liquid supply",
+        "to": "bearing",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "flushing water supply",
+        "to": "stuffing boxes",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "sealing liquid supply",
+        "to": "stuffing boxes or mechanical seals",
+        "relationship": "connects_to"
+      }
+    ],
+    "embedding_text": "IMAGE:\nThis table provides a routine pre-start checklist for centrifugal pumps. It outlines critical inspection points including valve positioning for cooling and sealing systems, rotor freedom checks, priming procedures, and safety protocols for starting the pump.\nVISIBLE COMPONENTS:\n- valves\n- bearings\n- stuffing boxes\n- mechanical seals\n- discharge valves\n- rotor\n- rotor shaft\n- centrifugal pump\n- suction piping\nKEYWORDS:\n- centrifugal pump startup\n- pump priming\n- pre-start checklist\n- rotor inspection\n- stuffing box maintenance\nUSEFUL FOR:\nREPAIR:\n- pre-start inspection\n- pump priming procedure\n- startup safety checks\nFAULTS:\n- seizure due to lack of lubrication\n- pump failure due to air in suction piping\n- rotor binding\n"
+  },
+  {
+    "filename": "UnScanned_Water_Pump_Servicing-1_p8_img0.png",
+    "page": 8,
+    "width": 1275,
+    "height": 1650,
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "section_context": "General",
+    "surrounding_text": "www.PDHcenter.com \nPDHonline Course M524 \nwww.PDHonline.org \nInspection \nAction \nStuffing boxes and \nPacking \nPump and driver \nStopping the Pump \nValves \nMonitoring Operations \nUnusual sounds \nObserve leakage from the stuffing boxes and adjust the \nsealing liquid valve for proper flow to ensure packing \nlubrication. \nFor new packing, allow pump to run for 10 to \n15 minutes before tightening the stuffing box gland. \nGradually tighten the stuffing box gland until leakage slows \nto a constant drip. \nCheck the general mechanical operation of the pump and \ndriver. Ensure that working parts are free to move without \ndamage. \nAlways review instructions for disconnecting and securing \ndrive and rotating equipment. \nAs arule, there is a check valve in the discharge line close \nto the pump. \nIn such cases, shut down the pump by \nstopping the driver according to the manufacturer's manual. \nThen close all valves, except the check valve, in this order: \ndischarge, suction, pump cooling water supply, and other \nconnections leading to the pump or system. \nIn some instances, however, the use of a check valve is not \nfeasible because the sudden closing of the valve under high \ndischarge pressure might create pressure surges or water \nhammer. \nIn such cases, close the discharge valve slowly to \navoid water hammer. \nLearn to recognize the normal sounds and conditions of a \nproperly run pump. \nListen to the sounds of the pump on \nregular inspection tours and investigate any abnormal \nsounds at o",
+    "figure_references": [
+      "Table 2"
+    ],
+    "caption": "This table provides routine operational inspection and maintenance procedures for centrifugal pumps. It details critical tasks such as adjusting stuffing box packing, monitoring mechanical operation, and the correct sequence for stopping the pump to prevent water hammer.",
+    "diagram_type": "chart",
+    "diagram_type_classifier": "chart",
+    "components_shown": [
+      "stuffing boxes",
+      "packing",
+      "stuffing box gland",
+      "sealing liquid valve",
+      "pump",
+      "driver",
+      "discharge valve",
+      "suction valve",
+      "pump cooling water supply",
+      "check valve"
+    ],
+    "fault_relevance": [
+      "excessive leakage from stuffing box",
+      "packing lubrication failure",
+      "mechanical damage to pump or driver",
+      "water hammer during shutdown"
+    ],
+    "search_keywords": [
+      "centrifugal pump maintenance",
+      "stuffing box adjustment",
+      "pump shutdown procedure",
+      "water hammer prevention",
+      "packing lubrication"
+    ],
+    "prev_context": "UnScanned_Water_Pump_Servicing-1_p7_img0.png (p7, section: General)",
+    "next_context": "UnScanned_Water_Pump_Servicing-1_p9_img0.png (p9, section: General)",
+    "priority_score": 8,
+    "components_visible": [
+      "stuffing boxes",
+      "packing",
+      "stuffing box gland",
+      "sealing liquid valve",
+      "pump",
+      "driver",
+      "discharge valve",
+      "suction valve",
+      "pump cooling water supply",
+      "check valve"
+    ],
+    "labels_detected": [],
+    "arrows_point_to": [],
+    "relationships": [
+      {
+        "from": "stuffing box gland",
+        "to": "stuffing boxes",
+        "type": "tightens_against"
+      },
+      {
+        "from": "sealing liquid valve",
+        "to": "stuffing boxes",
+        "type": "regulates_flow_to"
+      },
+      {
+        "from": "check valve",
+        "to": "discharge line",
+        "type": "installed_in"
+      }
+    ],
+    "specifications": [
+      "new packing run-in time: 10 to 15 minutes",
+      "stuffing box leakage target: constant drip"
+    ],
+    "repair_relevance": [
+      "adjusting stuffing box packing",
+      "performing routine pump inspection",
+      "proper shutdown procedure for centrifugal pumps"
+    ],
+    "assembly_order": [
+      "stop driver",
+      "close discharge valve",
+      "close suction valve",
+      "close pump cooling water supply"
+    ],
+    "connected_relationships": [
+      {
+        "from": "stuffing box gland",
+        "to": "stuffing boxes",
+        "relationship": "tightens_against"
+      },
+      {
+        "from": "sealing liquid valve",
+        "to": "stuffing boxes",
+        "relationship": "regulates_flow_to"
+      },
+      {
+        "from": "check valve",
+        "to": "discharge line",
+        "relationship": "installed_in"
+      }
+    ],
+    "embedding_text": "IMAGE:\nThis table provides routine operational inspection and maintenance procedures for centrifugal pumps. It details critical tasks such as adjusting stuffing box packing, monitoring mechanical operation, and the correct sequence for stopping the pump to prevent water hammer.\nVISIBLE COMPONENTS:\n- stuffing boxes\n- packing\n- stuffing box gland\n- sealing liquid valve\n- pump\n- driver\n- discharge valve\n- suction valve\n- pump cooling water supply\n- check valve\nKEYWORDS:\n- centrifugal pump maintenance\n- stuffing box adjustment\n- pump shutdown procedure\n- water hammer prevention\n- packing lubrication\nUSEFUL FOR:\nREPAIR:\n- adjusting stuffing box packing\n- performing routine pump inspection\n- proper shutdown procedure for centrifugal pumps\nFAULTS:\n- excessive leakage from stuffing box\n- packing lubrication failure\n- mechanical damage to pump or driver\n- water hammer during shutdown\n"
+  },
+  {
+    "filename": "UnScanned_Water_Pump_Servicing-1_p9_img0.png",
+    "page": 9,
+    "width": 1275,
+    "height": 1650,
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "section_context": "General",
+    "surrounding_text": "www.PDHcenter.com \nPDHonline Course M524 \nwww.PDHonline.org \nInspection \nAction \nBearings \nCheck bearing temperature and lubrication. Where \npetroleum-based lubricants are used, follow the \nmanufacturer's manual and do not over lubricate. \nSuction and discharge | Check these readings and compare with “normal” valves. \nreadings \nMake sure valves are set as required. Check shaft packing. \nCheck discharge rate. Check driving equipment. \nTable 2 (continued) \nRoutine operations check list for centrifugal pumps \n(1) Positive Suction Head. When the intake (suction) side of the pump is under \npressure, use the following priming sequence: \na. Open all suction valves to allow water to enter the suction pipe and pump casing. \nb. Open all vents located on the highest point of the pump casing to allow trapped air \nto be released. Note: The pump is properly primed when water flows from all open \nvents in a steady stream. \n(2) Negative Suction Head. Two priming methods are available for a negative suction \nhead condition—that is, when the pump lifts water to the intake (suction lift). \na. Vacuum Pump or Ejection Method. When steam, high-pressure water, or \ncompressed air is available, prime the pump by attaching an ejector to the highest \npoint in the pump casing for evacuating the air from the suction piping and casing. A \nvacuum may be substituted for the above equipment. Start the ejector or vacuum \npump to exhaust the air from the pump casing and suction pipe. When water \ndischarges fro",
+    "figure_references": [
+      "Table 2"
+    ],
+    "caption": "This page provides a routine operations checklist for centrifugal pumps, focusing on bearing maintenance and suction/discharge monitoring. It details the specific priming sequences required for both positive suction head and negative suction head (suction lift) configurations to ensure proper pump operation.",
+    "diagram_type": "chart",
+    "diagram_type_classifier": "chart",
+    "components_shown": [
+      "bearings",
+      "suction valves",
+      "discharge valves",
+      "shaft packing",
+      "driving equipment",
+      "pump casing",
+      "ejector",
+      "vacuum pump"
+    ],
+    "fault_relevance": [
+      "improper bearing lubrication",
+      "air trapped in pump casing",
+      "incorrect suction/discharge pressure",
+      "failed pump priming"
+    ],
+    "search_keywords": [
+      "centrifugal pump priming",
+      "pump maintenance checklist",
+      "positive suction head priming",
+      "negative suction head priming",
+      "pump bearing lubrication"
+    ],
+    "prev_context": "UnScanned_Water_Pump_Servicing-1_p8_img0.png (p8, section: General)",
+    "next_context": "UnScanned_Water_Pump_Servicing-1_p10_img0.png (p10, section: General)",
+    "priority_score": 8,
+    "components_visible": [
+      "bearings",
+      "suction valves",
+      "discharge valves",
+      "shaft packing",
+      "driving equipment",
+      "pump casing",
+      "ejector",
+      "vacuum pump"
+    ],
+    "labels_detected": [
+      "Table 2",
+      "(1)",
+      "(2)",
+      "a.",
+      "b."
+    ],
+    "arrows_point_to": [],
+    "relationships": [
+      {
+        "from": "ejector",
+        "to": "pump casing",
+        "type": "connects_to"
+      },
+      {
+        "from": "vacuum pump",
+        "to": "pump casing",
+        "type": "connects_to"
+      }
+    ],
+    "specifications": [
+      "bearing lubrication: follow manufacturer manual",
+      "suction/discharge readings: compare with normal values"
+    ],
+    "repair_relevance": [
+      "routine maintenance of centrifugal pumps",
+      "priming procedure for positive suction head",
+      "priming procedure for negative suction head",
+      "troubleshooting pump pressure readings"
+    ],
+    "assembly_order": [
+      "Open all suction valves",
+      "Open all vents at highest point of casing",
+      "Wait for steady stream of water from vents",
+      "For negative suction: attach ejector/vacuum pump to highest point",
+      "Evacuate air from casing and suction pipe",
+      "Start centrifugal pump once water discharges from ejector"
+    ],
+    "connected_relationships": [
+      {
+        "from": "ejector",
+        "to": "pump casing",
+        "relationship": "connects_to"
+      },
+      {
+        "from": "vacuum pump",
+        "to": "pump casing",
+        "relationship": "connects_to"
+      }
+    ],
+    "embedding_text": "IMAGE:\nThis page provides a routine operations checklist for centrifugal pumps, focusing on bearing maintenance and suction/discharge monitoring. It details the specific priming sequences required for both positive suction head and negative suction head (suction lift) configurations to ensure proper pump operation.\nVISIBLE COMPONENTS:\n- bearings\n- suction valves\n- discharge valves\n- shaft packing\n- driving equipment\n- pump casing\n- ejector\n- vacuum pump\nKEYWORDS:\n- centrifugal pump priming\n- pump maintenance checklist\n- positive suction head priming\n- negative suction head priming\n- pump bearing lubrication\nUSEFUL FOR:\nREPAIR:\n- routine maintenance of centrifugal pumps\n- priming procedure for positive suction head\n- priming procedure for negative suction head\n- troubleshooting pump pressure readings\nFAULTS:\n- improper bearing lubrication\n- air trapped in pump casing\n- incorrect suction/discharge pressure\n- failed pump priming\n"
+  },
+  {
+    "filename": "UnScanned_Water_Pump_Servicing-1_p10_img0.png",
+    "page": 10,
+    "width": 1275,
+    "height": 1650,
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "section_context": "General",
+    "surrounding_text": "www.PDHcenter.com \nPDHonline Course M524 \nwww.PDHonline.org \nb. Priming a Pump with a Foot Valve. A foot valve is used at the lowest point on the \nsuction pipe. The foot valve retains water in the suction pipe and pump casing after the \npump has been initially primed. To prime, open the suction valve, \nif one is installed. \nOpen vent valves at the highest points on the pump casing. Fill the pump and suction \nline from an independent water supply. Allow to fill until a steady steam flows from the \nvent valves. \nSymptom \nPossible Cause \nPump does not deliver water. \nPump not primed. \nPump or suction pipe not completely filled with \nwater. \nSuction lift too high. \nAir pocket in suction line. \nInlet of suction pipe insufficiently submerged. \nSuction valve not open or partially open. \nDischarge valve not open. \nSpeed too low. \n‘Wrong direction of rotation. \nTotal head of system higher than design head of \npump. \nParallel operation of pumps unsuitable for existing \nconditions. \nForeign matter in impeller. \nInsufficient capacity delivered. \nPump or suction pipe not completely filled with \nwater. \nSuction lift too high. \nExcessive amount of air or gas in water. \nAir pocket in suction line. \nAir leaks into suction line. \nAir leaks into pump through stuffing boxes. \nFoot valve too small. \nFoot valve partially clogged. \nInlet of suction pipe insufficiently submerged. \nTable 3 \nTroubleshooting Checklist for Centrifugal Pumps \n©2014 J. Paul Guyer \nPage 10 of 57",
+    "figure_references": [
+      "Table 3"
+    ],
+    "caption": "This page provides a troubleshooting guide for centrifugal pump performance issues, specifically addressing 'Pump does not deliver water' and 'Insufficient capacity delivered'. It outlines the procedure for priming a pump using a foot valve and lists common causes such as air pockets, suction lift issues, and mechanical obstructions.",
+    "diagram_type": "chart",
+    "diagram_type_classifier": "chart",
+    "components_shown": [
+      "centrifugal pump",
+      "foot valve",
+      "suction pipe",
+      "pump casing",
+      "suction valve",
+      "vent valves",
+      "impeller",
+      "stuffing boxes"
+    ],
+    "fault_relevance": [
+      "Pump not primed",
+      "Pump or suction pipe not completely filled with water",
+      "Suction lift too high",
+      "Air pocket in suction line",
+      "Inlet of suction pipe insufficiently submerged",
+      "Suction valve not open or partially open",
+      "Discharge valve not open",
+      "Speed too low",
+      "Wrong direction of rotation",
+      "Total head of system higher than design head of pump",
+      "Parallel operation of pumps unsuitable for existing conditions",
+      "Foreign matter in impeller",
+      "Excessive amount of air or gas in water",
+      "Air leaks into suction line",
+      "Air leaks into pump through stuffing boxes",
+      "Foot valve too small",
+      "Foot valve partially clogged"
+    ],
+    "search_keywords": [
+      "centrifugal pump troubleshooting",
+      "pump priming procedure",
+      "foot valve function",
+      "pump not delivering water",
+      "insufficient pump capacity"
+    ],
+    "prev_context": "UnScanned_Water_Pump_Servicing-1_p9_img0.png (p9, section: General)",
+    "next_context": "UnScanned_Water_Pump_Servicing-1_p11_img0.png (p11, section: General)",
+    "priority_score": 8,
+    "components_visible": [
+      "centrifugal pump",
+      "foot valve",
+      "suction pipe",
+      "pump casing",
+      "suction valve",
+      "vent valves",
+      "impeller",
+      "stuffing boxes"
+    ],
+    "labels_detected": [
+      "Table 3",
+      "Symptom",
+      "Possible Cause"
+    ],
+    "arrows_point_to": [],
+    "relationships": [
+      {
+        "from": "foot valve",
+        "to": "suction pipe",
+        "type": "mounted_on"
+      },
+      {
+        "from": "vent valves",
+        "to": "pump casing",
+        "type": "mounted_on"
+      }
+    ],
+    "specifications": [],
+    "repair_relevance": [
+      "Priming a centrifugal pump",
+      "Troubleshooting pump delivery failure",
+      "Diagnosing insufficient pump capacity"
+    ],
+    "assembly_order": [
+      "Open suction valve",
+      "Open vent valves at highest points on pump casing",
+      "Fill pump and suction line from independent water supply",
+      "Allow to fill until steady stream flows from vent valves"
+    ],
+    "connected_relationships": [
+      {
+        "from": "foot valve",
+        "to": "suction pipe",
+        "relationship": "mounted_on"
+      },
+      {
+        "from": "vent valves",
+        "to": "pump casing",
+        "relationship": "mounted_on"
+      }
+    ],
+    "embedding_text": "IMAGE:\nThis page provides a troubleshooting guide for centrifugal pump performance issues, specifically addressing 'Pump does not deliver water' and 'Insufficient capacity delivered'. It outlines the procedure for priming a pump using a foot valve and lists common causes such as air pockets, suction lift issues, and mechanical obstructions.\nVISIBLE COMPONENTS:\n- centrifugal pump\n- foot valve\n- suction pipe\n- pump casing\n- suction valve\n- vent valves\n- impeller\n- stuffing boxes\nKEYWORDS:\n- centrifugal pump troubleshooting\n- pump priming procedure\n- foot valve function\n- pump not delivering water\n- insufficient pump capacity\nUSEFUL FOR:\nREPAIR:\n- Priming a centrifugal pump\n- Troubleshooting pump delivery failure\n- Diagnosing insufficient pump capacity\nFAULTS:\n- Pump not primed\n- Pump or suction pipe not completely filled with water\n- Suction lift too high\n- Air pocket in suction line\n- Inlet of suction pipe insufficiently submerged\n- Suction valve not open or partially open\n- Discharge valve not open\n- Speed too low\n- Wrong direction of rotation\n- Total head of system higher than design head of pump\n- Parallel operation of pumps unsuitable for existing conditions\n- Foreign matter in impeller\n- Excessive amount of air or gas in water\n- Air leaks into suction line\n- Air leaks into pump through stuffing boxes\n- Foot valve too small\n- Foot valve partially clogged\n"
+  },
+  {
+    "filename": "UnScanned_Water_Pump_Servicing-1_p11_img0.png",
+    "page": 11,
+    "width": 1275,
+    "height": 1650,
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "section_context": "General",
+    "surrounding_text": "www.PDHcenter.com \nPDHonline Course M524 \nwww.PDHonline.org \nPossible Cause \nInsufficient pressure developed. \nPump loses prime after starting. \nSuction valve only partially open. \nDischarge valve only partially open. \nSpeed too low. \nTotal head of system higher than design head of \npump. \nParallel operation of pumps unsuitable for such \noperation. \nForeign matter in impeller. \nWearing rings womn. \nImpeller damaged. \nCasing gasket defective, permitting internal \nleakage. \nExcessive amount of air or gas in water. \nSpeed too low. \n‘Wrong direction of rotation. \nTotal head of system higher than design head of \npump. \nParallel operation of pumps unsuitable for existing \nconditions. \nWearing rings womn. \nImpeller damaged. \nCasing gasket defective, permitting internal \nleakage. \nPump or suction pipe not completely filled with \nwater. \nSuction lift too high. \nExcessive amount of air or gas in water. \nAir pocket in suction line. \nAir leaks into suction line. \nTable 3 (continued) \nTroubleshooting Checklist for Centrifugal Pumps \n©2014 J. Paul Guyer \nPage 11 of 57",
+    "figure_references": [
+      "Table 3"
+    ],
+    "caption": "This table provides a troubleshooting guide for centrifugal pumps, specifically addressing symptoms of insufficient pressure and loss of prime. It lists potential mechanical and operational causes such as valve positioning, impeller damage, air leaks, and system head mismatches to assist technicians in diagnosing pump performance issues.",
+    "diagram_type": "chart",
+    "diagram_type_classifier": "chart",
+    "components_shown": [
+      "suction valve",
+      "discharge valve",
+      "impeller",
+      "wearing rings",
+      "casing gasket",
+      "suction pipe"
+    ],
+    "fault_relevance": [
+      "insufficient pressure developed",
+      "pump loses prime after starting",
+      "suction valve partially open",
+      "discharge valve partially open",
+      "speed too low",
+      "total head of system higher than design head",
+      "parallel operation of pumps unsuitable",
+      "foreign matter in impeller",
+      "wearing rings worn",
+      "impeller damaged",
+      "casing gasket defective",
+      "excessive air or gas in water",
+      "wrong direction of rotation",
+      "pump or suction pipe not completely filled with water",
+      "suction lift too high",
+      "air pocket in suction line",
+      "air leaks into suction line"
+    ],
+    "search_keywords": [
+      "centrifugal pump troubleshooting",
+      "insufficient pump pressure",
+      "pump loses prime",
+      "pump impeller damage",
+      "suction line air leak"
+    ],
+    "prev_context": "UnScanned_Water_Pump_Servicing-1_p10_img0.png (p10, section: General)",
+    "next_context": "UnScanned_Water_Pump_Servicing-1_p12_img0.png (p12, section: General)",
+    "priority_score": 8,
+    "components_visible": [
+      "suction valve",
+      "discharge valve",
+      "impeller",
+      "wearing rings",
+      "casing gasket",
+      "suction pipe"
+    ],
+    "labels_detected": [],
+    "arrows_point_to": [],
+    "relationships": [],
+    "specifications": [],
+    "repair_relevance": [
+      "troubleshooting centrifugal pump performance",
+      "diagnosing pressure loss",
+      "priming procedure verification",
+      "inspecting impeller and wearing rings",
+      "checking for air leaks in suction lines"
+    ],
+    "assembly_order": [],
+    "connected_relationships": [],
+    "embedding_text": "IMAGE:\nThis table provides a troubleshooting guide for centrifugal pumps, specifically addressing symptoms of insufficient pressure and loss of prime. It lists potential mechanical and operational causes such as valve positioning, impeller damage, air leaks, and system head mismatches to assist technicians in diagnosing pump performance issues.\nVISIBLE COMPONENTS:\n- suction valve\n- discharge valve\n- impeller\n- wearing rings\n- casing gasket\n- suction pipe\nKEYWORDS:\n- centrifugal pump troubleshooting\n- insufficient pump pressure\n- pump loses prime\n- pump impeller damage\n- suction line air leak\nUSEFUL FOR:\nREPAIR:\n- troubleshooting centrifugal pump performance\n- diagnosing pressure loss\n- priming procedure verification\n- inspecting impeller and wearing rings\n- checking for air leaks in suction lines\nFAULTS:\n- insufficient pressure developed\n- pump loses prime after starting\n- suction valve partially open\n- discharge valve partially open\n- speed too low\n- total head of system higher than design head\n- parallel operation of pumps unsuitable\n- foreign matter in impeller\n- wearing rings worn\n- impeller damaged\n- casing gasket defective\n- excessive air or gas in water\n- wrong direction of rotation\n- pump or suction pipe not completely filled with water\n- suction lift too high\n- air pocket in suction line\n- air leaks into suction line\n"
+  },
+  {
+    "filename": "UnScanned_Water_Pump_Servicing-1_p12_img0.png",
+    "page": 12,
+    "width": 1275,
+    "height": 1650,
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "section_context": "General",
+    "surrounding_text": "www.PDHcenter.com \nPDHonline Course M524 \nwww.PDHonline.org \nSymptom \nPossible Cause \nPump requires excessive power. \nStuffing box leaks excessively. \n‘Air leaks into pump through stuffing boxes. \nInlet of suction pipe insufficiently submerged. \nWater-seal pipe plugged. \nSeal cage improperly located in stuffing box, \npreventing sealing fluid from entering space to \nform the seal. \nSpeed too high. \n‘Wrong direction of rotation. \nTotal head of system higher than design head of \npump. \nTotal head of system lower than pump design \nhead. \nForeign matter in impeller existing conditions. \nMisalignment. \nShaft bent. \nRotating part rubbing on stationary part. \nWearing rings worn. \nPacking improperly installed. \nIncorrect type of packing for operating conditions. \nGland too tight resulting in no flow of liquid to \nlubricate packing. \nSeal cage improperly located in stuffing box, \npreventing sealing fluid entering space to form the \nseal. \nMisalignment. \nShaft bent. \nShaft or shaft sleeves worn or scored at the \npacking. \nPacking improperly installed. \nTable 3 (continued) \nTroubleshooting Checklist for Centrifugal Pumps \n©2014 J. Paul Guyer \nPage 12 of 57",
+    "figure_references": [
+      "Table 3"
+    ],
+    "caption": "This table provides a troubleshooting guide for centrifugal pumps, specifically addressing symptoms of excessive power consumption and excessive stuffing box leakage. It lists potential causes ranging from mechanical issues like misalignment and bent shafts to operational issues like incorrect system head or improper packing installation.",
+    "diagram_type": "chart",
+    "diagram_type_classifier": "chart",
+    "components_shown": [
+      "stuffing box",
+      "suction pipe",
+      "water-seal pipe",
+      "seal cage",
+      "impeller",
+      "shaft",
+      "shaft sleeves",
+      "wearing rings",
+      "packing"
+    ],
+    "fault_relevance": [
+      "Pump requires excessive power",
+      "Stuffing box leaks excessively",
+      "Air leaks into pump",
+      "Misalignment",
+      "Bent shaft",
+      "Worn wearing rings",
+      "Improperly installed packing",
+      "Foreign matter in impeller"
+    ],
+    "search_keywords": [
+      "centrifugal pump troubleshooting",
+      "excessive power consumption pump",
+      "stuffing box leak repair",
+      "pump seal cage adjustment",
+      "pump misalignment symptoms"
+    ],
+    "prev_context": "UnScanned_Water_Pump_Servicing-1_p11_img0.png (p11, section: General)",
+    "next_context": "UnScanned_Water_Pump_Servicing-1_p13_img0.png (p13, section: General)",
+    "priority_score": 8,
+    "components_visible": [
+      "stuffing box",
+      "suction pipe",
+      "water-seal pipe",
+      "seal cage",
+      "impeller",
+      "shaft",
+      "shaft sleeves",
+      "wearing rings",
+      "packing"
+    ],
+    "labels_detected": [],
+    "arrows_point_to": [],
+    "relationships": [
+      {
+        "from": "seal cage",
+        "to": "stuffing box",
+        "type": "inserted_into"
+      },
+      {
+        "from": "packing",
+        "to": "shaft",
+        "type": "seals_against"
+      },
+      {
+        "from": "packing",
+        "to": "shaft sleeves",
+        "type": "seals_against"
+      },
+      {
+        "from": "impeller",
+        "to": "shaft",
+        "type": "mounted_on"
+      }
+    ],
+    "specifications": [],
+    "repair_relevance": [
+      "Troubleshooting centrifugal pump power consumption issues",
+      "Diagnosing and repairing stuffing box leaks",
+      "Pump alignment procedures",
+      "Packing replacement and adjustment",
+      "Impeller inspection"
+    ],
+    "assembly_order": [],
+    "connected_relationships": [
+      {
+        "from": "seal cage",
+        "to": "stuffing box",
+        "relationship": "inserted_into"
+      },
+      {
+        "from": "packing",
+        "to": "shaft",
+        "relationship": "seals_against"
+      },
+      {
+        "from": "packing",
+        "to": "shaft sleeves",
+        "relationship": "seals_against"
+      },
+      {
+        "from": "impeller",
+        "to": "shaft",
+        "relationship": "mounted_on"
+      }
+    ],
+    "embedding_text": "IMAGE:\nThis table provides a troubleshooting guide for centrifugal pumps, specifically addressing symptoms of excessive power consumption and excessive stuffing box leakage. It lists potential causes ranging from mechanical issues like misalignment and bent shafts to operational issues like incorrect system head or improper packing installation.\nVISIBLE COMPONENTS:\n- stuffing box\n- suction pipe\n- water-seal pipe\n- seal cage\n- impeller\n- shaft\n- shaft sleeves\n- wearing rings\n- packing\nKEYWORDS:\n- centrifugal pump troubleshooting\n- excessive power consumption pump\n- stuffing box leak repair\n- pump seal cage adjustment\n- pump misalignment symptoms\nUSEFUL FOR:\nREPAIR:\n- Troubleshooting centrifugal pump power consumption issues\n- Diagnosing and repairing stuffing box leaks\n- Pump alignment procedures\n- Packing replacement and adjustment\n- Impeller inspection\nFAULTS:\n- Pump requires excessive power\n- Stuffing box leaks excessively\n- Air leaks into pump\n- Misalignment\n- Bent shaft\n- Worn wearing rings\n- Improperly installed packing\n- Foreign matter in impeller\n"
+  },
+  {
+    "filename": "UnScanned_Water_Pump_Servicing-1_p13_img0.png",
+    "page": 13,
+    "width": 1275,
+    "height": 1650,
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "section_context": "General",
+    "surrounding_text": "www.PDHcenter.com \nPDHonline Course M524 \nwww.PDHonline.org \nSymptom \nPossible Cause \nPacking has short life. \nIncorrect type of packing for operating conditions. \nShaft running off center because of worn bearings \nor misalignment. \nRotor out of balance, resulting in vibration. \nGland too tight, resulting in no flow of liquid to \nlubricate packing. \nExcessive clearance at bottom of stuffing box \nbetween shaft and casing, causing packing to be \nforced into pump interior. \nDirt or grit in sealing liquid, leading to scoring of \nshaft or shaft sleeve. \nWater-seal pipe plugged. \nSeal cage improperly located in stuffing box, \npreventing sealing fluid from entering space to \nform the seal. \nMisalignment. \nShaft bent. \nBearings wom. \nShaft or shaft sleeves worn or scored at the \npacking. \nPacking improperty installed. \nIncorrect type of packing for operating conditions. \nSharft running off center because of worn bearings \nor misalignment. \nRotor out of balance, resulting in vibration. \nGland too tight, resulting in no flow of liquid to \nlubricate packing. \nTable 3 (continued) \nTroubleshooting Checklist for Centrifugal Pumps \n©2014 J. Paul Guyer \nPage 13 of 57",
+    "figure_references": [
+      "Table 3"
+    ],
+    "caption": "This table provides a troubleshooting guide for centrifugal pumps specifically addressing the symptom of premature packing failure. It lists various mechanical causes such as misalignment, worn bearings, improper installation, and contamination, which a technician should inspect when packing life is shorter than expected.",
+    "diagram_type": "chart",
+    "diagram_type_classifier": "chart",
+    "components_shown": [
+      "packing",
+      "shaft",
+      "bearings",
+      "rotor",
+      "gland",
+      "stuffing box",
+      "casing",
+      "water-seal pipe",
+      "seal cage"
+    ],
+    "fault_relevance": [
+      "Packing has short life",
+      "Shaft running off center",
+      "Rotor out of balance",
+      "Vibration",
+      "Gland too tight",
+      "Excessive clearance at bottom of stuffing box",
+      "Scoring of shaft or shaft sleeve",
+      "Water-seal pipe plugged",
+      "Seal cage improperly located",
+      "Misalignment",
+      "Shaft bent",
+      "Bearings worn",
+      "Packing improperly installed"
+    ],
+    "search_keywords": [
+      "centrifugal pump troubleshooting",
+      "pump packing failure",
+      "stuffing box maintenance",
+      "pump shaft misalignment",
+      "pump gland adjustment"
+    ],
+    "prev_context": "UnScanned_Water_Pump_Servicing-1_p12_img0.png (p12, section: General)",
+    "next_context": "UnScanned_Water_Pump_Servicing-1_p14_img0.png (p14, section: General)",
+    "priority_score": 8,
+    "components_visible": [
+      "packing",
+      "shaft",
+      "bearings",
+      "rotor",
+      "gland",
+      "stuffing box",
+      "casing",
+      "water-seal pipe",
+      "seal cage"
+    ],
+    "labels_detected": [
+      "Table 3",
+      "Symptom",
+      "Possible Cause"
+    ],
+    "arrows_point_to": [],
+    "relationships": [
+      {
+        "from": "packing",
+        "to": "stuffing box",
+        "type": "installed_in"
+      },
+      {
+        "from": "shaft",
+        "to": "bearings",
+        "type": "supported_by"
+      },
+      {
+        "from": "gland",
+        "to": "packing",
+        "type": "compresses"
+      },
+      {
+        "from": "seal cage",
+        "to": "stuffing box",
+        "type": "located_in"
+      }
+    ],
+    "specifications": [],
+    "repair_relevance": [
+      "Troubleshooting premature pump packing failure",
+      "Inspecting shaft alignment and bearing condition",
+      "Verifying proper gland adjustment",
+      "Checking for debris in sealing liquid",
+      "Verifying seal cage and water-seal pipe functionality"
+    ],
+    "assembly_order": [],
+    "connected_relationships": [
+      {
+        "from": "packing",
+        "to": "stuffing box",
+        "relationship": "installed_in"
+      },
+      {
+        "from": "shaft",
+        "to": "bearings",
+        "relationship": "supported_by"
+      },
+      {
+        "from": "gland",
+        "to": "packing",
+        "relationship": "compresses"
+      },
+      {
+        "from": "seal cage",
+        "to": "stuffing box",
+        "relationship": "located_in"
+      }
+    ],
+    "embedding_text": "IMAGE:\nThis table provides a troubleshooting guide for centrifugal pumps specifically addressing the symptom of premature packing failure. It lists various mechanical causes such as misalignment, worn bearings, improper installation, and contamination, which a technician should inspect when packing life is shorter than expected.\nVISIBLE COMPONENTS:\n- packing\n- shaft\n- bearings\n- rotor\n- gland\n- stuffing box\n- casing\n- water-seal pipe\n- seal cage\nKEYWORDS:\n- centrifugal pump troubleshooting\n- pump packing failure\n- stuffing box maintenance\n- pump shaft misalignment\n- pump gland adjustment\nUSEFUL FOR:\nREPAIR:\n- Troubleshooting premature pump packing failure\n- Inspecting shaft alignment and bearing condition\n- Verifying proper gland adjustment\n- Checking for debris in sealing liquid\n- Verifying seal cage and water-seal pipe functionality\nFAULTS:\n- Packing has short life\n- Shaft running off center\n- Rotor out of balance\n- Vibration\n- Gland too tight\n- Excessive clearance at bottom of stuffing box\n- Scoring of shaft or shaft sleeve\n- Water-seal pipe plugged\n- Seal cage improperly located\n- Misalignment\n- Shaft bent\n- Bearings worn\n- Packing improperly installed\n"
+  },
+  {
+    "filename": "UnScanned_Water_Pump_Servicing-1_p14_img0.png",
+    "page": 14,
+    "width": 1275,
+    "height": 1650,
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "section_context": "General",
+    "surrounding_text": "www.PDHcenter.com \nPDHonline Course M524 \nwww.PDHonline.org \nSymptom \nPossible Cause \nPump vibrates or is noisy. \nPump or suction pipe not completely filled with \nFailure to provide cooling liquid to water-cooled \nstuffing boxes. \nExcessive clearance at bottom of stuffing box \nbetween shaft and casing, causing packing to be \nforced into pump interior. \nDirt or grit in sealing liquid, leading to scoring of \nshatt or shaft sleeve. \nwater. \nSuction lift too high. \nFoot valve too small. \nFoot valve partially clogged. \nInlet of suction pipe insufficiently submerged. \nOperation at very low capacity. \nForeign matter in impeller. \nMisalignment. \nFoundations not rigid. \nShaft bent. \nRotating part rubbing on stationary part. \nBearings worn. \nImpeller damaged. \nShaft running off center because of worn bearings \nor misalignment. \nRotor out of balance, resulting in vibration. \nDirt or grit in sealing liquid, leading to scoring of \nshaft or shaft sleeve. \n©2014 J. Paul Guyer \nTable 3 (continued) \nTroubleshooting Checklist for Centrifugal Pumps \nPage 14 of 57",
+    "figure_references": [
+      "Table 3"
+    ],
+    "caption": "This table provides a troubleshooting guide for centrifugal pumps experiencing vibration or noise. It lists various mechanical and operational causes, including issues with stuffing boxes, suction conditions, alignment, and internal component damage.",
+    "diagram_type": "chart",
+    "diagram_type_classifier": "chart",
+    "components_shown": [
+      "stuffing boxes",
+      "shaft",
+      "shaft sleeve",
+      "suction pipe",
+      "foot valve",
+      "impeller",
+      "bearings",
+      "rotor"
+    ],
+    "fault_relevance": [
+      "Pump vibration",
+      "Pump noise",
+      "Stuffing box failure",
+      "Shaft scoring",
+      "Suction pipe air entrapment",
+      "High suction lift",
+      "Foot valve restriction",
+      "Impeller obstruction",
+      "Misalignment",
+      "Foundation instability",
+      "Bent shaft",
+      "Internal rubbing",
+      "Bearing wear",
+      "Impeller damage",
+      "Rotor imbalance"
+    ],
+    "search_keywords": [
+      "centrifugal pump vibration",
+      "noisy pump troubleshooting",
+      "pump stuffing box repair",
+      "pump misalignment",
+      "pump suction issues"
+    ],
+    "prev_context": "UnScanned_Water_Pump_Servicing-1_p13_img0.png (p13, section: General)",
+    "next_context": "UnScanned_Water_Pump_Servicing-1_p15_img0.png (p15, section: General)",
+    "priority_score": 8,
+    "components_visible": [
+      "stuffing boxes",
+      "shaft",
+      "shaft sleeve",
+      "suction pipe",
+      "foot valve",
+      "impeller",
+      "bearings",
+      "rotor"
+    ],
+    "labels_detected": [],
+    "arrows_point_to": [],
+    "relationships": [],
+    "specifications": [],
+    "repair_relevance": [
+      "Troubleshooting pump noise and vibration",
+      "Inspecting stuffing box clearance",
+      "Checking shaft alignment",
+      "Verifying suction line integrity",
+      "Inspecting impeller for debris or damage",
+      "Checking bearing condition"
+    ],
+    "assembly_order": [],
+    "connected_relationships": [],
+    "embedding_text": "IMAGE:\nThis table provides a troubleshooting guide for centrifugal pumps experiencing vibration or noise. It lists various mechanical and operational causes, including issues with stuffing boxes, suction conditions, alignment, and internal component damage.\nVISIBLE COMPONENTS:\n- stuffing boxes\n- shaft\n- shaft sleeve\n- suction pipe\n- foot valve\n- impeller\n- bearings\n- rotor\nKEYWORDS:\n- centrifugal pump vibration\n- noisy pump troubleshooting\n- pump stuffing box repair\n- pump misalignment\n- pump suction issues\nUSEFUL FOR:\nREPAIR:\n- Troubleshooting pump noise and vibration\n- Inspecting stuffing box clearance\n- Checking shaft alignment\n- Verifying suction line integrity\n- Inspecting impeller for debris or damage\n- Checking bearing condition\nFAULTS:\n- Pump vibration\n- Pump noise\n- Stuffing box failure\n- Shaft scoring\n- Suction pipe air entrapment\n- High suction lift\n- Foot valve restriction\n- Impeller obstruction\n- Misalignment\n- Foundation instability\n- Bent shaft\n- Internal rubbing\n- Bearing wear\n- Impeller damage\n- Rotor imbalance\n"
+  },
+  {
+    "filename": "UnScanned_Water_Pump_Servicing-1_p15_img0.png",
+    "page": 15,
+    "width": 1275,
+    "height": 1650,
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "section_context": "General",
+    "surrounding_text": "www.PDHcenter.com \nPDHonline Course M524 \nwww.PDHonline.org \nSymptom \nPossible Cause \nBearings have short life. \nMisalignment. \nExcessive grease or oil in antifriction-bearing \nhousing, or lack of cooling, causing excessive \nbearing temperature. \nLack of lubrication. \nImproper installation of antifriction bearings \n(damage during assembly, incorrect assembly of \nstacked bearings, use of unmatched bearings as a \npair, etc.). \nDirt getting into bearings. \nRusting of bearings because of water getting into \nhousing. \nExcessive cooling of water-cooled bearing \nresulting in condensation in the bearing housing of \nmoisture from the atmosphere. \nShaft bent. \nRotating part rubbing on stationary part. \nBearings worn. \nShaft running off center because of worn bearings \nor misalignment. \nRotor out of balance, resulting in vibration. \nExcessive thrust caused by a mechanical failure \ninside the pump or by the failure of the hydraulic \nbalancing device, if any. \nExcessive grease or oil in antifriction-bearing \nhousing or lack of cooling, causing excessive \nbearing temperature. \nLack of lubrication. \n©2014 J. Paul Guyer \nTable 3 (continued) \nTroubleshooting Checklist for Centrifugal Pumps \nPage 15 of 57",
+    "figure_references": [
+      "Table 3"
+    ],
+    "caption": "This table provides a troubleshooting guide for centrifugal pump bearing failures. It lists various causes for short bearing life, including lubrication issues, improper installation, contamination, misalignment, and mechanical failures like bent shafts or rotor imbalance.",
+    "diagram_type": "chart",
+    "diagram_type_classifier": "chart",
+    "components_shown": [
+      "antifriction-bearing housing",
+      "bearings",
+      "shaft",
+      "rotor",
+      "hydraulic balancing device"
+    ],
+    "fault_relevance": [
+      "Bearings have short life",
+      "Excessive grease or oil in antifriction-bearing housing",
+      "Lack of cooling",
+      "Lack of lubrication",
+      "Improper installation of antifriction bearings",
+      "Dirt getting into bearings",
+      "Rusting of bearings",
+      "Excessive cooling of water-cooled bearing",
+      "Misalignment",
+      "Shaft bent",
+      "Rotating part rubbing on stationary part",
+      "Bearings worn",
+      "Shaft running off center",
+      "Rotor out of balance",
+      "Excessive thrust caused by mechanical failure",
+      "Failure of hydraulic balancing device"
+    ],
+    "search_keywords": [
+      "centrifugal pump troubleshooting",
+      "bearing failure causes",
+      "pump bearing short life",
+      "bearing overheating",
+      "pump shaft misalignment"
+    ],
+    "prev_context": "UnScanned_Water_Pump_Servicing-1_p14_img0.png (p14, section: General)",
+    "next_context": "UnScanned_Water_Pump_Servicing-1_p16_img0.png (p16, section: General)",
+    "priority_score": 8,
+    "components_visible": [
+      "antifriction-bearing housing",
+      "bearings",
+      "shaft",
+      "rotor",
+      "hydraulic balancing device"
+    ],
+    "labels_detected": [],
+    "arrows_point_to": [],
+    "relationships": [],
+    "specifications": [],
+    "repair_relevance": [
+      "Troubleshooting premature bearing failure in centrifugal pumps",
+      "Identifying causes of bearing overheating",
+      "Diagnosing shaft and rotor alignment issues"
+    ],
+    "assembly_order": [],
+    "connected_relationships": [],
+    "embedding_text": "IMAGE:\nThis table provides a troubleshooting guide for centrifugal pump bearing failures. It lists various causes for short bearing life, including lubrication issues, improper installation, contamination, misalignment, and mechanical failures like bent shafts or rotor imbalance.\nVISIBLE COMPONENTS:\n- antifriction-bearing housing\n- bearings\n- shaft\n- rotor\n- hydraulic balancing device\nKEYWORDS:\n- centrifugal pump troubleshooting\n- bearing failure causes\n- pump bearing short life\n- bearing overheating\n- pump shaft misalignment\nUSEFUL FOR:\nREPAIR:\n- Troubleshooting premature bearing failure in centrifugal pumps\n- Identifying causes of bearing overheating\n- Diagnosing shaft and rotor alignment issues\nFAULTS:\n- Bearings have short life\n- Excessive grease or oil in antifriction-bearing housing\n- Lack of cooling\n- Lack of lubrication\n- Improper installation of antifriction bearings\n- Dirt getting into bearings\n- Rusting of bearings\n- Excessive cooling of water-cooled bearing\n- Misalignment\n- Shaft bent\n- Rotating part rubbing on stationary part\n- Bearings worn\n- Shaft running off center\n- Rotor out of balance\n- Excessive thrust caused by mechanical failure\n- Failure of hydraulic balancing device\n"
+  },
+  {
+    "filename": "UnScanned_Water_Pump_Servicing-1_p16_img0.png",
+    "page": 16,
+    "width": 1275,
+    "height": 1650,
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "section_context": "General",
+    "surrounding_text": "www.PDHcenter.com \nPDHonline Course M524 \nwww.PDHonline.org \nSymptom \nPossible Cause \nPump overheats and seizes. \nImproper installation of antifriction bearings \n(damage during assembly, incorrect assembly of \nstacked bearings, use of unmatched bearings as a \npair, efc.). \nDirt getting into bearings. \nRusting of bearings because of water getting into \nhousing. \nExcessive cooling of water-cooled bearing, \nresulting in condensation in the bearing housing of \nmoisture from the temperature. \nPump not primed. \nOperation at very low capacity. \nParallel operation of pumps unsuitable for existing \nconditions. \nMisalignment. \nRotating part rubbing on stationary part. \nBearings worn. \nShaft running off center because of worn bearings \nor misalignment. \nRotor out of balance, resulting in vibration. \nExcessive thrust caused by a mechanical failure \ninside the pump or by the failure of the hydraulic \nbalancing device, if any. \nLack of lubrication. \nTable 3 (continued) \nTroubleshooting Checklist for Centrifugal Pumps \n©2014 J. Paul Guyer \nPage 16 of 57",
+    "figure_references": [
+      "Table 3"
+    ],
+    "caption": "This table provides a troubleshooting guide for centrifugal pumps experiencing overheating and seizing. It lists critical failure modes including bearing installation errors, contamination, lubrication issues, misalignment, and operational factors like running without prime or at low capacity.",
+    "diagram_type": "chart",
+    "diagram_type_classifier": "chart",
+    "components_shown": [
+      "antifriction bearings",
+      "bearing housing",
+      "pump",
+      "shaft",
+      "rotor",
+      "hydraulic balancing device"
+    ],
+    "fault_relevance": [
+      "Pump overheating",
+      "Pump seizing",
+      "Bearing damage",
+      "Bearing contamination",
+      "Bearing corrosion",
+      "Condensation in bearing housing",
+      "Pump not primed",
+      "Low capacity operation",
+      "Pump misalignment",
+      "Internal rubbing",
+      "Worn bearings",
+      "Shaft misalignment",
+      "Rotor imbalance",
+      "Excessive thrust",
+      "Lack of lubrication"
+    ],
+    "search_keywords": [
+      "centrifugal pump troubleshooting",
+      "pump overheating",
+      "pump seizing",
+      "bearing failure",
+      "pump misalignment",
+      "pump maintenance"
+    ],
+    "prev_context": "UnScanned_Water_Pump_Servicing-1_p15_img0.png (p15, section: General)",
+    "next_context": "UnScanned_Water_Pump_Servicing-1_p17_img0.png (p17, section: General)",
+    "priority_score": 8,
+    "components_visible": [
+      "antifriction bearings",
+      "bearing housing",
+      "pump",
+      "shaft",
+      "rotor",
+      "hydraulic balancing device"
+    ],
+    "labels_detected": [],
+    "arrows_point_to": [],
+    "relationships": [],
+    "specifications": [],
+    "repair_relevance": [
+      "Diagnosing pump seizure",
+      "Inspecting bearing installation",
+      "Checking pump alignment",
+      "Verifying lubrication status",
+      "Checking for internal mechanical interference"
+    ],
+    "assembly_order": [],
+    "connected_relationships": [],
+    "embedding_text": "IMAGE:\nThis table provides a troubleshooting guide for centrifugal pumps experiencing overheating and seizing. It lists critical failure modes including bearing installation errors, contamination, lubrication issues, misalignment, and operational factors like running without prime or at low capacity.\nVISIBLE COMPONENTS:\n- antifriction bearings\n- bearing housing\n- pump\n- shaft\n- rotor\n- hydraulic balancing device\nKEYWORDS:\n- centrifugal pump troubleshooting\n- pump overheating\n- pump seizing\n- bearing failure\n- pump misalignment\n- pump maintenance\nUSEFUL FOR:\nREPAIR:\n- Diagnosing pump seizure\n- Inspecting bearing installation\n- Checking pump alignment\n- Verifying lubrication status\n- Checking for internal mechanical interference\nFAULTS:\n- Pump overheating\n- Pump seizing\n- Bearing damage\n- Bearing contamination\n- Bearing corrosion\n- Condensation in bearing housing\n- Pump not primed\n- Low capacity operation\n- Pump misalignment\n- Internal rubbing\n- Worn bearings\n- Shaft misalignment\n- Rotor imbalance\n- Excessive thrust\n- Lack of lubrication\n"
+  },
+  {
+    "filename": "UnScanned_Water_Pump_Servicing-1_p17_img0.png",
+    "page": 17,
+    "width": 1275,
+    "height": 1650,
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "section_context": "General",
+    "surrounding_text": "www.PDHcenter.com \nPDHonline Course M524 \nwww.PDHonline.org \n3.3 OPERATING INSTRUCTIONS FOR EJECTOR (JET) PUMPS. Jet pumps are a \ntype of centrifugal pump. Because of their relatively low efficiency, they are rarely used \nfor public water systems. However, jet pumps are inexpensive and require little \nmaintenance and may be used on wells supplying very small, low-demand systems. \n(Note: All operating rules and troubleshooting checks that apply tocentrifugal pumps \napply to ejector pumps.) \nStart the pump and adjust the manual back pressure valve \nuntil the correct operating cycle is achieved. Do not change the adjustment after the \npump is operating. \nIf pump discharge decreases, check troubleshooting guides for \ncentrifugal pumps. Also inspect the ejector nozzle and throat for deposits, and check \nnozzle submergence. \n3.4 OPERATING INSTRUCTIONS FOR PROGRESSIVE CAVITY PUMPS. \nProgressive or helical-rotor pumps are positive displacement pumps and not subject to \nthe same problems as centrifugal pumps. Operate according to the manufacturer's \ninstructions. (Caution: Do not run dry.) Common operating problems encountered with \nprogressive cavity pumps and possible causes are given in Table 4. \n3.5 OPERATING INSTRUCTIONS FOR ROTARY- AND RECIPROCATING- \nDISPLACEMENT PUMPS. \n3.5.1 PRESTART. Rotary- and reciprocating-displacement pumps do not usually \nrequire priming. However, when priming is necessary, follow priming procedures for \ncentrifugal pumps. \n3.5.2 STARTING AND OPERATING.",
+    "figure_references": [
+      "Table 4"
+    ],
+    "caption": "This page provides operational guidelines for ejector (jet) pumps, progressive cavity pumps, and rotary/reciprocating-displacement pumps. It highlights critical maintenance checks such as inspecting ejector nozzles and throats for deposits and emphasizes the importance of keeping suction and discharge valves open for rotary and reciprocating pumps to prevent motor overload.",
+    "diagram_type": "other",
+    "diagram_type_classifier": "other",
+    "components_shown": [
+      "ejector (jet) pump",
+      "progressive cavity pump",
+      "rotary-displacement pump",
+      "reciprocating-displacement pump",
+      "manual back pressure valve",
+      "ejector nozzle",
+      "ejector throat"
+    ],
+    "fault_relevance": [
+      "decreased pump discharge",
+      "nozzle and throat deposits",
+      "nozzle submergence issues",
+      "motor overload",
+      "pump damage from running dry"
+    ],
+    "search_keywords": [
+      "jet pump operating instructions",
+      "progressive cavity pump maintenance",
+      "rotary pump priming",
+      "reciprocating pump operation",
+      "pump discharge troubleshooting"
+    ],
+    "prev_context": "UnScanned_Water_Pump_Servicing-1_p16_img0.png (p16, section: General)",
+    "next_context": "UnScanned_Water_Pump_Servicing-1_p18_img0.png (p18, section: General)",
+    "priority_score": 8,
+    "components_visible": [
+      "ejector (jet) pump",
+      "progressive cavity pump",
+      "rotary-displacement pump",
+      "reciprocating-displacement pump",
+      "manual back pressure valve",
+      "ejector nozzle",
+      "ejector throat"
+    ],
+    "labels_detected": [
+      "3.3",
+      "3.4",
+      "3.5",
+      "3.5.1",
+      "3.5.2",
+      "Table 4"
+    ],
+    "arrows_point_to": [],
+    "relationships": [
+      {
+        "from": "manual back pressure valve",
+        "to": "ejector (jet) pump",
+        "type": "controls"
+      },
+      {
+        "from": "ejector nozzle",
+        "to": "ejector (jet) pump",
+        "type": "internal_component"
+      },
+      {
+        "from": "ejector throat",
+        "to": "ejector (jet) pump",
+        "type": "internal_component"
+      }
+    ],
+    "specifications": [],
+    "repair_relevance": [
+      "troubleshooting jet pump discharge decrease",
+      "inspecting ejector nozzle and throat",
+      "priming rotary and reciprocating pumps",
+      "starting and operating procedures for positive displacement pumps"
+    ],
+    "assembly_order": [],
+    "connected_relationships": [
+      {
+        "from": "manual back pressure valve",
+        "to": "ejector (jet) pump",
+        "relationship": "controls"
+      },
+      {
+        "from": "ejector nozzle",
+        "to": "ejector (jet) pump",
+        "relationship": "internal_component"
+      },
+      {
+        "from": "ejector throat",
+        "to": "ejector (jet) pump",
+        "relationship": "internal_component"
+      }
+    ],
+    "embedding_text": "IMAGE:\nThis page provides operational guidelines for ejector (jet) pumps, progressive cavity pumps, and rotary/reciprocating-displacement pumps. It highlights critical maintenance checks such as inspecting ejector nozzles and throats for deposits and emphasizes the importance of keeping suction and discharge valves open for rotary and reciprocating pumps to prevent motor overload.\nVISIBLE COMPONENTS:\n- ejector (jet) pump\n- progressive cavity pump\n- rotary-displacement pump\n- reciprocating-displacement pump\n- manual back pressure valve\n- ejector nozzle\n- ejector throat\nKEYWORDS:\n- jet pump operating instructions\n- progressive cavity pump maintenance\n- rotary pump priming\n- reciprocating pump operation\n- pump discharge troubleshooting\nUSEFUL FOR:\nREPAIR:\n- troubleshooting jet pump discharge decrease\n- inspecting ejector nozzle and throat\n- priming rotary and reciprocating pumps\n- starting and operating procedures for positive displacement pumps\nFAULTS:\n- decreased pump discharge\n- nozzle and throat deposits\n- nozzle submergence issues\n- motor overload\n- pump damage from running dry\n"
+  },
+  {
+    "filename": "UnScanned_Water_Pump_Servicing-1_p18_img0.png",
+    "page": 18,
+    "width": 1275,
+    "height": 1650,
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "section_context": "General",
+    "surrounding_text": "www.PDHcenter.com \nPDHonline Course M524 \nwww.PDHonline.org \nSymptom \nPossible Cause \nNo water is delivered. \nBroken or disconnected shaft. \nExcessive discharge head. \nPlugged or nonsubmerged suction. \nPump does not deliver rated \nSpeed too low. \ncapacity. \nSuction lift excessive. \nSuction partially plugged. \nMechanical defect. \nPressure is too low. \nDischarge head too high. \nSpeed too low. \nPressure relief valve set too low. \nMechanical defect. \nPump stops after starting to \nBent column shaft. \noperate. \nClogged suction. \nTable 4 \nTroubleshooting Checklist for Progressive-Cavity Pumps \n3.5.3 OPERATING PRECAUTIONS. \na) Rotary- and reciprocating-displacement pumps depend on clearances for efficiency. \nKeep grit or other abrasive material out of the liquid being pumped to prevent \nexcessive wear and rapid loss of efficiency and self-priming ability. \nb) A pressure-relief valve that discharges back to the suction side of the pump is \nusually provided on the outlet piping. Adjust this valve for a relief pressure that does \nnot overload the motor. Make sure the check valves seat properly at normal pressures. \nOtherwise, loss of efficiency and priming ability result. \nc) Use the manufacturer's manuals to develop a checklist for the particular rotary- or \nreciprocating-displacement pump being used. \n©2014 J. Paul Guyer \nPage 18 of 57",
+    "figure_references": [
+      "Table 4"
+    ],
+    "caption": "This page provides a troubleshooting checklist for progressive-cavity pumps, detailing symptoms such as no water delivery, low capacity, low pressure, and pump stoppage. It also outlines essential operating precautions, emphasizing the importance of maintaining proper clearances and managing abrasive materials to prevent efficiency loss.",
+    "diagram_type": "chart",
+    "diagram_type_classifier": "chart",
+    "components_shown": [
+      "progressive-cavity pump",
+      "discharge head",
+      "suction",
+      "column shaft",
+      "pressure relief valve",
+      "motor"
+    ],
+    "fault_relevance": [
+      "No water delivery",
+      "Low pump capacity",
+      "Low discharge pressure",
+      "Pump stalling/stopping after start",
+      "Excessive wear due to abrasive materials"
+    ],
+    "search_keywords": [
+      "progressive-cavity pump troubleshooting",
+      "pump no water delivery",
+      "pump low pressure",
+      "pump operating precautions",
+      "pump maintenance checklist"
+    ],
+    "prev_context": "UnScanned_Water_Pump_Servicing-1_p17_img0.png (p17, section: General)",
+    "next_context": "UnScanned_Water_Pump_Servicing-1_p19_img0.png (p19, section: General)",
+    "priority_score": 8,
+    "components_visible": [
+      "progressive-cavity pump",
+      "discharge head",
+      "suction",
+      "column shaft",
+      "pressure relief valve",
+      "motor"
+    ],
+    "labels_detected": [
+      "Table 4",
+      "3.5.3"
+    ],
+    "arrows_point_to": [],
+    "relationships": [],
+    "specifications": [
+      "No water is delivered: Broken or disconnected shaft, Excessive discharge head, Plugged or nonsubmerged suction",
+      "Pump does not deliver rated capacity: Speed too low, Suction lift excessive, Suction partially plugged, Mechanical defect",
+      "Pressure is too low: Discharge head too high, Speed too low, Pressure relief valve set too low, Mechanical defect",
+      "Pump stops after starting to operate: Bent column shaft, Clogged suction"
+    ],
+    "repair_relevance": [
+      "Troubleshooting pump performance issues",
+      "Adjusting pressure relief valves",
+      "Inspecting pump shafts for damage",
+      "Clearing suction blockages",
+      "Maintaining pump efficiency through clearance management"
+    ],
+    "assembly_order": [],
+    "connected_relationships": [],
+    "embedding_text": "IMAGE:\nThis page provides a troubleshooting checklist for progressive-cavity pumps, detailing symptoms such as no water delivery, low capacity, low pressure, and pump stoppage. It also outlines essential operating precautions, emphasizing the importance of maintaining proper clearances and managing abrasive materials to prevent efficiency loss.\nVISIBLE COMPONENTS:\n- progressive-cavity pump\n- discharge head\n- suction\n- column shaft\n- pressure relief valve\n- motor\nKEYWORDS:\n- progressive-cavity pump troubleshooting\n- pump no water delivery\n- pump low pressure\n- pump operating precautions\n- pump maintenance checklist\nUSEFUL FOR:\nREPAIR:\n- Troubleshooting pump performance issues\n- Adjusting pressure relief valves\n- Inspecting pump shafts for damage\n- Clearing suction blockages\n- Maintaining pump efficiency through clearance management\nFAULTS:\n- No water delivery\n- Low pump capacity\n- Low discharge pressure\n- Pump stalling/stopping after start\n- Excessive wear due to abrasive materials\n"
+  },
+  {
+    "filename": "UnScanned_Water_Pump_Servicing-1_p19_img0.png",
+    "page": 19,
+    "width": 1275,
+    "height": 1650,
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "section_context": "General",
+    "surrounding_text": "www.PDHcenter.com \nPDHonline Course M524 \nwww.PDHonline.org \n4. PUMP MAINTENANCE. Information contained in the following paragraphs is \ngeneral and is not intended to replace maintenance procedures provided by the \nequipment manufacturer. \n4.1 MAINTENANCE PROCEDURES FOR CENTRIFUGAL PUMPS. The following \nparagraphs describe general maintenance procedures for all types of horizontal and \nvertical centrifugal pumps. For details of procedures that apply specifically to volute, \ndiffuser, regenerative-turbine, split-case, and multistage design, consult the \nmanufacturer's manuals. \n4.1.1 LUBRICATION. \nManufacturer's manuals cover lubrication frequency for special \ncases, but the following generally applies. (Caution: Do not lubricate totally enclosed \nequipment or insufficiently guarded equipment while it is moving.) \na) To avoid errors, establish a marking system to make sure that the proper lubricant \nis used. Make sure the same product symbol and identifying color are marked on \nlubricant containers, lubricant applicators, and locations near lubrication points. \nb) Never over lubricate. Over lubrication causes antifriction bearings to overheat and \nmay damage the grease seals. Over lubrication may also damage electric motor \nwindings. \nc) For simplified operation, provide the same type of grease gun fitting (zerk) at all \npoints using the same type of grease. The fewer the types of grease used, the fewer \ngrease guns required and the less likelihood of improper grease being use",
+    "figure_references": [
+      "Table 5",
+      "Table 6"
+    ],
+    "caption": "This page provides general maintenance guidelines for centrifugal pump lubrication, emphasizing the importance of using a consistent marking system for lubricants and avoiding over-lubrication to prevent bearing and motor winding damage. It instructs technicians to consult specific manufacturer manuals for design-specific procedures and references tables for lubrication schedules and oiler settings.",
+    "diagram_type": "other",
+    "diagram_type_classifier": "other",
+    "components_shown": [
+      "centrifugal pumps",
+      "shaft bearings",
+      "grease gun fitting (zerk)",
+      "grease seals",
+      "electric motor windings",
+      "hand oilers"
+    ],
+    "fault_relevance": [
+      "overheating of antifriction bearings due to over-lubrication",
+      "damage to grease seals",
+      "damage to electric motor windings",
+      "improper grease contamination"
+    ],
+    "search_keywords": [
+      "centrifugal pump lubrication",
+      "pump maintenance",
+      "bearing overheating",
+      "grease gun fitting",
+      "lubrication schedule"
+    ],
+    "prev_context": "UnScanned_Water_Pump_Servicing-1_p18_img0.png (p18, section: General)",
+    "next_context": "UnScanned_Water_Pump_Servicing-1_p21_img0.png (p21, section: General)",
+    "priority_score": 8,
+    "components_visible": [
+      "centrifugal pumps",
+      "shaft bearings",
+      "grease gun fitting (zerk)",
+      "grease seals",
+      "electric motor windings",
+      "hand oilers"
+    ],
+    "labels_detected": [
+      "4",
+      "4.1",
+      "4.1.1",
+      "a",
+      "b",
+      "c",
+      "d",
+      "Table 5",
+      "Table 6"
+    ],
+    "arrows_point_to": [],
+    "relationships": [
+      {
+        "from": "hand oilers",
+        "to": "shaft bearings",
+        "type": "lubricates"
+      },
+      {
+        "from": "grease gun fitting",
+        "to": "lubrication points",
+        "type": "connects_to"
+      }
+    ],
+    "specifications": [
+      "lubrication frequency: manufacturer specified",
+      "hand oiler adjustment: Table 6",
+      "lubrication schedule: Table 5"
+    ],
+    "repair_relevance": [
+      "establishing a lubricant marking system",
+      "preventing over-lubrication",
+      "standardizing grease fittings",
+      "adjusting hand oiler settings"
+    ],
+    "assembly_order": [],
+    "connected_relationships": [
+      {
+        "from": "hand oilers",
+        "to": "shaft bearings",
+        "relationship": "lubricates"
+      },
+      {
+        "from": "grease gun fitting",
+        "to": "lubrication points",
+        "relationship": "connects_to"
+      }
+    ],
+    "embedding_text": "IMAGE:\nThis page provides general maintenance guidelines for centrifugal pump lubrication, emphasizing the importance of using a consistent marking system for lubricants and avoiding over-lubrication to prevent bearing and motor winding damage. It instructs technicians to consult specific manufacturer manuals for design-specific procedures and references tables for lubrication schedules and oiler settings.\nVISIBLE COMPONENTS:\n- centrifugal pumps\n- shaft bearings\n- grease gun fitting (zerk)\n- grease seals\n- electric motor windings\n- hand oilers\nKEYWORDS:\n- centrifugal pump lubrication\n- pump maintenance\n- bearing overheating\n- grease gun fitting\n- lubrication schedule\nUSEFUL FOR:\nREPAIR:\n- establishing a lubricant marking system\n- preventing over-lubrication\n- standardizing grease fittings\n- adjusting hand oiler settings\nFAULTS:\n- overheating of antifriction bearings due to over-lubrication\n- damage to grease seals\n- damage to electric motor windings\n- improper grease contamination\n"
+  },
+  {
+    "filename": "UnScanned_Water_Pump_Servicing-1_p21_img0.png",
+    "page": 21,
+    "width": 1275,
+    "height": 1650,
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "section_context": "General",
+    "surrounding_text": "www.PDHcenter.com \nPDHonline Course M524 \nwww.PDHonline.org \nFrequency \nLubrication Point \nAction Required \n(1) \nAntifriction bearing \nCheck temperature (with thermometer); if \nM \nrunning hot, bearing is probably over \nlubricated; remove excess lubricant. \nDrain lubricant; flush lubricant wells and \nQ \nbearings with kerosene; add clean fresh \nlubricant. \nBall-thrust bearing \nAdd fresh grease to grease cups, but do \nM \nnot attempt to keep grease from coming \nout around the collar seal. \nChange the grease in the grease cup if \nQ \nthe pump operates more than 50 times a \nday; otherwise, change yearly. \nBearing housing \nCheck oil level in oil housing; do not add \nD \noil with pump running; remove oil vent \nplug when adding oil. \nOpen housing; flush with kerosene; add \nQ \nclean fresh lubricant. \nEnclosed shaft-type \nCheck oil cup; add lubricant as \nw \nbearing \nnecessary. \nTable 5 \nLubrication Schedule for Centrifugal-Type Pumps \n©2014 J. Paul Guyer \nPage 21 of 57",
+    "figure_references": [
+      "Table 5"
+    ],
+    "caption": "This table provides a structured lubrication schedule for centrifugal-type pump bearings. It outlines specific maintenance actions for antifriction bearings, ball-thrust bearings, bearing housings, and enclosed shaft-type bearings, including frequency intervals for daily, monthly, quarterly, and yearly tasks.",
+    "diagram_type": "chart",
+    "diagram_type_classifier": "chart",
+    "components_shown": [
+      "Antifriction bearing",
+      "Ball-thrust bearing",
+      "Bearing housing",
+      "Enclosed shaft-type bearing"
+    ],
+    "fault_relevance": [
+      "Over-lubrication indicated by hot running bearings",
+      "Low oil level in bearing housing",
+      "Contaminated lubricant requiring flushing"
+    ],
+    "search_keywords": [
+      "centrifugal pump lubrication",
+      "bearing maintenance schedule",
+      "pump bearing grease",
+      "oil housing maintenance"
+    ],
+    "prev_context": "UnScanned_Water_Pump_Servicing-1_p19_img0.png (p19, section: General)",
+    "next_context": "",
+    "priority_score": 8,
+    "components_visible": [
+      "Antifriction bearing",
+      "Ball-thrust bearing",
+      "Bearing housing",
+      "Enclosed shaft-type bearing"
+    ],
+    "labels_detected": [
+      "M",
+      "Q",
+      "D",
+      "W"
+    ],
+    "arrows_point_to": [],
+    "relationships": [],
+    "specifications": [
+      "Antifriction bearing check temperature: M",
+      "Antifriction bearing drain/flush: Q",
+      "Ball-thrust bearing add grease: M",
+      "Ball-thrust bearing change grease: Q or yearly",
+      "Bearing housing check oil level: D",
+      "Bearing housing flush: Q",
+      "Enclosed shaft-type bearing check oil cup: W"
+    ],
+    "repair_relevance": [
+      "Preventative maintenance scheduling",
+      "Bearing lubrication procedures",
+      "Flushing bearing housings with kerosene"
+    ],
+    "assembly_order": [],
+    "connected_relationships": [],
+    "embedding_text": "IMAGE:\nThis table provides a structured lubrication schedule for centrifugal-type pump bearings. It outlines specific maintenance actions for antifriction bearings, ball-thrust bearings, bearing housings, and enclosed shaft-type bearings, including frequency intervals for daily, monthly, quarterly, and yearly tasks.\nVISIBLE COMPONENTS:\n- Antifriction bearing\n- Ball-thrust bearing\n- Bearing housing\n- Enclosed shaft-type bearing\nKEYWORDS:\n- centrifugal pump lubrication\n- bearing maintenance schedule\n- pump bearing grease\n- oil housing maintenance\nUSEFUL FOR:\nREPAIR:\n- Preventative maintenance scheduling\n- Bearing lubrication procedures\n- Flushing bearing housings with kerosene\nFAULTS:\n- Over-lubrication indicated by hot running bearings\n- Low oil level in bearing housing\n- Contaminated lubricant requiring flushing\n"
+  }
+]

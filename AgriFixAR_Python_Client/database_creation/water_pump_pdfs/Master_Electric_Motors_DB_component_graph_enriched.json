@@ -1,0 +1,591 @@
+[
+  {
+    "component": "Pump Connector Unit To Support Bracket Joint",
+    "component_id": "pump_connector_9a79b6",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nPump Connector Unit To Support Bracket Joint\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "pump connector unit",
+      "pump support bracket",
+      "guide shoe",
+      "rubber diaphragm"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "submersible_manual.pdf"
+    ],
+    "related_faults": [
+      "Water leakage around pump connection",
+      "Reduced pump efficiency",
+      "Pump runs more frequently than expected",
+      "Pump fails to prime"
+    ],
+    "related_specs": [
+      "No visible water leakage or signs of seepage around the joint.",
+      "Rubber diaphragm is intact, properly seated, and forms a continuous seal.",
+      "Guide shoe is correctly aligned and undamaged.",
+      "All bolts are securely tightened, ensuring adequate compression for the leak-proof joint."
+    ],
+    "machine_family": "Ns Pump"
+  },
+  {
+    "component": "Sump Bottom",
+    "component_id": "sump_bottom_867335",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nSump Bottom\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "support bracket",
+      "pump",
+      "pump intake"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "submersible_manual.pdf"
+    ],
+    "related_faults": [
+      "Pump vibrates excessively",
+      "Pump operates noisily",
+      "Reduced pump efficiency",
+      "Premature wear on pump components",
+      "Excessive pump vibration",
+      "Premature wear on pump bearings/seals",
+      "Pump clogs frequently",
+      "Reduced water flow",
+      "Pump makes grinding noises",
+      "Pump fails to start due to blockage or damage",
+      "Reduced water flow from pump",
+      "Pump fails to start"
+    ],
+    "related_specs": [
+      "Sump bottom is flat and level, providing a stable base for the pump support bracket.",
+      "Sump bottom is clear of all debris and foreign objects."
+    ],
+    "machine_family": "Submersible Pump"
+  },
+  {
+    "component": "Support Bracket & Guide Pipe",
+    "component_id": "support_bracket_ae9d49",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nSupport Bracket & Guide Pipe\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "sump bottom",
+      "guide pipe",
+      "pump"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "submersible_manual.pdf"
+    ],
+    "related_faults": [
+      "Pump difficult to lower or lift",
+      "Pump vibrates excessively",
+      "Guide shoe damage",
+      "Pump operates noisily",
+      "Pump binds during lowering/lifting",
+      "Excessive pump vibration",
+      "Premature wear on guide shoe"
+    ],
+    "related_specs": [
+      "Support bracket and bend are securely fixed.",
+      "Guide pipe is plumb (exactly vertical)."
+    ],
+    "machine_family": "Submersible Pump"
+  },
+  {
+    "component": "Guide Pipe",
+    "component_id": "guide_pipe_3c56c2",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nGuide Pipe\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "pump",
+      "support bracket",
+      "guide shoe"
+    ],
+    "function": "",
+    "diagram_sources": [
+      "submersible_manual_p37_img0.png"
+    ],
+    "manual_sources": [
+      "submersible_manual.pdf"
+    ],
+    "related_faults": [
+      "Pump difficult to lower or lift",
+      "Pump vibrates excessively",
+      "Guide pipe bending or flexing",
+      "Damage to guide shoe or adapter",
+      "Pump binds during lowering/lifting",
+      "Excessive pump vibration",
+      "Guide pipe deformation or bending",
+      "Difficulty seating pump on support bracket"
+    ],
+    "related_specs": [
+      "Unsupported length of guide pipe does not exceed 6 m."
+    ],
+    "machine_family": "Submersible Pump"
+  },
+  {
+    "component": "Power Cable",
+    "component_id": "power_cable_d06489",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nPower Cable\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "pump motor",
+      "power supply"
+    ],
+    "function": "",
+    "diagram_sources": [
+      "submersible_manual_p1_img1.jpeg"
+    ],
+    "manual_sources": [
+      "submersible_manual.pdf"
+    ],
+    "related_faults": [
+      "Pump fails to start",
+      "Circuit breaker trips",
+      "Pump stops unexpectedly",
+      "Electrocution risk due to damaged cable",
+      "Motor hums but doesn't turn",
+      "Electrocution risk"
+    ],
+    "related_specs": [
+      "Power cable is free of sag and tension, moving smoothly with the pump."
+    ],
+    "machine_family": "Submersible Pump"
+  },
+  {
+    "component": "Pump Position",
+    "component_id": "pump_position_3ce85e",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nPump Position\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "support bracket",
+      "guide pipe"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "submersible_manual.pdf"
+    ],
+    "related_faults": [
+      "Pump vibrates excessively",
+      "Pump operates noisily",
+      "Reduced pump performance",
+      "Damage to pump casing or support bracket",
+      "Excessive pump vibration",
+      "Reduced pump efficiency",
+      "Premature wear on pump bearings/seals"
+    ],
+    "related_specs": [
+      "Pump is stable and exactly vertical on the support bracket, without wobbling or shifting."
+    ],
+    "machine_family": "Submersible Pump"
+  },
+  {
+    "component": "Lifting Method",
+    "component_id": "lifting_method_26c8fa",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nLifting Method\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "pump",
+      "power cable"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "submersible_manual.pdf"
+    ],
+    "related_faults": [
+      "Pump drops during lifting causing severe damage",
+      "Power cable damage leading to pump failure or electrocution risk",
+      "Pump fails to operate after lifting",
+      "Pump drops during lifting",
+      "Power cable insulation damaged",
+      "Pump fails to start after lifting",
+      "Electrocution risk"
+    ],
+    "related_specs": [
+      "Pump is lifted and lowered exclusively using a suitable lifting chain, never by its power cables."
+    ],
+    "machine_family": "Submersible Pump"
+  },
+  {
+    "component": "Delivery Pipe Support (Portable Installation)",
+    "component_id": "delivery_pipe_b90fd4",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nDelivery Pipe Support (Portable Installation)\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "pump casing",
+      "delivery pipe"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "submersible_manual.pdf"
+    ],
+    "related_faults": [
+      "Water leaks at pump discharge flange",
+      "Pump casing damage or cracks",
+      "Excessive vibration at the pump discharge connection",
+      "Pump casing cracks",
+      "Excessive pump vibration",
+      "Pipe joint failure"
+    ],
+    "related_specs": [
+      "Delivery pipeline is independently supported, with no direct weight or stress transferred to the pump casing."
+    ],
+    "machine_family": "Submersible Pump"
+  },
+  {
+    "component": "Lifting Chain",
+    "component_id": "lifting_chain_15f3e1",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nLifting Chain\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "pump"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "submersible_manual.pdf"
+    ],
+    "related_faults": [
+      "Lifting chain breaks during operation",
+      "Pump drops causing severe damage",
+      "Personnel injury",
+      "Lifting chain breaks",
+      "Pump drops during lifting",
+      "Injury to personnel",
+      "Severe pump damage"
+    ],
+    "related_specs": [
+      "Selected chain's lifting capacity exceeds the pump's weight."
+    ],
+    "machine_family": "Submersible Pump"
+  },
+  {
+    "component": "Non-Return Valve",
+    "component_id": "nonreturn_valve_7dda14",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nNon-Return Valve\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "delivery pipe",
+      "sluice valve"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "submersible_manual.pdf"
+    ],
+    "related_faults": [
+      "Water hammer noise in pipes",
+      "Pump loses prime frequently",
+      "Pump struggles to restart",
+      "Reduced pump efficiency due to backflow",
+      "Water hammer noise in pipeline",
+      "Pump reverse rotation (if not protected)",
+      "Difficulty restarting pump",
+      "Reduced pump efficiency"
+    ],
+    "related_specs": [
+      "Non-return valve is correctly installed in the delivery pipeline, upstream of the sluice valve."
+    ],
+    "machine_family": "Submersible Pump"
+  },
+  {
+    "component": "Impeller-Casing Clearance",
+    "component_id": "impellercasing_clearance_c0d37f",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nImpeller-Casing Clearance\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "impeller",
+      "casing ring",
+      "casing cover",
+      "pump shaft",
+      "motor"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "submersible_manual.pdf"
+    ],
+    "related_faults": [
+      "Reduced water output immediately after installation",
+      "Low water pressure immediately after installation",
+      "Pump making grinding noise immediately after installation",
+      "Pump overheating shortly after startup",
+      "Motor tripping breaker shortly after startup",
+      "Excessive vibration immediately after installation",
+      "Reduced water output",
+      "Low water pressure",
+      "Pump making grinding noise",
+      "Pump overheating",
+      "Motor tripping breaker"
+    ],
+    "related_specs": [
+      "Pump components are accessible for inspection.",
+      "Components show no abnormal wear or damage.",
+      "Clearances are within manufacturer's specified range (e.g., 0.2-0.5 mm, consult manual).",
+      "All worn parts are replaced with new, correctly sized components.",
+      "Pump is fully reassembled with correct clearances and torque settings."
+    ],
+    "machine_family": "Water Pump"
+  },
+  {
+    "component": "Pump Components (Material Suitability)",
+    "component_id": "pump_components_d822ac",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nPump Components (Material Suitability)\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "impeller",
+      "casing",
+      "shaft",
+      "seals",
+      "pumped liquid"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "submersible_manual.pdf"
+    ],
+    "related_faults": [
+      "Premature pump failure (within weeks/months of installation)",
+      "Rapid decrease in pump performance after installation",
+      "Frequent component replacement due to corrosion/erosion shortly after installation",
+      "Reduced water output",
+      "Low water pressure",
+      "Pump leaking",
+      "Pump making unusual noises",
+      "Pump seizing"
+    ],
+    "related_specs": [
+      "All internal pump components are accessible for inspection.",
+      "Components show no abnormal corrosion or erosion.",
+      "Material incompatibility is confirmed or ruled out.",
+      "All corroded/eroded components are replaced with parts made from appropriate materials.",
+      "Pump is fully reassembled with new, suitable material components."
+    ],
+    "machine_family": "Water Pump"
+  },
+  {
+    "component": "Mechanical Seal",
+    "component_id": "mechanical_seal_1301ac",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nMechanical Seal\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "rotor assembly",
+      "pump casing",
+      "mechanical seal housing"
+    ],
+    "function": "",
+    "diagram_sources": [
+      "submersible_manual_p21_img0.png"
+    ],
+    "manual_sources": [
+      "submersible_manual.pdf"
+    ],
+    "related_faults": [
+      "Water leaking from pump shaft immediately after installation",
+      "Premature mechanical seal failure",
+      "Pump overheating due to friction",
+      "Water leaking from pump shaft",
+      "Reduced pump efficiency",
+      "Pump overheating"
+    ],
+    "related_specs": [
+      "Seal faces are smooth, clean, and free from damage.",
+      "O-rings are pliable, undamaged, and correctly sized for their grooves.",
+      "Mechanical seal components are seated without misalignment or damage."
+    ],
+    "machine_family": "Ns Pump"
+  },
+  {
+    "component": "Bearing (63062Rs1Skf/Equivalent, 6304 2Rs1 Skf/Equivalent)",
+    "component_id": "bearing_63062rs1skfequivalent_497fdd",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nBearing (63062Rs1Skf/Equivalent, 6304 2Rs1 Skf/Equivalent)\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "rotor assembly",
+      "lower bearing holder",
+      "bearing cover"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "submersible_manual.pdf"
+    ],
+    "related_faults": [
+      "Immediate loud noise or vibration from pump",
+      "Rapid bearing failure",
+      "Pump shaft binding or seizing",
+      "Loud grinding or squealing noise from pump",
+      "Excessive vibration",
+      "Pump overheating at bearing housing",
+      "Shaft seizure"
+    ],
+    "related_specs": [
+      "Bearings are seated squarely and smoothly without damage to races or balls/rollers.",
+      "Bearing covers are securely fastened, preventing contamination and retaining lubrication."
+    ],
+    "machine_family": "Ns Pump"
+  },
+  {
+    "component": "Semi Open Impeller",
+    "component_id": "semi_open_7e0cce",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nSemi Open Impeller\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "rotor assembly",
+      "pump casing"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "submersible_manual.pdf"
+    ],
+    "related_faults": [
+      "Immediate loud rattling noise from pump",
+      "Severe vibration",
+      "No or low water flow/pressure",
+      "Impeller damage",
+      "Reduced pump flow or pressure",
+      "Excessive pump vibration",
+      "Loud rattling noise from pump",
+      "Pump cavitation noise"
+    ],
+    "related_specs": [
+      "Key is fully seated and provides a tight fit without play.",
+      "Impeller is firmly secured on the shaft, with no rotational or axial play.",
+      "Impeller rotates freely without rubbing, and clearance is within manufacturer's specification."
+    ],
+    "machine_family": "Ns Pump"
+  },
+  {
+    "component": "O-Ring",
+    "component_id": "oring_b3b225",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nO-Ring\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "pump casing",
+      "stator hsg",
+      "plug",
+      "suction plate",
+      "stuffing box bush",
+      "cable gland",
+      "moisture sensor",
+      "mechanical seal housing"
+    ],
+    "function": "",
+    "diagram_sources": [
+      "submersible_manual_p21_img0.png"
+    ],
+    "manual_sources": [
+      "submersible_manual.pdf"
+    ],
+    "related_faults": [
+      "Immediate fluid leakage from sealed joints",
+      "Pump losing prime due to air ingress",
+      "Moisture sensor false alarms if O-ring for sensor is compromised",
+      "Water leaking from pump joints",
+      "Air ingress into pump (loss of prime)",
+      "Moisture sensor false alarms"
+    ],
+    "related_specs": [
+      "O-rings are pliable, smooth, and free from any damage.",
+      "O-rings are uniformly seated in grooves, forming a complete seal."
+    ],
+    "machine_family": "Ns Pump"
+  },
+  {
+    "component": "Cable Gland / Terminal Board",
+    "component_id": "cable_gland_490d4f",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nCable Gland / Terminal Board\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "stator",
+      "terminal board",
+      "motor endcover",
+      "cable"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "submersible_manual.pdf"
+    ],
+    "related_faults": [
+      "Motor fails to start or trips breaker immediately",
+      "Intermittent motor operation",
+      "Water ingress into motor leading to short circuit",
+      "Moisture sensor giving false readings or failing to detect water",
+      "Motor not starting",
+      "Motor trips breaker",
+      "Intermittent pump operation",
+      "Moisture sensor alarm (false or real)",
+      "Water ingress into motor housing"
+    ],
+    "related_specs": [
+      "Lugs are firmly attached to cables, with no loose strands or exposed wire beyond the lug.",
+      "All terminal connections are secure, clean, and correctly wired.",
+      "Cable gland is tight, cable is secured, and no water can enter the motor housing.",
+      "Moisture sensor is correctly wired and sealed, providing accurate readings."
+    ],
+    "machine_family": "Ns Pump"
+  },
+  {
+    "component": "Hex Nut / Stud / Hex Soc Cap Screw",
+    "component_id": "hex_nut_59a6b9",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nHex Nut / Stud / Hex Soc Cap Screw\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "pump casing",
+      "stator hsg",
+      "lower bearing holder",
+      "bearing cover",
+      "motor endcover",
+      "cable gland",
+      "suction plate",
+      "pump stand",
+      "guide shoe"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "submersible_manual.pdf"
+    ],
+    "related_faults": [
+      "Vibration and noise from loose components",
+      "Fluid leakage from joints (e.g., pump casing)",
+      "Components separating during operation",
+      "Premature wear of connected parts",
+      "Excessive pump vibration",
+      "Fluid leakage from bolted joints",
+      "Loose pump components",
+      "Structural failure of pump assembly"
+    ],
+    "related_specs": [
+      "All fasteners are present and correctly assembled with their washers.",
+      "Fasteners are securely tightened, ensuring proper clamping force without over-tightening."
+    ],
+    "machine_family": "Ns Pump"
+  }
+]

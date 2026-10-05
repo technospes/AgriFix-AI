@@ -1,0 +1,603 @@
+[
+  {
+    "symptom": "Power tiller will not start",
+    "machine_family": "Power Tiller",
+    "component": "Ignition Coil",
+    "branches": [
+      {
+        "question": "Is ignition coil voltage within specified range (12V ±10%)?",
+        "yes_next": "Check ignition module for proper function.",
+        "no_next": "Replace ignition coil."
+      }
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**II. OBJECTIVES**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Power tiller will not start\nCOMPONENT: Ignition Coil\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "ignition_coil_061ff9",
+    "fault_id": "fault_power_tiller_will_not_622c8ff9"
+  },
+  {
+    "symptom": "Tiller does not move",
+    "machine_family": "Power Tiller",
+    "component": "Hydraulic Pump",
+    "branches": [
+      {
+        "question": "Is hydraulic pressure low?",
+        "yes_next": "Check for leaks or blockages",
+        "no_next": "Check for faulty pump or cylinder"
+      }
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**IV. PROCEDURE**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Tiller does not move\nCOMPONENT: Hydraulic Pump\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "hydraulic_pump_94eea3",
+    "fault_id": "fault_tiller_does_not_move_31dd4141"
+  },
+  {
+    "symptom": "Engine sputters and loses power",
+    "machine_family": "Rotavator",
+    "component": "Primary filter",
+    "branches": [
+      {
+        "question": "Is the primary filter clogged?",
+        "yes_next": "Replace the primary filter with a new one.",
+        "no_next": "Check for any other blockages or damage to the engine."
+      }
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Different parts and functions of a power tiller:**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Engine sputters and loses power\nCOMPONENT: Primary filter\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "primary_filter_f7b96d",
+    "fault_id": "fault_engine_sputters_and_loses_870d60a0"
+  },
+  {
+    "symptom": "Steering is affected on flat road",
+    "machine_family": "Power Tiller",
+    "component": "Steering Hand Grip",
+    "branches": [
+      {
+        "question": "Is the steering hand grip being operated correctly?",
+        "yes_next": "Steering is unaffected on flat road",
+        "no_next": "Check operation of handlebars"
+      }
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**STEERING**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Steering is affected on flat road\nCOMPONENT: Steering Hand Grip\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "steering_hand_aab612",
+    "fault_id": "fault_steering_is_affected_on_d62683f1"
+  },
+  {
+    "symptom": "Steering is affected on steep slope",
+    "machine_family": "Power Tiller",
+    "component": "Handlebars",
+    "branches": [
+      {
+        "question": "Is the handlebar being pushed or pulled correctly?",
+        "yes_next": "Steering is unaffected on steep slope",
+        "no_next": "Check operation of pedals"
+      }
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**STEERING**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Steering is affected on steep slope\nCOMPONENT: Handlebars\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "handlebars_b644d7",
+    "fault_id": "fault_steering_is_affected_on_7aadee77"
+  },
+  {
+    "symptom": "Engine does not start",
+    "machine_family": "Rotavator",
+    "component": "Spark Plug",
+    "branches": [
+      {
+        "question": "Is the spark plug wire securely connected?",
+        "yes_next": "Check spark plug for fouling or wear",
+        "no_next": "Check spark plug wire connection"
+      }
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Engine does not start\nCOMPONENT: Spark Plug\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "spark_plug_2c738e",
+    "fault_id": "fault_engine_does_not_start_9434987c"
+  },
+  {
+    "symptom": "Engine not starting at all",
+    "machine_family": "Power Tiller",
+    "component": "Carburetor",
+    "branches": [
+      {
+        "question": "Is the decompression device functioning correctly?",
+        "yes_next": "Check the fuel system and clean or replace if necessary.",
+        "no_next": "Replace the carburetor."
+      }
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Engine not starting at all\nCOMPONENT: Carburetor\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "carburetor_e6d299",
+    "fault_id": "fault_engine_not_starting_at_a2ab2392"
+  },
+  {
+    "symptom": "not turning",
+    "machine_family": "Power Tiller",
+    "component": "Tiller Transmission",
+    "branches": [
+      {
+        "question": "Is the fitting clearance correct?",
+        "yes_next": "Check the fitting clearance.",
+        "no_next": "Replace the bushing."
+      }
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: not turning\nCOMPONENT: Tiller Transmission\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "tiller_transmission_d889ee",
+    "fault_id": "fault_not_turning_66f644df"
+  },
+  {
+    "symptom": "Decompression device failure",
+    "machine_family": "Power Tiller",
+    "component": "Decompression Device",
+    "branches": [
+      {
+        "question": "Is the decompression stroke correct?",
+        "yes_next": "Check the decompression device.",
+        "no_next": "Repair the device."
+      }
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Decompression device failure\nCOMPONENT: Decompression Device\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "decompression_device_8c0b33",
+    "fault_id": "fault_decompression_device_failure_abc43a96"
+  },
+  {
+    "symptom": "The fuel system develops troubles",
+    "machine_family": "Power Tiller",
+    "component": "Fuel System",
+    "branches": [
+      {
+        "question": "Has air entered the fuel line?",
+        "yes_next": "Release the air.",
+        "no_next": "Check and clean the fuel line or fine fuel filter."
+      },
+      {
+        "question": "Is the fuel injection pump working correctly?",
+        "yes_next": "Check the atomization and injection pressure.",
+        "no_next": "Check and adjust the fuel injection pump."
+      }
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: The fuel system develops troubles\nCOMPONENT: Fuel System\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "fuel_system_c71de4",
+    "fault_id": "fault_the_fuel_system_develops_923a2e21"
+  },
+  {
+    "symptom": "tines jarring up or becoming rusted",
+    "machine_family": "Rotavator",
+    "component": "Tines",
+    "branches": [
+      {
+        "question": "has the tine been lubricated recently?",
+        "yes_next": "check for rust or debris",
+        "no_next": "apply lubricant and clean the tines"
+      }
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Proper care and maintenance of an agricultural power tiller:**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: tines jarring up or becoming rusted\nCOMPONENT: Tines\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "tines_52eca5",
+    "fault_id": "fault_tines_jarring_up_or_43335fc9"
+  },
+  {
+    "symptom": "Tiller blade does not rotate",
+    "machine_family": "Power Tiller",
+    "component": "Tiller Blade",
+    "branches": [
+      {
+        "question": "Is there debris around the blade?",
+        "yes_next": "Proceed to step 2",
+        "no_next": "Check for worn-out blade bearings"
+      }
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**VII. REFERENCE(S)**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Tiller blade does not rotate\nCOMPONENT: Tiller Blade\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "tiller_blade_f3d103",
+    "fault_id": "fault_tiller_blade_does_not_dff02c30"
+  },
+  {
+    "symptom": "machine shakes violently",
+    "machine_family": "Power Tiller",
+    "component": "Gearbox",
+    "branches": [
+      {
+        "question": "are gear teeth loose?",
+        "yes_next": "tighten gear teeth using torque wrench",
+        "no_next": "check for worn-out gear teeth"
+      }
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**PREFACE**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: machine shakes violently\nCOMPONENT: Gearbox\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "gearbox_61a729",
+    "fault_id": "fault_machine_shakes_violently_40883cca"
+  },
+  {
+    "symptom": "Motor hums but does not rotate",
+    "machine_family": "Tractor",
+    "component": "Alternator",
+    "branches": [
+      {
+        "question": "Is the alternator belt loose?",
+        "yes_next": "Check for signs of wear or damage on belt",
+        "no_next": "Check for signs of wear or damage on alternator"
+      }
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅱ Preparation**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Motor hums but does not rotate\nCOMPONENT: Alternator\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "alternator_da9c10",
+    "fault_id": "fault_motor_hums_but_does_e2de0bb6"
+  },
+  {
+    "symptom": "Abnormal shaking of the machine",
+    "machine_family": "Power Tiller",
+    "component": "Engine",
+    "branches": [
+      {
+        "question": "Are the engine mounts loose or damaged?",
+        "yes_next": "Tighten or replace engine mounts",
+        "no_next": "Check for other causes"
+      }
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅲ Operating**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Abnormal shaking of the machine\nCOMPONENT: Engine\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "engine_ad1943",
+    "fault_id": "fault_abnormal_shaking_of_the_2b8c2393"
+  },
+  {
+    "symptom": "Machine does not start",
+    "machine_family": "Power Tiller",
+    "component": "Bolts",
+    "branches": [
+      {
+        "question": "Are all bolts tightened?",
+        "yes_next": "Proceed to step 2",
+        "no_next": "Check all bolts for tightness"
+      },
+      {
+        "question": "Is the battery dead?",
+        "yes_next": "Replace dead battery",
+        "no_next": "Check battery voltage"
+      }
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅳ Maintenance and Storage**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Machine does not start\nCOMPONENT: Bolts\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "bolts_af996f",
+    "fault_id": "fault_machine_does_not_start_0cfcbac1"
+  },
+  {
+    "symptom": "Blades do not rotate",
+    "machine_family": "Rotavator",
+    "component": "Gear Transmission",
+    "branches": [
+      {
+        "question": "Is the gear cover loose?",
+        "yes_next": "Check if the gear teeth are properly aligned",
+        "no_next": "Inspect the gear teeth for wear using a magnifying glass"
+      }
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅰ.Main technical data**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Blades do not rotate\nCOMPONENT: Gear Transmission\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "gear_transmission_776822",
+    "fault_id": "fault_blades_do_not_rotate_098a2d51"
+  },
+  {
+    "symptom": "Clutch does not engage",
+    "machine_family": "Power Tiller",
+    "component": "Clutch",
+    "branches": [
+      {
+        "question": "Is clutch adjustment correct?",
+        "yes_next": "Check clutch friction piece",
+        "no_next": "Adjust clutch"
+      }
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "Ⅱ ． **Maintenance**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Clutch does not engage\nCOMPONENT: Clutch\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "clutch_22275a",
+    "fault_id": "fault_clutch_does_not_engage_d29e71ac"
+  },
+  {
+    "symptom": "Diesel engine not in good performance when turning up or down the accelerator switch",
+    "machine_family": "Diesel Engine",
+    "component": "Accelerator Cable",
+    "branches": [
+      {
+        "question": "Has the accelerator cable been adjusted recently?",
+        "yes_next": "Check if accelerator cable is firmly connected to the cable joint",
+        "no_next": "Adjust accelerator cable"
+      }
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅳ  Accelerator cable adjustment**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Diesel engine not in good performance when turning up or down the accelerator switch\nCOMPONENT: Accelerator Cable\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "accelerator_cable_56ee96",
+    "fault_id": "fault_diesel_engine_not_in_c2338260"
+  },
+  {
+    "symptom": "Clutch fails to work",
+    "machine_family": "Tractor",
+    "component": "Clutch",
+    "branches": [
+      {
+        "question": "Is the clutch handle damaged?",
+        "yes_next": "Repair or replace the clutch.",
+        "no_next": "Is the clutch cable damaged?"
+      },
+      {
+        "question": "Is the clutch cable damaged?",
+        "yes_next": "Adjust the clutch cable or replace the clutch fork.",
+        "no_next": "Is the clutch fork in the correct position?"
+      },
+      {
+        "question": "Is the clutch fork in the correct position?",
+        "yes_next": "Check the welding points for damage or wear.",
+        "no_next": "Is the fork pin bent or broken?"
+      },
+      {
+        "question": "Is the fork pin bent or broken?",
+        "yes_next": "Replace the fork pin.",
+        "no_next": "Is the friction piece damaged?"
+      },
+      {
+        "question": "Is the friction piece damaged?",
+        "yes_next": "Replace the friction piece.",
+        "no_next": "Is the spring damaged?"
+      },
+      {
+        "question": "Is the spring damaged?",
+        "yes_next": "Replace the spring.",
+        "no_next": "Is the bearing damaged?"
+      },
+      {
+        "question": "Is the bearing damaged?",
+        "yes_next": "Replace or refill engine oil into the gear box.",
+        "no_next": ""
+      }
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**ⅠClutch trouble eliminating (Note: do not dismount the clutch assembly by yourself)**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Clutch fails to work\nCOMPONENT: Clutch\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "clutch_22275a",
+    "fault_id": "fault_clutch_fails_to_work_74e4bfe2"
+  },
+  {
+    "symptom": "Shift failure",
+    "machine_family": "Tractor",
+    "component": "Main shaft",
+    "branches": [
+      {
+        "question": "Are the main shaft screws loosen?",
+        "yes_next": "Dismount the bolts, key cover and re-fasten",
+        "no_next": "Check for excess abrasion of shift block"
+      }
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**ⅡGear box trouble eliminating**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Shift failure\nCOMPONENT: Main shaft\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "main_shaft_d9a5f2",
+    "fault_id": "fault_shift_failure_27fdb5c9"
+  },
+  {
+    "symptom": "Main shaft positioning spring failure",
+    "machine_family": "Tractor",
+    "component": "Main shaft positioning spring",
+    "branches": [
+      {
+        "question": "Is the main shaft stable?",
+        "yes_next": "Tighten the bolts",
+        "no_next": "Check for deformation of shift bar leading to shift interference"
+      }
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**ⅡGear box trouble eliminating**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Main shaft positioning spring failure\nCOMPONENT: Main shaft positioning spring\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "main_shaft_223115",
+    "fault_id": "fault_main_shaft_positioning_spring_2f9fd311"
+  },
+  {
+    "symptom": "Reversing fork is blocked",
+    "machine_family": "Tractor",
+    "component": "Reversing fork",
+    "branches": [
+      {
+        "question": "Is the reversing fork abrasion?",
+        "yes_next": "Clean the combined face between reversing fork and reversing pushing plate to make the fork move freely",
+        "no_next": "Check for reversing fork abrasion"
+      }
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**ⅡGear box trouble eliminating**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Reversing fork is blocked\nCOMPONENT: Reversing fork\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "reversing_fork_c816a1",
+    "fault_id": "fault_reversing_fork_is_blocked_d1e95ea5"
+  },
+  {
+    "symptom": "Reversing shaft is loosen",
+    "machine_family": "Tractor",
+    "component": "Reversing shaft",
+    "branches": [
+      {
+        "question": "Are the reversing shaft back bolts loose?",
+        "yes_next": "Tighten the reversing shaft back bolts",
+        "no_next": "Check for reversing shaft spring failure"
+      }
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**ⅡGear box trouble eliminating**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Reversing shaft is loosen\nCOMPONENT: Reversing shaft\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "reversing_shaft_7a5424",
+    "fault_id": "fault_reversing_shaft_is_loosen_5417befd"
+  },
+  {
+    "symptom": "Reversing shaft O-ring failure",
+    "machine_family": "Tractor",
+    "component": "Reversing shaft O-ring",
+    "branches": [
+      {
+        "question": "Is the reversing shaft O-ring failure?",
+        "yes_next": "Replace O-ring φ18×1.8",
+        "no_next": "Check for reversing shaft O-ring failure"
+      }
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**ⅡGear box trouble eliminating**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Reversing shaft O-ring failure\nCOMPONENT: Reversing shaft O-ring\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "reversing_shaft_4e3e39",
+    "fault_id": "fault_reversing_shaft_oring_failure_f37adb8e"
+  },
+  {
+    "symptom": "Gear box oil leakage",
+    "machine_family": "Tractor",
+    "component": "Gear box oil",
+    "branches": [
+      {
+        "question": "Are there tiny hidden holes exit on the gear box?",
+        "yes_next": "Re-welding or padding",
+        "no_next": "Check for gear box oil leakage"
+      }
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**ⅡGear box trouble eliminating**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Gear box oil leakage\nCOMPONENT: Gear box oil\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "gear_box_fa8e74",
+    "fault_id": "fault_gear_box_oil_leakage_a9e7aeec"
+  },
+  {
+    "symptom": "Too loud noise from the gear",
+    "machine_family": "Harvester",
+    "component": "Gear",
+    "branches": [
+      {
+        "question": "Is the gear error?",
+        "yes_next": "Remount the gear and readjust or replace the gear",
+        "no_next": "Check for error mounting"
+      }
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅲ Step box trouble eliminating**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Too loud noise from the gear\nCOMPONENT: Gear\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "gear_fae005",
+    "fault_id": "fault_too_loud_noise_from_ae4675ef"
+  },
+  {
+    "symptom": "Oil leakage of the gear box connection",
+    "machine_family": "Harvester",
+    "component": "Gear box connection",
+    "branches": [
+      {
+        "question": "Is the connection bolt loosen?",
+        "yes_next": "Tighten the bolts",
+        "no_next": "Check for seal gasket damage"
+      }
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅲ Step box trouble eliminating**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Oil leakage of the gear box connection\nCOMPONENT: Gear box connection\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "gear_box_2e4fa8",
+    "fault_id": "fault_oil_leakage_of_the_04931ae6"
+  },
+  {
+    "symptom": "Oil leakage of the output shaft casing",
+    "machine_family": "Harvester",
+    "component": "Oil seal",
+    "branches": [
+      {
+        "question": "Is the oil seal damaged?",
+        "yes_next": "Replace the oil seal",
+        "no_next": ""
+      }
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅲ Step box trouble eliminating**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Oil leakage of the output shaft casing\nCOMPONENT: Oil seal\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "oil_seal_26e225",
+    "fault_id": "fault_oil_leakage_of_the_132b9493"
+  },
+  {
+    "symptom": "Serious oil leakage of the hexagonal hole in the shaft casing",
+    "machine_family": "Harvester",
+    "component": "Shaft casing",
+    "branches": [
+      {
+        "question": "Is the shaft casing breaking?",
+        "yes_next": "Replace the shaft casing",
+        "no_next": ""
+      }
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅲ Step box trouble eliminating**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Serious oil leakage of the hexagonal hole in the shaft casing\nCOMPONENT: Shaft casing\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "shaft_casing_6fcb6b",
+    "fault_id": "fault_serious_oil_leakage_of_04aeaac1"
+  },
+  {
+    "symptom": "Oil leakage of the drain hole",
+    "machine_family": "Harvester",
+    "component": "O- ring",
+    "branches": [
+      {
+        "question": "Is the O- ring damaged?",
+        "yes_next": "Replace the O- ring",
+        "no_next": ""
+      }
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅲ Step box trouble eliminating**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Oil leakage of the drain hole\nCOMPONENT: O- ring\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "o_ring_464d3d",
+    "fault_id": "fault_oil_leakage_of_the_63d90f2c"
+  },
+  {
+    "symptom": "Leakage of the step box",
+    "machine_family": "Harvester",
+    "component": "Step box padding",
+    "branches": [
+      {
+        "question": "Are there tiny hidden holes exit on the step box padding?",
+        "yes_next": "Re-welding or replace the step box padding",
+        "no_next": ""
+      }
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅲ Step box trouble eliminating**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Leakage of the step box\nCOMPONENT: Step box padding\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "step_box_ccb21f",
+    "fault_id": "fault_leakage_of_the_step_162e29c7"
+  },
+  {
+    "symptom": "Paddy wheel piece does not rotate",
+    "machine_family": "Rotavator",
+    "component": "Paddy wheel piece",
+    "branches": [
+      {
+        "question": "Is the bearing seized?",
+        "yes_next": "Replace the bearing with a new one",
+        "no_next": "Check if the paddy wheel piece is properly aligned"
+      }
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**List of optional tools**",
+    "embedding_text": "DIAGNOSTIC TREE\nSYMPTOM: Paddy wheel piece does not rotate\nCOMPONENT: Paddy wheel piece\n\nQUESTIONS:\n- \n\nCHECKS:\n- \n\nACTIONS:\n- \n",
+    "component_id": "paddy_wheel_bf3a49",
+    "fault_id": "fault_paddy_wheel_piece_does_45d71f93"
+  }
+]

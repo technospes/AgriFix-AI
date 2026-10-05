@@ -1,0 +1,159 @@
+🔹 Chunk 1 — Active First Aid / Injury
+PROBLEM: User or bystander has a visible injury, cut, or bleeding from machine contact.
+MACHINE_TYPE: universal
+TAGS: injury, first_aid, bleeding, cut, chot, khoon, hurt, kat gaya, accident
+ESCALATE_IF: Any mention of injury, blood, cut, or physical harm to a person near the machine. This is an Active Hazard — do not proceed with repair diagnostics.
+STEPS: STOP all repair activity immediately. Move the injured person away from the machine. Apply firm pressure to the wound with a clean cloth. Call emergency services or transport to the nearest medical facility without delay. Do NOT operate the machine while injured. The machine must NOT be restarted until the guard is repaired and the area is safe. Working with an open injury near moving blades is a life-threatening secondary hazard.
+STEPS_HI: तुरंत मरम्मत बंद करें। घायल व्यक्ति को मशीन से दूर ले जाएं। साफ कपड़े से घाव पर दबाव डालें। तुरंत नजदीकी अस्पताल जाएं। मशीन का गार्ड ठीक होने तक इसे न चलाएं।
+
+🔹 Chunk 2 — Non-Agricultural / Absurd Query
+PROBLEM: User asks about a non-agricultural, non-machinery topic such as toothpaste, construction bricks, household products, food, animals, or personal care items.
+MACHINE_TYPE: universal
+TAGS: out_of_scope, toothpaste, bricks, cement, eent, construction, food, sarso, animal, cattle, gaay, fashion, non_repair
+ESCALATE_IF: Query contains no recognisable agricultural machine fault description. Classify as Out-of-Scope.
+STEPS: This system is strictly for agricultural machinery repair diagnostics. Your query does not describe a mechanical fault on a farm machine. Please describe a symptom such as "engine not starting" or "belt slipping" so the system can assist you.
+STEPS_HI: यह सिस्टम केवल कृषि मशीनरी की मरम्मत के लिए है। आपका सवाल मरम्मत से संबंधित नहीं है। कृपया कोई यांत्रिक समस्या बताएं जैसे "इंजन स्टार्ट नहीं हो रहा"।
+
+🔹 Chunk 3 — Active Fire on Machine (Active Hazard — Escalate)
+PROBLEM: User reports an active fire, visible flames, or burning on or near the machine.
+MACHINE_TYPE: universal
+TAGS: fire, aag, flame, jal raha, aag lagi, burning, smoke and fire, active_fire
+ESCALATE_IF: Active fire or flames are CURRENTLY PRESENT on or near the machine. This is an Active Hazard — do NOT generate repair steps.
+STEPS: STOP the engine immediately and move all persons at least 15 metres away. Do NOT open the bonnet or fuel cap while fire is present. If a dry-powder extinguisher is mounted, pull the pin, aim at the base of the flame, squeeze, and sweep side to side. Call emergency services. Do NOT resume operation until a qualified technician inspects the fire cause.
+STEPS_HI: तुरंत इंजन बंद करें और सभी लोगों को 15 मीटर दूर ले जाएं। बोनट या ईंधन टैंक न खोलें। अग्निशामक यंत्र हो तो पिन खींचें, जड़ की तरफ करें, दबाएं और घुमाएं। तुरंत दमकल विभाग को फोन करें।
+
+🔹 Chunk 3b — Fire Extinguisher Usage (Informational)
+PROBLEM: User asks how to use a mounted fire extinguisher.
+MACHINE_TYPE: universal
+TAGS: fire extinguisher, agni shamak, usage, how to use
+ESCALATE_IF: DO NOT escalate this chunk. This is a usage instruction query.
+STEPS: To use the mounted fire extinguisher, follow the PASS method: Pull the pin to unlock the handle. Aim the nozzle at the BASE of the fire, not the flames. Squeeze the handle firmly and steadily. Sweep the nozzle from side to side until the fire is fully out. If the fire is too large, involves high-voltage lines, or re-ignites, evacuate immediately and call emergency services.
+STEPS_HI: अग्निशामक यंत्र चलाने के लिए PASS तरीका अपनाएं: पिन खींचें। नोजल को आग की जड़ की तरफ करें (ऊपर नहीं)। हैंडल दबाएं। बाएं-दाएं घुमाएं जब तक आग बुझे। अगर आग बड़ी हो या बिजली की लाइन हो, तो तुरंत दूर हटें और दमकल को फोन करें।
+
+🔹 Chunk 4 — Routine Maintenance / Oil Change Intervals
+PROBLEM: User asks about routine maintenance schedules such as oil change intervals, filter replacement timelines, lubrication schedules, or greasing cycles not linked to an active fault.
+MACHINE_TYPE: universal
+TAGS: routine_maintenance, oil_change, filter_change, service_interval, grease, lubrication, schedule, maintenance_only
+ESCALATE_IF: Query describes scheduled maintenance rather than an active fault symptom. Classify as Routine Maintenance — outside repair diagnostic scope.
+STEPS: This procedure is a routine maintenance task, not a fault repair. Service intervals vary by manufacturer and model. Refer to the manufacturer's operator manual for the exact oil grade, quantity, and change interval for your machine. For engine oil, a general guideline is every 250 hours or annually — but always defer to the printed manual. Consult a certified service technician for first-service checks.
+STEPS_HI: यह नियमित रखरखाव का काम है, कोई खराबी नहीं है। तेल बदलने का समय निर्माता की मैन्युअल में देखें। आमतौर पर हर 250 घंटे या साल में एक बार — लेकिन हमेशा अपनी मशीन की मैन्युअल को ही मानें।
+
+🔹 Chunk 5 — Unsupported / Unknown Attachment
+PROBLEM: User asks about an attachment or implement connected to a tractor or machine that is not in the knowledge base — e.g. laser leveller, GPS guidance unit, custom fabricated implement, or any attachment not listed in supported machine types.
+MACHINE_TYPE: universal
+TAGS: unsupported_attachment, laser_leveller, unknown_attachment, custom_implement, not_in_kb, attachment_unknown
+ESCALATE_IF: Attachment is not a recognised implement in the knowledge base. Classify as Out-of-Scope.
+STEPS: This attachment is not in the AgriFix repair knowledge base and cannot be diagnosed automatically. Ensure the tractor PTO is disengaged and the implement is fully lowered before inspecting. Contact the attachment manufacturer's service centre (e.g., the laser leveller manufacturer's service centre) for service guidance on this specific implement.
+STEPS_HI: यह अटैचमेंट AgriFix की जानकारी में नहीं है। PTO बंद करें। इस विशेष अटैचमेंट (जैसे लेजर लेवलर) के निर्माता के सर्विस सेंटर से संपर्क करें।
+
+🔹 Chunk 6 — Safety Switch Bypass / Dangerous Modifications
+PROBLEM: User asks how to bypass a safety switch (seat switch, neutral start) or disable guards.
+MACHINE_TYPE: universal
+TAGS: bypass, disable, remove guard, seat switch, short circuit, direct start, direct current, bypass switch, workaround, wire bypass
+ESCALATE_IF: Any intent to bypass, remove, or defeat manufacturer safety switches or guards.
+STEPS: STOP. Safety switches and guards are critical to prevent fatal accidents. Do NOT attempt to bypass, cut, or short-circuit any safety interlock, seat switch, or PTO guard. If a safety switch is malfunctioning, it must be replaced with an OEM part. Stop the machine until proper repairs are made.
+STEPS_HI: सुरक्षा स्विच को हटाना या बायपास करना जानलेवा हो सकता है। कोई भी तार सीधा (direct) न जोड़ें। मशीन रोक दें और मैकेनिक से असली पार्ट डलवाएं।
+
+🔹 Chunk 7 — High-Pressure Fluid Injection Hazard
+PROBLEM: User mentions checking for hydraulic leaks using bare hands.
+MACHINE_TYPE: universal
+TAGS: hydraulic leak, pinhole leak, hand on pipe, fluid injection, pressure leak, haath se check
+ESCALATE_IF: User mentions using hands to find a hydraulic leak or being sprayed by high-pressure fluid.
+STEPS: STOP IMMEDIATELY. High-pressure hydraulic fluid can pierce the skin and cause fatal blood poisoning. NEVER use your hands to check for leaks. Relieve all hydraulic pressure before inspecting. Use a piece of cardboard or wood to search for pinhole leaks. If fluid is injected into skin, seek emergency surgical medical attention immediately.
+STEPS_HI: तुरंत रुकें! प्रेशर से निकलता हुआ तेल त्वचा को चीर कर अंदर जा सकता है जो कि जानलेवा है। कभी भी हाथ से लीक चेक न करें। मशीन बंद करके गत्ते या लकड़ी का उपयोग करें। अगर तेल त्वचा में चला जाए तो तुरंत अस्पताल जाएं।
+
+🔹 Chunk 8 — Opening Hot Pressurized Cooling Systems
+PROBLEM: User intends to open radiator cap while engine is hot or overheating.
+MACHINE_TYPE: universal
+TAGS: hot radiator, open cap, boiling water, steam, coolant spray, over-heating, dhakkan kholna
+ESCALATE_IF: User asks to open radiator cap on a hot, smoking, or recently running engine.
+STEPS: CRITICAL BURN HAZARD: Do NOT open the radiator cap while the engine is hot. Boiling coolant and steam will erupt under high pressure and cause severe burns. Turn off the engine, step away, and let it cool completely for at least 1-2 hours. Once cold, use a thick rag to open the cap slowly to the first stop to release residual pressure.
+STEPS_HI: जलने का गंभीर खतरा! इंजन गरम होने पर रेडिएटर का ढक्कन कभी न खोलें। उबलता हुआ पानी और भाप आपके चेहरे पर आ सकती है। इंजन बंद करें और इसे 1-2 घंटे तक पूरा ठंडा होने दें।
+
+🔹 Chunk 9 — Incorrect / Improvised Fluids & Substitutions
+PROBLEM: User asks to use non-standard fluids (cooking oil, water instead of coolant, petrol in diesel).
+MACHINE_TYPE: universal
+TAGS: cooking oil, mustard oil, sarso ka tel, petrol in diesel, wrong fluid, desi nuskha, substitute oil, pani dalna
+ESCALATE_IF: User suggests putting an incorrect, improvised, or household fluid into a mechanical system.
+STEPS: STOP. Do NOT use improvised or incorrect fluids. Using cooking oil or water will cause catastrophic damage. Putting petrol in a diesel engine will destroy the injection pump, injectors, and piston rings. You must strictly use the manufacturer-specified grade. Source the correct fuel (e.g., diesel) before operating. Drain any incorrect fluid immediately.
+STEPS_HI: रुकें। गलत तेल या पेट्रोल न डालें। इससे इंजन का इंजेक्शन पंप और पिस्टन रिंग खराब हो जाएंगे। चलाने से पहले सही डीजल लाएं।
+
+🔹 Chunk 10 — Confined Space / Exhaust Gas Poisoning
+PROBLEM: Operating combustion engines (generators, pumps, tractors) indoors or in unventilated spaces.
+MACHINE_TYPE: universal
+TAGS: indoor, inside room, kamre ke andar, closed door, basement, generator inside, suffocation, carbon monoxide
+ESCALATE_IF: User mentions operating a combustion engine in a closed room, basement, or poorly ventilated area.
+STEPS: LETHAL HAZARD: Carbon monoxide gas from engine exhaust is invisible, odorless, and deadly within minutes. Shut off the machine immediately. NEVER run a generator, pump, or tractor inside a home, shed, or closed room. Move the machine outdoors to a fully ventilated area at least 20 feet from open windows or doors before operating.
+STEPS_HI: जानलेवा खतरा! इंजन के धुएं में कार्बन मोनोऑक्साइड गैस होती है जो बंद कमरे में कुछ ही मिनटों में जान ले सकती है। जनरेटर या ट्रैक्टर को कभी भी घर या बंद कमरे के अंदर न चलाएं। मशीन को तुरंत खुली हवा में बाहर निकालें।
+
+🔹 Chunk 11 — Unsafe Lifting / Working Under Unsupported Loads
+PROBLEM: Crawling under a machine supported only by jacks, hydraulics, or flimsy materials (bricks/wood).
+MACHINE_TYPE: universal
+TAGS: under tractor, jack slip, hydraulic drop, eent par khada, working underneath, crushed, neeche jana
+ESCALATE_IF: User intends to work underneath a heavy machine or implement that is not mechanically locked.
+STEPS: CRUSH HAZARD: Never put any part of your body under a tractor or implement supported only by a hydraulic lift or a single jack. Hydraulics can fail instantly. Always lower the implement completely to the ground, or support the machine securely using heavy-duty, rated mechanical jack stands before crawling underneath.
+STEPS_HI: कुचलने का खतरा! कभी भी सिर्फ हाइड्रोलिक या जैक के सहारे खड़ी मशीन के नीचे न जाएं। ये कभी भी फेल हो सकते हैं। मशीन को हमेशा जमीन पर टिकाएं या मजबूत लोहे के स्टैंड (jack stands) का ही इस्तेमाल करें।
+
+🔹 Chunk 12 — Electrical Workarounds / Over-fusing
+PROBLEM: Replacing blown fuses or MCBs with thick wire, nails, or foil.
+MACHINE_TYPE: universal
+TAGS: wire in fuse, bypass fuse, fuse bypass, thick wire, direct fuse, taar baandh, silver foil
+ESCALATE_IF: User mentions bridging or replacing a blown fuse/MCB with a direct wire, thick cable, or foil.
+STEPS: FIRE HAZARD: Do NOT bypass a fuse using copper wire, nails, or foil. A repeatedly blowing fuse means there is a dangerous short circuit. Bypassing the fuse will cause the wiring harness to melt, leading to a massive electrical fire and total loss of the machine. Find the short circuit and use only the correctly rated OEM fuse.
+STEPS_HI: आग लगने का खतरा! जले हुए फ्यूज की जगह तांबे का तार या पन्नी (foil) न लगाएं। ऐसा करने से पूरी वायरिंग जल जाएगी और मशीन में भयंकर आग लग सकती है। शॉर्ट सर्किट ढूंढें और सिर्फ सही पावर का नया फ्यूज लगाएं।
+
+🔹 Chunk 13 — Extreme Terrain / Rollover Risk
+PROBLEM: Driving tractor or heavy machinery on dangerously steep slopes or unstable banks.
+MACHINE_TYPE: universal
+TAGS: steep hill, dhalan, slope, slipping back, front lifting, rollover, palti
+ESCALATE_IF: User mentions the front wheels lifting, operating on a very steep incline, or feeling the machine tip.
+STEPS: ROLLOVER HAZARD: Stop the machine immediately if the front wheels begin to lift or if the slope feels unstable. Tractors can overturn backwards or sideways in seconds, causing fatal crushing injuries. Always back up steep slopes, keep loads low, avoid sudden turns, and never operate near collapsing ditch banks. Engage the differential lock only when driving straight.
+STEPS_HI: पलटने का खतरा! अगर ट्रैक्टर के आगे के पहिये उठ रहे हैं या ढलान बहुत तेज है, तो तुरंत रुकें। ट्रैक्टर पीछे या साइड में पलट कर जान ले सकता है। भारी ढलान पर हमेशा रिवर्स में चढ़ें और लोड नीचे रखें।
+
+🔹 Chunk 14 — Hot Work on Fuel / Pressure Vessels
+PROBLEM: Welding, grinding, or cutting near fuel tanks, batteries, or pressurized cylinders.
+MACHINE_TYPE: universal
+TAGS: welding, gas cutting, fuel tank weld, battery spark, tank repair, tanki leak, weld
+ESCALATE_IF: User asks about welding or applying high heat to a fuel tank, battery, or sealed cylinder.
+STEPS: EXPLOSION HAZARD: Do NOT weld, solder, or use a cutting torch on or near a fuel tank, hydraulic line, or battery. Fumes inside a supposedly "empty" fuel tank will explode violently if heated. Battery gases are highly explosive. Fuel tanks must be professionally purged and steamed by certified specialists before any hot work is attempted.
+STEPS_HI: धमाके का खतरा! ईंधन टैंक (fuel tank) या बैटरी के पास कभी भी वेल्डिंग (welding) या ग्राइंडिंग न करें। खाली टैंक के अंदर की गैस भी गर्मी से फट सकती है। यह काम केवल विशेषज्ञ मैकेनिक को करने दें।
+
+🔹 Chunk 15 — Children and Bystanders Near Moving Machinery
+PROBLEM: Children, loose clothing, or bystanders near operating PTOs, harvesters, or attachments.
+MACHINE_TYPE: universal
+TAGS: kids, bache, playing near, loose clothes, dupatta, scarf, bystander, dupatta phas gaya
+ESCALATE_IF: Mention of children playing near running equipment or persons wearing loose clothing near spinning shafts.
+STEPS: FATAL ENTANGLEMENT HAZARD: Stop the machine and disengage the PTO instantly. Keep all children and bystanders at a strict, safe distance (at least 15 meters) from operating machinery. Loose clothing, scarves (dupattas), or long hair can be pulled into a spinning PTO shaft in a fraction of a second. Never step over a rotating driveline.
+STEPS_HI: फंसने का जानलेवा खतरा! मशीन तुरंत रोक दें और PTO बंद करें। बच्चों को चलती मशीन से कम से कम 15 मीटर दूर रखें। ढीले कपड़े, दुपट्टा या बाल घूमते हुए शाफ्ट में फंस कर जान ले सकते हैं।
+
+🔹 Chunk 16 — Normal Gauge / Sensor Reading (Reassurance)
+PROBLEM: User reports a gauge, dipstick, or sensor reading that is WITHIN the manufacturer's normal operating range for the machine.
+MACHINE_TYPE: universal
+TAGS: normal reading, gauge normal, temperature normal, oil level ok, pressure ok, within spec, normal range, reassurance, sab theek hai
+ESCALATE_IF: DO NOT escalate. This is a reassurance scenario — the reading is normal.
+STEPS: The reading described (e.g., temperature gauge in the green zone) is within the normal operating range for this machine. No fault action is required. If the user proposes a dangerous action due to panic (like pouring cold water on a hot engine block), firmly command them NOT to pour water on the engine, as it will crack the metal. Reassure the user that the gauge is normal and set status to success.
+STEPS_HI: यह रीडिंग बिल्कुल सामान्य है। घबराएं नहीं और गर्म इंजन पर पानी न डालें। मशीन को सामान्य रूप से चलाते रहें।
+
+🔹 Chunk 17 — Mechanical Workarounds / Improvised Governor Springs
+PROBLEM: User applies a dangerous mechanical workaround like a rubber band or wire to a throttle or governor.
+MACHINE_TYPE: universal
+TAGS: rubber band, string, wire, governor spring, throttle bypass, temporary fix, baandh diya
+ESCALATE_IF: User replaces a critical linkage or governor spring with a rubber band, string, or wire.
+STEPS: STOP. Using a rubber band for a governor spring is a highly dangerous mechanical workaround. This causes engine overspeeding and severe damage. Do not apply a load. Remove the rubber band immediately and instruct the user to install the correct OEM governor spring.
+STEPS_HI: रुकें! गवर्नर स्प्रिंग की जगह रबर बैंड लगाना बहुत खतरनाक है। इससे इंजन की स्पीड बेकाबू हो जाएगी और इंजन टूट सकता है। रबर बैंड हटाएं और असली स्प्रिंग लगाएं।
+
+🔹 Chunk 18 — Milky or Grey Engine Oil (Coolant Contamination)
+PROBLEM: Engine oil appears milky, white, or grey on the dipstick.
+MACHINE_TYPE: universal
+TAGS: milky oil, grey oil, white oil, coolant leak, head gasket, oil color
+ESCALATE_IF: Any mention of engine oil looking milky, grey, or white.
+STEPS: STOP the engine immediately. Milky or grey engine oil indicates severe coolant contamination, likely due to a blown head gasket or cracked engine block. Do NOT operate the machine or simply top up the oil. Operating with contaminated oil will destroy the engine bearings. Consult a certified mechanic for a major engine repair.
+STEPS_HI: इंजन तुरंत बंद करें। तेल का रंग सफेद या दूधिया होने का मतलब है कि उसमें पानी या कूलेंट मिल गया है (हेड गास्केट फट गया है)। मशीन बिल्कुल न चलाएं, इससे इंजन सीज हो जाएगा। तुरंत मैकेनिक को बुलाएं।
+
+🔹 Chunk 19 — Chemical Exposure & PPE (Sprayer)
+PROBLEM: User handling sprayer chemicals without protection.
+MACHINE_TYPE: universal
+TAGS: sprayer, chemical, liquid, tank, bare hands, mixing, pesticide, zeher, bina gloves
+ESCALATE_IF: User is mixing or handling chemicals with bare hands or without PPE.
+STEPS: STOP IMMEDIATELY. Do not mix or handle agricultural chemicals with bare hands. This can cause severe toxic absorption through the skin and fatal poisoning. Wash your hands immediately with soap and clean water. Before touching the sprayer tank or chemicals, you MUST wear full Personal Protective Equipment (PPE) including thick rubber gloves, a safety mask, and goggles.
+STEPS_HI: तुरंत रुकें! रसायनों (जहर) को नंगे हाथों से न मिलाएं। त्वचा से जहर शरीर में जा सकता है। तुरंत अपने हाथ साबुन से धोएं। स्प्रेयर को छूने से पहले रबर के दस्ताने, मास्क और चश्मा (PPE) जरूर पहनें।

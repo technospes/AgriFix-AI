@@ -1,0 +1,287 @@
+[
+  {
+    "symptom": "electric pump does not turn on",
+    "machine_family": "Electric Pump",
+    "component": "Electricity Protective Device",
+    "branches": [
+      {
+        "question": "Is the electrical connection damaged?",
+        "yes_next": "check the protective device",
+        "no_next": "check the power socket"
+      }
+    ],
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**I. Safety and Installation Precautions**",
+    "embedding_text": "electric pump does not turn on Electricity Protective Device Is the electrical connection damaged?"
+  },
+  {
+    "symptom": "pump does not start",
+    "machine_family": "Submersible Pump",
+    "component": "Capacitor",
+    "branches": [
+      {
+        "question": "is capacitor voltage within 230V ±10%",
+        "yes_next": "check for damage",
+        "no_next": "replace capacitor"
+      }
+    ],
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**QB Series**",
+    "embedding_text": "pump does not start Capacitor is capacitor voltage within 230V ±10%"
+  },
+  {
+    "symptom": "pump not turning on",
+    "machine_family": "Submersible Pump",
+    "component": "Capacitor",
+    "branches": [
+      {
+        "question": "is capacitor voltage 12V?",
+        "yes_next": "pump turns on",
+        "no_next": "replace capacitor"
+      }
+    ],
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**PW-Z Series**",
+    "embedding_text": "pump not turning on Capacitor is capacitor voltage 12V?"
+  },
+  {
+    "symptom": "Pump leaks water",
+    "machine_family": "Pump",
+    "component": "Mechanical Seal",
+    "branches": [
+      {
+        "question": "Is the mechanical seal worn or damaged?",
+        "yes_next": "Replace the mechanical seal with a new one.",
+        "no_next": "Check the pump body for any damage."
+      }
+    ],
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**WZB Series**",
+    "embedding_text": "Pump leaks water Mechanical Seal Is the mechanical seal worn or damaged?"
+  },
+  {
+    "symptom": "pump hums but does not rotate",
+    "machine_family": "Electric Pump",
+    "component": "Mechanical Seal",
+    "branches": [
+      {
+        "question": "is mechanical seal damaged?",
+        "yes_next": "replace mechanical seal",
+        "no_next": "check bearing for wear"
+      }
+    ],
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**VIII. Maintenance**",
+    "embedding_text": "pump hums but does not rotate Mechanical Seal is mechanical seal damaged?"
+  },
+  {
+    "symptom": "motor hums but does not rotate",
+    "machine_family": "Electric Motor",
+    "component": "Electric Pump",
+    "branches": [
+      {
+        "question": "Is the voltage within the rated range?",
+        "yes_next": "check the switch wiring terminal and the cable",
+        "no_next": "use the screwdriver to toggle the rotation shaft at the fan end to make it rotate flexibly"
+      },
+      {
+        "question": "Is the rotation shaft rotating flexibly?",
+        "yes_next": "disassemble the pump body to clear the debris",
+        "no_next": "thicken the cable properly"
+      },
+      {
+        "question": "Is the cable properly thickened?",
+        "yes_next": "send it to the maintenance center to replace the capacitor with one with the same capacitance",
+        "no_next": "send it to the maintenance center to replace the winding coil"
+      }
+    ],
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**IX. Troubleshooting**",
+    "embedding_text": "motor hums but does not rotate Electric Pump Is the voltage within the rated range? Is the rotation shaft rotating flexibly? Is the cable properly thickened?"
+  },
+  {
+    "symptom": "motor runs but no water is discharged",
+    "machine_family": "Electric Motor",
+    "component": "Impeller",
+    "branches": [
+      {
+        "question": "Are the water inlet pipelines and joints sealed well?",
+        "yes_next": "refll water into the pump body and discharge the air",
+        "no_next": "adjust or replace the sealing elements"
+      }
+    ],
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**IX. Troubleshooting**",
+    "embedding_text": "motor runs but no water is discharged Impeller Are the water inlet pipelines and joints sealed well?"
+  },
+  {
+    "symptom": "The electric pump cannot be halted when water is not used",
+    "machine_family": "Electric Pump",
+    "component": "Pressure Switch",
+    "branches": [
+      {
+        "question": "Is the water level lower than the pump suction?",
+        "yes_next": "Reduce the installation height of the pump",
+        "no_next": "Check the pressure switch"
+      }
+    ],
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**Troubleshooting AWZB and PW Auto Self-priming Pump**",
+    "embedding_text": "The electric pump cannot be halted when water is not used Pressure Switch Is the water level lower than the pump suction?"
+  },
+  {
+    "symptom": "The electric pump is started frequently when water is used",
+    "machine_family": "Water Pump",
+    "component": "Flow Switch",
+    "branches": [
+      {
+        "question": "Is the water discharge of the faucet little?",
+        "yes_next": "Properly turn up the faucet",
+        "no_next": "Check the pressure tank leaks air and the air pressure is insufficient"
+      }
+    ],
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "- **Troubleshooting of PW-Z** 、 **AWZB H1 Series Electric Pump**",
+    "embedding_text": "The electric pump is started frequently when water is used Flow Switch Is the water discharge of the faucet little?"
+  },
+  {
+    "symptom": "The electric pump does not start when water is used",
+    "machine_family": "Water Pump",
+    "component": "Pressure Switch",
+    "branches": [
+      {
+        "question": "Can the electric pump be started after unplugging the plug of the pressure switch on the controller and making the socket of the pressure switch on the controller contact short circuit?",
+        "yes_next": "Ask the professional personnel to properly turn up the pressure of the pressure switch",
+        "no_next": "Replace the pressure switch with a new one"
+      }
+    ],
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "- **Troubleshooting of PW-Z** 、 **AWZB H1 Series Electric Pump**",
+    "embedding_text": "The electric pump does not start when water is used Pressure Switch Can the electric pump be started after unplugging the plug of the pressure switch on the controller and making the socket of the pressure switch on the controller contact short circuit?"
+  },
+  {
+    "symptom": "The electric pump cannot be halted when water is not used",
+    "machine_family": "Water Pump",
+    "component": "Check Valve",
+    "branches": [
+      {
+        "question": "Is the check valve stuck by the debris and cannot be reset?",
+        "yes_next": "Clear the debris of the check valve",
+        "no_next": "Replace the flow switch with a new one"
+      }
+    ],
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "- **Troubleshooting of PW-Z** 、 **AWZB H1 Series Electric Pump**",
+    "embedding_text": "The electric pump cannot be halted when water is not used Check Valve Is the check valve stuck by the debris and cannot be reset?"
+  },
+  {
+    "symptom": "Pump does not deliver water.",
+    "machine_family": "Pump",
+    "component": "Pump",
+    "branches": [
+      {
+        "question": "Is the pump primed?",
+        "yes_next": "Check if suction pipe is completely filled with water.",
+        "no_next": "Prime pump"
+      }
+    ],
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "source_section": "unknown",
+    "embedding_text": "Pump does not deliver water. Pump Is the pump primed?"
+  },
+  {
+    "symptom": "Pump loses prime after starting.",
+    "machine_family": "Pump",
+    "component": "Pump",
+    "branches": [
+      {
+        "question": "Is the suction pipe completely filled with water?",
+        "yes_next": "Check for any blockages or damage to the suction pipe.",
+        "no_next": "Check for any air leaks in the suction line."
+      }
+    ],
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "source_section": "unknown",
+    "embedding_text": "Pump loses prime after starting. Pump Is the suction pipe completely filled with water?"
+  },
+  {
+    "symptom": "Motor hums but does not rotate",
+    "machine_family": "Pump",
+    "component": "Packing",
+    "branches": [
+      {
+        "question": "Are the packing ring joints staggered?",
+        "yes_next": "Add new packing",
+        "no_next": "Check bearing temperature with a standard thermometer"
+      }
+    ],
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "source_section": "unknown",
+    "embedding_text": "Motor hums but does not rotate Packing Are the packing ring joints staggered?"
+  },
+  {
+    "symptom": "Motor hums but does not rotate",
+    "machine_family": "Pump",
+    "component": "Bearing",
+    "branches": [
+      {
+        "question": "Is the bearing temperature within normal range?",
+        "yes_next": "Change lubricant according to Table 14",
+        "no_next": "Disassemble and inspect the bearing"
+      }
+    ],
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "source_section": "unknown",
+    "embedding_text": "Motor hums but does not rotate Bearing Is the bearing temperature within normal range?"
+  },
+  {
+    "symptom": "Pump fails to start.",
+    "machine_family": "Submersible Pump",
+    "component": "Impeller",
+    "branches": [
+      {
+        "question": "Is the tube tension nut tight?",
+        "yes_next": "Check for bent shaft and proper anchoring; check oil.",
+        "no_next": "Check for corrosion products or biological growth."
+      },
+      {
+        "question": "Is the impeller locked?",
+        "yes_next": "Check for sand; raise or lower impeller; backwash. Pull pump if necessary. Also check impeller adjustment; raise impeller to allow shaft to stretch for hydraulic thrust.",
+        "no_next": "Check for faulty driver."
+      }
+    ],
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "source_section": "unknown",
+    "embedding_text": "Pump fails to start. Impeller Is the tube tension nut tight? Is the impeller locked?"
+  },
+  {
+    "symptom": "Pump vibrates excessively.",
+    "machine_family": "Submersible Pump",
+    "component": "Bearing",
+    "branches": [
+      {
+        "question": "Is air entering the pump?",
+        "yes_next": "Check over-pumping and water level drawdown; check leaks in well vent.",
+        "no_next": "Check for sand in water; check lubricant (oil and grease) for proper grade."
+      }
+    ],
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "source_section": "unknown",
+    "embedding_text": "Pump vibrates excessively. Bearing Is air entering the pump?"
+  },
+  {
+    "symptom": "Motor hums but does not rotate",
+    "machine_family": "Diesel Engine",
+    "component": "Bearings",
+    "branches": [
+      {
+        "question": "Is the bearing loose?",
+        "yes_next": "Check the bearing for signs of wear or damage",
+        "no_next": "Check for obstruction"
+      }
+    ],
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "source_section": "unknown",
+    "embedding_text": "Motor hums but does not rotate Bearings Is the bearing loose?"
+  }
+]

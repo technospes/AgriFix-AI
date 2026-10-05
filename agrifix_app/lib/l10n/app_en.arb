@@ -1,0 +1,49 @@
+{
+  "@@locale": "en",
+
+  "homeHeadline": "Professional grade machine\nrepair, powered by AI and AR.",
+  "homeCardTitle": "Machine Issues?",
+  "homeCardSubtitle": "Get instant expert guidance for your equipment.",
+  "homeCtaButton": "Let's Fix Your Machine",
+  "languageSelectTitle": "Select Language",
+  "langEnglish": "English",
+  "langHindi": "हिन्दी",
+  "langPunjabi": "ਪੰਜਾਬੀ",
+
+  "uploadScreenTitle": "Diagnose Issue",
+  "uploadHelp": "Help",
+  "uploadStepChip": "Step 1: Data Collection",
+  "uploadHeading": "How does it sound and look?",
+  "uploadSubtext": "Please provide both video and audio for the most accurate repair diagnosis.",
+  "uploadRecordVideo": "Record Video",
+  "uploadRecordVideoSub": "Show us the mechanical issue",
+  "uploadRecordAudio": "Record Audio",
+  "uploadRecordAudioSub": "Describe the engine sounds",
+  "uploadProTipTitle": "Pro Tip",
+  "uploadProTipBody": "Hold the phone steady and ensure there is plenty of sunlight for the best analysis.",
+  "uploadFromGallery": "Upload from Gallery",
+  "uploadRecordLiveCamera": "Record Live Through Camera",
+  "uploadRecordLiveMic": "Record Live Through Mic",
+  "uploadFindSolution": "Find Solution",
+  "uploadAnalyzing": "Analyzing your machine...",
+  "uploadStep1": "Uploading your video & audio",
+  "uploadStep2": "Understanding the problem",
+  "uploadStep3": "Analyzing machine type",
+  "uploadStep4": "Generating repair steps",
+  "uploadStep5": "Solution ready",
+  "uploadErrorTitle": "Something went wrong",
+  "uploadErrorSubtitle": "Check your internet and try again",
+  "uploadRetry": "Retry",
+  "aiRepairGuide": "AI Repair Guide",
+  "solutionFound": "SOLUTION FOUND",
+  "stepNumber": "Step {number}",
+  "@stepNumber": {
+    "placeholders": {
+      "number": { "type": "int" }
+    }
+  },
+  "currentTask": "Current Task",
+  "startArGuide": "Start AR Guide",
+  "prev": "Prev",
+  "next": "Next"
+}

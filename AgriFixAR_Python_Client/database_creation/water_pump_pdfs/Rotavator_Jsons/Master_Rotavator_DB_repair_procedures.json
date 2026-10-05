@@ -1,0 +1,1190 @@
+[
+  {
+    "procedure": "Maintenance and Repair Safety Protocol",
+    "component": "Engine",
+    "machine_family": "Rotavator",
+    "steps": [
+      "Shut off the engine completely.",
+      "Remove the ignition key to prevent accidental startup.",
+      "Read the operator's manual before beginning any work."
+    ],
+    "tools": [
+      "Ignition key"
+    ],
+    "expected_result": "Machine is safely powered down and secured for maintenance.",
+    "safety_warnings": [
+      "P/N 629551 Shut off engine !",
+      "P/N 187250 Read Manual !",
+      "P/N 629548 Flying Objects ! - Keep safe distance from the machine as long as the engine is running."
+    ],
+    "part_numbers": [
+      "187250",
+      "629551",
+      "629548"
+    ],
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**SAFETY DECAL LOCATION**",
+    "embedding_text": "Maintenance and Repair Safety Protocol Engine Shut off the engine completely. Remove the ignition key to prevent accidental startup. Read the operator's manual before beginning any work."
+  },
+  {
+    "procedure": "Routine Maintenance Inspection",
+    "component": "Rotavator",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Allow unit to cool down to prevent burns",
+      "Check all bolts for tightness",
+      "Inspect for cracks, wear, or damage",
+      "Note and organize required maintenance"
+    ],
+    "tools": [
+      "Visual inspection",
+      "Wrenches"
+    ],
+    "expected_result": "Unit is secure and free of structural defects",
+    "safety_warnings": [
+      "Gearboxes and transmission components may be hot enough to inflict burns"
+    ],
+    "part_numbers": [],
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**FOLLOWING OPERATION**",
+    "embedding_text": "Routine Maintenance Inspection Rotavator Allow unit to cool down to prevent burns Check all bolts for tightness Inspect for cracks, wear, or damage Note and organize required maintenance"
+  },
+  {
+    "procedure": "Hydraulic Line Disconnection",
+    "component": "Hydraulic fluid line",
+    "machine_family": "Rotavator",
+    "steps": [
+      "Shut off the hydraulic supply",
+      "Relieve the hydraulic pressure",
+      "Disconnect the hydraulic line"
+    ],
+    "tools": [
+      "Cardboard or wood (for leak detection)"
+    ],
+    "expected_result": "Line disconnected without fluid injection injury",
+    "safety_warnings": [
+      "Never use hands to locate hydraulic fluid leaks. Escaping hydraulic fluid is capable of cutting and penetrating skin.",
+      "Minor cuts are susceptible to infection from hydraulic fluid. Gangrene can result. If injured by escaping hydraulic fluid or you suspect you have been infected, seek medical treatment immediately."
+    ],
+    "part_numbers": [],
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**MAINTENANCE SAFETY**",
+    "embedding_text": "Hydraulic Line Disconnection Hydraulic fluid line Shut off the hydraulic supply Relieve the hydraulic pressure Disconnect the hydraulic line"
+  },
+  {
+    "procedure": "Maintenance Support",
+    "component": "Rotavator implement",
+    "machine_family": "Rotavator",
+    "steps": [
+      "Turn off tractor and remove ignition key",
+      "Engage park brake and chock wheels",
+      "Disengage PTO drive",
+      "Support the Rotavator using blocks or stands"
+    ],
+    "tools": [
+      "Blocks or stands"
+    ],
+    "expected_result": "Implement safely supported and immobilized",
+    "safety_warnings": [
+      "DO NOT rely on the tractor’s hydraulic system to support the implement.",
+      "NEVER place hands or feet under the Rotavator nor endeavour to make any repairs or adjustments, while the blades are rotating."
+    ],
+    "part_numbers": [],
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**MAINTENANCE SAFETY**",
+    "embedding_text": "Maintenance Support Rotavator implement Turn off tractor and remove ignition key Engage park brake and chock wheels Disengage PTO drive Support the Rotavator using blocks or stands"
+  },
+  {
+    "procedure": "Perform adjustments or repairs",
+    "component": "Rotavator",
+    "machine_family": "Rotavator",
+    "steps": [
+      "Stop the tractor engine",
+      "Ensure the Rotavator is firmly supported or lowered to the ground",
+      "Disengage the PTO drive",
+      "Place gear shift in neutral",
+      "Apply the brake",
+      "Remove the ignition key"
+    ],
+    "tools": [],
+    "expected_result": "Safe environment for maintenance",
+    "safety_warnings": [
+      "Do not touch any moving parts of the Rotavator or parts which may be hot from operation",
+      "Do not leave the tractor seat unless the Rotavator is lowered, the pto drive disengaged, the gear shift in neutral, the brake applied, the engine stopped and the ignition key removed"
+    ],
+    "part_numbers": [],
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**NEVER**",
+    "embedding_text": "Perform adjustments or repairs Rotavator Stop the tractor engine Ensure the Rotavator is firmly supported or lowered to the ground Disengage the PTO drive Place gear shift in neutral Apply the brake"
+  },
+  {
+    "procedure": "Maintain PTO Drive Shaft Guard",
+    "component": "PTO Drive Shaft Guard",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Clean sliding surfaces of guard tubes",
+      "Lubricate guard bearings",
+      "Ensure restraining chains are attached to tractor and implement",
+      "Verify guards are correctly seated on shaft grooves"
+    ],
+    "tools": [
+      "Special tools from maker"
+    ],
+    "expected_result": "Guard rotates freely and is securely fitted.",
+    "safety_warnings": [
+      "Do not use implement if guards are damaged."
+    ],
+    "part_numbers": [],
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**PTO DRIVE SHAFT GUARDS**",
+    "embedding_text": "Maintain PTO Drive Shaft Guard PTO Drive Shaft Guard Clean sliding surfaces of guard tubes Lubricate guard bearings Ensure restraining chains are attached to tractor and implement Verify guards are correctly seated on shaft grooves"
+  },
+  {
+    "procedure": "Refit PTO Shaft",
+    "component": "PTO Shaft",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Align the PTO shaft with the pump input drive",
+      "Slide the shaft onto the splined connection",
+      "Ensure the locking mechanism or retaining pin is fully engaged"
+    ],
+    "tools": [
+      "None specified"
+    ],
+    "expected_result": "PTO shaft is securely connected and locked to the pump drive",
+    "safety_warnings": [
+      "Ensure power source is disconnected before performing maintenance on the PTO shaft"
+    ],
+    "part_numbers": [],
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**Power Take-Off Drive Shaft & Clutch**",
+    "embedding_text": "Refit PTO Shaft PTO Shaft Align the PTO shaft with the pump input drive Slide the shaft onto the splined connection Ensure the locking mechanism or retaining pin is fully engaged"
+  },
+  {
+    "procedure": "Initial Lubrication and Fastener Check",
+    "component": "Gearbox and Side Drive",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Ensure machine is level",
+      "Fill gearbox to dipstick mark (A) with 1 liter of SAE 85 W 140 EP",
+      "Fill side drive to level plugs (A) with 1 liter of SAE 85 W 140 EP",
+      "Apply grease to all points per page 18",
+      "Tighten all nuts and bolts",
+      "Re-tighten all nuts and bolts after first hour of work"
+    ],
+    "tools": [
+      "Dipstick",
+      "Level plug wrench"
+    ],
+    "expected_result": "Proper fluid levels and secure fasteners",
+    "safety_warnings": [
+      "USE ONLY: SAE 85 W 140 EP"
+    ],
+    "part_numbers": [],
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**Lubrication & General**",
+    "embedding_text": "Initial Lubrication and Fastener Check Gearbox and Side Drive Ensure machine is level Fill gearbox to dipstick mark (A) with 1 liter of SAE 85 W 140 EP Fill side drive to level plugs (A) with 1 liter of SAE 85 W 140 EP Apply grease to all points per page 18 Tighten all nuts and bolts"
+  },
+  {
+    "procedure": "Adjust PTO Drive Shaft Engagement",
+    "component": "PTO Drive Shaft",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Place Rotavator on firm level surface.",
+      "Adjust depth control until Gearbox Input Shaft is horizontal.",
+      "Position tractor to ensure 150 mm (6 inches) minimum engagement of male shaft in female tube."
+    ],
+    "tools": [
+      "Tape measure"
+    ],
+    "expected_result": "Minimum 150 mm engagement maintained throughout all transport and operating conditions.",
+    "safety_warnings": [
+      "Ensure shaft does not bottom or separate under any conditions."
+    ],
+    "part_numbers": [],
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**Attaching the Rotavator to the tractor**",
+    "embedding_text": "Adjust PTO Drive Shaft Engagement PTO Drive Shaft Place Rotavator on firm level surface. Adjust depth control until Gearbox Input Shaft is horizontal. Position tractor to ensure 150 mm (6 inches) minimum engagement of male shaft in female tube."
+  },
+  {
+    "procedure": "Shorten PTO Drive Shaft",
+    "component": "PTO Drive Shaft",
+    "machine_family": "Rotavator",
+    "steps": [
+      "Consult the specific instruction manual supplied by the PTO manufacturer for shortening procedures."
+    ],
+    "tools": [
+      "Manufacturer-specific tools"
+    ],
+    "expected_result": "Shaft length allows for full range of motion without bottoming or separating",
+    "safety_warnings": [
+      "Refer to the PTO manufacturer manual for specific instructions."
+    ],
+    "part_numbers": [],
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**ROTAVATOR  310 / 320**",
+    "embedding_text": "Shorten PTO Drive Shaft PTO Drive Shaft Consult the specific instruction manual supplied by the PTO manufacturer for shortening procedures."
+  },
+  {
+    "procedure": "Impeller Blade Replacement",
+    "component": "Impeller Blades",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Remove damaged blades",
+      "Install new blades using genuine HOWARD BOLT ASSEMBLIES"
+    ],
+    "tools": [
+      "Wrench",
+      "Socket set"
+    ],
+    "expected_result": "Restored pump efficiency and reduced vibration",
+    "safety_warnings": [
+      "Ensure power is disconnected"
+    ],
+    "part_numbers": [
+      "HOWARD BOLT ASSEMBLIES"
+    ],
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**ROTORS**",
+    "embedding_text": "Impeller Blade Replacement Impeller Blades Remove damaged blades Install new blades using genuine HOWARD BOLT ASSEMBLIES"
+  },
+  {
+    "procedure": "Blade Replacement",
+    "component": "Blade",
+    "machine_family": "Rotary Tiller",
+    "steps": [
+      "Remove one worn blade",
+      "Fit new blade in its place",
+      "Ensure bolt head is against the blade",
+      "Ensure spring washer and nut are against the flange",
+      "Tighten to 200 Nm"
+    ],
+    "tools": [
+      "Wrench",
+      "Torque wrench"
+    ],
+    "expected_result": "Scroll pattern maintained and blades secure",
+    "safety_warnings": [
+      "Use only ORIGINAL-HOWARD-BLADES and HOWARD-BLADE-BOLTS"
+    ],
+    "part_numbers": [
+      "ORIGINAL-HOWARD-BLADES",
+      "HOWARD-BLADE-BOLTS"
+    ],
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**Blading standard rotors**",
+    "embedding_text": "Blade Replacement Blade Remove one worn blade Fit new blade in its place Ensure bolt head is against the blade Ensure spring washer and nut are against the flange Tighten to 200 Nm"
+  },
+  {
+    "procedure": "Blade Bolt Installation",
+    "component": "Howard blade bolt",
+    "machine_family": "Agricultural Equipment",
+    "steps": [
+      "Fit bolt head against blade",
+      "Fit spring washer and nut against flange",
+      "Tighten nut to 200 Nm"
+    ],
+    "tools": [
+      "Torque wrench"
+    ],
+    "expected_result": "Secure blade attachment at 200 Nm",
+    "safety_warnings": [
+      "Use only Howard blade bolts"
+    ],
+    "part_numbers": [],
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**ROTAVATOR  310 / 320**",
+    "embedding_text": "Blade Bolt Installation Howard blade bolt Fit bolt head against blade Fit spring washer and nut against flange Tighten nut to 200 Nm"
+  },
+  {
+    "procedure": "Daily Lubrication",
+    "component": "PTO spiders and stub axle",
+    "machine_family": "Rotavator",
+    "steps": [
+      "Use grease gun to lubricate PTO spiders",
+      "Use grease gun to lubricate right hand stub axle"
+    ],
+    "tools": [
+      "Grease gun"
+    ],
+    "expected_result": "Grease applied to all specified points",
+    "safety_warnings": [],
+    "part_numbers": [],
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**LUBRICATION + MAINTENANCE**",
+    "embedding_text": "Daily Lubrication PTO spiders and stub axle Use grease gun to lubricate PTO spiders Use grease gun to lubricate right hand stub axle"
+  },
+  {
+    "procedure": "Weekly Maintenance",
+    "component": "Gearbox and side drive",
+    "machine_family": "Rotavator",
+    "steps": [
+      "Top up gearbox with SAE 85 W 140 EP oil",
+      "Top up side drive with SAE 85 W 140 EP oil",
+      "Tighten all fasteners"
+    ],
+    "tools": [
+      "Wrench set",
+      "Oil container"
+    ],
+    "expected_result": "Oil levels topped up and fasteners secure",
+    "safety_warnings": [],
+    "part_numbers": [],
+    "manual_source": "Rotavator_Manual.pdf",
+    "source_section": "**LUBRICATION + MAINTENANCE**",
+    "embedding_text": "Weekly Maintenance Gearbox and side drive Top up gearbox with SAE 85 W 140 EP oil Top up side drive with SAE 85 W 140 EP oil Tighten all fasteners"
+  },
+  {
+    "procedure": "Torque adjustment",
+    "component": "Bolts and screws",
+    "machine_family": "Electric Motor",
+    "steps": [
+      "Identify bolt class",
+      "Consult Section 12.9 for torque value",
+      "Apply torque using calibrated wrench"
+    ],
+    "tools": [
+      "Torque wrench"
+    ],
+    "expected_result": "Fasteners secured to manufacturer specifications",
+    "safety_warnings": [
+      "Do not exceed torque limits to prevent bolt shearing"
+    ],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**Section 11 Adjustment**",
+    "embedding_text": "Torque adjustment Bolts and screws Identify bolt class Consult Section 12.9 for torque value Apply torque using calibrated wrench"
+  },
+  {
+    "procedure": "Shock Absorber Assembly Maintenance",
+    "component": "Shock absorber assembly (7)",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Remove rear cover bolts",
+      "Inspect shock absorber rubber for cracks",
+      "Replace assembly if deformation is present",
+      "Re-torque rear cover fasteners"
+    ],
+    "tools": [
+      "Wrench set"
+    ],
+    "expected_result": "Reduced vibration and stable rear cover operation",
+    "safety_warnings": [
+      "Support rear cover before removing shock absorbers"
+    ],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**MAIN PARTS OF THE MACHINE** SHAKTIMAN SERIES SRT-1",
+    "embedding_text": "Shock Absorber Assembly Maintenance Shock absorber assembly (7) Remove rear cover bolts Inspect shock absorber rubber for cracks Replace assembly if deformation is present Re-torque rear cover fasteners"
+  },
+  {
+    "procedure": "Clean and grease the propshaft",
+    "component": "Propshaft / Cardan",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Disconnect the propshaft from the PTO",
+      "Ensure the engine is off",
+      "Engage the handbrake",
+      "Remove the ignition key from the control panel",
+      "Clean the propshaft",
+      "Grease the propshaft"
+    ],
+    "tools": [
+      "Grease gun"
+    ],
+    "expected_result": "Propshaft is clean and properly lubricated",
+    "safety_warnings": [
+      "Only clean and grease the propshaft when it is disconnected from the PTO",
+      "Engine must be off",
+      "Handbrake must be engaged",
+      "Ignition key must be outside the control panel"
+    ],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**Read all the instructions carefully for the safe operation of the machine.**",
+    "embedding_text": "Clean and grease the propshaft Propshaft / Cardan Disconnect the propshaft from the PTO Ensure the engine is off Engage the handbrake Remove the ignition key from the control panel Clean the propshaft"
+  },
+  {
+    "procedure": "Replace rotor blades",
+    "component": "Rotor blades",
+    "machine_family": "Agricultural Implement",
+    "steps": [
+      "Disengage the power take-off (PTO).",
+      "Turn off the tractor engine.",
+      "Apply the handbrake.",
+      "Verify that all blades are completely stopped.",
+      "If the implement must be lifted, install service locks or securely support the implement.",
+      "Replace the blades."
+    ],
+    "tools": [
+      "Service locks or support stands"
+    ],
+    "expected_result": "New blades installed with implement securely supported.",
+    "safety_warnings": [
+      "Before working on the blades, disengage the power take-off, turn off the tractor's engine, and apply the handbrake.",
+      "Check that all blades are completely stopped.",
+      "Make sure that the service locks are installed or that the implement is securely supported if lifted."
+    ],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**Always place the appropriate supports under the implement when performing maintenance on the machine.**",
+    "embedding_text": "Replace rotor blades Rotor blades Disengage the power take-off (PTO). Turn off the tractor engine. Apply the handbrake. Verify that all blades are completely stopped. If the implement must be lifted, install service locks or securely support the implement."
+  },
+  {
+    "procedure": "Machine Immobilization",
+    "component": "Parking Brake/Wheel Chocks",
+    "machine_family": "Electric Motor",
+    "steps": [
+      "Park on level surface",
+      "Engage parking brake",
+      "Turn off engine",
+      "Remove key",
+      "Block wheels if separated from tractor"
+    ],
+    "tools": [
+      "Wheel chocks"
+    ],
+    "expected_result": "Machine is completely stationary",
+    "safety_warnings": [
+      "Never perform adjustments with engine running"
+    ],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**3.9 Safe operation of the machine.**",
+    "embedding_text": "Machine Immobilization Parking Brake/Wheel Chocks Park on level surface Engage parking brake Turn off engine Remove key Block wheels if separated from tractor"
+  },
+  {
+    "procedure": "General Maintenance Safety Protocol",
+    "component": "All machine components",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Disconnect all power transmission and operating controls to relieve pressure",
+      "Lower the equipment to the ground",
+      "Stop the engine",
+      "Remove the key",
+      "Allow the machine to cool down",
+      "Support all machine elements that are raised for maintenance work",
+      "Remove any buildup of grease, oil, or residue"
+    ],
+    "tools": [
+      "Support stands for raised elements"
+    ],
+    "expected_result": "Machine is de-energized, depressurized, cooled, and safely supported for maintenance",
+    "safety_warnings": [
+      "Never lubricate, repair, or adjust the machine while it is in motion",
+      "Keep hands, feet, and clothing away from parts of the machine",
+      "Keep the area clean and dry"
+    ],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**3.10 Safe maintenance practices**",
+    "embedding_text": "General Maintenance Safety Protocol All machine components Disconnect all power transmission and operating controls to relieve pressure Lower the equipment to the ground Stop the engine Remove the key Allow the machine to cool down"
+  },
+  {
+    "procedure": "General Maintenance and Adjustment Safety",
+    "component": "Rotating blades/moving parts",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Stop the tractor engine completely.",
+      "Disconnect the power source or drive mechanism from the tractor.",
+      "Ensure all moving parts have come to a complete stop before approaching.",
+      "Keep hands, feet, hair, and clothing clear of the machine during operation."
+    ],
+    "tools": [
+      "None"
+    ],
+    "expected_result": "Machine is in a zero-energy state, safe for maintenance.",
+    "safety_warnings": [
+      "Do not pass nearby blades when they are in motion.",
+      "Keep people away from the machine during operation.",
+      "Disconnect and stop the tractor before making adjustments or maintenance."
+    ],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**Danger-Blade Rotation**",
+    "embedding_text": "General Maintenance and Adjustment Safety Rotating blades/moving parts Stop the tractor engine completely. Disconnect the power source or drive mechanism from the tractor. Ensure all moving parts have come to a complete stop before approaching. Keep hands, feet, hair, and clothing clear of the machine during operation."
+  },
+  {
+    "procedure": "Front Ballast Installation",
+    "component": "Front Weights",
+    "machine_family": "Tractor",
+    "steps": [
+      "Calculate total weight of tractor and implement",
+      "Determine required front weight to reach 20% threshold",
+      "Install weights or ballast to front of tractor"
+    ],
+    "tools": [
+      "Scale"
+    ],
+    "expected_result": "Front tires support at least 20% of total weight",
+    "safety_warnings": [
+      "Ensure weights are securely mounted"
+    ],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**CAUTION: the counterweight or front ballast may not be able to maintain the stability of the tractor if it It is driven at high speed on rough terrain with the implement raised. Drive slowly and carefully under those conditions.**",
+    "embedding_text": "Front Ballast Installation Front Weights Calculate total weight of tractor and implement Determine required front weight to reach 20% threshold Install weights or ballast to front of tractor"
+  },
+  {
+    "procedure": "Blade Assembly Sequence",
+    "component": "Cutting Blades",
+    "machine_family": "Agricultural Equipment",
+    "steps": [
+      "Identify left and right blades",
+      "Position left blades on right side of flange",
+      "Position right blades on left side of flange",
+      "Insert screws from blade side",
+      "Secure with washers and nuts on bridle side",
+      "Maintain 2-hole skip pattern"
+    ],
+    "tools": [
+      "Wrench",
+      "Socket set"
+    ],
+    "expected_result": "Balanced helical blade arrangement",
+    "safety_warnings": [],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**6.1 Assembly of the blades**",
+    "embedding_text": "Blade Assembly Sequence Cutting Blades Identify left and right blades Position left blades on right side of flange Position right blades on left side of flange Insert screws from blade side Secure with washers and nuts on bridle side"
+  },
+  {
+    "procedure": "Tensor Arm Adjustment",
+    "component": "Tensor Arm",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Align tensor arm (E) with the collar (F)",
+      "Insert and tighten fastener (C) into the rear cover"
+    ],
+    "tools": [
+      "Wrench"
+    ],
+    "expected_result": "Tensor arm is fixed securely to the rear cover",
+    "safety_warnings": [],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**6.2 Assembly of the back cover**",
+    "embedding_text": "Tensor Arm Adjustment Tensor Arm Align tensor arm (E) with the collar (F) Insert and tighten fastener (C) into the rear cover"
+  },
+  {
+    "procedure": "Rear Cover Installation",
+    "component": "Rear Cover",
+    "machine_family": "Rototiller",
+    "steps": [
+      "Align cover (A) with chassis hinges",
+      "Insert rod (B)",
+      "Secure with pins or screws"
+    ],
+    "tools": [
+      "Alignment punch"
+    ],
+    "expected_result": "Cover pivots freely",
+    "safety_warnings": [
+      "Watch fingers at hinge point"
+    ],
+    "part_numbers": [
+      "A",
+      "B"
+    ],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**Follow the following instructions:**",
+    "embedding_text": "Rear Cover Installation Rear Cover Align cover (A) with chassis hinges Insert rod (B) Secure with pins or screws"
+  },
+  {
+    "procedure": "Pre-start Inspection",
+    "component": "General Assembly",
+    "machine_family": "Rototiller",
+    "steps": [
+      "Verify all screws and nuts are tightened to torque table specifications",
+      "Check that lubrication is at the correct levels",
+      "Inspect all parts subject to wear for functional integrity"
+    ],
+    "tools": [
+      "Torque wrench"
+    ],
+    "expected_result": "Machine is in perfect condition for operation",
+    "safety_warnings": [
+      "Ensure machine is off"
+    ],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "SECTION 7 PREPARATION OF THE IMPLEMENT",
+    "embedding_text": "Pre-start Inspection General Assembly Verify all screws and nuts are tightened to torque table specifications Check that lubrication is at the correct levels Inspect all parts subject to wear for functional integrity"
+  },
+  {
+    "procedure": "Attach Rotating Platform to Tractor",
+    "component": "Three-point hitch system",
+    "machine_family": "Rotating platform",
+    "steps": [
+      "Park the rotary grader on flat ground.",
+      "Remove any tractor accessories (drawbar, balancing rods, automatic couplings) that restrict movement.",
+      "Drive tractor backward to align with the equipment.",
+      "Insert the lower left arm (1) of the tractor onto the corresponding pin and secure with the latch.",
+      "Connect the lower right arm (2) to the corresponding pin, adjusting arm height with the adjustable lift bar if necessary.",
+      "Fix the top part of the tractor hitch (3) to the upper hitch point of the equipment, adjusting the length of the engage to align the hole."
+    ],
+    "tools": [
+      "Tractor hydraulic lift system"
+    ],
+    "expected_result": "Equipment securely coupled to tractor three-point hitch with free movement.",
+    "safety_warnings": [
+      "It is necessary that a trained person performs the coupling.",
+      "Other people can cause serious injuries to the operator and severe damage to the equipment and the tractor.",
+      "The rotary grader must always be parked on flat ground to be attached.",
+      "Before hooking the equipment to the tractor, check that there are no accessories attached to the tractor such as the drawbar, rods of the system of balancing, automatic couplings, etc."
+    ],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**8.2 Mounting implements to the tractor**",
+    "embedding_text": "Attach Rotating Platform to Tractor Three-point hitch system Park the rotary grader on flat ground. Remove any tractor accessories (drawbar, balancing rods, automatic couplings) that restrict movement. Drive tractor backward to align with the equipment. Insert the lower left arm (1) of the tractor onto the corresponding pin and secure with the latch. Connect the lower right arm (2) to the corresponding pin, adjusting arm height with the adjustable lift bar if necessary."
+  },
+  {
+    "procedure": "Universal Joint Installation",
+    "component": "Universal Joint",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Press the pin (1) into the joint.",
+      "Slide the U-joint onto the splined shaft of the PTO.",
+      "Secure the joint using the locking device (pin).",
+      "Repeat the process for the gearbox end.",
+      "Verify the cardan moves freely forward and backward."
+    ],
+    "tools": [
+      "Pin punch",
+      "Hammer"
+    ],
+    "expected_result": "Secure connection with free axial movement.",
+    "safety_warnings": [
+      "Ensure PTO is disengaged."
+    ],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**8.3 Hook of the кардан**",
+    "embedding_text": "Universal Joint Installation Universal Joint Press the pin (1) into the joint. Slide the U-joint onto the splined shaft of the PTO. Secure the joint using the locking device (pin). Repeat the process for the gearbox end. Verify the cardan moves freely forward and backward."
+  },
+  {
+    "procedure": "Disconnect tractor equipment",
+    "component": "Tractor-mounted equipment",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Place equipment on a flat area",
+      "Lower equipment to ground level",
+      "Secure equipment to prevent lifting during disconnection",
+      "Remove driveshaft",
+      "Remove upper arm",
+      "Remove left side of lower arms",
+      "Remove right side of lower arms"
+    ],
+    "tools": [],
+    "expected_result": "Equipment safely disconnected from tractor",
+    "safety_warnings": [
+      "Ensure equipment does not lift when disconnecting from the tractor"
+    ],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**8.4 Disengagement of the tiller from the tractor**",
+    "embedding_text": "Disconnect tractor equipment Tractor-mounted equipment Place equipment on a flat area Lower equipment to ground level Secure equipment to prevent lifting during disconnection Remove driveshaft Remove upper arm"
+  },
+  {
+    "procedure": "Drive Shaft Length Adaptation",
+    "component": "Drive Shaft",
+    "machine_family": "Agricultural Equipment",
+    "steps": [
+      "Ensure tractor is off",
+      "Measure distance between tractor PTO and machine input",
+      "Cut drive shaft to required length",
+      "Deburr edges",
+      "Install protective cover"
+    ],
+    "tools": [
+      "Tape measure",
+      "Saw",
+      "File"
+    ],
+    "expected_result": "Shaft fits without binding or over-extension",
+    "safety_warnings": [
+      "Tractor must be off",
+      "Keep bystanders away"
+    ],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**IMPORTANT:**",
+    "embedding_text": "Drive Shaft Length Adaptation Drive Shaft Ensure tractor is off Measure distance between tractor PTO and machine input Cut drive shaft to required length Deburr edges Install protective cover"
+  },
+  {
+    "procedure": "Verify PTO Driveshaft Length",
+    "component": "PTO Driveshaft",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Place tractor and implement on a flat surface.",
+      "Connect 3-point hitch.",
+      "Measure distance between tractor PTO output and implement input slot while in horizontal position."
+    ],
+    "tools": [
+      "Measuring tape"
+    ],
+    "expected_result": "Correct length determined to prevent bending or damage.",
+    "safety_warnings": [
+      "Warning: The length of the driveshaft is very important and this could vary from tractor to tractor.",
+      "If the PTO force is too long it could bend and damage the tractor or the implement."
+    ],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**Shaktiman** User manual",
+    "embedding_text": "Verify PTO Driveshaft Length PTO Driveshaft Place tractor and implement on a flat surface. Connect 3-point hitch. Measure distance between tractor PTO output and implement input slot while in horizontal position."
+  },
+  {
+    "procedure": "Driveshaft Length Adjustment",
+    "component": "Cardan driveshaft",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Measure shortest distance A between pegs and fork",
+      "Ensure clearance is at least 3 cm; cut tubes if less",
+      "Measure maximum distance B",
+      "Ensure overlap is at least 10 cm"
+    ],
+    "tools": [
+      "Measuring tape",
+      "Metal cutting tool"
+    ],
+    "expected_result": "Driveshaft operates without binding or separating",
+    "safety_warnings": [],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "Distancia",
+    "embedding_text": "Driveshaft Length Adjustment Cardan driveshaft Measure shortest distance A between pegs and fork Ensure clearance is at least 3 cm; cut tubes if less Measure maximum distance B Ensure overlap is at least 10 cm"
+  },
+  {
+    "procedure": "Fusible Screw Replacement",
+    "component": "fusible screw",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Identify the fractured screw at the joint",
+      "Remove the broken fragments",
+      "Install a new screw of the exact same material and size"
+    ],
+    "tools": [
+      "Wrench"
+    ],
+    "expected_result": "Torque transmission restored to the pump",
+    "safety_warnings": [
+      "Ensure equipment is locked out/tagged out before repair"
+    ],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**8.6 Cardan with safety limiter (Fuse screw)**",
+    "embedding_text": "Fusible Screw Replacement fusible screw Identify the fractured screw at the joint Remove the broken fragments Install a new screw of the exact same material and size"
+  },
+  {
+    "procedure": "Pre-operation Maintenance Check",
+    "component": "Rotavator",
+    "machine_family": "Agricultural Equipment",
+    "steps": [
+      "Check oil level in the gearbox and lateral transmission.",
+      "Verify all connections to the gearbox and chain are tightened.",
+      "Inspect all blades, bolts, and nuts for proper tightness.",
+      "Ensure all guards and shields are in place and secured.",
+      "Apply grease to the driveshaft and all designated grease points.",
+      "Clear cultivation area of rocks, branches, and foreign objects.",
+      "Remove tall grass or weeds from the area.",
+      "Operate PTO at the specified RPM."
+    ],
+    "tools": [
+      "Grease gun"
+    ],
+    "expected_result": "All components secured, lubricated, and area cleared for operation.",
+    "safety_warnings": [
+      "Ensure all guards and shields are in place and insured."
+    ],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**10.2 Field Operation**",
+    "embedding_text": "Pre-operation Maintenance Check Rotavator Check oil level in the gearbox and lateral transmission. Verify all connections to the gearbox and chain are tightened. Inspect all blades, bolts, and nuts for proper tightness. Ensure all guards and shields are in place and secured. Apply grease to the driveshaft and all designated grease points."
+  },
+  {
+    "procedure": "Attachment of Rotary Tiller",
+    "component": "Rototiller",
+    "machine_family": "Rototiller",
+    "steps": [
+      "Support rototiller on ground",
+      "Connect cardan shaft",
+      "Secure cardan",
+      "Connect tractor PTO"
+    ],
+    "tools": [],
+    "expected_result": "Tiller securely attached and ready for gradual PTO engagement",
+    "safety_warnings": [
+      "Do not engage PTO while in motion"
+    ],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**10.4 Commissioning**",
+    "embedding_text": "Attachment of Rotary Tiller Rototiller Support rototiller on ground Connect cardan shaft Secure cardan Connect tractor PTO"
+  },
+  {
+    "procedure": "Rotor Blade Replacement",
+    "component": "Rotor Blade",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Remove one blade.",
+      "Install new blade in the exact position of the removed one.",
+      "Repeat for remaining blades one at a time."
+    ],
+    "tools": [
+      "Wrench"
+    ],
+    "expected_result": "Rotor balanced and blades correctly positioned.",
+    "safety_warnings": [
+      "Disconnect power supply."
+    ],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**NOTE: Check the wear and condition of the rotor blades daily. If the blade accidentally bends or if it breaks during work, it must be replaced immediately.**",
+    "embedding_text": "Rotor Blade Replacement Rotor Blade Remove one blade. Install new blade in the exact position of the removed one. Repeat for remaining blades one at a time."
+  },
+  {
+    "procedure": "Depth Adjustment",
+    "component": "Skate",
+    "machine_family": "Rototiller",
+    "steps": [
+      "Lift and support tiller",
+      "Loosen bolts (A)",
+      "Remove screws (B)",
+      "Adjust skate (C)",
+      "Reinstall screws (B)",
+      "Tighten bolts (A)"
+    ],
+    "tools": [
+      "Wrench"
+    ],
+    "expected_result": "Consistent tillage depth",
+    "safety_warnings": [
+      "Use appropriate support for lifted equipment"
+    ],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**IMPORTANT: Make sure both skates are adjusted to the same depth.**",
+    "embedding_text": "Depth Adjustment Skate Lift and support tiller Loosen bolts (A) Remove screws (B) Adjust skate (C) Reinstall screws (B)"
+  },
+  {
+    "procedure": "Adjust Soil Texture Finish",
+    "component": "Back Cover",
+    "machine_family": "Agricultural Tiller/Cultivator",
+    "steps": [
+      "Identify support (A) and support (B) holding the back cover.",
+      "To obtain finer soil particles, attach the back cover to the lower holes of support (A).",
+      "To obtain coarser soil particles, attach the back cover to the upper holes of support (A).",
+      "Ensure pressure is applied to the drag plate through the spring leveler (C) for leveling."
+    ],
+    "tools": [
+      "Hand tools for fastener removal/installation"
+    ],
+    "expected_result": "Back cover securely fixed in desired hole position for target soil texture.",
+    "safety_warnings": [],
+    "part_numbers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**11.2 Adjustment of the 'Back Cover'**",
+    "embedding_text": "Adjust Soil Texture Finish Back Cover Identify support (A) and support (B) holding the back cover. To obtain finer soil particles, attach the back cover to the lower holes of support (A). To obtain coarser soil particles, attach the back cover to the upper holes of support (A). Ensure pressure is applied to the drag plate through the spring leveler (C) for leveling."
+  },
+  {
+    "procedure": "Secure machine for maintenance",
+    "component": "General Machine Chassis",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Place machine on a flat surface.",
+      "If connected to tractor: Activate parking brake, shift to PARK, turn off engine, and remove key.",
+      "If disconnected from tractor: Block wheels and use implements to prevent movement.",
+      "If machine is raised: Support with appropriate blocks before performing work."
+    ],
+    "tools": [
+      "Wheel blocks",
+      "Support blocks"
+    ],
+    "expected_result": "Machine is immobilized and stable for maintenance.",
+    "safety_warnings": [
+      "Always place on a flat surface before maintenance.",
+      "Lower the machine to the ground or support with appropriate blocks before performing any maintenance work."
+    ],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**CAUTION: To prevent serious injury or death from unexpected machine movement, place it in a**",
+    "embedding_text": "Secure machine for maintenance General Machine Chassis Place machine on a flat surface. If connected to tractor: Activate parking brake, shift to PARK, turn off engine, and remove key. If disconnected from tractor: Block wheels and use implements to prevent movement. If machine is raised: Support with appropriate blocks before performing work."
+  },
+  {
+    "procedure": "Lubricate Machine",
+    "component": "Grease Fittings",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Clean the grease fittings before using the grease gun.",
+      "Apply lubrication to the rototiller at each point (A) at 8-hour intervals.",
+      "Use recommended grease and/or oils."
+    ],
+    "tools": [
+      "Grease gun"
+    ],
+    "expected_result": "Proper lubrication of all points (A) to prevent malfunction.",
+    "safety_warnings": [
+      "Replace any missing or damaged grease fittings immediately.",
+      "If new fittings do not accept grease, remove them and check for failures in adjacent parts."
+    ],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**CAUTION: Do not clean, lubricate, or adjust the machine while it is in motion.**",
+    "embedding_text": "Lubricate Machine Grease Fittings Clean the grease fittings before using the grease gun. Apply lubrication to the rototiller at each point (A) at 8-hour intervals. Use recommended grease and/or oils."
+  },
+  {
+    "procedure": "Lubricate Differentials and Gears",
+    "component": "Differentials and gears",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Identify lubrication symbol on machine",
+      "Drain old oil into a pan",
+      "Fill with 85W-140 API GL5 oil or equivalent"
+    ],
+    "tools": [
+      "Oil pump",
+      "Drain pan"
+    ],
+    "expected_result": "Proper lubrication level maintained",
+    "safety_warnings": [
+      "Follow indicated time intervals for lubrication"
+    ],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**12.3 Lubrication Symbols.**",
+    "embedding_text": "Lubricate Differentials and Gears Differentials and gears Identify lubrication symbol on machine Drain old oil into a pan Fill with 85W-140 API GL5 oil or equivalent"
+  },
+  {
+    "procedure": "Lubricate Propeller Shaft",
+    "component": "Universal Joints",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Attach grease gun to fittings",
+      "Pump grease until it is forced out through the four cups of the universal joints"
+    ],
+    "tools": [
+      "Grease gun"
+    ],
+    "expected_result": "Fresh grease visible at all four universal joint cups",
+    "safety_warnings": [
+      "It is essential that the lubrication is forced out through the four cups of the universal joints."
+    ],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**Every 4 hours of work:**",
+    "embedding_text": "Lubricate Propeller Shaft Universal Joints Attach grease gun to fittings Pump grease until it is forced out through the four cups of the universal joints"
+  },
+  {
+    "procedure": "Service Blade Assembly",
+    "component": "Blades",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Tighten all blade screws",
+      "Inspect blades for bends, breaks, or cracks",
+      "Replace any damaged blades"
+    ],
+    "tools": [
+      "Wrench or screwdriver"
+    ],
+    "expected_result": "Blades are secure and structurally sound",
+    "safety_warnings": [],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**Every 4 hours of work:**",
+    "embedding_text": "Service Blade Assembly Blades Tighten all blade screws Inspect blades for bends, breaks, or cracks Replace any damaged blades"
+  },
+  {
+    "procedure": "Service Universal Joint",
+    "component": "Universal Joint",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Separate the two sections of the universal joint",
+      "Clean the sliding surface",
+      "Grease the sliding surface with graphite grease"
+    ],
+    "tools": [
+      "Wrenches",
+      "Graphite grease"
+    ],
+    "expected_result": "Smooth joint operation",
+    "safety_warnings": [],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**Daily or every 8 hours of work:**",
+    "embedding_text": "Service Universal Joint Universal Joint Separate the two sections of the universal joint Clean the sliding surface Grease the sliding surface with graphite grease"
+  },
+  {
+    "procedure": "Lubricate Hinges",
+    "component": "Cover hinges",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Apply lubricant to hinges between the axle and the pivot pin",
+      "Ensure lubricant penetrates deeply"
+    ],
+    "tools": [
+      "Lubrication gun or applicator"
+    ],
+    "expected_result": "Smooth movement of cover",
+    "safety_warnings": [],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**Weekly or every 50 hours of work**",
+    "embedding_text": "Lubricate Hinges Cover hinges Apply lubricant to hinges between the axle and the pivot pin Ensure lubricant penetrates deeply"
+  },
+  {
+    "procedure": "Grease Axle Stub and Yokes",
+    "component": "Axle stub and yokes",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Apply bearing grease to the axle stub",
+      "Apply bearing grease to the yokes"
+    ],
+    "tools": [
+      "Grease gun",
+      "Bearing grease"
+    ],
+    "expected_result": "Components adequately coated",
+    "safety_warnings": [],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**Weekly or every 50 hours of work**",
+    "embedding_text": "Grease Axle Stub and Yokes Axle stub and yokes Apply bearing grease to the axle stub Apply bearing grease to the yokes"
+  },
+  {
+    "procedure": "Lubricate PTO Drive Shaft",
+    "component": "PTO Drive Shaft",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Disconnect PTO shaft from tractor",
+      "Clean inside of drive shaft tube",
+      "Apply light layer of grease to inside of tube",
+      "Reassemble shaft"
+    ],
+    "tools": [
+      "grease"
+    ],
+    "expected_result": "Smooth operation of the sliding shaft",
+    "safety_warnings": [
+      "Disconnect from tractor before starting"
+    ],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**12.5 Cardan**",
+    "embedding_text": "Lubricate PTO Drive Shaft PTO Drive Shaft Disconnect PTO shaft from tractor Clean inside of drive shaft tube Apply light layer of grease to inside of tube Reassemble shaft"
+  },
+  {
+    "procedure": "Top up transmission oil",
+    "component": "Transmission",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Position rototiller on level ground",
+      "Remove level plug (B)",
+      "Add EDO Differential oil and Gears 85W-140 API GL5 through breather plug (A)",
+      "Continue filling until oil flows out of level plug (B)",
+      "Tighten level plug (B)"
+    ],
+    "tools": [
+      "Wrench",
+      "Funnel"
+    ],
+    "expected_result": "Oil level at plug hole (B)",
+    "safety_warnings": [
+      "Ensure machine is horizontal"
+    ],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**12.6Side Transmission**",
+    "embedding_text": "Top up transmission oil Transmission Position rototiller on level ground Remove level plug (B) Add EDO Differential oil and Gears 85W-140 API GL5 through breather plug (A) Continue filling until oil flows out of level plug (B) Tighten level plug (B)"
+  },
+  {
+    "procedure": "Blade Replacement",
+    "component": "Blade",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Remove screws and flange fastening elements.",
+      "Remove old blade.",
+      "Install new blade in original orientation.",
+      "Reinsert screws and fastening elements.",
+      "Tighten nuts to appropriate torque."
+    ],
+    "tools": [
+      "Torque wrench",
+      "Socket set"
+    ],
+    "expected_result": "Blade securely mounted in correct orientation.",
+    "safety_warnings": [
+      "Ensure equipment is locked out/tagged out."
+    ],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**IMPORTANT: Always install the blades with the cut in the direction of the axis rotation. When ordering the spare blades, be sure to order both sides.**",
+    "embedding_text": "Blade Replacement Blade Remove screws and flange fastening elements. Remove old blade. Install new blade in original orientation. Reinsert screws and fastening elements. Tighten nuts to appropriate torque."
+  },
+  {
+    "procedure": "Drain and Refill Gearbox Oil",
+    "component": "Gearbox",
+    "machine_family": "Rototiller",
+    "steps": [
+      "Remove the lower drain plug to drain old oil",
+      "Refill gearbox with fresh oil"
+    ],
+    "tools": [
+      "Wrench for drain plug"
+    ],
+    "expected_result": "Gearbox filled with clean oil",
+    "safety_warnings": [
+      "Perform maintenance when machine is not in use for long periods"
+    ],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**12.12 Storage**",
+    "embedding_text": "Drain and Refill Gearbox Oil Gearbox Remove the lower drain plug to drain old oil Refill gearbox with fresh oil"
+  },
+  {
+    "procedure": "Drain and Refill Lateral Transmission Oil",
+    "component": "Lateral Transmission",
+    "machine_family": "Rototiller",
+    "steps": [
+      "Remove the bottom plug",
+      "Tilt the tiller backwards to ensure complete drainage",
+      "Refill transmission with fresh oil"
+    ],
+    "tools": [
+      "Wrench for bottom plug"
+    ],
+    "expected_result": "Lateral transmission filled with clean oil",
+    "safety_warnings": [
+      "Ensure machine is stable while tilted"
+    ],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "**12.12 Storage**",
+    "embedding_text": "Drain and Refill Lateral Transmission Oil Lateral Transmission Remove the bottom plug Tilt the tiller backwards to ensure complete drainage Refill transmission with fresh oil"
+  },
+  {
+    "procedure": "Replace Mechanical Seal",
+    "component": "Oil seal",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Drain gearbox oil",
+      "Remove damaged seal",
+      "Install new seal"
+    ],
+    "tools": [
+      "Wrench set",
+      "Seal driver"
+    ],
+    "expected_result": "No oil leakage from gearbox",
+    "safety_warnings": [
+      "Ensure machine is off"
+    ],
+    "part_numbers": [],
+    "manual_source": "Shaktiman_Rotavator_Guide.pdf",
+    "source_section": "SECTION 13: TROUBLESHOOTING",
+    "embedding_text": "Replace Mechanical Seal Oil seal Drain gearbox oil Remove damaged seal Install new seal"
+  }
+]

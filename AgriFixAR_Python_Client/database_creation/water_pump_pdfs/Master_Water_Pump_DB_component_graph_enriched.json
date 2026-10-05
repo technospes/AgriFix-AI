@@ -1,0 +1,562 @@
+[
+  {
+    "component": "Electricity Protective Device",
+    "component_id": "electricity_protective_9dfee6",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nElectricity Protective Device\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "power socket",
+      "grounding wire"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Electric_Water_Pump_servicing.pdf"
+    ],
+    "related_faults": [
+      "electric pump does not turn on"
+    ],
+    "related_specs": [],
+    "machine_family": "Electric Pump"
+  },
+  {
+    "component": "Motor",
+    "component_id": "motor_594171",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nMotor\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "motor",
+      "thermal insulation material",
+      "shaft",
+      "control panel"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Electric_Water_Pump_servicing.pdf"
+    ],
+    "related_faults": [
+      "motor is overheating",
+      "Motor hums",
+      "Reverse rotation"
+    ],
+    "related_specs": [
+      "Motor wired with a voltage of 230V."
+    ],
+    "machine_family": "Electric Pump"
+  },
+  {
+    "component": "Mechanical Seal",
+    "component_id": "mechanical_seal_1301ac",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nMechanical Seal\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "motor",
+      "water pump",
+      "pump body, water inlet",
+      "impeller",
+      "bearing"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Electric_Water_Pump_servicing.pdf"
+    ],
+    "related_faults": [
+      "pump leaks",
+      "Pump leaks water",
+      "pump hums but does not rotate"
+    ],
+    "related_specs": [],
+    "machine_family": "Electric Pump"
+  },
+  {
+    "component": "Electric Pump",
+    "component_id": "electric_pump_93c8fb",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nElectric Pump\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "power supply",
+      "water inlet pipeline",
+      "cable"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Electric_Water_Pump_servicing.pdf"
+    ],
+    "related_faults": [
+      "pump does not work",
+      "motor hums but does not rotate",
+      "motor runs but no water is discharged"
+    ],
+    "related_specs": [],
+    "machine_family": "Electric Pump"
+  },
+  {
+    "component": "Capacitor",
+    "component_id": "capacitor_e271ca",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nCapacitor\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "terminal box",
+      "control box",
+      "motor"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Electric_Water_Pump_servicing.pdf"
+    ],
+    "related_faults": [
+      "pump does not start",
+      "pump not turning on"
+    ],
+    "related_specs": [],
+    "machine_family": "Submersible Pump"
+  },
+  {
+    "component": "Flow Switch Subline Capacitor",
+    "component_id": "flow_switch_51144d",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nFlow Switch Subline Capacitor\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "main line(white)",
+      "common line(black/red)"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Electric_Water_Pump_servicing.pdf"
+    ],
+    "related_faults": [
+      "Motor hums but does not rotate"
+    ],
+    "related_specs": [],
+    "machine_family": "Generator"
+  },
+  {
+    "component": "Shaft Seal",
+    "component_id": "shaft_seal_e7d67f",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nShaft Seal\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "motor",
+      "impeller"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Electric_Water_Pump_servicing.pdf"
+    ],
+    "related_faults": [
+      "Seal leak",
+      "Water leakage"
+    ],
+    "related_specs": [
+      "Shaft seal installed with a clearance of 0.05 mm."
+    ],
+    "machine_family": "Submersible Pump"
+  },
+  {
+    "component": "Insulation Resistance",
+    "component_id": "insulation_resistance_e376e8",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nInsulation Resistance\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "cable",
+      "outgoing line",
+      "plug"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Electric_Water_Pump_servicing.pdf"
+    ],
+    "related_faults": [
+      "Trips breaker",
+      "Motor hums"
+    ],
+    "related_specs": [
+      "Higher than 50MΩ"
+    ],
+    "machine_family": "Electric Pump"
+  },
+  {
+    "component": "Pump Body",
+    "component_id": "pump_body_8c0882",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nPump Body\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "inlet pipe",
+      "outlet pipe"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Electric_Water_Pump_servicing.pdf"
+    ],
+    "related_faults": [
+      "Air lock",
+      "Cavitation"
+    ],
+    "related_specs": [
+      "Pump body filled with water"
+    ],
+    "machine_family": "Electric Pump"
+  },
+  {
+    "component": "Impeller",
+    "component_id": "impeller_78f646",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nImpeller\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "inlet pipe",
+      "outlet pipe",
+      "water inlet pipeline",
+      "cable",
+      "pump casing",
+      "shaft"
+    ],
+    "function": "",
+    "diagram_sources": [
+      "UnScanned_Water_Pump_Servicing-1_p6_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p10_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p11_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p12_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p14_img0.png"
+    ],
+    "manual_sources": [
+      "Electric_Water_Pump_servicing.pdf",
+      "UnScanned_Water_Pump_Servicing-1.pdf"
+    ],
+    "related_faults": [
+      "Wearing",
+      "Blocking",
+      "motor hums but does not rotate",
+      "motor runs but no water is discharged",
+      "Foreign matter in impeller.",
+      "Impeller damaged.",
+      "Pump fails to start.",
+      "Impeller locked"
+    ],
+    "related_specs": [
+      "Y-shaped filter installed"
+    ],
+    "machine_family": "Electric Pump"
+  },
+  {
+    "component": "Pressure Control Device",
+    "component_id": "pressure_control_b218f7",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nPressure Control Device\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "outlet pipeline"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Electric_Water_Pump_servicing.pdf"
+    ],
+    "related_faults": [
+      "water leakage",
+      "property damage"
+    ],
+    "related_specs": [
+      "≥25cm"
+    ],
+    "machine_family": "Submersible Pump"
+  },
+  {
+    "component": "Overload Protector",
+    "component_id": "overload_protector_7e584c",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nOverload Protector\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "three-phase electric pump"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Electric_Water_Pump_servicing.pdf"
+    ],
+    "related_faults": [
+      "pump damage due to overload"
+    ],
+    "related_specs": [
+      "correct overload protector"
+    ],
+    "machine_family": "Submersible Pump"
+  },
+  {
+    "component": "Cable",
+    "component_id": "cable_855923",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nCable\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "electric pump"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Electric_Water_Pump_servicing.pdf"
+    ],
+    "related_faults": [
+      "loose connection",
+      "water leakage"
+    ],
+    "related_specs": [
+      "firm, waterproof and insulating connection"
+    ],
+    "machine_family": "Submersible Pump"
+  },
+  {
+    "component": "Check Valve And Filter Screen",
+    "component_id": "check_valve_03caf5",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nCheck Valve And Filter Screen\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "water pump"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Electric_Water_Pump_servicing.pdf"
+    ],
+    "related_faults": [
+      "failure of the water pump, pipeline and other parts"
+    ],
+    "related_specs": [
+      "clean check valve and filter screen"
+    ],
+    "machine_family": "Submersible Pump"
+  },
+  {
+    "component": "Flow Switch",
+    "component_id": "flow_switch_4fd774",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nFlow Switch\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "pressure tank",
+      "controller"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Electric_Water_Pump_servicing.pdf"
+    ],
+    "related_faults": [
+      "pump does not turn on",
+      "The electric pump is started frequently when water is used"
+    ],
+    "related_specs": [],
+    "machine_family": "Electric Pump"
+  },
+  {
+    "component": "Pressure Switch",
+    "component_id": "pressure_switch_73f722",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nPressure Switch\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "water inlet pipeline",
+      "water outlet pipeline"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Electric_Water_Pump_servicing.pdf"
+    ],
+    "related_faults": [
+      "The electric pump cannot be halted when water is not used",
+      "The electric pump does not start when water is used",
+      "The electric pump is started frequently when water is used"
+    ],
+    "related_specs": [],
+    "machine_family": "Electric Pump"
+  },
+  {
+    "component": "Check Valve",
+    "component_id": "check_valve_49b84f",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nCheck Valve\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "electric pump",
+      "pressure switch"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Electric_Water_Pump_servicing.pdf"
+    ],
+    "related_faults": [
+      "The electric pump cannot be halted when water is not used"
+    ],
+    "related_specs": [],
+    "machine_family": "Water Pump"
+  },
+  {
+    "component": "Stuffing Box Gland",
+    "component_id": "stuffing_box_f36935",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nStuffing Box Gland\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "stuffing boxes"
+    ],
+    "function": "",
+    "diagram_sources": [
+      "UnScanned_Water_Pump_Servicing-1_p8_img0.png"
+    ],
+    "manual_sources": [
+      "UnScanned_Water_Pump_Servicing-1.pdf"
+    ],
+    "related_faults": [
+      "leakage from stuffing boxes"
+    ],
+    "related_specs": [],
+    "machine_family": "Water Pump"
+  },
+  {
+    "component": "Pump And Driver",
+    "component_id": "pump_and_23dbd8",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nPump And Driver\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "pump and driver"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "UnScanned_Water_Pump_Servicing-1.pdf"
+    ],
+    "related_faults": [
+      "general mechanical operation of pump and driver"
+    ],
+    "related_specs": [],
+    "machine_family": "Water Pump"
+  },
+  {
+    "component": "Casing Gasket",
+    "component_id": "casing_gasket_61e21f",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nCasing Gasket\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "pump casing"
+    ],
+    "function": "",
+    "diagram_sources": [
+      "UnScanned_Water_Pump_Servicing-1_p11_img0.png"
+    ],
+    "manual_sources": [
+      "UnScanned_Water_Pump_Servicing-1.pdf"
+    ],
+    "related_faults": [
+      "Casing gasket defective, permitting internal leakage."
+    ],
+    "related_specs": [],
+    "machine_family": "Water Pump"
+  },
+  {
+    "component": "Packing",
+    "component_id": "packing_f23937",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nPacking\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "stuffing box",
+      "shaft",
+      "shaft sleeves",
+      "gland"
+    ],
+    "function": "",
+    "diagram_sources": [
+      "UnScanned_Water_Pump_Servicing-1_p8_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p9_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p12_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p13_img0.png"
+    ],
+    "manual_sources": [
+      "UnScanned_Water_Pump_Servicing-1.pdf"
+    ],
+    "related_faults": [
+      "Motor hums but does not rotate"
+    ],
+    "related_specs": [],
+    "machine_family": "Water Pump"
+  },
+  {
+    "component": "Bearing",
+    "component_id": "bearing_a27a44",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nBearing\n\nCONNECTED TO:\n- None\n",
+    "aliases": [
+      "bearings"
+    ],
+    "connected_to": [
+      "shaft",
+      "bearing housing",
+      "cooling liquid supply",
+      "pump casing"
+    ],
+    "function": "",
+    "diagram_sources": [
+      "UnScanned_Water_Pump_Servicing-1_p7_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p9_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p13_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p14_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p15_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p16_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p19_img0.png",
+      "UnScanned_Water_Pump_Servicing-1_p21_img0.png"
+    ],
+    "manual_sources": [
+      "UnScanned_Water_Pump_Servicing-1.pdf"
+    ],
+    "related_faults": [
+      "Motor hums but does not rotate",
+      "Pump vibrates excessively.",
+      "Bearing trouble"
+    ],
+    "related_specs": [],
+    "machine_family": "Water Pump"
+  },
+  {
+    "component": "Commutator",
+    "component_id": "commutator_f1c93e",
+    "connected_components": [],
+    "embedding_text": "COMPONENT:\nCommutator\n\nCONNECTED TO:\n- None\n",
+    "aliases": [],
+    "connected_to": [
+      "armature"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "UnScanned_Water_Pump_Servicing-1.pdf"
+    ],
+    "related_faults": [
+      "Motor fails to start or come up to speed normally"
+    ],
+    "related_specs": [],
+    "machine_family": "Diesel Engine"
+  }
+]

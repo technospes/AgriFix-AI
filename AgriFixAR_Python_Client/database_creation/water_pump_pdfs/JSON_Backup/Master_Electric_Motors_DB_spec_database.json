@@ -1,0 +1,29 @@
+[
+  {
+    "component": "Impeller-Casing Clearance",
+    "spec_type": "clearance",
+    "value": "0.5",
+    "unit": "mm",
+    "acceptable_range": "0.2–0.5 mm",
+    "source_page": "5.3 **Annual checks [after one year minimum] –**",
+    "manual_source": "submersible_manual.pdf",
+    "failure_if_out_of_range": [
+      "Reduced water output",
+      "Low water pressure",
+      "Pump making grinding noise"
+    ],
+    "repair_actions": [
+      "Disassemble the pump portion of the motor pump set.",
+      "Visually inspect the impeller, casing ring, and casing cover for signs of wear, damage, or foreign material.",
+      "Measure the clearance between the impeller and the casing ring, and between the impeller and the casing cover using appropriate gauges."
+    ],
+    "embedding_text": "Impeller-Casing Clearance clearance 0.5 mm Reduced water output Low water pressure",
+    "parameter": "clearance",
+    "page": "5.3 **Annual checks [after one year minimum] –**",
+    "if_out_of_range": [
+      "Reduced water output",
+      "Low water pressure",
+      "Pump making grinding noise"
+    ]
+  }
+]

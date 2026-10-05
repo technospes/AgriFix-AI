@@ -1,0 +1,674 @@
+🟦 PROBLEM 1 — ENGINE DOES NOT START
+------------------------------------------
+
+🔹 Chunk 1 — No crank no sound
+
+PROBLEM: Engine does not start
+TAGS: no crank, engine dead, self not working, chabi ghumane par kuch nahi, starter silent, harvester start nahi ho raha, main switch problem, battery disconnect, neutral switch issue
+SYMPTOM: Ignition key is turned to start but engine does not rotate, no click and no starter sound, panel may be dead.
+LIKELY_CAUSES: main battery switch OFF, battery terminals loose, battery completely discharged, main fuse blown, operator seat/neutral safety switch open
+MECHANICAL_REASON: If battery power or safety circuits are open the starter solenoid never energizes so nothing turns.
+DIAGNOSTIC_BRANCH: IF dash lights also OFF -> battery/main switch/fuse route; IF dash lights ON but no sound -> safety switch/ignition switch/starter relay route.
+STEPS: Ensure gear/drive and header levers are in neutral; turn master battery switch ON if fitted; open battery cover and check both terminals tight and clean; check visible main fuse link near battery or starter; sit properly on seat and re-try start; operate neutral and parking levers fully to neutral and re-try.
+TOOLS: spanner, cloth, torch
+WARNINGS: Do not bridge starter terminals with metal tools.
+VISUAL: Battery, Battery_Terminal, Main_Fuse, Ignition_Key, Neutral_Lever, Seat_Switch
+PARTS: Battery, Battery_Terminal, Master_Switch, Main_Fuse_Link, Ignition_Switch, Starter_Relay, Neutral_Safety_Switch, Seat_Switch
+ESCALATE_IF: All connections and fuses look normal but there is still no sound from starter.
+
+🔹 Chunk 2 — Only click sound from starter
+
+PROBLEM: Engine does not start
+TAGS: click click, self click, starter click, no crank, engine not turning, self maarne par click, chabi ghumane par click, relay awaz, tik tik
+SYMPTOM: When the key is turned to start only a single or repeated click-click is heard near the starter, engine does not rotate.
+LIKELY_CAUSES: weak battery, loose or corroded battery terminals, poor engine ground cable, starter solenoid contacts burnt
+MECHANICAL_REASON: Low voltage or high resistance can pull the solenoid in to click but cannot provide enough current to turn the starter motor.
+DIAGNOSTIC_BRANCH: IF lights go dim strongly when click occurs -> battery/terminal route; IF lights stay bright -> solenoid/starter internal fault route.
+STEPS: Switch OFF key; inspect battery terminals for looseness, black or white corrosion; clean with cloth and tighten clamps; check ground cable from battery to chassis/engine for tightness; try starting again after cleaning; if still only click, avoid repeated cranking.
+TOOLS: spanner, wire brush, cloth, torch
+WARNINGS: Do not short battery terminals together.
+VISUAL: Battery, Battery_Terminal, Ground_Cable, Starter_Motor, Starter_Solenoid, Warning_Lamp_Charge
+PARTS: Battery, Positive_Cable, Ground_Cable, Battery_Terminal, Starter_Solenoid, Starter_Motor
+ESCALATE_IF: Battery and cables are confirmed good but starter still only clicks and engine never turns.
+
+🔹 Chunk 3 — Slow cranking with dim panel lights
+
+PROBLEM: Engine does not start
+TAGS: slow cranking, engine dhire ghoomna, battery weak, battery down, starter heavy, dim light on crank, self bhaari hai
+SYMPTOM: Engine rotates slowly when trying to start and dashboard lights become very dim or go off during cranking.
+LIKELY_CAUSES: discharged battery, loose or corroded battery terminals, internal battery fault, high resistance cable
+MECHANICAL_REASON: A weak battery or bad connection drops voltage heavily under load so the starter cannot reach required speed.
+DIAGNOSTIC_BRANCH: IF battery old or used long without charging -> battery recharge/replace route; IF terminals hot or sparking -> cable/terminal cleaning and replacement route.
+STEPS: Stop attempts; feel battery terminals carefully for warmth; clean corrosion and tighten; if available, charge battery from external charger; reduce extra electrical loads like lights and blower; attempt start again only after charge or jump-start from proper source.
+TOOLS: spanner, cloth, wire brush, torch
+WARNINGS: Keep flames away from battery when charging.
+VISUAL: Battery, Battery_Terminal, Warning_Lamp_Charge
+PARTS: Battery, Battery_Terminal, Positive_Cable, Ground_Cable, Starter_Motor
+ESCALATE_IF: Battery fully charged or new but cranking still slow and cables get hot or smell.
+
+🔹 Chunk 4 — Engine cranks but does not fire and no smoke
+
+PROBLEM: Engine does not start
+TAGS: cranks but no start, engine ghoomta hai par start nahi, no exhaust smoke, diesel nahi aa raha, fuel problem, self chal raha engine nahi pakad raha
+SYMPTOM: Starter turns engine at normal speed but it never starts and no smoke comes from exhaust.
+LIKELY_CAUSES: fuel shut-off lever in OFF position, empty diesel tank, air in fuel line after filter change, fuel tap closed or blocked, stop cable stuck in stop position
+MECHANICAL_REASON: If fuel is not reaching injection pump or injectors, combustion cannot begin and no smoke appears.
+DIAGNOSTIC_BRANCH: IF fuel gauge or tank low -> refuel and bleed; IF tank has fuel but no priming resistance -> air leak/line problem route.
+STEPS: Confirm fuel level in tank; check fuel tap at tank outlet is fully open; verify engine stop/fuel shut-off cable is in RUN position at injection pump; use hand priming pump near filter to pump until firm and any bleed screw flows bubble-free fuel; then re-try starting.
+TOOLS: torch, spanner, hand priming pump if fitted, cloth
+WARNINGS: Do not crank continuously for long periods; allow starter to cool.
+VISUAL: Fuel_Tank, Fuel_Tap, Fuel_Filter, Hand_Primer, Injection_Pump, Exhaust_Pipe
+PARTS: Fuel_Tank, Fuel_Tap, Fuel_Line, Fuel_Filter, Hand_Primer, Injection_Pump, Stop_Cable
+ESCALATE_IF: Proper bleeding and stop control position are confirmed but engine still cranks with no smoke.
+
+🔹 Chunk 5 — Engine cranks with white smoke but no start
+
+PROBLEM: Engine does not start
+TAGS: white smoke cranking, safed dhuan self par, cold start problem, glow plug issue, low compression start problem, diesel aa raha par start nahi
+SYMPTOM: Engine cranks, white or grey smoke comes from exhaust but engine does not pick up and start.
+LIKELY_CAUSES: weak battery causing low cranking speed, low compression on cold engine, glow plug or intake heater not working (if equipped), poor injector spray
+MECHANICAL_REASON: Fuel is entering cylinders but incomplete combustion at low temperature causes white smoke without sustained firing.
+DIAGNOSTIC_BRANCH: IF smoke reduces when cranking speed drops -> battery/cranking speed route; IF heavy white smoke with knocking attempt -> compression/injector/mechanical route.
+STEPS: Ensure correct grade engine oil and coolant level; try starting with fully charged battery; if fitted, confirm intake heater/glow plug indicator is working and pre-heat as recommended; avoid repeated long cranking attempts.
+TOOLS: torch
+WARNINGS: Do not use open flame near intake for heating.
+VISUAL: Exhaust_Pipe, Warning_Lamp_Heater, Battery, Ignition_Key
+PARTS: Battery, Starter_Motor, Glow_Plug_System, Intake_Heater, Injector, Compression_Components
+ESCALATE_IF: White smoke and no start continue even after good battery and correct pre-heating.
+
+🔹 Chunk 6 — Engine starts then immediately stops
+
+PROBLEM: Engine does not start
+TAGS: starts and dies, start ke baad turant band, engine pakad ke turant band, fuel line mein hawa, diesel supply loose
+SYMPTOM: Engine starts briefly, runs for a few seconds, then stops by itself.
+LIKELY_CAUSES: air leak on fuel suction side, choked fuel filter or sediment bowl, partially closed fuel tap, blocked tank vent causing vacuum
+MECHANICAL_REASON: Restricted or aerated fuel supply lets engine start on available fuel then starves and stops.
+DIAGNOSTIC_BRANCH: IF opening fuel cap gives hissing and then engine runs longer -> blocked tank vent; IF bubbles seen at transparent line/filter -> air leak route.
+STEPS: Open fuel tank cap and listen for vacuum; clean or confirm tank vent hole is open; check fuel tap fully open and sediment bowl clean; drain water and dirt from bowl; replace clogged fuel filter if very dirty; bleed system after any opening.
+TOOLS: spanner, cloth, screwdriver, small brush
+WARNINGS: Keep diesel away from hot exhaust.
+VISUAL: Fuel_Tank, Fuel_Cap, Fuel_Tap, Sediment_Bowl, Fuel_Filter, Fuel_Line, Exhaust_Pipe
+PARTS: Fuel_Tank, Fuel_Cap_Vent, Fuel_Tap, Sediment_Bowl, Fuel_Filter, Fuel_Line, Injection_Pump
+ESCALATE_IF: Engine still stops quickly after fuel system cleaning and vent checks.
+
+🔹 Chunk 7 — Starter motor jam suspicion
+
+PROBLEM: Engine does not start
+TAGS: starter jam, self jam ho gaya, pinion stuck, grinding sound, starter gear awaz, flywheel jam
+SYMPTOM: Turning the key gives heavy clunk or grinding near starter, engine does not turn or turns with harsh noise.
+LIKELY_CAUSES: starter pinion stuck in ring gear, damaged ring gear teeth, misaligned starter mounting
+MECHANICAL_REASON: A jammed pinion cannot rotate freely and may lock the flywheel.
+DIAGNOSTIC_BRANCH: IF repeated grinding at same position -> ring gear/starter alignment route; IF occasional jam but frees by slight engine movement -> pinion sticking route.
+STEPS: Switch battery OFF; visually inspect starter mounting bolts for looseness; do not keep trying to crank if grinding noise persists.
+TOOLS: spanner, torch
+WARNINGS: Keep hands clear of starter and ring gear area.
+VISUAL: Starter_Motor, Starter_Solenoid, Flywheel_Housing, Battery
+PARTS: Starter_Motor, Starter_Pinion, Ring_Gear, Starter_Mounting_Bolts
+ESCALATE_IF: Grinding or jamming persists even after checking mounting and electrical causes.
+
+🔹 Chunk 8 — Safety interlock preventing start
+
+PROBLEM: Engine does not start
+TAGS: safety switch, seat switch, neutral switch, clutch switch, harvester start interlock, lever not in neutral, parking brake switch
+SYMPTOM: Dash lights are ON but starter does not engage until certain levers are moved or operator sits correctly.
+LIKELY_CAUSES: operator presence switch not pressed, drive lever not exactly in neutral gate, header engagement lever not in OFF, faulty neutral/safety switch
+MECHANICAL_REASON: Safety interlocks open the start circuit if machine is not in safe condition.
+DIAGNOSTIC_BRANCH: IF moving lever slightly to exact neutral allows start -> linkage/adjustment route; IF no response regardless of position -> switch/wiring route.
+STEPS: Confirm drive transmission lever in full neutral; confirm header and unloading controls in OFF; sit firmly on seat; apply parking brake if required; slowly wiggle neutral lever within gate while holding key in start to see if starter catches once.
+TOOLS: torch
+VISUAL: Seat_Switch, Neutral_Lever, Drive_Lever, Header_Clutch_Lever, Ignition_Key
+PARTS: Seat_Switch, Neutral_Switch, Header_Clutch_Switch, Start_Relay_Circuit
+ESCALATE_IF: Machine still does not crank after correct positions and obvious linkage adjustments.
+
+------------------------------------------
+🟦 PROBLEM 2 — ENGINE LOW POWER / STALLS UNDER LOAD
+------------------------------------------
+
+🔹 Chunk 1 — Engine loses power in heavy crop
+
+PROBLEM: Engine low power / stalls under load
+TAGS: load pe dum kam, bhari fasal me engine dubna, pulling kam, engine rog jaata hai, harvester ruk ruk ke chalna
+SYMPTOM: While entering heavy crop or climbing slight slope engine rpm drops quickly and machine feels weak.
+LIKELY_CAUSES: overloading with too high forward speed, dirty fuel filter restricting supply, clogged air cleaner, partially seized brake or drive component
+MECHANICAL_REASON: Excess load and restricted fuel or air reduce available torque so rpm falls under demand.
+DIAGNOSTIC_BRANCH: IF reducing ground speed improves rpm -> overloading/field speed route; IF power still low at slow speed -> fuel/air/drag route.
+STEPS: Immediately reduce ground speed and header intake; shift to lower gear or hydro setting; inspect and if needed clean air cleaner element; check fuel filter for dirt level and replace if very dirty; feel wheel hubs and final drives for abnormal heat indicating drag.
+TOOLS: spanner, brush, cloth, torch
+VISUAL: Engine_RPM_Gauge, Air_Cleaner, Fuel_Filter, Ground_Drive_Wheel, Brake_Rod_Adjuster
+PARTS: Fuel_Filter, Fuel_Line, Air_Cleaner, Throttle_Linkage, Brake_Linkage, Final_Drive
+ESCALATE_IF: Engine remains weak even with clean filters and low ground speed.
+
+🔹 Chunk 2 — Engine stalls when header engaged
+
+PROBLEM: Engine low power / stalls under load
+TAGS: header lagane par band, threshing clutch lagate hi engine band, separator ON par dum girna, drum heavy, load jhatka
+SYMPTOM: Engine runs normally without load but stalls or nearly stalls when threshing/header drive is engaged.
+LIKELY_CAUSES: separator or header mechanism jammed with straw or mud, belt too tight or misaligned causing drag, seized bearing in drum or shaft
+MECHANICAL_REASON: A jammed or seized driven unit suddenly adds very high torque load when clutch is engaged.
+DIAGNOSTIC_BRANCH: IF engine pulls down sharply with vibration/noise -> mechanical jam route; IF belts smoke or smell before stall -> belt/drive drag route.
+STEPS: Disengage header and separator immediately; switch OFF engine and remove key; visually inspect header, feeder house, drum and drives for accumulated straw, stones, or mud; clear blockage using wooden stick, never hands; rotate drives slowly by hand where safe to feel for tight spots.
+TOOLS: wooden stick, torch, spanner
+WARNINGS: Never clear blockages with engine running or key in.
+VISUAL: Header, Cutter_Bar, Reel, Feeder_House, Threshing_Drum, Drive_Belt, Drive_Chain
+PARTS: Header_Clutch, Threshing_Drum, Feeder_Chain, Drum_Bearing, Header_Drive_Belt
+ESCALATE_IF: Any shaft or drum cannot be turned by reasonable hand force even after cleaning straw.
+
+🔹 Chunk 3 — Engine hunts up and down under steady load
+
+PROBLEM: Engine low power / stalls under load
+TAGS: rpm upar neeche, engine hunting, governor problem, diesel supply up down, load me awaaz badalna
+SYMPTOM: At constant ground speed and crop, engine rpm repeatedly rises and falls without operator change.
+LIKELY_CAUSES: air bubbles in fuel line, partially blocked fuel filter, governor linkage sticking, fuel tank outlet restriction
+MECHANICAL_REASON: Unsteady fuel delivery causes cyclic changes in power so governor continuously chases set speed.
+DIAGNOSTIC_BRANCH: IF transparent fuel sections show bubbles -> air / leak route; IF filter very dirty -> filter/clog route.
+STEPS: Check fuel level and refill if low; inspect visible fuel lines for wet spots or loose clamps; bleed fuel system at filter and pump; replace clogged fuel filter; lubricate external governor and throttle linkages lightly where allowed.
+TOOLS: spanner, screwdriver, cloth, small oil can, torch
+VISUAL: Fuel_Tank, Fuel_Line, Fuel_Filter, Injection_Pump, Throttle_Lever
+PARTS: Fuel_Tank_Outlet, Fuel_Line, Fuel_Filter, Injection_Pump, Governor_Linkage
+ESCALATE_IF: Engine speed continues hunting after air and filter issues are corrected.
+
+🔹 Chunk 4 — Power loss with excessive black smoke
+
+PROBLEM: Engine low power / stalls under load
+TAGS: black smoke with low power, kala dhuan, engine ghutna, fuel rich, air kam, air cleaner choked
+SYMPTOM: Under load engine gives heavy black smoke from exhaust and loses pulling ability.
+LIKELY_CAUSES: clogged air cleaner, very dirty radiator/intercooler fins, over-fuelling from high rack setting, working in too high gear or speed
+MECHANICAL_REASON: Lack of air with high fuelling makes mixture too rich, causing incomplete combustion and smoke with poor power.
+DIAGNOSTIC_BRANCH: IF cleaning air cleaner reduces smoke -> air cleaner route; IF smoke still heavy at low speed and clean intake -> injection/overload route.
+STEPS: Reduce ground speed immediately; inspect air cleaner pre-cleaner bowl and element and clean as per instruction; clean radiator and intercooler fins from dust with air or soft brush; avoid overloading engine by cutting too wide or too fast.
+TOOLS: brush, cloth, low-pressure air if available, torch
+WARNINGS: Keep hands away from fan and belt when cleaning near radiator.
+VISUAL: Exhaust_Pipe, Air_Cleaner, Radiator_Fins, Fan_Belt, Engine_RPM_Gauge
+PARTS: Air_Cleaner, Air_Cleaner_PreCleaner, Radiator, Intercooler_If_Fitted, Injection_Pump
+ESCALATE_IF: Black smoke and low power continue even with clean intake side and moderate load.
+
+🔹 Chunk 5 — Power loss after long running, temperature high
+
+PROBLEM: Engine low power / stalls under load
+TAGS: garam hone par dum kam, long run ke baad engine weak, overheating with power drop, coolant heat, radiator choke
+SYMPTOM: After some hours of harvesting, engine temperature gauge rises and pulling power decreases.
+LIKELY_CAUSES: radiator fins clogged with chaff and dust, low coolant level, fan belt loose or slipping, cooling system partially blocked
+MECHANICAL_REASON: Reduced cooling raises engine temperature causing loss of efficiency and possible derating.
+DIAGNOSTIC_BRANCH: IF radiator outside dirty but coolant level OK -> cleaning route; IF radiator clean but level low or bubbles -> internal leak route.
+STEPS: Park safely and idle engine a few minutes; stop engine and allow to cool; inspect radiator front screen and fins and clean dust and chaff thoroughly; check fan belt tension and adjust if loose; after cooling, check coolant level and top up if low.
+TOOLS: brush, air blower, spanner, torch
+WARNINGS: Never open radiator cap when hot.
+VISUAL: Radiator, Radiator_Cap, Radiator_Fins, Fan_Belt, Temperature_Gauge
+PARTS: Radiator, Radiator_Screen, Radiator_Fins, Fan_Belt, Water_Pump, Thermostat
+ESCALATE_IF: Temperature quickly rises again and power drops even with clean radiator and correct coolant level.
+
+------------------------------------------
+🟦 PROBLEM 3 — ENGINE OVERHEATING
+------------------------------------------
+
+🔹 Chunk 1 — Temperature gauge in red with normal load
+
+PROBLEM: Engine overheating
+TAGS: engine garam, temperature red, heat warning, coolant boil, pani ubal raha, overheat under normal work
+SYMPTOM: Temperature gauge moves into red zone and possible warning lamp or buzzer comes even at normal harvesting load.
+LIKELY_CAUSES: radiator fins clogged, radiator screen covered with chaff, low coolant, thermostat stuck closed
+MECHANICAL_REASON: Blocked airflow or restricted coolant flow prevents heat from leaving engine.
+DIAGNOSTIC_BRANCH: IF front of radiator visibly packed with dust -> cleaning route; IF coolant repeatedly low without leak seen -> internal leak/head gasket route.
+STEPS: Immediately reduce load and idle engine; stop header and separator; park safely and let engine cool; clean radiator screen and fins fully; after cooling, open cap slowly and check level; top up with clean coolant or water temporarily if needed; restart and monitor gauge closely.
+TOOLS: brush, air blower, torch, cloth
+WARNINGS: Never open radiator cap when hot; steam can cause burns.
+VISUAL: Temperature_Gauge, Radiator, Radiator_Screen, Radiator_Fins, Radiator_Cap, Warning_Lamp_Temp
+PARTS: Radiator, Radiator_Screen, Radiator_Fins, Radiator_Cap, Thermostat, Water_Pump
+ESCALATE_IF: Overheating repeats quickly after thorough cleaning and coolant top-up.
+
+🔹 Chunk 2 — Coolant overflow or boiling from radiator
+
+PROBLEM: Engine overheating
+TAGS: coolant ublna, radiator se pani nikalna, overflow bottle full, steam from front, boil over
+SYMPTOM: Coolant or water is seen boiling and spilling out from radiator neck or overflow hose.
+LIKELY_CAUSES: severe overheating due to blocked radiator or failed fan belt, radiator cap not sealing, head gasket leak pressurizing system
+MECHANICAL_REASON: Excess temperature or combustion gas in coolant raises pressure and boils fluid out.
+DIAGNOSTIC_BRANCH: IF fan belt broken or very loose -> belt replacement route; IF bubbles appear continuously with cap off at idle when cool -> internal leak route.
+STEPS: Stop engine immediately; allow full cooling; inspect fan belt condition and tension; inspect radiator exterior for heavy blocking and clean; check radiator cap rubber seal for damage and replace if bad.
+TOOLS: spanner, brush, torch, cloth
+WARNINGS: Do not stand directly over cap when loosening after overheat.
+VISUAL: Radiator, Radiator_Cap, Overflow_Hose, Fan_Belt, Temperature_Gauge
+PARTS: Radiator, Radiator_Cap, Overflow_Bottle, Fan_Belt, Cylinder_Head_Gasket
+ESCALATE_IF: Coolant still boils over soon after restart with good belt and clean radiator.
+
+🔹 Chunk 3 — Engine overheating with low coolant and wet marks
+
+PROBLEM: Engine overheating
+TAGS: coolant leak, pani leak, radiator pipe leak, hose crack, water pump seepage, coolant kam hota ja raha
+SYMPTOM: Temperature tends to rise and coolant level falls over time, with wet marks seen on radiator, hoses, or under machine.
+LIKELY_CAUSES: cracked radiator hose, leaking hose clamp, radiator core leak, water pump seal leak
+MECHANICAL_REASON: Continuous coolant loss reduces system capacity leading to overheating.
+DIAGNOSTIC_BRANCH: IF leak visible at hose joint -> clamp/hose route; IF drip from water pump vent hole -> pump seal route.
+STEPS: After cooling, inspect all hoses and joints for wet spots; tighten loose clamps; temporarily wrap small hose cracks with rubber and clamp tighter; refill coolant; monitor again during work.
+TOOLS: spanner, screwdriver, cloth, torch
+VISUAL: Radiator, Radiator_Hose_Upper, Radiator_Hose_Lower, Water_Pump, Ground_Under_Engine
+PARTS: Radiator, Radiator_Hose_Upper, Radiator_Hose_Lower, Hose_Clamp, Water_Pump
+ESCALATE_IF: Significant coolant loss continues or leak is from radiator core or pump seal.
+
+🔹 Chunk 4 — Overheating in dusty crop despite clean radiator
+
+PROBLEM: Engine overheating
+TAGS: dust crop heat, cotton or paddy dust, chaff blocking screen, precleaner choke, engine fan airflow kam
+SYMPTOM: In very dusty crops engine temperature trends high even after recent radiator cleaning.
+LIKELY_CAUSES: radiator screen not cleaned frequently enough, dust-packed pre-cleaner or side screens, fan blades damaged or reversed
+MECHANICAL_REASON: Dust mat on screens acts like a blanket reducing airflow through radiator.
+DIAGNOSTIC_BRANCH: IF screen has thick dust mat but fins behind are relatively clean -> screen cleaning frequency issue; IF fins also caked -> deeper cleaning route.
+STEPS: During work, stop periodically to brush off radiator screen and side intake screens; if possible blow air from engine side outwards; inspect fan blades for missing or bent blades.
+TOOLS: brush, low-pressure air, torch
+WARNINGS: Keep engine at idle and fan stopped when cleaning near blades.
+VISUAL: Radiator_Screen, Side_Air_Intake_Screen, Fan_Blade, Radiator_Fins, Temperature_Gauge
+PARTS: Radiator_Screen, Side_Intake_Screen, Fan_Blade, Shroud
+ESCALATE_IF: Overheating persists even with frequent screen cleaning and no visible blockage.
+
+------------------------------------------
+🟦 PROBLEM 4 — HEADER / CUTTER BAR NOT CUTTING PROPERLY
+------------------------------------------
+
+🔹 Chunk 1 — Crop not cleanly cut, plants pushed over
+
+PROBLEM: Header / cutter bar not cutting properly
+TAGS: fasal kategi nahi, crop dab raha hai, plants bend ho rahe, knife blunt, cutter bar dull, lodging at header
+SYMPTOM: Standing crop in front of header is bent forward or pushed but not cleanly cut; many uncut stems remain.
+LIKELY_CAUSES: dull cutter bar knife sections, worn ledger plates/guards, wrong header height or angle, ground speed too high
+MECHANICAL_REASON: Dull cutting edges tear or push crop instead of shearing it.
+DIAGNOSTIC_BRANCH: IF knife sections rounded or broken -> knife replacement route; IF only in sections of width -> localized guard or section issue.
+STEPS: Stop header and engine; inspect knife sections along full width; replace broken or badly rounded sections; check guards for bent tips and realign or replace; adjust header height to correct cutting level for crop.
+TOOLS: spanner, hammer, punch, torch
+WARNINGS: Ensure all drives are stopped before touching knife.
+VISUAL: Header, Cutter_Bar, Knife_Section, Guard, Reel
+PARTS: Cutter_Bar, Knife_Section, Guard, Knife_Drive, Header_Height_Cylinder
+ESCALATE_IF: Cutting remains poor even after sharpening/replacing worn knife parts and adjusting speed.
+
+🔹 Chunk 2 — Knife not moving or intermittent movement
+
+PROBLEM: Header / cutter bar not cutting properly
+TAGS: knife ruk gaya, cutter bar nahi chal raha, pitman break, wobble box fail, header belt slip, knife drive problem
+SYMPTOM: On engaging header, knife does not reciprocate or moves only sometimes while belts and reel may move.
+LIKELY_CAUSES: broken knife drive pitman or bolt, stripped key in wobble box, loose knife drive belt or chain
+MECHANICAL_REASON: Drive motion is not transmitted to knife bar so cutting stops.
+DIAGNOSTIC_BRANCH: IF drive pulley turns but pitman stationary -> pitman/connection route; IF belt loose and slipping -> belt tension route.
+STEPS: Disengage header and stop engine; check knife drive area for broken links, bolts, or pins; tighten or replace knife drive belt; ensure knife bar is properly attached to drive head.
+TOOLS: spanner, wrench set, torch
+WARNINGS: Do not work under raised header without secure support.
+VISUAL: Cutter_Bar, Knife_Drive_Head, Knife_Drive_Belt, Header_Drive_Pulley
+PARTS: Knife_Drive, Pitman_Arm_or_Wobble_Box, Knife_Drive_Belt, Knife_Head_Bolt
+ESCALATE_IF: Drive components appear intact but knife still does not move when engaged.
+
+🔹 Chunk 3 — Excess shatter loss in front of header
+
+PROBLEM: Header / cutter bar not cutting properly
+TAGS: header loss, grain gir raha hai samne, shattering, crop girne se pehle, reel fast, header speed mismatch
+SYMPTOM: Significant grain or heads are seen on the ground in front of or just behind the header after pass.
+LIKELY_CAUSES: reel speed too high throwing crop, cutter bar too low or high for crop, forward speed mismatch to crop, blunt knife causing shatter
+MECHANICAL_REASON: Incorrect header and reel speed/height causes grain heads to shatter and fall outside machine intake. [striptillfarmer](https://www.striptillfarmer.com/articles/4396-how-to-adjust-your-combine-to-reduce-corn-yield-loss-at-harvest)
+DIAGNOSTIC_BRANCH: IF reel bats striking crop hard -> reduce reel speed; IF loss mainly at knife line with uncut stubs -> knife sharpness/height route.
+STEPS: Reduce reel speed so tips just gently guide crop; adjust reel fore-aft so fingers just ahead of knife; set header height so cutting at correct part of stem; slow ground speed in brittle or very dry crop.
+TOOLS: header adjustment spanner, torch
+VISUAL: Header, Reel, Cutter_Bar, Ground_in_Front_of_Header
+PARTS: Reel, Reel_Speed_Adjuster, Header_Height_Control, Cutter_Bar
+ESCALATE_IF: Header losses remain high even after careful reel and height adjustments.
+
+🔹 Chunk 4 — Reel not turning or jerky
+
+PROBLEM: Header / cutter bar not cutting properly
+TAGS: reel band, reel nahi ghoom raha, jerky reel, chain slip, reel drive belt loose
+SYMPTOM: Reel remains stopped or turns unevenly while other header parts move.
+LIKELY_CAUSES: reel drive chain/belt loose or broken, seized reel bearing, reel drive clutch not engaged
+MECHANICAL_REASON: If drive path is open or bearing seized, reel cannot rotate smoothly.
+DIAGNOSTIC_BRANCH: IF chain/belt off -> refit/tension route; IF chain in place but reel tight by hand -> bearing seizure route.
+STEPS: Disengage header; inspect reel drive from header gearbox to reel; refit or tension loose chain/belt; grease or replace tight bearings; ensure any reel clutch knob or lever is properly engaged.
+TOOLS: spanner, chain puller, grease gun, torch
+VISUAL: Reel, Reel_Drive_Chain, Reel_Drive_Belt, Reel_Bearing
+PARTS: Reel, Reel_Drive_Chain, Reel_Drive_Belt, Reel_Bearing, Reel_Clutch
+ESCALATE_IF: Reel drive components appear normal but reel still will not rotate smoothly.
+
+------------------------------------------
+🟦 PROBLEM 5 — FEEDER HOUSE / THRESHING BLOCKAGE
+------------------------------------------
+
+🔹 Chunk 1 — Feeder house plugs and engine labours
+
+PROBLEM: Feeder house / threshing blockage
+TAGS: feeder choke, throat jam, feeding band, engine bhoj, feeder chain jam, crop jam at throat
+SYMPTOM: Crop piles up at feeder house, engine labours, feeder chain may stop or slip, sometimes smoke smell from belts.
+LIKELY_CAUSES: feeder chain too loose, feeding crop too fast, stone or large lump stuck, uneven feeding from header auger
+MECHANICAL_REASON: Material builds up faster than chain can move it, creating plug and high torque at feeder.
+DIAGNOSTIC_BRANCH: IF chain visibly slack at top -> tension adjustment route; IF local big lump seen -> blockage clearing route.
+STEPS: Disengage header and feeder, stop engine, remove key; open feeder inspection door or stone trap; remove packed material using wooden stick; check feeder chain tension and adjust to spec; reduce ground speed and match header to crop density on restart. [minnuoagro](https://minnuoagro.com/self-check-manual-for-common-combine-harvester-problems-solutions-from-clogging-to-loose-belts/)
+TOOLS: wooden stick, spanner, torch
+WARNINGS: Never reach into feeder with engine running or key in.
+VISUAL: Feeder_House, Feeder_Chain, Stone_Trap_Door, Header_Auger
+PARTS: Feeder_House, Feeder_Chain, Feeder_Chain_Sprocket, Stone_Trap, Header_Auger
+ESCALATE_IF: Feeder repeatedly plugs despite correct chain tension and moderate feeding speed.
+
+🔹 Chunk 2 — Feeder will not engage or keeps disengaging
+
+PROBLEM: Feeder house / threshing blockage
+TAGS: feeder clutch not engaging, throat band ho jata, header switch trip, safety sensor, feeder shuts off
+SYMPTOM: When trying to switch on feeder, it will not start or quickly stops again though engine runs fine.
+LIKELY_CAUSES: rock/overload safety clutch tripped, broken drive shear bolt, feeder speed or slip sensor cutting off, seat or header safety circuit open
+MECHANICAL_REASON: Protection systems disengage feeder when overload or unsafe condition is detected.
+DIAGNOSTIC_BRANCH: IF heavy crop plug present -> clear and reset overload; IF no plug and shear bolt broken -> replace bolt; IF intermittent with bumps -> wiring/sensor route.
+STEPS: Stop engine and remove key; inspect feeder and header for plug and clear; find and inspect feeder drive shear bolt and replace with correct grade if broken; look for reset on feeder clutch if equipped; confirm operator presence and header switches are working.
+TOOLS: spanner, hammer, punch, torch
+VISUAL: Feeder_House, Feeder_Drive_Sprocket, Shear_Bolt, Feeder_Clutch, Seat_Switch
+PARTS: Feeder_Clutch, Feeder_Shear_Bolt, Feeder_Slip_Sensor, Seat_Switch, Header_Safety_Switch
+ESCALATE_IF: Feeder refuses to stay engaged even with no blockage and new shear bolt.
+
+🔹 Chunk 3 — Threshing drum/rotor plugging symptom
+
+PROBLEM: Feeder house / threshing blockage
+TAGS: drum jam, rotor plug, threshing cylinder band, engine stall on separator, drum awaz heavy
+SYMPTOM: On engaging separator, engine loads heavily, machine vibrates and stops or near-stalls; straw flow stops.
+LIKELY_CAUSES: threshing drum or rotor plugged with green crop, stone or metal in concave area, concave clearance too tight for crop
+MECHANICAL_REASON: Plugged drum cannot rotate freely and friction load exceeds engine power.
+DIAGNOSTIC_BRANCH: IF occurs after taking in lodge/green patch -> plug route; IF sudden after stone bang -> foreign object route.
+STEPS: Disengage separator and stop engine; allow all motion to stop; open stone trap and access doors; clear packed material using wooden stick; rotate drum/rotor slowly by hand with bar where possible to ensure free; if concave is very tight for crop, open slightly before restart. [fwi.co](https://www.fwi.co.uk/machinery/harvest-equipment/combines/tips-for-setting-your-combine-correctly)
+TOOLS: wooden stick, bar, spanner, torch
+WARNINGS: Never enter under machine or into rotor area without full lockout and supports.
+VISUAL: Threshing_Drum, Concave, Stone_Trap, Feeder_House
+PARTS: Threshing_Drum, Rotor_if_Fitted, Concave, Drum_Drive_Belt, Stone_Trap
+ESCALATE_IF: Drum cannot be turned by bar after full cleaning or metal object suspected but inaccessible.
+
+------------------------------------------
+🟦 PROBLEM 6 — POOR THRESHING / UNTHRESHED OR DAMAGED GRAIN
+------------------------------------------
+
+🔹 Chunk 1 — Unthreshed heads in grain tank
+
+PROBLEM: Poor threshing / unthreshed or damaged grain
+TAGS: kankhi bachi rehna, pods not opened, unthreshed heads in grain, daane balti me poore, less threshing, drum speed kam
+SYMPTOM: Many partially threshed ears or pods appear in grain tank sample.
+LIKELY_CAUSES: drum/rotor speed too low, concave too open, worn rasp bars or concave wires, feeding too fast for settings
+MECHANICAL_REASON: Insufficient rubbing and impact in concave zone fails to separate all grain from heads. [ggsagrotech](https://www.ggsagrotech.com/2025/10/how-combine-harvester-works-parts.html)
+DIAGNOSTIC_BRANCH: IF unthreshed heads mainly at back of concave -> increase speed or close concave; IF present even at front -> wear or severe under-speed.
+STEPS: Gradually increase drum/rotor speed within crop limit; slightly close concave clearance; reduce ground speed to match crop; inspect rasp bars and concave for severe wear and plan replacement if rounded.
+TOOLS: spanner, feeler gauge or stick, torch
+VISUAL: Grain_Tank_Sample, Threshing_Drum, Concave, Drum_Speed_Indicator
+PARTS: Threshing_Drum, Rasp_Bar, Concave, Concave_Adjuster, Drum_Drive_Belt
+ESCALATE_IF: Unthreshed heads remain high even with near-maximum recommended speed and tight concave.
+
+🔹 Chunk 2 — Cracked or broken grain in tank
+
+PROBLEM: Poor threshing / unthreshed or damaged grain
+TAGS: dana toot raha, grain cracking, broken kernels, overthreshing, drum speed high, concave tight
+SYMPTOM: Grain tank sample shows many broken kernels, cracked seeds, or damaged grain.
+LIKELY_CAUSES: drum/rotor speed too high, concave too tight, sharp or damaged concave bars, over-dry brittle grain
+MECHANICAL_REASON: Excess impact and squeezing force fractures kernels during threshing and conveying. [fwi.co](https://www.fwi.co.uk/machinery/harvest-equipment/combines/tips-for-setting-your-combine-correctly)
+DIAGNOSTIC_BRANCH: IF reducing speed slightly reduces breakage without more loss -> speed route; IF opening concave reduces breakage -> clearance route.
+STEPS: Reduce drum/rotor speed in small steps; open concave slightly; verify elevator chains are not too slack causing extra impact; avoid running machine empty at high speed.
+TOOLS: spanner, torch
+VISUAL: Grain_Tank_Sample, Threshing_Drum, Concave, Clean_Grain_Elevator
+PARTS: Threshing_Drum, Concave, Clean_Grain_Elevator, Tailings_Elevator
+ESCALATE_IF: Grain damage stays high despite moderate speeds and proper clearances.
+
+------------------------------------------
+🟦 PROBLEM 7 — EXCESS GRAIN LOSS / CLEANING PROBLEM
+------------------------------------------
+
+🔹 Chunk 1 — Grain seen behind machine on ground
+
+PROBLEM: Excess grain loss / cleaning problem
+TAGS: peeche dana gir raha, grain loss, yield loss, daane zameen par, combine piche girna, tailboard ke neeche dana
+SYMPTOM: Significant grain is visible on the ground behind combine in straw or chaff band.
+LIKELY_CAUSES: cleaning fan speed too high blowing grain, sieves too open, combine overloaded with too much crop, incorrect shoe settings for crop
+MECHANICAL_REASON: Wrong fan and sieve settings can carry grain out with chaff or let it fall off sieves instead of into augers. [cropscience.bayer](https://www.cropscience.bayer.us/articles/bayer/combine-adjustments-and-maintenance-for-harvest)
+DIAGNOSTIC_BRANCH: IF more grain in light chaff area -> fan too high; IF grain mainly on heavy straw side -> sieve/opening/overload route.
+STEPS: Reduce ground speed to cut less crop; check and adjust top and bottom sieve openings to crop guide; reduce fan speed slightly if grain seen in chaff; re-check ground loss after adjustments using fixed area count.
+TOOLS: torch, measuring stick
+VISUAL: Rear_Spreader, Chaff_Stream, Straw_Row_Behind, Grain_on_Ground, Fan_Speed_Scale, Sieve_Adjuster
+PARTS: Cleaning_Fan, Upper_Sieve, Lower_Sieve, Tailings_Return, Straw_Walker_or_Rotor_Cage
+ESCALATE_IF: High grain loss persists despite careful sieve and fan tuning and moderate throughput.
+
+🔹 Chunk 2 — Dirty grain sample with lots of chaff
+
+PROBLEM: Excess grain loss / cleaning problem
+TAGS: grain me bhoosa, dirty sample, chaff in tank, fan speed low, sieve clogged, daane ke sath tinka
+SYMPTOM: Grain tank sample contains many small straw pieces, chaff, and trash along with grain.
+LIKELY_CAUSES: fan speed too low, sieves too open, crop too wet or green, sieves clogged with trash
+MECHANICAL_REASON: Insufficient air cannot blow light material away so it rides with grain into tank. [cropscience.bayer](https://www.cropscience.bayer.us/articles/bayer/combine-adjustments-and-maintenance-for-harvest)
+DIAGNOSTIC_BRANCH: IF sieves visually covered with material -> clean/adjust route; IF sieves open but fan low -> fan speed increase route.
+STEPS: Stop and clean sieves of lodged pieces; increase cleaning fan speed stepwise; slightly close upper sieve to improve separation; reduce forward speed in tough, green crop.
+TOOLS: torch, brush, spanner
+VISUAL: Grain_Tank_Sample, Upper_Sieve, Lower_Sieve, Cleaning_Fan_Pulley
+PARTS: Upper_Sieve, Lower_Sieve, Cleaning_Fan, Chaffer, Clean_Grain_Auger
+ESCALATE_IF: Sample remains very dirty even with high fan and optimized sieve settings.
+
+🔹 Chunk 3 — Grain loss mainly from straw walkers
+
+PROBLEM: Excess grain loss / cleaning problem
+TAGS: walker loss, straw ke sath dana, peeche bhuse me dana, separation problem, walker overload
+SYMPTOM: Checking behind machine shows loose grain mainly in straw row from walkers rather than in chaff.
+LIKELY_CAUSES: ground speed too high overloading walkers, drum/concave under-threshing, straw too long and not chopped, walker risers worn or broken
+MECHANICAL_REASON: When straw mat is too heavy or grain still attached, walkers cannot shake kernels free before discharge.
+DIAGNOSTIC_BRANCH: IF unthreshed heads also present -> threshing setting route; IF straw row very thick -> reduce feed/ground speed.
+STEPS: Reduce ground speed to match crop yield; increase drum/rotor speed slightly or close concave; check straw walker steps and risers for damage; consider chopping straw shorter if settings available.
+TOOLS: torch, spanner
+VISUAL: Straw_Walker_Outlet, Straw_Row_Behind, Grain_on_Ground
+PARTS: Straw_Walker, Walker_Riser, Threshing_Drum, Concave
+ESCALATE_IF: Walker losses remain high even with slow speed and good threshing.
+
+🔹 Chunk 4 — Tailings elevator overloaded or blocking
+
+PROBLEM: Excess grain loss / cleaning problem
+TAGS: tailings full, returns elevator jam, vapsi bhari, tailings auger noise, cleaning shoe overload
+SYMPTOM: Tailings return system runs very full, may plug, or warning indicates high tailings load.
+LIKELY_CAUSES: bottom sieve too tight, fan speed too low causing re-circulation, wet crop causing poor separation
+MECHANICAL_REASON: Too much material is rejected from sieves and sent back, overloading tailings path.
+DIAGNOSTIC_BRANCH: IF grain in tailings mostly clean -> sieve too tight; IF mixed with lots of trash -> fan and upper sieve route.
+STEPS: Open lower sieve slightly; increase fan speed until clean sample with acceptable loss; reduce ground speed in heavy or damp crop; monitor tailings window if fitted.
+TOOLS: spanner, torch
+VISUAL: Tailings_Elevator, Tailings_Window, Lower_Sieve, Cleaning_Fan_Pulley
+PARTS: Tailings_Elevator, Lower_Sieve, Upper_Sieve, Cleaning_Fan
+ESCALATE_IF: Tailings remain overloaded and plug repeatedly after sieve and fan corrections.
+
+------------------------------------------
+🟦 PROBLEM 8 — HYDRAULIC FUNCTIONS NOT WORKING (HEADER / REEL / UNLOADER)
+------------------------------------------
+
+🔹 Chunk 1 — Header will not lift or lower
+
+PROBLEM: Hydraulic functions not working
+TAGS: header lift nahi, table upar neeche nahi ho raha, hydraulic dead, lift lever free, oil kam
+SYMPTOM: Moving header height control lever does not raise or lower header; no hydraulic sound heard.
+LIKELY_CAUSES: low hydraulic oil level, main hydraulic pump drive failed, control valve not getting oil due to blocked suction strainers, header lock pins still in transport position
+MECHANICAL_REASON: Without sufficient oil supply or with locks engaged cylinders cannot move.
+DIAGNOSTIC_BRANCH: IF other hydraulics also dead -> pump/oil level route; IF only header stuck and lock pins in -> lock/valve route.
+STEPS: Park safely; check hydraulic oil level at sight glass or dipstick; top up with correct oil if low; inspect and remove any mechanical transport locks from header cylinders; listen for pump noise when moving lever.
+TOOLS: clean funnel, oil can, torch
+WARNINGS: Support header securely before working under it.
+VISUAL: Header_Height_Cylinder, Hydraulic_Tank, Hydraulic_Dipstick, Header_Lock_Pins
+PARTS: Hydraulic_Tank, Hydraulic_Pump, Header_Control_Valve, Header_Cylinder, Header_Lock
+ESCALATE_IF: Oil level is correct and no locks present but header still will not move.
+
+🔹 Chunk 2 — Reel lift and fore-aft not responding
+
+PROBLEM: Hydraulic functions not working
+TAGS: reel upar neeche nahi, reel fore aft stuck, reel position hydraulic fail, auxiliary valve issue
+SYMPTOM: Operated reel position controls but reel stays in one position.
+LIKELY_CAUSES: selector valve in wrong position, quick couplers not connected properly, low hydraulic pressure to header circuit
+MECHANICAL_REASON: Incorrect routing or disconnection prevents oil from reaching reel cylinders.
+DIAGNOSTIC_BRANCH: IF header hoses not fully coupled -> coupling route; IF other header hyd functions fine -> local valve/cylinder route.
+STEPS: Inspect hydraulic hoses between combine and header; ensure couplers are clean and fully engaged; check any header function selector levers set correctly; cycle valve several times to free spool.
+TOOLS: cloth, torch
+VISUAL: Reel_Lift_Cylinder, Hydraulic_Hoses_Header, Quick_Coupler
+PARTS: Reel_Lift_Cylinder, Reel_ForeAft_Cylinder, Header_Hydraulic_Manifold, Quick_Coupler
+ESCALATE_IF: Reel remains dead with confirmed oil supply to its valve.
+
+🔹 Chunk 3 — Unloading auger will not swing out
+
+PROBLEM: Hydraulic functions not working
+TAGS: auger swing nahi, unloading pipe nahi nikal raha, grain tank discharge arm stuck, swing cylinder
+SYMPTOM: Operating auger swing control does not move unloading auger from transport position.
+LIKELY_CAUSES: hydraulic lock pin left engaged, low hydraulic pressure on that circuit, seized swing pivot, electrical interlock not allowing swing
+MECHANICAL_REASON: Mechanical lock or seized pivot resists cylinder movement even with oil pressure.
+DIAGNOSTIC_BRANCH: IF lock pin present -> remove lock; IF pin removed and auger still not move but cylinder strains -> pivot seizure route.
+STEPS: Check for any transport lock pin or latch on auger swing mechanism and remove before operating; inspect swing cylinder for leaks or rod bending; lightly lubricate pivot points.
+TOOLS: spanner, hammer, oil can, torch
+WARNINGS: Keep people clear of auger path when testing swing.
+VISUAL: Unloader_Auger, Auger_Swing_Cylinder, Auger_Lock_Pin
+PARTS: Unloader_Auger, Auger_Swing_Cylinder, Auger_Pivot, Transport_Lock
+ESCALATE_IF: Auger cannot be swung with normal hydraulic force after removing all locks.
+
+------------------------------------------
+🟦 PROBLEM 9 — BELTS, CHAINS, NOISE, AND VIBRATION
+------------------------------------------
+
+🔹 Chunk 1 — Burning smell or smoke from belt area
+
+PROBLEM: Belts, chains, noise, and vibration
+TAGS: belt burning smell, rubber ki badbu, belt smoke, pulley garam, belt slip
+SYMPTOM: Rubber burning smell or light smoke seen near belt drives, especially under heavy load.
+LIKELY_CAUSES: belt too loose and slipping, misaligned pulleys, seized driven component or bearing
+MECHANICAL_REASON: Slipping belt converts power into heat, burning rubber and glazing belt.
+DIAGNOSTIC_BRANCH: IF belt very loose and glazed -> tension/replace route; IF belt tight but pulley very hard to turn by hand -> seized unit route.
+STEPS: Disengage drive and stop engine; feel belts and pulleys carefully for heat; adjust belt tension to specified deflection; replace severely glazed or cracked belts; check driven equipment (fan, drum, pump) for free rotation.
+TOOLS: spanner, belt tension gauge or stick, torch
+WARNINGS: Do not touch hot belts immediately after stopping.
+VISUAL: Drive_Belt, Idler_Pulley, Threshing_Drum_Belt, Fan_Belt
+PARTS: Drive_Belt, Idler_Pulley, Driven_Pulley, Bearing, Tensioner
+ESCALATE_IF: Belt continues to heat and smoke after correct tension and replacement.
+
+🔹 Chunk 2 — Abnormal rattling or knocking near chain drives
+
+PROBLEM: Belts, chains, noise, and vibration
+TAGS: chain noise, rattling sound, khatkhat near chain, chain loose, sprocket wear
+SYMPTOM: Metallic rattling or knocking noise from chain drive areas during operation.
+LIKELY_CAUSES: chain too loose and slapping, worn sprocket teeth, missing or bent chain slats in feeder
+MECHANICAL_REASON: Excess slack lets chain strike guards and sprockets producing noise and shock.
+DIAGNOSTIC_BRANCH: IF chain hangs far from guide -> tension route; IF teeth hooked and sharp -> sprocket wear route.
+STEPS: Stop engine; inspect chain slack at mid-span and adjust tension; replace missing slats; plan sprocket change if teeth badly worn; lubricate exposed chains with suitable oil.
+TOOLS: spanner, chain puller, oil can, torch
+VISUAL: Feeder_Chain, Elevator_Chain, Sprocket, Chain_Tensioner
+PARTS: Feeder_Chain, Clean_Grain_Elevator_Chain, Tailings_Chain, Chain_Sprocket, Chain_Tensioner
+ESCALATE_IF: Rattling persists even with correct chain tension and condition.
+
+🔹 Chunk 3 — Strong vibration when separator running
+
+PROBLEM: Belts, chains, noise, and vibration
+TAGS: poori machine hilna, vibration at separator ON, drum imbalance, rotor out of balance, straw in rotor
+SYMPTOM: Whole machine vibrates strongly only when separator/threshing is engaged.
+LIKELY_CAUSES: uneven straw or mud build-up on drum or rotor, broken or missing rasp bar, foreign object stuck in rotor area, damaged or missing counterweights
+MECHANICAL_REASON: Out-of-balance rotating mass creates cyclic forces leading to vibration.
+DIAGNOSTIC_BRANCH: IF vibration started suddenly after stone or lump entry -> foreign object/rasp bar damage; IF rotor dirty with mud -> cleaning route.
+STEPS: Disengage separator and stop engine; access drum/rotor covers; remove accumulated mud and straw; inspect rasp bars and fasteners; do not run if any bar is missing or loose.
+TOOLS: wooden stick, scraper, spanner, torch
+WARNINGS: Never run separator with access doors open.
+VISUAL: Threshing_Drum, Rotor, Concave, Access_Door
+PARTS: Threshing_Drum, Rotor, Rasp_Bar, Concave, Rotor_Counterweight
+ESCALATE_IF: Vibration remains severe after cleaning and obvious damage is not visible.
+
+------------------------------------------
+🟦 PROBLEM 10 — ELECTRICAL / LIGHTS / WARNING LAMPS
+------------------------------------------
+
+🔹 Chunk 1 — All electrical dead, engine also not starting
+
+PROBLEM: Electrical items not working
+TAGS: poora power dead, sab light band, main fuse blown, master switch off, battery disconnect
+SYMPTOM: No panel lamps, no horn, no crank when key turned.
+LIKELY_CAUSES: master switch OFF, main battery cable loose or broken, main fuse link blown
+MECHANICAL_REASON: With open main supply, no electrical circuit gets power.
+DIAGNOSTIC_BRANCH: IF battery voltage present but no power in cab -> main fuse/cable route; IF moving master switch restores power -> switch route.
+STEPS: Inspect master switch near battery and turn ON; check battery cables for tight and intact connection to starter and chassis; inspect main fuse link and replace with correct rating if blown; avoid repeated shorting attempts.
+TOOLS: spanner, torch, cloth
+WARNINGS: Do not use oversize wire to bypass blown fuse.
+VISUAL: Battery, Battery_Terminal, Main_Fuse, Master_Switch, Fuse_Box
+PARTS: Battery, Master_Switch, Main_Fuse_Link, Battery_Cable
+ESCALATE_IF: New main fuse blows again immediately after replacement.
+
+🔹 Chunk 2 — Warning lamp for charging stays ON
+
+PROBLEM: Electrical items not working
+TAGS: battery light on, charge lamp, dynamo fail, alternator belt slip, charging problem
+SYMPTOM: Charge/battery warning lamp remains ON after engine has started and is revved.
+LIKELY_CAUSES: alternator belt loose or broken, alternator internal fault, wiring or connector loose at alternator
+MECHANICAL_REASON: Without alternator output, battery supplies all loads and lamp indicates no charge.
+DIAGNOSTIC_BRANCH: IF belt broken -> replace; IF belt OK but lamp on and alternator not spinning freely -> alternator route.
+STEPS: Stop engine; inspect alternator belt condition and tension; adjust or replace belt if loose/damaged; check plug and wires at alternator for tightness; restart and check lamp again.
+TOOLS: spanner, torch
+WARNINGS: Keep hands away from moving belts when checking with engine running.
+VISUAL: Alternator, Fan_Belt, Warning_Lamp_Charge, Battery
+PARTS: Alternator, Fan_Belt, Alternator_Plug, Battery
+ESCALATE_IF: Charge lamp stays ON with correct belt and good connections.
+
+🔹 Chunk 3 — Work lights or beacons not working
+
+PROBLEM: Electrical items not working
+TAGS: light nahi jal raha, working lamp fail, headlight band, beacon off, fuse blown
+SYMPTOM: One or more work lights or road lights fail though others and panel may work.
+LIKELY_CAUSES: blown fuse in light circuit, bulb failure, dirty or loose earth connection, broken wire near hinge or frame
+MECHANICAL_REASON: Open circuit or poor earth prevents current flow to lamp.
+DIAGNOSTIC_BRANCH: IF all lights in group dead -> fuse/relay route; IF single light dead -> bulb/connector route.
+STEPS: Check fuse box and replace blown fuse with same rating; inspect lamp unit and clean connectors; check body earth wire for rust and tighten.
+TOOLS: screwdriver, torch, cloth
+VISUAL: Light_Lamp, Fuse_Box, Earth_Wire, Switch_Panel
+PARTS: Work_Lamp, Head_Lamp, Fuse, Light_Switch, Earth_Wire
+ESCALATE_IF: Fuse repeatedly blows after being replaced.
+
+------------------------------------------
+🟦 PROBLEM 11 — STRAW MANAGEMENT / CHOPPER / FIRE RISK
+------------------------------------------
+
+🔹 Chunk 1 — Straw chopper not spreading evenly
+
+PROBLEM: Straw management / chopper / fire risk
+TAGS: straw ek side gir raha, chopper spread poor, straw line, residue uneven, spreader vane setting
+SYMPTOM: Behind combine, chopped straw forms heavy band on one side instead of even spread.
+LIKELY_CAUSES: one chopper rotor side blocked, spreader vanes misadjusted, belt driving chopper slipping on one side
+MECHANICAL_REASON: Unequal throw speed or obstruction on one side changes straw trajectory.
+DIAGNOSTIC_BRANCH: IF belt loose on chopper drive -> belt tension route; IF vanes clearly angled wrong -> vane adjustment route.
+STEPS: Stop engine; inspect chopper inlet for straw build-up; clean out; adjust spreader vanes symmetrically; tighten or replace worn chopper drive belt.
+TOOLS: spanner, wooden stick, torch
+VISUAL: Straw_Chopper, Spreader_Vane, Chopper_Drive_Belt, Straw_Row_Behind
+PARTS: Straw_Chopper, Spreader_Vane, Chopper_Drive_Belt
+ESCALATE_IF: Spread still highly uneven despite clear chopper and correct vane settings.
+
+🔹 Chunk 2 — Smell of burning straw near engine or exhaust
+
+PROBLEM: Straw management / chopper / fire risk
+TAGS: jalne ki smell, burning straw, smoke smell cabin me, exhaust par bhusa, fire danger
+SYMPTOM: Hot or burning smell, sometimes light smoke, around engine compartment or exhaust stack, especially in dry straw.
+LIKELY_CAUSES: straw or chaff packed on exhaust manifold or turbo, oil leak on hot surfaces, electrical short on chaff-covered harness
+MECHANICAL_REASON: Dry residue on hot metal can ignite causing smouldering and fire risk.
+DIAGNOSTIC_BRANCH: IF straw clearly lying on exhaust/turbo -> cleaning route; IF oil-soaked areas smoking -> leak repair route.
+STEPS: Stop machine immediately in safe place; keep engine idling briefly then shut down; use brush or air to remove straw from around exhaust, turbo, and engine; check for oil leaks and repair as soon as possible; keep fire extinguisher ready.
+TOOLS: brush, air blower, torch
+WARNINGS: Do not ignore burning smells; keep extinguisher on machine.
+VISUAL: Exhaust_Pipe, Turbocharger_if_Fitted, Engine_Block, Straw_On_Engine
+PARTS: Exhaust_Manifold, Turbocharger, Heat_Shield, Wiring_Harness
+ESCALATE_IF: Smoke continues after cleaning or any flame is seen.
+
+------------------------------------------
+🟦 PROBLEM 12 — SAFETY AND ESCALATION CONDITIONS
+------------------------------------------
+
+🔹 Chunk 1 — Repeated fuse blowing in any circuit
+
+PROBLEM: Electrical items not working
+TAGS: bar bar fuse udna, short circuit doubt, wire jalna, burning plastic smell, electrician needed
+SYMPTOM: Same fuse blows shortly after replacement when circuit is used.
+LIKELY_CAUSES: shorted wire to ground, damaged insulation rubbed on frame, wrong higher-load accessory added
+MECHANICAL_REASON: Excess current from short or overload heats fuse element until it opens.
+DIAGNOSTIC_BRANCH: IF fuse blows as soon as switched ON without load -> hard short route; IF after some time of use -> partial short/overload route.
+STEPS: Do not fit larger fuse; avoid using that circuit until checked; visually follow harness for crushed, cut, or melted sections; isolate any added non-original accessories from that line.
+TOOLS: torch, cloth
+WARNINGS: Do not bypass fuse with wire or metal piece.
+VISUAL: Fuse_Box, Wiring_Harness, Burnt_Insulation, Switch_Panel
+PARTS: Fuse, Wiring_Harness, Switch, Connector
+ESCALATE_IF: Root cause of repeated fuse blowing is not clearly visible and simple.
+
+🔹 Chunk 2 — Strong metallic knock or unusual internal noise
+
+PROBLEM: Knocking / unusual engine or drive noise
+TAGS: zor ka knock, dhad dhad sound, metal hit noise, engine knock, gearbox knock
+SYMPTOM: Loud repeated metal knock from engine or driveline that was not present earlier, independent of straw or stone entry.
+LIKELY_CAUSES: internal engine bearing failure, broken gear tooth in transmission, loose flywheel bolts
+MECHANICAL_REASON: Damaged internal rotating parts strike or loosen under load causing knock.
+DIAGNOSTIC_BRANCH: IF knock changes with engine rpm at standstill -> engine internal route; IF only when moving -> transmission/final drive route.
+STEPS: Immediately reduce throttle and disengage all drives; stop engine; do not restart until checked; visually inspect external bolts and housings for looseness or cracks.
+TOOLS: torch, spanner
+WARNINGS: Continued running with heavy knock can cause catastrophic failure.
+VISUAL: Engine_Block, Gearbox_Housing, Final_Drive_Housing
+PARTS: Crankshaft_Bearing, Connecting_Rod, Gearbox_Gear, Flywheel
+ESCALATE_IF: Any strong metallic knock is heard and simple external cause cannot be confirmed.

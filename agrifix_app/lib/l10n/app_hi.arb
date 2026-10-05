@@ -1,0 +1,49 @@
+{
+  "@@locale": "hi",
+
+  "homeHeadline": "पेशेवर मशीन मरम्मत,\nAI और AR द्वारा संचालित।",
+  "homeCardTitle": "मशीन में समस्या?",
+  "homeCardSubtitle": "अपने उपकरण के लिए तत्काल विशेषज्ञ मार्गदर्शन प्राप्त करें।",
+  "homeCtaButton": "आइए ठीक करें",
+  "languageSelectTitle": "भाषा चुनें",
+  "langEnglish": "English",
+  "langHindi": "हिन्दी",
+  "langPunjabi": "ਪੰਜਾਬੀ",
+
+  "uploadScreenTitle": "समस्या निदान",
+  "uploadHelp": "सहायता",
+  "uploadStepChip": "चरण 1: डेटा संग्रह",
+  "uploadHeading": "यह कैसा दिखता और सुनाई देता है?",
+  "uploadSubtext": "सबसे सटीक मरम्मत निदान के लिए कृपया वीडियो और ऑडियो दोनों प्रदान करें।",
+  "uploadRecordVideo": "वीडियो रिकॉर्ड करें",
+  "uploadRecordVideoSub": "हमें यांत्रिक समस्या दिखाएं",
+  "uploadRecordAudio": "ऑडियो रिकॉर्ड करें",
+  "uploadRecordAudioSub": "इंजन की आवाज़ें बताएं",
+  "uploadProTipTitle": "प्रो टिप",
+  "uploadProTipBody": "फोन स्थिर रखें और सर्वोत्तम विश्लेषण के लिए पर्याप्त धूप सुनिश्चित करें।",
+  "uploadFromGallery": "गैलरी से अपलोड करें",
+  "uploadRecordLiveCamera": "कैमरे से लाइव रिकॉर्ड करें",
+  "uploadRecordLiveMic": "माइक से लाइव रिकॉर्ड करें",
+  "uploadFindSolution": "समाधान खोजें",
+  "uploadAnalyzing": "आपकी मशीन का विश्लेषण हो रहा है...",
+  "uploadStep1": "वीडियो और ऑडियो अपलोड हो रही है",
+  "uploadStep2": "समस्या को समझ रहे हैं",
+  "uploadStep3": "मशीन के प्रकार का विश्लेषण",
+  "uploadStep4": "मरम्मत के चरण तैयार हो रहे हैं",
+  "uploadStep5": "समाधान तैयार है",
+  "uploadErrorTitle": "कुछ गलत हुआ",
+  "uploadErrorSubtitle": "इंटरनेट जांचें और पुनः प्रयास करें",
+  "uploadRetry": "पुनः प्रयास करें",
+  "aiRepairGuide": "एआई मरम्मत गाइड",
+  "solutionFound": "समाधान मिल गया",
+  "stepNumber": "चरण {number}",
+  "@stepNumber": {
+    "placeholders": {
+      "number": { "type": "int" }
+    }
+  },
+  "currentTask": "वर्तमान कार्य",
+  "startArGuide": "एआर गाइड शुरू करें",
+  "prev": "पिछला",
+  "next": "अगला"
+}

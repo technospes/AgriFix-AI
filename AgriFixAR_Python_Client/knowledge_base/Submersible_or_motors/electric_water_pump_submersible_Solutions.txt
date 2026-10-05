@@ -1,0 +1,1161 @@
+🟦 PROBLEM 1 — PUMP DOES NOT START
+
+🔹 Chunk 1 — Problem Overview
+PROBLEM: Pump does not start
+TAGS: pump not starting, motor not starting, no start, switch on but nothing, current aa raha but pump band, motor dead, chalu nahi ho raha, start nahi le raha, borewell pump not starting, electric pump not starting
+SYMPTOM: Pump does not run after switch is turned ON. No water delivery starts.
+LIKELY_CAUSES: no power supply, MCB off or tripped, loose wire connection, burnt fuse, low voltage, control box fault
+MECHANICAL_REASON: The motor cannot rotate if electrical power does not reach the winding correctly.
+DIAGNOSTIC_BRANCH: IF no sound and no vibration -> power/control route; IF humming only -> capacitor/low voltage/jam route; IF breaker trips immediately -> short/overload route.
+STEPS: Switch OFF main supply before touching wires; check if MCB or starter is ON; inspect plug, switch, and visible wire joints; retry only after covers are closed
+TOOLS: torch
+WARNINGS: Do not touch bare wires with wet hands.
+VISUAL: MCB_Switch, Starter_Switch, Plug_Top, Power_Cable, Control_Box
+PARTS: MCB, Fuse, Starter_Switch, Plug_Top, Power_Cable, Terminal_Block, Control_Box, Motor
+ESCALATE_IF: Power is present but pump remains fully dead or trips instantly again.
+
+🔹 Chunk 2 — MCB Tripped or Starter OFF
+PROBLEM: Pump does not start
+TAGS: mcb down, trip ho gaya, switch niche hai, starter off, power cut, no supply, main switch off, pump switch not on, current band
+SYMPTOM: Pump does not respond at all and the main breaker or motor starter handle is found in OFF or tripped position.
+LIKELY_CAUSES: overload trip, short circuit event, accidental switch-off, low voltage causing starter drop
+MECHANICAL_REASON: The protection device opens the circuit and stops current flow to the motor.
+DIAGNOSTIC_BRANCH: IF MCB was OFF and pump runs after reset -> temporary trip; IF it trips again quickly -> overload/short route.
+STEPS: Switch off pump command; inspect MCB/starter position; reset once firmly; start pump and observe for 10–20 seconds
+TOOLS: torch
+WARNINGS: Reset only once; repeated forcing can worsen damage.
+VISUAL: MCB_Switch, Starter_Switch, Overload_Reset
+PARTS: MCB, Motor_Starter, Overload_Relay, Start_Button, Stop_Button
+ESCALATE_IF: Breaker or overload trips again immediately after one safe reset.
+
+🔹 Chunk 3 — Plug Loose or Socket Burnt
+PROBLEM: Pump does not start
+TAGS: plug loose, socket garam, plug jal gaya, burnt plug, intermittent power, hilane se chalu, contact loose, switchboard issue
+SYMPTOM: Pump starts only sometimes, plug feels loose, or black burn marks are visible on plug pins or socket.
+LIKELY_CAUSES: loose plug fit, burnt socket contacts, overheated connection, undersized extension wire
+MECHANICAL_REASON: Poor contact creates resistance heating and unstable current to the motor.
+DIAGNOSTIC_BRANCH: IF plug wiggles and power comes/goes -> socket contact route; IF black marks or melted plastic visible -> burnt connection route.
+STEPS: Switch OFF supply; remove plug; inspect pins and socket for blackening or melting; avoid using loose extension board; reconnect only if fit is tight and dry
+WARNINGS: Do not use melted plug or sparking socket.
+VISUAL: Plug_Top, Socket_Board, Burn_Mark, Power_Cable
+PARTS: Plug_Top, Socket_Board, Extension_Cable, Power_Cable
+ESCALATE_IF: Plug or socket is hot, melted, or sparking.
+
+🔹 Chunk 4 — Fuse Blown in Pump Line
+PROBLEM: Pump does not start
+TAGS: fuse blown, fuse ud gaya, no power to pump, cutout fuse, starter fuse, line fuse gone
+SYMPTOM: Supply is available nearby but pump starter or control box shows no output and fuse strip/wire appears broken or black.
+LIKELY_CAUSES: previous short circuit, overload, loose fuse holder contact
+MECHANICAL_REASON: A blown fuse opens the circuit and blocks current to the pump.
+DIAGNOSTIC_BRANCH: IF fuse is visibly broken/black -> fuse route; IF new fuse blows again -> short circuit route.
+STEPS: Switch OFF main supply; open fuse holder if externally accessible; inspect fuse element; replace only with same rating; close cover before restart
+TOOLS: screwdriver, torch
+WARNINGS: Never bypass fuse with random wire.
+VISUAL: Fuse_Holder, Fuse_Link, Control_Box
+PARTS: Fuse, Fuse_Holder, Control_Box, Terminal_Block
+ESCALATE_IF: Correct fuse blows again after replacement.
+
+🔹 Chunk 5 — Low Voltage No Start
+PROBLEM: Pump does not start
+TAGS: low voltage, bijli kam hai, motor nahi uth rahi, humming on start, weak supply, voltage drop, current kam, pump bas awaz karta hai
+SYMPTOM: Pump hums weakly, starts very slowly, or fails to pick up speed especially in evening peak load.
+LIKELY_CAUSES: low line voltage, long thin cable, overloaded village line, weak capacitor in surface pump
+MECHANICAL_REASON: Low voltage reduces starting torque and the motor cannot accelerate properly.
+DIAGNOSTIC_BRANCH: IF lights also dim and motor hums -> low voltage route; IF voltage seems normal but hum persists -> capacitor/jam route.
+STEPS: Switch OFF pump; wait for better supply period; avoid long thin extension wire; retry when lights/fans in house are normal strength
+WARNINGS: Do not keep a humming motor energized for long.
+VISUAL: Power_Cable, Plug_Top, House_Light, Control_Box
+PARTS: Power_Cable, Capacitor, Motor, Control_Box
+ESCALATE_IF: Motor only hums repeatedly even when supply appears normal.
+
+🔹 Chunk 6 — Control Box Dead
+PROBLEM: Pump does not start
+TAGS: control box problem, box dead, capacitor box dead, submersible panel dead, no indication, relay box fault, starter box kharab
+SYMPTOM: Pump does not start and the external control box shows no click, no indicator, or burnt smell.
+LIKELY_CAUSES: failed capacitor, burnt relay/contactor, loose terminal, internal burnt wiring
+MECHANICAL_REASON: The control box manages starting and protection; if it fails, the motor does not get correct start/run supply.
+DIAGNOSTIC_BRANCH: IF control box has burnt smell or black marks -> box fault route; IF box clicks but motor silent -> motor cable/submersible route.
+STEPS: Switch OFF mains; inspect outside of box for heat marks, smell, cracked case, loose incoming wires; keep box closed if internal burning is suspected
+WARNINGS: Do not open live control box.
+VISUAL: Control_Box, Capacitor_Box, Contactor_Case, Burn_Mark, Terminal_Block
+PARTS: Control_Box, Capacitor, Relay, Contactor, Terminal_Block, Overload_Relay
+ESCALATE_IF: Burnt smell, melted case, or repeated no-start persists after basic supply checks.
+
+🔹 Chunk 7 — Start Capacitor Failed in Surface Pump
+PROBLEM: Pump does not start
+TAGS: capacitor weak, capacitor kharab, humming motor, single phase pump hums, start capacitor gone, awaz aa rahi par chal nahi raha
+SYMPTOM: Pump gives a humming sound and body vibrates slightly but motor does not pick full speed.
+LIKELY_CAUSES: weak or failed start capacitor, low voltage, impeller jam
+MECHANICAL_REASON: A failed capacitor prevents proper phase shift, so starting torque becomes too low.
+DIAGNOSTIC_BRANCH: IF surface pump hums without rotation -> capacitor/jam route; IF breaker trips after humming -> capacitor short/locked rotor route.
+STEPS: Switch OFF immediately; let motor cool; inspect external capacitor box for bulging, oil leak, crack, or burning smell
+WARNINGS: Capacitor can store charge; do not handle internal terminals casually.
+VISUAL: Capacitor_Box, Motor_Body, Burn_Mark
+PARTS: Capacitor, Capacitor_Box, Motor, Cooling_Fan_Cover
+ESCALATE_IF: Capacitor box is swollen, leaking, or pump still only hums.
+
+🔹 Chunk 8 — Motor Jam or Rotor Not Free
+PROBLEM: Pump does not start
+TAGS: motor jam, pump jam, rotor stuck, impeller stuck, shaft not moving, seized pump, jammed water pump
+SYMPTOM: Motor hums loudly, may get hot quickly, and does not come to full speed.
+LIKELY_CAUSES: impeller jam by debris, seized bearing, rust lock after long idle, internal rotor drag
+MECHANICAL_REASON: The motor draws current but cannot rotate because the rotating assembly is mechanically locked.
+DIAGNOSTIC_BRANCH: IF humming is strong and repeated with heating -> jam/locked rotor route; IF breaker trips fast -> locked rotor/short route.
+STEPS: Switch OFF at once; do not keep retrying; check for external fan cover obstruction on surface pump; inspect suction side for stones or debris entry signs
+WARNINGS: Repeated energizing can burn winding.
+VISUAL: Motor_Body, Fan_Cover, Pump_Housing, Suction_Port
+PARTS: Motor, Bearing, Rotor, Impeller, Pump_Housing, Fan_Cover
+ESCALATE_IF: Jam suspicion remains or motor heats within seconds.
+
+🔹 Chunk 9 — Submersible Cable or Joint Fault
+PROBLEM: Pump does not start
+TAGS: submersible cable fault, borewell wire problem, joint burnt, cable cut, underground cable fault, drop cable issue, motor cable damaged
+SYMPTOM: Borewell pump does not start, control box may click, and visible cable joint near wellhead looks taped, wet, cracked, or burnt.
+LIKELY_CAUSES: damaged drop cable, water entry at joint, loose terminal at panel, cable insulation failure
+MECHANICAL_REASON: Current cannot reach the submerged motor properly when the cable path is open or leaking.
+DIAGNOSTIC_BRANCH: IF panel works but pump silent and cable joint is damaged -> cable/joint route; IF breaker trips immediately -> cable short route.
+STEPS: Switch OFF mains; inspect visible cable near wellhead and panel terminal; look for cuts, cracked tape, burn marks, loose screws; keep joint dry
+WARNINGS: Never touch wet damaged cable while supply is ON.
+VISUAL: Borewell_Cable, Cable_Joint, Wellhead, Terminal_Block, Control_Box
+PARTS: Drop_Cable, Cable_Joint, Terminal_Block, Control_Box, Submersible_Motor
+ESCALATE_IF: Cable insulation is damaged, joint is wet/burnt, or repeated tripping occurs.
+
+🟦 PROBLEM 2 — PUMP HUMS BUT DOES NOT RUN
+
+🔹 Chunk 1 — Humming Overview
+PROBLEM: Pump hums but does not run
+TAGS: humming sound, gunn gunn awaz, motor awaz karta hai, not rotating, motor stuck, current aa raha par chal nahi raha
+SYMPTOM: A steady humming or buzzing sound is heard after switch ON, but water does not come and motor does not run normally.
+LIKELY_CAUSES: failed capacitor, low voltage, jammed impeller, seized bearing
+MECHANICAL_REASON: The motor is energized but cannot generate enough starting torque or cannot rotate freely.
+DIAGNOSTIC_BRANCH: IF body vibrates but shaft does not pick speed -> capacitor/jam route; IF breaker trips after humming -> locked rotor/short route.
+STEPS: Switch OFF within a few seconds; allow cooling; inspect capacitor box, wiring, and signs of jam; retry only once after basic checks
+WARNINGS: Do not leave humming motor ON.
+VISUAL: Motor_Body, Capacitor_Box, Pump_Housing, Control_Box
+PARTS: Capacitor, Motor, Bearing, Impeller, Pump_Housing
+ESCALATE_IF: Humming returns immediately after one safe retry.
+
+🔹 Chunk 2 — Capacitor Bulged or Leaking
+PROBLEM: Pump hums but does not run
+TAGS: capacitor phoola hua, bulged capacitor, capacitor leaking, weak capacitor, start problem, humming issue
+SYMPTOM: External capacitor housing looks swollen, cracked, oily, or burnt; pump hums instead of starting.
+LIKELY_CAUSES: capacitor failure due to age, heat, overvoltage
+MECHANICAL_REASON: A damaged capacitor cannot create proper phase shift for startup.
+DIAGNOSTIC_BRANCH: IF capacitor case is swollen/leaking -> capacitor failure route; IF capacitor looks normal -> low voltage/jam route.
+STEPS: Switch OFF supply; inspect capacitor can or capacitor box from outside; do not press or puncture it
+WARNINGS: Capacitor can shock even after power OFF.
+VISUAL: Capacitor_Box, Capacitor_Can, Burn_Mark
+PARTS: Capacitor, Capacitor_Box, Wiring_Terminal
+ESCALATE_IF: Capacitor shows swelling, oil leak, or cracking.
+
+🔹 Chunk 3 — Fan Side Obstruction on Surface Pump
+PROBLEM: Pump hums but does not run
+TAGS: fan jam, cooling fan stuck, leaves in fan, rear fan blocked, motor back side jam
+SYMPTOM: Surface pump hums and rear cooling fan area has mud, plastic, cloth, or insect nest blocking movement.
+LIKELY_CAUSES: external fan obstruction, debris in fan cover, rodent nesting
+MECHANICAL_REASON: The rotor may be prevented from turning if the cooling fan or shaft is physically blocked.
+DIAGNOSTIC_BRANCH: IF visible external obstruction exists at fan cover -> remove obstruction route; IF no obstruction visible -> internal jam route.
+STEPS: Switch OFF and unplug; inspect rear fan cover slots; remove loose debris with dry stick or brush
+TOOLS: brush, wooden_stick, torch
+WARNINGS: Do not insert fingers into fan cover.
+VISUAL: Fan_Cover, Cooling_Fan, Motor_Backside
+PARTS: Fan_Cover, Cooling_Fan, Motor_Shaft
+ESCALATE_IF: Humming continues after obstruction is cleared.
+
+🔹 Chunk 4 — Low Voltage Humming at Peak Hours
+PROBLEM: Pump hums but does not run
+TAGS: evening low voltage, raat ko start nahi, village line weak, peak load issue, low current humming
+SYMPTOM: Pump hums or starts badly only at certain times of day when village supply is weak.
+LIKELY_CAUSES: low grid voltage, long service wire, shared heavy load on line
+MECHANICAL_REASON: Reduced voltage gives insufficient torque to accelerate the motor.
+DIAGNOSTIC_BRANCH: IF problem is time-dependent and other appliances also weaken -> low voltage route; IF issue happens all the time -> capacitor/jam route.
+STEPS: Note whether issue is worse in evening; avoid repeated start attempts during weak supply; retry at stronger supply time
+WARNINGS: Repeated low-voltage starts can burn motor winding.
+VISUAL: House_Light, Control_Box, Power_Cable
+PARTS: Motor, Power_Cable, Capacitor, Control_Box
+ESCALATE_IF: Pump never starts properly even when supply is strong.
+
+🟦 PROBLEM 3 — BREAKER OR OVERLOAD TRIPS
+
+🔹 Chunk 1 — Trip Overview
+PROBLEM: Breaker or overload trips
+TAGS: mcb trip, overload trip, switch falls down, fuse udta hai, current maar raha, pump chalu karte hi trip, starter cut
+SYMPTOM: MCB, starter overload, or fuse trips when pump is switched ON or soon after.
+LIKELY_CAUSES: shorted wire, locked motor, low voltage high current, capacitor fault, dry running overload, sand load
+MECHANICAL_REASON: Excess current or fault current activates protection to prevent burning.
+DIAGNOSTIC_BRANCH: IF trip is immediate -> short/locked rotor route; IF trip after some running -> overload/dry run/bearing route.
+STEPS: Reset only once after pump is OFF; inspect wires, plug, box, and smell; observe whether trip is immediate or delayed
+WARNINGS: Do not keep force-resetting tripped protection.
+VISUAL: MCB_Switch, Overload_Reset, Control_Box, Power_Cable
+PARTS: MCB, Overload_Relay, Fuse, Power_Cable, Capacitor, Motor
+ESCALATE_IF: Trip repeats after one safe reset.
+
+🔹 Chunk 2 — Immediate Trip on Start
+PROBLEM: Breaker or overload trips
+TAGS: instant trip, start karte hi trip, immediate mcb down, zero second trip, direct short
+SYMPTOM: Breaker trips the moment the pump is switched ON; motor may not even hum properly.
+LIKELY_CAUSES: shorted cable, burnt winding, shorted capacitor, wet control box, locked rotor
+MECHANICAL_REASON: Fault current rises instantly when the circuit is energized.
+DIAGNOSTIC_BRANCH: IF instant trip with no running -> short/cable/capacitor route; IF instant trip plus wet cable joint -> cable leakage route.
+STEPS: Switch OFF main supply; inspect visible cable damage and wet joints; inspect control box for moisture or burning; do not retry repeatedly
+WARNINGS: Water plus live electricity is dangerous.
+VISUAL: Borewell_Cable, Cable_Joint, Control_Box, Capacitor_Box, Burn_Mark
+PARTS: Drop_Cable, Cable_Joint, Capacitor, Control_Box, Motor_Winding
+ESCALATE_IF: No obvious external fault but immediate trip continues.
+
+🔹 Chunk 3 — Trip After Some Minutes of Running
+PROBLEM: Breaker or overload trips
+TAGS: thodi der baad trip, after running trip, overload after 5 minute, garam hoke band, thermal trip
+SYMPTOM: Pump starts and runs, then trips after a few minutes, often with hot motor body.
+LIKELY_CAUSES: dry running, low water level, tight bearing, sand load, blocked delivery, low voltage overheating
+MECHANICAL_REASON: Sustained high current or overheating triggers thermal protection after some time.
+DIAGNOSTIC_BRANCH: IF water flow is low before trip -> dry run/blockage route; IF motor body becomes very hot -> overload/bearing/voltage route.
+STEPS: Let pump cool; check water flow pattern; inspect discharge valve position and line blockage; avoid continuous restart
+WARNINGS: Hot motor can burn skin.
+VISUAL: Motor_Body, Delivery_Pipe, Pressure_Gauge, Overload_Reset
+PARTS: Motor, Bearing, Impeller, Delivery_Pipe, Non_Return_Valve, Overload_Relay
+ESCALATE_IF: Pump repeatedly trips after warming up.
+
+🔹 Chunk 4 — Wet Control Box or Rain Entry
+PROBLEM: Breaker or overload trips
+TAGS: rain water in panel, box wet, moisture trip, control box gila, shock risk, short due to water
+SYMPTOM: Trip problem starts after rain, washing area, or water splash; control box exterior or cable entry is wet.
+LIKELY_CAUSES: water ingress into control box, leaking cable gland, exposed wire joint
+MECHANICAL_REASON: Moisture creates leakage path and can short electrical terminals.
+DIAGNOSTIC_BRANCH: IF rain or splash history and box is damp -> moisture route; IF box dry -> other trip routes.
+STEPS: Switch OFF mains; keep box closed; dry outside; protect area from further splash; do not restart until dry and checked
+WARNINGS: Do not open wet live panel.
+VISUAL: Control_Box, Cable_Gland, Water_Droplet, Borewell_Cable
+PARTS: Control_Box, Cable_Gland, Terminal_Block, Power_Cable
+ESCALATE_IF: Moisture entered inside box or tripping continues after drying.
+
+🟦 PROBLEM 4 — PUMP RUNS BUT NO WATER COMES
+
+🔹 Chunk 1 — No Water Overview
+PROBLEM: Pump runs but no water comes
+TAGS: motor chal raha but pani nahi aa raha, no discharge, no water output, dry running, pump running empty, bore motor running no water
+SYMPTOM: Motor sound is normal or near-normal, but outlet gives no water.
+LIKELY_CAUSES: pump not primed, suction air leak, foot valve failed, borewell water level low, dry running, delivery line blockage
+MECHANICAL_REASON: The pump rotates, but water is not being lifted or retained in the hydraulic path.
+DIAGNOSTIC_BRANCH: IF surface pump and suction line empty -> priming/suction route; IF submersible with sudden no water -> dry bore/non-return/pipe route.
+STEPS: Stop pump to avoid dry running; identify whether pump is surface or submersible; check priming, suction leak, source water, and outlet blockage
+WARNINGS: Do not let pump run dry for long.
+VISUAL: Surface_Pump, Priming_Port, Suction_Pipe, Delivery_Pipe, Borewell_Outlet
+PARTS: Pump_Housing, Impeller, Priming_Port, Suction_Pipe, Foot_Valve, Delivery_Pipe, Non_Return_Valve, Submersible_Pump
+ESCALATE_IF: Water still does not come after priming and visible line checks.
+
+🔹 Chunk 2 — Surface Pump Lost Prime
+PROBLEM: Pump runs but no water comes
+TAGS: priming gone, air in pump, water not filled, pump hawa pakad liya, self priming fail, prime lost
+SYMPTOM: Surface pump runs but only air sound comes; pump casing or priming port is not full of water.
+LIKELY_CAUSES: pump not primed, water leaked back from suction line, loose priming cap, foot valve leak
+MECHANICAL_REASON: A centrifugal pump cannot lift water if air remains in the casing and suction path.
+DIAGNOSTIC_BRANCH: IF priming chamber is empty -> priming route; IF prime is lost repeatedly -> foot valve/air leak route.
+STEPS: Switch OFF pump; open priming port; fill pump casing and suction line with clean water till full; close cap tightly; restart
+TOOLS: bucket, funnel
+WARNINGS: Prime only with power OFF.
+VISUAL: Priming_Port, Pump_Housing, Priming_Cap, Suction_Pipe
+PARTS: Priming_Port, Priming_Cap, Pump_Housing, Suction_Pipe, Foot_Valve
+ESCALATE_IF: Pump loses prime again and again after proper filling.
+
+🔹 Chunk 3 — Suction Pipe Air Leak
+PROBLEM: Pump runs but no water comes
+TAGS: air leak suction, hawa le raha, suction pipe leak, loose union, cracked suction hose, pump sucking air
+SYMPTOM: Surface pump runs with bubbling or gurgling sound, little or no water comes, and suction joints may show wetness or looseness.
+LIKELY_CAUSES: loose union, cracked suction hose, bad thread sealing, pinhole leak above water line
+MECHANICAL_REASON: Air enters the suction line and breaks the vacuum needed to lift water.
+DIAGNOSTIC_BRANCH: IF repeated prime loss plus bubbling sound -> suction air leak route; IF suction line stays full and tight -> other no-water route.
+STEPS: Switch OFF pump; inspect every suction joint and hose bend; tighten loose union; look for cracks, split hose, missing sealing tape
+TOOLS: spanner, cloth, torch
+VISUAL: Suction_Pipe, Union_Joint, Hose_Clamp, Wet_Leak_Mark
+PARTS: Suction_Pipe, Union_Joint, Hose_Clamp, Threaded_Connector, Pump_Inlet
+ESCALATE_IF: Crack or leak remains or suction line cannot hold water.
+
+🔹 Chunk 4 — Foot Valve Not Holding
+PROBLEM: Pump runs but no water comes
+TAGS: foot valve leak, bottom valve not holding, pani wapas ja raha, suction empty after stop, check valve problem
+SYMPTOM: After pump stops, suction pipe empties back and next start needs frequent re-priming.
+LIKELY_CAUSES: worn foot valve flap, debris stuck in valve, damaged strainer, leaking bottom joint
+MECHANICAL_REASON: If the foot valve does not hold, water drains back and the pump loses suction column.
+DIAGNOSTIC_BRANCH: IF prime is lost after each stop -> foot valve route; IF prime stays but no water -> blockage/impeller route.
+STEPS: Prime pump fully; stop and watch whether suction line empties; inspect visible suction end setup if accessible from tank/open source
+VISUAL: Foot_Valve, Suction_Strainer, Suction_Pipe
+PARTS: Foot_Valve, Valve_Flap, Suction_Strainer, Suction_Pipe
+ESCALATE_IF: Foot valve is inside deep source or replacement access is difficult.
+
+🔹 Chunk 5 — Borewell Water Level Too Low
+PROBLEM: Pump runs but no water comes
+TAGS: bore dry, pani level niche, water table low, submersible running dry, summer no water, borewell low yield
+SYMPTOM: Submersible pump runs but discharge is absent or comes briefly then stops, especially in summer or after heavy use.
+LIKELY_CAUSES: water table dropped below pump intake, borewell recharge too slow, over-pumping
+MECHANICAL_REASON: The submerged pump cannot deliver water if its intake is not adequately underwater.
+DIAGNOSTIC_BRANCH: IF problem is seasonal/intermittent and returns after rest -> low water level route; IF always no water -> pipe/non-return/motor route.
+STEPS: Stop pump; allow borewell recovery time; retry after rest; reduce continuous pumping duration
+WARNINGS: Dry running can damage pump.
+VISUAL: Borewell_Outlet, Flow_At_Outlet, Control_Box
+PARTS: Submersible_Pump, Pump_Intake, Bore_Casing, Delivery_Pipe
+ESCALATE_IF: No recovery after rest or water level needs professional measurement.
+
+🔹 Chunk 6 — Delivery Pipe Closed or Blocked
+PROBLEM: Pump runs but no water comes
+TAGS: outlet blocked, discharge blocked, valve closed, pipe jam, delivery line बंद, tap band, mud blockage
+SYMPTOM: Pump sounds loaded but little or no water exits; delivery valve may be closed or pipe may be kinked/blocked.
+LIKELY_CAUSES: closed valve, folded hose, blocked filter/nozzle, mud or scale in pipe
+MECHANICAL_REASON: Water cannot leave the pump when the discharge path is restricted.
+DIAGNOSTIC_BRANCH: IF outlet valve is closed or pipe kinked -> discharge blockage route; IF outlet path open -> suction/impeller route.
+STEPS: Switch OFF pump; inspect delivery valve position; straighten bent hose; clean outlet screen/nozzle if present
+TOOLS: pliers, cloth
+VISUAL: Delivery_Valve, Delivery_Pipe, Outlet_Nozzle, Kinked_Hose
+PARTS: Delivery_Valve, Delivery_Pipe, Outlet_Nozzle, Hose_Clamp
+ESCALATE_IF: Pipe remains blocked internally or pressure builds with no flow.
+
+🔹 Chunk 7 — Submersible Delivery Pipe Leak Underground
+PROBLEM: Pump runs but no water comes
+TAGS: underground leak, riser pipe leak, pipe phat gaya, water going inside bore, no water at top, hidden pipe leakage
+SYMPTOM: Borewell pump sounds like it is running but very little or no water reaches surface, and no external outlet blockage is found.
+LIKELY_CAUSES: cracked riser pipe, loose coupling inside bore, delivery pipe leak back into bore
+MECHANICAL_REASON: Pumped water escapes inside the bore or underground before reaching the outlet.
+DIAGNOSTIC_BRANCH: IF motor sound is normal but top flow is absent and line above ground is okay -> internal delivery leak route.
+STEPS: Compare sound and current behavior with previous normal days; inspect all visible top fittings for leakage; stop repeated dry operation
+VISUAL: Borewell_Head, Delivery_Pipe, Wellhead_Joint
+PARTS: Riser_Pipe, Pipe_Coupling, Delivery_Pipe, Submersible_Pump
+ESCALATE_IF: Internal bore pipe leak is suspected.
+
+🟦 PROBLEM 5 — LOW WATER FLOW OR WEAK PRESSURE
+
+🔹 Chunk 1 — Low Flow Overview
+PROBLEM: Low water flow or weak pressure
+TAGS: kam pani aa raha, pressure low, water flow weak, slow filling, thin stream, discharge weak, motor chalta hai par pani kam
+SYMPTOM: Water comes out but stream is weak, tank fills slowly, or pressure is much lower than usual.
+LIKELY_CAUSES: low voltage, partially blocked pipe, worn impeller, suction leak, sand wear, low water level
+MECHANICAL_REASON: Reduced pump speed, restricted flow path, or worn hydraulic parts lower discharge.
+DIAGNOSTIC_BRANCH: IF flow is weak with normal sound -> blockage/impeller/water level route; IF sound also weak and slow -> low voltage route.
+STEPS: Check whether all outlets are fully open; inspect hose bends and visible blockages; compare with normal timing and season
+VISUAL: Delivery_Pipe, Outlet_Stream, Pressure_Gauge, Suction_Pipe
+PARTS: Impeller, Delivery_Pipe, Suction_Pipe, Foot_Valve, Non_Return_Valve, Submersible_Pump
+ESCALATE_IF: Flow stays low after visible pipe and valve checks.
+
+🔹 Chunk 2 — Suction Strainer Choked
+PROBLEM: Low water flow or weak pressure
+TAGS: strainer blocked, foot valve mesh choked, jal ka kachra, leaves blockage, inlet blocked, suction filter jam
+SYMPTOM: Flow gradually becomes weak; open-source surface pump source contains leaves, algae, mud, or plastic near suction end.
+LIKELY_CAUSES: suction strainer clogged, debris at inlet, mud accumulation
+MECHANICAL_REASON: Blocked inlet reduces the amount of water entering the pump.
+DIAGNOSTIC_BRANCH: IF source water is dirty and flow dropped gradually -> strainer blockage route; IF source is clean -> other low-flow route.
+STEPS: Switch OFF pump; lift accessible suction end from source if possible; clean strainer/mesh and remove weeds, mud, plastic
+TOOLS: brush, bucket
+WARNINGS: Keep footing safe near well or tank edge.
+VISUAL: Suction_Strainer, Foot_Valve, Mud_Deposit, Weed_Blockage
+PARTS: Suction_Strainer, Foot_Valve, Suction_Pipe
+ESCALATE_IF: Inlet assembly is deep/inaccessible or flow remains weak.
+
+🔹 Chunk 3 — Partial Delivery Blockage
+PROBLEM: Low water flow or weak pressure
+TAGS: pipe half blocked, scale jam, discharge restricted, nozzle choked, valve half closed, line obstruction
+SYMPTOM: Pressure is weak and delivery line or filter at outlet shows dirt or narrowing.
+LIKELY_CAUSES: mineral scale, mud blockage, partly closed valve, dirty filter/nozzle
+MECHANICAL_REASON: Partial restriction increases resistance and reduces water flow.
+DIAGNOSTIC_BRANCH: IF line is clear near pump but weak at outlet -> delivery blockage route; IF weak everywhere -> impeller/voltage/water level route.
+STEPS: Switch OFF pump; open and inspect accessible filter, screen, and end nozzles; fully open valve; flush line if possible
+TOOLS: pliers, screwdriver, bucket
+VISUAL: Delivery_Valve, Filter_Screen, Outlet_Nozzle, Pipe_Deposit
+PARTS: Delivery_Valve, Filter_Screen, Delivery_Pipe, Outlet_Nozzle
+ESCALATE_IF: Internal pipe scaling or hidden blockage is suspected.
+
+🔹 Chunk 4 — Worn Impeller
+PROBLEM: Low water flow or weak pressure
+TAGS: impeller worn, pump ghis gaya, pressure weak, old pump low output, sand damage impeller
+SYMPTOM: Pump runs smoothly but discharge remains much weaker than before, especially on an old pump or sandy water source.
+LIKELY_CAUSES: impeller wear, diffuser wear, sand abrasion
+MECHANICAL_REASON: Worn impeller cannot build enough head and discharge pressure.
+DIAGNOSTIC_BRANCH: IF low flow is chronic and pump age/sand exposure is high -> impeller wear route; IF sudden drop -> blockage/leak route.
+STEPS: Note pump age and source sandiness; compare pressure history; rule out valve, pipe, and voltage issues first
+VISUAL: Pump_Housing, Sandy_Water_Outlet
+PARTS: Impeller, Diffuser, Pump_Housing, Mechanical_Seal
+ESCALATE_IF: Impeller wear is suspected because pump body opening is needed.
+
+🔹 Chunk 5 — Low Voltage Low Speed
+PROBLEM: Low water flow or weak pressure
+TAGS: low voltage low pressure, motor slow, weak discharge in low current, voltage kam pressure kam
+SYMPTOM: Water comes weakly and motor sound is slower or heavier than normal; issue worsens at peak power demand time.
+LIKELY_CAUSES: low line voltage, long cable, loose power joint
+MECHANICAL_REASON: Lower motor speed reduces pump head and flow.
+DIAGNOSTIC_BRANCH: IF flow improves at other times -> low voltage route; IF always weak -> blockage/wear route.
+STEPS: Observe whether house lights dim when pump starts; avoid long thin cable; retry at better supply time
+VISUAL: House_Light, Power_Cable, Delivery_Stream
+PARTS: Power_Cable, Motor, Capacitor, Control_Box
+ESCALATE_IF: Flow remains weak even when supply is clearly good.
+
+🔹 Chunk 6 — Low Bore Yield
+PROBLEM: Low water flow or weak pressure
+TAGS: bore yield low, recharge slow, water less from bore, seasonal low flow, summer weak borewell
+SYMPTOM: Submersible output starts normal then becomes thin, or weak flow is common in dry season.
+LIKELY_CAUSES: falling groundwater level, low bore recharge, overuse
+MECHANICAL_REASON: The pump intake gets less available water than the pump demand.
+DIAGNOSTIC_BRANCH: IF flow reduces after some running and recovers after rest -> low bore yield route; IF always weak -> wear/blockage route.
+STEPS: Pump in shorter cycles; allow recovery time between runs; avoid emptying bore continuously
+VISUAL: Borewell_Outlet, Outlet_Stream
+PARTS: Submersible_Pump, Pump_Intake, Bore_Casing
+ESCALATE_IF: Borewell recovery remains poor and water source assessment is needed.
+
+🟦 PROBLEM 6 — PUMP STARTS AND STOPS FREQUENTLY
+
+🔹 Chunk 1 — Short Cycling Overview
+PROBLEM: Pump starts and stops frequently
+TAGS: auto on off, bar bar chalu band, short cycling, frequent start stop, motor cutting repeatedly, start stop issue
+SYMPTOM: Pump runs for a short time, stops, then starts again repeatedly without normal long run.
+LIKELY_CAUSES: pressure switch issue, leaking line, non-return valve leak, low water source, overload trip-reset cycle
+MECHANICAL_REASON: Loss of pressure, protection trips, or faulty control logic causes repeated cycling.
+DIAGNOSTIC_BRANCH: IF pressure system installed -> pressure switch/leak route; IF thermal cooling then restart -> overload route.
+STEPS: Observe interval pattern; check for visible leaks in line and tank float/pressure controls; note whether motor is getting hot before stopping
+VISUAL: Pressure_Switch, Delivery_Pipe, Leakage_Point, Overload_Reset
+PARTS: Pressure_Switch, Pressure_Tank, Non_Return_Valve, Delivery_Pipe, Overload_Relay, Motor
+ESCALATE_IF: Cycling continues and cause is not visible externally.
+
+🔹 Chunk 2 — Delivery Side Leak Causing Restart
+PROBLEM: Pump starts and stops frequently
+TAGS: line leak, water leak, pressure dropping, pump restarting, outlet leak, pipe se pani tapak raha
+SYMPTOM: Pump restarts often and visible dripping or spraying leak exists on delivery line or tank connection.
+LIKELY_CAUSES: cracked pipe, loose clamp, leaking tap/float valve, faulty joint
+MECHANICAL_REASON: Escaping water drops system pressure and makes the pump start again.
+DIAGNOSTIC_BRANCH: IF visible leak exists and cycling follows pressure drop -> delivery leak route.
+STEPS: Switch OFF pump; inspect all visible line joints and tank inlet; tighten loose clamps; stop obvious leak if safely possible
+TOOLS: pliers, screwdriver, cloth
+WARNINGS: Repair leak only after power OFF.
+VISUAL: Delivery_Pipe, Pipe_Joint, Water_Leak, Hose_Clamp, Tank_Inlet
+PARTS: Delivery_Pipe, Pipe_Joint, Hose_Clamp, Float_Valve, Tap
+ESCALATE_IF: Hidden wall/underground leak is suspected.
+
+🔹 Chunk 3 — Thermal Overload Stop and Restart
+PROBLEM: Pump starts and stops frequently
+TAGS: hot hoke band, thanda hoke start, thermal cut, overload reset by itself, garam motor cycle
+SYMPTOM: Pump runs, motor heats, stops, then restarts after cooling.
+LIKELY_CAUSES: overload, low voltage, tight bearing, dry run, blocked discharge
+MECHANICAL_REASON: Thermal protector opens when motor overheats and closes again after cooling.
+DIAGNOSTIC_BRANCH: IF motor body is very hot at stop -> thermal overload route; IF body is not hot -> control switch route.
+STEPS: Stop operation; allow full cooling; check flow, voltage pattern, and line blockage before next run
+WARNINGS: Repeated thermal cycling damages winding.
+VISUAL: Motor_Body, Overload_Reset, Delivery_Stream
+PARTS: Motor, Thermal_Protector, Bearing, Impeller, Overload_Relay
+ESCALATE_IF: Pump keeps cycling hot-cold repeatedly.
+
+🟦 PROBLEM 7 — MOTOR OVERHEATING
+
+🔹 Chunk 1 — Overheating Overview
+PROBLEM: Motor overheating
+TAGS: motor garam, body too hot, overheating pump, haath nahi lag raha, hot motor smell, winding heat
+SYMPTOM: Motor body becomes excessively hot, may smell hot, and may trip after some time.
+LIKELY_CAUSES: low voltage, overloading, dry running, blocked cooling, tight bearing, capacitor fault
+MECHANICAL_REASON: Excess current or poor cooling raises winding and body temperature.
+DIAGNOSTIC_BRANCH: IF no water flow and motor hot -> dry run route; IF humming and hot -> capacitor/jam route; IF running but hot -> overload/voltage route.
+STEPS: Switch OFF and let cool fully; check whether water flow was normal; inspect ventilation and fan cover on surface pump; avoid immediate restart
+WARNINGS: Hot body can burn skin.
+VISUAL: Motor_Body, Fan_Cover, Burn_Mark, Overload_Reset
+PARTS: Motor, Bearing, Capacitor, Cooling_Fan, Fan_Cover, Impeller
+ESCALATE_IF: Burning smell, smoke, or repeated overheating is present.
+
+🔹 Chunk 2 — Dry Running Heat
+PROBLEM: Motor overheating
+TAGS: dry run heat, bina pani chal gaya, no water motor hot, empty running, bore dry heat
+SYMPTOM: Pump runs with little or no water and motor body becomes hot quickly.
+LIKELY_CAUSES: lost prime, low water level, blocked suction, no source water
+MECHANICAL_REASON: Water normally helps load and cool the pump path; dry operation increases harmful heat conditions.
+DIAGNOSTIC_BRANCH: IF no discharge and heat rises -> dry running route; IF discharge normal but heat high -> voltage/bearing route.
+STEPS: Stop pump immediately; restore priming or water availability before next run
+WARNINGS: Never let pump run dry for long.
+VISUAL: Outlet_Stream, Priming_Port, Motor_Body, Borewell_Outlet
+PARTS: Pump_Housing, Impeller, Priming_Port, Submersible_Pump, Motor
+ESCALATE_IF: Heating occurred repeatedly after dry-run events.
+
+🔹 Chunk 3 — Surface Pump Ventilation Blocked
+PROBLEM: Motor overheating
+TAGS: cooling blocked, fan cover dust, ventilation blocked, motor hawa nahi le raha, mud on cooling slots
+SYMPTOM: Surface motor exterior is covered with dust, cloth, plastic, or packed mud around fan/air slots.
+LIKELY_CAUSES: blocked cooling path, dirty fan cover, poor installation space
+MECHANICAL_REASON: Restricted airflow reduces motor cooling and raises body temperature.
+DIAGNOSTIC_BRANCH: IF fan cover and vents are choked -> cooling blockage route; IF vents clean -> electrical/mechanical overload route.
+STEPS: Switch OFF and unplug; brush dust and debris from cooling slots and fan cover; keep air gap around motor
+TOOLS: dry_brush, cloth
+WARNINGS: Clean only when motor is OFF.
+VISUAL: Fan_Cover, Cooling_Slots, Dust_Deposit, Motor_Body
+PARTS: Fan_Cover, Cooling_Fan, Motor_Housing
+ESCALATE_IF: Motor still overheats with clean ventilation.
+
+🟦 PROBLEM 8 — BURNING SMELL OR SMOKE
+
+🔹 Chunk 1 — Burning Smell Overview
+PROBLEM: Burning smell or smoke
+TAGS: burning smell, jalne ki smell, dhuan aa raha, wire burning, motor smoke, burnt insulation smell
+SYMPTOM: Burnt plastic or varnish smell comes from pump, control box, plug, or motor; smoke may be visible.
+LIKELY_CAUSES: loose hot connection, burnt winding, shorted capacitor, overloaded motor, wet short circuit
+MECHANICAL_REASON: Excess heat from resistance or fault current burns insulation and plastic.
+DIAGNOSTIC_BRANCH: IF smell near plug/socket -> connection route; IF smell from control box -> capacitor/relay route; IF smell from motor body -> winding/bearing route.
+STEPS: Switch OFF main supply immediately; unplug if safe; do not restart; inspect source area from distance for smoke or melting
+WARNINGS: Fire and shock risk; stop use immediately.
+VISUAL: Smoke, Burn_Mark, Plug_Top, Socket_Board, Control_Box, Motor_Body
+PARTS: Plug_Top, Socket_Board, Capacitor, Contactor, Motor_Winding, Power_Cable
+ESCALATE_IF: Any smoke, melted plastic, or repeated burnt smell is present.
+
+🔹 Chunk 2 — Burnt Wire Terminal
+PROBLEM: Burning smell or smoke
+TAGS: terminal burnt, wire lug burnt, screw connection hot, black wire end, loose terminal burning
+SYMPTOM: Wire end at plug, starter, or control box is blackened, copper exposed, or insulation melted.
+LIKELY_CAUSES: loose terminal screw, poor crimp, overload current
+MECHANICAL_REASON: Loose contact creates high resistance and intense local heating.
+DIAGNOSTIC_BRANCH: IF blackening is concentrated at one terminal -> loose contact burning route.
+STEPS: Switch OFF power; do not touch exposed conductor; note affected terminal location for repair
+WARNINGS: Exposed burnt conductor can shock.
+VISUAL: Terminal_Block, Burn_Mark, Exposed_Copper, Melted_Insulation
+PARTS: Terminal_Block, Cable_Lug, Power_Cable, Plug_Terminal
+ESCALATE_IF: Any terminal is burnt or insulation is melted.
+
+🔹 Chunk 3 — Motor Winding Burn Suspicion
+PROBLEM: Burning smell or smoke
+TAGS: winding burnt, motor jal gaya, coil burn, varnish smell, motor body smell, pump winding gone
+SYMPTOM: Strong sharp burnt varnish smell comes from motor body and pump may not start or may trip immediately.
+LIKELY_CAUSES: winding insulation failure from overload, low voltage heating, dry running, repeated jam attempts
+MECHANICAL_REASON: Burnt winding loses insulation and cannot operate safely.
+DIAGNOSTIC_BRANCH: IF smell comes from motor body itself and performance is lost -> winding burn route.
+STEPS: Keep pump OFF; allow area to cool; do not reset and retry repeatedly
+WARNINGS: Continued use can cause fire or total motor failure.
+VISUAL: Motor_Body, Smoke, Burn_Mark
+PARTS: Motor_Winding, Stator, Rotor, Thermal_Protector
+ESCALATE_IF: Winding burn is suspected.
+
+🟦 PROBLEM 9 — UNUSUAL NOISE OR VIBRATION
+
+🔹 Chunk 1 — Noise Overview
+PROBLEM: Unusual noise or vibration
+TAGS: awaz aa rahi, vibration zyada, gharr gharr, rattling pump, grinding sound, bearing noise, pump shaking
+SYMPTOM: Pump runs with abnormal rattling, grinding, metal rubbing, or excessive shaking.
+LIKELY_CAUSES: loose mounting, bearing wear, cavitation/air entry, impeller rubbing, pipe hitting structure
+MECHANICAL_REASON: Mechanical looseness or damaged rotating parts create abnormal movement and sound.
+DIAGNOSTIC_BRANCH: IF whole pump shakes -> mounting/pipe route; IF grinding from motor -> bearing route; IF bubbly crackling with low flow -> suction air/cavitation route.
+STEPS: Switch OFF; inspect pump base bolts, pipe supports, and obvious rubbing marks; restart only briefly if safe to locate noise source
+WARNINGS: Keep hands away from rotating parts.
+VISUAL: Pump_Base, Mounting_Bolt, Motor_Body, Suction_Pipe, Delivery_Pipe
+PARTS: Pump_Base, Mounting_Bolt, Bearing, Impeller, Pump_Housing, Suction_Pipe
+ESCALATE_IF: Grinding metallic noise or severe shaking continues.
+
+🔹 Chunk 2 — Loose Mounting Bolts
+PROBLEM: Unusual noise or vibration
+TAGS: foundation loose, bolt loose, pump hil raha, mounting loose, vibration from base
+SYMPTOM: Surface pump moves or rattles on its base and fixing bolts look loose or missing.
+LIKELY_CAUSES: loose foundation bolts, weak platform, vibration over time
+MECHANICAL_REASON: A loose base allows the pump assembly to shake and amplify vibration.
+DIAGNOSTIC_BRANCH: IF body motion is visible at base -> mounting route; IF base firm -> internal noise route.
+STEPS: Switch OFF; tighten accessible mounting bolts evenly; ensure pump sits flat on base
+TOOLS: spanner
+VISUAL: Pump_Base, Mounting_Bolt, Base_Frame
+PARTS: Pump_Base, Mounting_Bolt, Base_Frame, Motor_Foot
+ESCALATE_IF: Cracked base or persistent vibration remains.
+
+🔹 Chunk 3 — Bearing Wear Sound
+PROBLEM: Unusual noise or vibration
+TAGS: bearing noise, ghis ghis sound, screeching motor, grinding bearing, rotor rough sound
+SYMPTOM: Continuous grinding or screeching comes from motor side and may worsen as motor warms up.
+LIKELY_CAUSES: worn bearing, dry bearing, shaft misalignment
+MECHANICAL_REASON: Damaged bearings no longer support smooth shaft rotation.
+DIAGNOSTIC_BRANCH: IF noise is metallic and from motor end -> bearing route; IF noise is water-bubble type -> cavitation route.
+STEPS: Stop pump; do not keep operating under grinding sound; check whether shaft/fan movement sounds rough during coast-down on surface pump
+VISUAL: Motor_Body, Fan_Cover, Motor_End
+PARTS: Front_Bearing, Rear_Bearing, Motor_Shaft, Rotor
+ESCALATE_IF: Bearing wear is suspected because motor opening is required.
+
+🔹 Chunk 4 — Cavitation or Air Entry Noise
+PROBLEM: Unusual noise or vibration
+TAGS: khad khad in water, bubble noise, cavitation, suction air, crackling pump sound, hawa awaz
+SYMPTOM: Surface pump makes crackling or stone-like water noise with weak flow, especially when suction lift is high.
+LIKELY_CAUSES: suction air leak, low source water, blocked strainer, excessive suction lift
+MECHANICAL_REASON: Air bubbles form and collapse inside the pump, causing noise and poor flow.
+DIAGNOSTIC_BRANCH: IF low flow plus bubbly crackling sound -> suction air/cavitation route.
+STEPS: Check priming level, suction joints, source water depth, and suction strainer cleanliness
+VISUAL: Suction_Pipe, Union_Joint, Priming_Port, Outlet_Stream
+PARTS: Suction_Pipe, Foot_Valve, Union_Joint, Pump_Housing, Impeller
+ESCALATE_IF: Noise continues after suction checks and re-priming.
+
+🟦 PROBLEM 10 — AIR LOCK OR PRIME LOSS
+
+🔹 Chunk 1 — Prime Loss Overview
+PROBLEM: Air lock or prime loss
+TAGS: air lock, hawa bhar gayi, prime loss, suction empty, re-priming needed, air in line, pump hawa pakad gaya
+SYMPTOM: Surface pump needs frequent re-priming, gives frothy discharge, or stops lifting water after standing.
+LIKELY_CAUSES: suction leak, foot valve leakage, loose priming cap, suction line emptied
+MECHANICAL_REASON: Air inside suction path prevents continuous vacuum and water lifting.
+DIAGNOSTIC_BRANCH: IF pump works after priming then fails again -> suction leak/foot valve route; IF never lifts even after priming -> blockage/impeller route.
+STEPS: Fill casing fully; tighten priming cap; inspect suction joints; watch whether line empties after stop
+VISUAL: Priming_Port, Priming_Cap, Suction_Pipe, Union_Joint
+PARTS: Priming_Port, Priming_Cap, Suction_Pipe, Union_Joint, Foot_Valve
+ESCALATE_IF: Prime repeatedly fails despite tight visible joints.
+
+🔹 Chunk 2 — Loose Priming Cap
+PROBLEM: Air lock or prime loss
+TAGS: priming cap loose, top cap leak, hawa ghus rahi, cap se leak, filler cap loose
+SYMPTOM: Water or air bubbles appear around priming/filler cap and pump loses suction.
+LIKELY_CAUSES: cap loose, damaged washer, thread not sealed
+MECHANICAL_REASON: Air enters through the top opening and breaks suction.
+DIAGNOSTIC_BRANCH: IF bubbles or seepage near priming cap -> priming cap leak route.
+STEPS: Switch OFF; tighten cap firmly by hand/tool as designed; inspect washer if visible; wipe area dry and retry
+TOOLS: cloth
+VISUAL: Priming_Cap, Priming_Port, Bubble_Leak
+PARTS: Priming_Cap, Washer_Seal, Priming_Port
+ESCALATE_IF: Cap thread or seal is damaged.
+
+🟦 PROBLEM 11 — LEAKAGE FROM PUMP OR PIPES
+
+🔹 Chunk 1 — Leakage Overview
+PROBLEM: Leakage from pump or pipes
+TAGS: pani tapak raha, leak from pump, water dripping, pipe se leak, seal leak, joint leak
+SYMPTOM: Visible water dripping, spraying, or wet patches appear around pump body, joints, or pipes.
+LIKELY_CAUSES: loose joint, cracked pipe, damaged seal, worn gasket, corroded fitting
+MECHANICAL_REASON: Water escapes from damaged sealing surfaces or cracked flow paths.
+DIAGNOSTIC_BRANCH: IF leak is at threaded joint -> joint tightening/seal route; IF leak is from motor-pump gap -> seal route; IF from pipe body -> crack route.
+STEPS: Switch OFF pump; trace wetness to highest visible point; tighten loose union/clamp if simple; replace or isolate cracked hose if possible
+TOOLS: spanner, pliers, cloth
+WARNINGS: Keep water away from electrical parts.
+VISUAL: Water_Leak, Pump_Housing, Pipe_Joint, Hose_Clamp, Wet_Mark
+PARTS: Pump_Housing, Mechanical_Seal, Gasket, Pipe_Joint, Hose_Clamp, Delivery_Pipe, Suction_Pipe
+ESCALATE_IF: Leak is from pump body seal area or near electrical section.
+
+🔹 Chunk 2 — Threaded Union Loose
+PROBLEM: Leakage from pump or pipes
+TAGS: union leak, thread leak, joint se pani, loose coupling, fitting loose
+SYMPTOM: Water drips from a threaded union or coupling near suction or delivery side.
+LIKELY_CAUSES: loosened fitting, poor sealing tape, vibration loosening
+MECHANICAL_REASON: Incomplete thread sealing allows pressure or suction leakage.
+DIAGNOSTIC_BRANCH: IF leak is centered on a joint and fitting is visibly loose -> union leak route.
+STEPS: Switch OFF; tighten union moderately; wipe and recheck after restart
+TOOLS: spanner, cloth
+VISUAL: Union_Joint, Threaded_Fitting, Water_Droplet
+PARTS: Union_Joint, Threaded_Fitting, Sealing_Tape, Pump_Inlet, Pump_Outlet
+ESCALATE_IF: Joint crack or distorted thread is found.
+
+🔹 Chunk 3 — Mechanical Seal Leak Near Shaft
+PROBLEM: Leakage from pump or pipes
+TAGS: shaft seal leak, seal gone, motor pump gap leak, center leak, water from shaft side
+SYMPTOM: Water leaks from the area between motor and pump housing rather than from a pipe joint.
+LIKELY_CAUSES: worn mechanical seal, shaft wear, dry run damage
+MECHANICAL_REASON: The shaft seal no longer keeps pumped water away from the motor side.
+DIAGNOSTIC_BRANCH: IF leak comes from center gap near shaft -> mechanical seal route.
+STEPS: Stop pump; do not run for long with this leak; keep motor side dry as much as possible
+WARNINGS: Water may enter motor and cause shock or winding damage.
+VISUAL: Motor_Pump_Joint, Water_Leak, Shaft_Area
+PARTS: Mechanical_Seal, Motor_Shaft, Pump_Housing, Impeller
+ESCALATE_IF: Mechanical seal leak is suspected.
+
+🔹 Chunk 4 — Cracked PVC or Hose Pipe
+PROBLEM: Leakage from pump or pipes
+TAGS: pvc pipe crack, hose phat gaya, split pipe, side leak, pipe body leak
+SYMPTOM: Water sprays or drips from the middle of pipe body, not from the joint.
+LIKELY_CAUSES: aged pipe, sun damage, impact crack, freezing/pressure damage
+MECHANICAL_REASON: A body crack opens under water pressure and leaks flow.
+DIAGNOSTIC_BRANCH: IF leak comes from pipe wall -> cracked pipe route.
+STEPS: Switch OFF; inspect full visible length; cut and replace damaged section if simple external pipe and tools are available
+TOOLS: pipe_cutter, tape, clamp
+VISUAL: Cracked_Pipe, Water_Spray, Pipe_Body
+PARTS: PVC_Pipe, Flexible_Hose, Hose_Clamp, Coupler
+ESCALATE_IF: Crack is underground, inside bore, or near motor cable area.
+
+🟦 PROBLEM 12 — SANDY OR MUDDY WATER OUTPUT
+
+🔹 Chunk 1 — Sand in Water Overview
+PROBLEM: Sandy or muddy water output
+TAGS: sand coming, muddy water, ganda pani, borewell sand, silt in water, mitti aa rahi, dirty discharge
+SYMPTOM: Water contains sand, grit, silt, or muddy color during pump operation.
+LIKELY_CAUSES: low water level turbulence, damaged bore screen, pump too low near sediment, new bore disturbance, impeller wear from sand
+MECHANICAL_REASON: Sediment enters the intake and travels through the pumping path.
+DIAGNOSTIC_BRANCH: IF issue is after new bore or recovery disturbance -> temporary sediment route; IF persistent sand -> bore/screen/intake position route.
+STEPS: Reduce continuous pumping time; let water settle and retry; monitor whether sand reduces or stays constant
+WARNINGS: Sand can quickly wear impeller and seals.
+VISUAL: Sandy_Water_Outlet, Sediment_In_Bucket, Borewell_Outlet
+PARTS: Pump_Intake, Bore_Screen, Impeller, Mechanical_Seal, Submersible_Pump
+ESCALATE_IF: Sand continues regularly because bore and pump depth may need professional correction.
+
+🔹 Chunk 2 — New Borewell Initial Mud
+PROBLEM: Sandy or muddy water output
+TAGS: new bore mud, starting mud, boring ke baad ganda pani, initial silt, new installation dirty water
+SYMPTOM: Recently installed or newly drilled borewell gives muddy water mainly in early runs.
+LIKELY_CAUSES: drilling residue, unsettled bore, loose silt
+MECHANICAL_REASON: Residual fine particles remain suspended after fresh boring work.
+DIAGNOSTIC_BRANCH: IF bore is newly drilled and water gradually clears -> initial flushing route; IF old bore suddenly turns sandy -> screen/intake route.
+STEPS: Run in controlled short cycles; collect water in bucket and observe settling; avoid using for clean storage until clearer
+VISUAL: Borewell_Outlet, Muddy_Water_Bucket
+PARTS: Bore_Casing, Bore_Screen, Submersible_Pump
+ESCALATE_IF: Water does not clear after repeated controlled flushing.
+
+🟦 PROBLEM 13 — ELECTRICAL SHOCK RISK OR STRAY CURRENT
+
+🔹 Chunk 1 — Shock Risk Overview
+PROBLEM: Electrical shock risk or stray current
+TAGS: current lag raha, shock from pump, pump body current, switch touch shock, leakage current, earthing problem
+SYMPTOM: Tingling or shock is felt on pump body, switch, pipe, or wet ground nearby.
+LIKELY_CAUSES: poor earthing, damaged cable insulation, moisture in motor/control box, internal winding leakage
+MECHANICAL_REASON: Fault current leaks to metal parts or wet surfaces instead of going safely to ground.
+DIAGNOSTIC_BRANCH: IF shock is felt anywhere on system -> stop-use safety route immediately; IF after rain/wetness -> moisture/insulation route.
+STEPS: Switch OFF main supply immediately; keep people away from wet area; do not touch metal pump/body barefoot; allow only dry isolated inspection from distance
+WARNINGS: This is dangerous; treat as live until repaired.
+VISUAL: Earthing_Wire, Pump_Body, Wet_Ground, Damaged_Cable, Control_Box
+PARTS: Earthing_Wire, Earth_Rod, Power_Cable, Control_Box, Motor_Winding, Pump_Body
+ESCALATE_IF: Any shock sensation is present.
+
+🔹 Chunk 2 — Earthing Wire Loose or Missing
+PROBLEM: Electrical shock risk or stray current
+TAGS: no earthing, earth wire loose, green wire missing, grounding problem, body current
+SYMPTOM: Metal pump body is not bonded with a firm earth wire, or earth wire is loose, cut, or corroded.
+LIKELY_CAUSES: missing earthing connection, loose clamp, rusted earth point
+MECHANICAL_REASON: Without a good earth path, leakage current can remain on the metal body.
+DIAGNOSTIC_BRANCH: IF earth wire is missing/loose -> earthing fault route; IF earth wire appears good but shock still present -> insulation leakage route.
+STEPS: Keep supply OFF; visually trace earth wire from panel/body to earth point; check for loose or broken visible connection
+WARNINGS: Do not restore power until earthing issue is fixed.
+VISUAL: Earthing_Wire, Earth_Clamp, Pump_Body, Control_Box
+PARTS: Earthing_Wire, Earth_Clamp, Earth_Rod, Pump_Body, Motor_Frame
+ESCALATE_IF: Earthing is missing, broken, or shock still remains.
+
+🟦 PROBLEM 14 — CONTROL BOX / STARTER SPECIFIC ISSUES
+
+🔹 Chunk 1 — Contactor Clicking Only
+PROBLEM: Control box / starter issue
+TAGS: click in starter, relay click only, box clicking, contactor sound, panel click no motor, tik tik sound
+SYMPTOM: Control box or starter gives a click sound when switched ON, but motor does not start.
+LIKELY_CAUSES: low voltage, faulty contactor, loose output terminal, submersible cable fault, capacitor failure
+MECHANICAL_REASON: The switchgear pulls in, but power is not delivered correctly to the motor circuit.
+DIAGNOSTIC_BRANCH: IF click happens but motor silent -> output terminal/cable/capacitor route; IF no click at all -> control supply route.
+STEPS: Switch OFF power; inspect visible output terminals for looseness, burning, or disconnected wire; note whether click is strong or weak
+WARNINGS: Do not poke inside live starter.
+VISUAL: Contactor, Terminal_Block, Control_Box, Burn_Mark
+PARTS: Contactor, Relay, Terminal_Block, Capacitor, Output_Cable
+ESCALATE_IF: Click-only condition remains after visible terminal check.
+
+🔹 Chunk 2 — Overload Reset Button Popping Often
+PROBLEM: Control box / starter issue
+TAGS: overload pop, reset button out, thermal reset, panel overload, starter trip bar bar
+SYMPTOM: Overload reset button pops out or requires frequent resetting.
+LIKELY_CAUSES: overloaded motor, low voltage, jam, wrong overload setting, dry running
+MECHANICAL_REASON: Overload device senses sustained excess current and opens the circuit.
+DIAGNOSTIC_BRANCH: IF reset pops after running -> overload route; IF immediately -> short/locked rotor route.
+STEPS: Reset only once after motor cools; inspect flow, voltage condition, and unusual noise before retry
+VISUAL: Overload_Reset, Starter_Switch, Motor_Body
+PARTS: Overload_Relay, Starter, Motor, Capacitor
+ESCALATE_IF: Frequent overload resets continue.
+
+🔹 Chunk 3 — Burnt Capacitor Box Wiring
+PROBLEM: Control box / starter issue
+TAGS: capacitor box wire burnt, panel wiring burnt, box smell, melted wire in box
+SYMPTOM: Capacitor box or starter box exterior shows melted wire insulation near cable entry or terminal.
+LIKELY_CAUSES: loose terminal, overload heating, moisture, undersized wire
+MECHANICAL_REASON: Heat from poor contact or excess current damages wiring near the box.
+DIAGNOSTIC_BRANCH: IF burn is localized at cable entry/terminal -> terminal heat route; IF widespread burning -> internal box failure route.
+STEPS: Keep supply OFF; do not reopen and restart; protect area from water and accidental contact
+WARNINGS: Fire and shock risk.
+VISUAL: Capacitor_Box, Cable_Entry, Melted_Insulation, Burn_Mark
+PARTS: Capacitor_Box, Terminal_Block, Power_Cable, Cable_Gland
+ESCALATE_IF: Any wiring is burnt or melted.
+
+🟦 PROBLEM 15 — SUBMERSIBLE BOREWELL SPECIFIC FLOW LOSS
+
+🔹 Chunk 1 — Flow Reduced After Months of Good Service
+PROBLEM: Submersible borewell specific flow loss
+TAGS: submersible flow reduced, borewell pressure weak now, pehle theek tha ab kam, old bore low output
+SYMPTOM: Borewell pump used to give good flow but now output is noticeably lower without obvious top-side blockage.
+LIKELY_CAUSES: worn impellers, falling water level, pipe leak inside bore, sand wear, partial blockage in riser pipe
+MECHANICAL_REASON: Either the submerged hydraulic parts are worn or the water path inside the bore is losing flow.
+DIAGNOSTIC_BRANCH: IF seasonal and improves after rest -> water level route; IF permanently weak over time -> wear/pipe leak route.
+STEPS: Compare current filling time with old normal timing; check visible top pipe and outlet first; avoid unnecessary repeated runs
+VISUAL: Borewell_Outlet, Outlet_Stream, Wellhead_Joint
+PARTS: Submersible_Pump, Impeller_Stack, Riser_Pipe, Pipe_Coupling, Non_Return_Valve
+ESCALATE_IF: Internal submersible wear or bore pipe leak is suspected.
+
+🔹 Chunk 2 — Borewell Non-Return Valve Leakback
+PROBLEM: Submersible borewell specific flow loss
+TAGS: nrv leak, check valve leak, water backflow, line emptying, restart air blast
+SYMPTOM: After stopping, line pressure drops quickly and next start may spit air or take time to stabilize.
+LIKELY_CAUSES: faulty non-return valve, leaking joint, pipe backflow into bore
+MECHANICAL_REASON: Water drains backward when the check valve does not hold.
+DIAGNOSTIC_BRANCH: IF pressure or line empties after stop -> NRV leak route; IF pressure holds -> other flow-loss route.
+STEPS: Observe line behavior after stop; inspect accessible top-side non-return valve if present
+VISUAL: Non_Return_Valve, Delivery_Pipe, Air_Spit_At_Outlet
+PARTS: Non_Return_Valve, Delivery_Pipe, Pipe_Coupling
+ESCALATE_IF: Internal bore-side check valve or pipe issue is suspected.
+
+🟦 PROBLEM 16 — SAFETY BOUNDARIES
+
+🔹 Chunk 1 — Do Not Open Live Electrical Covers
+PROBLEM: Safety boundary
+TAGS: safety electric, panel mat kholo, live wire danger, control box danger, shock safety
+SYMPTOM: Fault finding requires looking near switchgear, capacitor box, or terminals.
+MECHANICAL_REASON: Live terminals can shock even when the pump is not running.
+DIAGNOSTIC_BRANCH: IF cover must be opened near electrical terminals -> service boundary.
+STEPS: Switch OFF mains; keep hands dry; do only external visual checks unless trained
+WARNINGS: Never open live control box or touch bare terminals.
+VISUAL: Control_Box, MCB_Switch, Terminal_Block
+PARTS: Control_Box, Terminal_Block, Capacitor, MCB
+ESCALATE_IF: Internal electrical work is needed.
+
+🔹 Chunk 2 — Do Not Pull Submersible Pump Without Proper Setup
+PROBLEM: Safety boundary
+TAGS: bore pump nikalna, submersible pulling danger, pipe heavy, cable heavy, borewell safety
+SYMPTOM: Internal submersible fault is suspected and pump may need pulling from bore.
+MECHANICAL_REASON: The pump, pipe, and cable assembly is heavy and can fall or get damaged.
+DIAGNOSTIC_BRANCH: IF fault points inside bore -> professional pull-out route.
+STEPS: Keep pump OFF; do not attempt solo pulling with weak rope or unsafe grip; secure bore opening area
+WARNINGS: Falling pipe or cable can injure and destroy the pump.
+VISUAL: Wellhead, Borewell_Cable, Delivery_Pipe
+PARTS: Submersible_Pump, Riser_Pipe, Drop_Cable, Wellhead_Clamp
+ESCALATE_IF: Pump removal from bore is required.
+
+🔹 Chunk 3 — Dry Run Stop Boundary
+PROBLEM: Safety boundary
+TAGS: dry run stop, pani nahi to band karo, no water safety, empty running danger
+SYMPTOM: Pump is running with no water flow or only air.
+MECHANICAL_REASON: Continued dry running overheats and damages seals, impellers, and motor.
+DIAGNOSTIC_BRANCH: IF no water flow for more than brief test -> stop-use boundary.
+STEPS: Stop pump immediately; restore water source/priming before next run
+WARNINGS: Do not keep pump running without water.
+VISUAL: Outlet_Stream, Priming_Port, Borewell_Outlet
+PARTS: Impeller, Mechanical_Seal, Motor, Pump_Housing
+ESCALATE_IF: Cause of no-water condition cannot be corrected externally.
+
+🔹 Chunk 4 — Water Pump Priming & Foot Valve
+PROBLEM: Water pump is not lifting water, priming port is open.
+MACHINE_TYPE: water_pump
+TAGS: priming, port open, foot valve, pani nahi utha raha, suction
+ESCALATE_IF: 
+STEPS: Check the priming port on top of the pump housing. Fill the pump casing completely with clean water until it overflows, then tighten the priming plug. If the water immediately drains out, the foot valve at the bottom of the suction pipe is leaking or stuck open. Pull out the suction pipe, inspect the foot valve, clean any debris, or replace it if the rubber flap is damaged.
+STEPS_HI: पंप के ऊपर प्राइमिंग पोर्ट को साफ पानी से पूरा भरें और ढक्कन कस दें। अगर पानी तुरंत नीचे गिर जाता है, तो सक्शन पाइप के नीचे लगा फुट वाल्व (Foot Valve) खराब है या उसमें कचरा फंसा है। पाइप बाहर निकालें, फुट वाल्व को साफ करें या रबर खराब होने पर बदल दें।
+
+🟦 PROBLEM 17 — SUBMERSIBLE MECHANICAL & ENVIRONMENTAL FAULTS
+
+🔹 Chunk 33 — Non-Clog Impeller Blockage (Solid Waste)
+PROBLEM: Pump is running and drawing high current, but discharge is very low or completely blocked.
+MACHINE_TYPE: submersible_pump
+TAGS: non-clog, kachra, blocked impeller, solid waste, plastic stuck, rags, low discharge, high current
+ESCALATE_IF: The impeller is physically shattered or the pump shaft is bent.
+STEPS: Switch OFF the main power and pull the pump out using the lifting chain. For non-clog submersible pumps, long rags, plastics, or heavy sludge can bypass the screen and wrap around the impeller vanes. Lay the pump horizontally and inspect the suction casing. Use a long hook or pliers to manually pull out the entangled debris from the impeller eye. Do not use your bare hands if sharp objects are suspected. Flush the volute with pressurized clean water. Ensure the impeller spins freely by hand before reinstalling.
+STEPS_HI: मेन पावर बंद करें और पंप को चेन की मदद से बाहर निकालें। नॉन-क्लॉग पंप में कई बार पन्नी, कपड़े या भारी कीचड़ अंदर जाकर इंपेलर (पंखी) में लिपट जाता है। पंप को लिटाकर सक्शन की तरफ से देखें। फंसी हुई चीजों को प्लायर या हुक से बाहर खींचें। नुकीली चीजों से बचने के लिए नंगे हाथों का इस्तेमाल न करें। अंदर साफ पानी का प्रेशर मारें। दोबारा डालने से पहले हाथ से घुमाकर देखें कि पंखी फ्री घूम रही है या नहीं।
+
+🔹 Chunk 34 — Cable Insulation Torn (Improper Lifting)
+PROBLEM: Pump trips the ELCB/MCB instantly upon startup, and visual inspection shows the power cable is stretched or torn at the pump entry gland.
+MACHINE_TYPE: submersible_pump
+TAGS: cable torn, wire cut, ELCB trip, short circuit, lifted by cable, gland leak
+ESCALATE_IF: Water has entered the main motor housing through the torn cable gland.
+STEPS: DANGER: Electric shock hazard. Ensure power is completely isolated. This failure occurs when the pump is improperly lifted or lowered by pulling the electrical power cable instead of the designated lifting chain or wire rope. The strain tears the cable insulation at the entry gland, causing a dead short to the casing. The pump must be sent to an authorized service center to replace the entire cable and re-seal the waterproof gland. Never lift any submersible pump by its power cable.
+STEPS_HI: खतरा: बिजली का झटका लग सकता है। पावर पूरी तरह काट दें। यह खराबी तब आती है जब पंप को चेन या रस्से की बजाय बिजली के तार (केबल) से पकड़ कर खींचा या लटकाया जाता है। इससे केबल छिल जाती है और पानी में शॉर्ट सर्किट हो जाता है। तार के जोड़ को दोबारा वॉटरप्रूफ करवाने के लिए पंप को सर्विस सेंटर भेजना होगा। कभी भी पंप को उसके तार से पकड़ कर न उठाएं।
+
+🔹 Chunk 35 — Mechanical Seal Failure (Moisture Sensor Trip)
+PROBLEM: The control panel indicates a moisture sensor alarm, or the oil in the oil chamber is milky white.
+MACHINE_TYPE: submersible_pump
+TAGS: moisture sensor, seal fail, milky oil, white oil, pani ghus gaya, water in motor
+ESCALATE_IF: The motor windings have already shorted due to water ingress.
+STEPS: Stop the pump immediately. Do not bypass the moisture sensor relay. A moisture alarm or milky white oil in the inspection chamber means the lower mechanical seal has failed and water is mixing with the cooling oil. If stopped early, the motor windings are safe. Pull the pump, drain the contaminated milky oil from the oil chamber, and replace the mechanical seal assembly. Refill the chamber with the manufacturer-specified dielectric turbine oil before restarting.
+STEPS_HI: पंप तुरंत बंद करें। पैनल में नमी (Moisture) का अलार्म बजने या तेल का रंग सफेद (दूधिया) होने का मतलब है कि मैकेनिकल सील कट गई है और पानी तेल में मिल रहा है। इसे नजरअंदाज न करें वरना मोटर जल जाएगी। पंप बाहर निकालें, खराब सफेद तेल को बाहर निकालें और नई मैकेनिकल सील लगाएं। इसके बाद कंपनी द्वारा बताया गया सही ट्रांसफार्मर/डाई-इलेक्ट्रिक तेल भरें।
+
+🔹 Chunk 36 — Idle Pump Impeller Binding (Post-Storage)
+PROBLEM: Pump was stored or unused for several months; now it hums and trips the overload relay on the first start attempt.
+MACHINE_TYPE: submersible_pump
+TAGS: stored pump, jam after months, rust, scale, hums, trips on start, unused pump
+ESCALATE_IF:
+STEPS: Turn OFF the power. When a submersible pump is left idle in water or stored without cleaning for long periods, rust, scale, or dried sludge can cement the impeller to the casing, causing a locked rotor. Do not force it by repeatedly switching the MCB ON. Pull the pump out, access the bottom suction port, and use a socket wrench on the exposed shaft nut to manually rotate the shaft back and forth. Once it breaks free and spins smoothly by hand, flush the pump with clean water and reinstall.
+STEPS_HI: पावर बंद करें। जब पंप कई महीनों तक बंद रहता है या बिना साफ किए रखा जाता है, तो जंग या सूखी मिट्टी पंखी (इंपेलर) को जाम कर देती है। बार-बार MCB चालू करके जबरदस्ती न चलाएं। पंप बाहर निकालें, नीचे की तरफ से शाफ्ट के नट पर पाना (spanner) लगाकर उसे हाथ से आगे-पीछे घुमाएं। जब यह फ्री होकर घूमने लगे, तो साफ पानी से धोकर वापस लगा दें।
+
+🟦 PROBLEM 18 — ELECTRIC MOTOR COUPLING & ALIGNMENT
+
+🔹 Chunk 37 — Coupling Misalignment (Severe Vibration)
+PROBLEM: Excessive vibration and noise coming from the coupling area between the electric motor and the pump. Rubber bushes are wearing out rapidly.
+MACHINE_TYPE: electric_motor
+TAGS: coupling vibration, rubber bush tear, alignment, shaking, soft foot, motor and pump joint
+ESCALATE_IF: The motor or pump shaft is visibly bent.
+STEPS: Switch OFF power and lock out the panel. Rapid wear of coupling rubber bushes and severe vibration indicate poor shaft alignment between the motor and the pump. Check for "soft foot" (where one foot of the motor does not sit flat on the base frame). Loosen the motor mounting bolts, insert appropriate metal shims under the feet to level it, and use a dial indicator or straight edge across the coupling halves to ensure parallel and angular alignment are within 0.05mm. Retighten bolts and re-check.
+STEPS_HI: पावर बंद करें। अगर मोटर और पंप के बीच की कपलिंग बहुत ज्यादा हिल रही है और रबर बुश बार-बार कट रहे हैं, तो इसका मतलब अलाइनमेंट (Alignment) सही नहीं है। चेक करें कि मोटर के चारों पैर बेस पर ठीक से टिके हैं या नहीं (Soft foot)। मोटर के बोल्ट ढीले करें, पैरों के नीचे लोहे की पत्ती (Shim) लगाकर लेवल बराबर करें। स्केल या डायल गेज से चेक करें कि दोनों शाफ्ट बिल्कुल सीध में हों। फिर बोल्ट कस दें।
+
+🔹 Chunk 38 — Over-Greasing of Bearings (Overheating)
+PROBLEM: Electric motor bearings are running extremely hot to the touch, and grease is oozing out of the seals.
+MACHINE_TYPE: electric_motor
+TAGS: hot bearing, overgreasing, grease leaking, bearing garam, overheating
+ESCALATE_IF: The bearing makes a grinding or screeching noise indicating the balls/rollers are already destroyed.
+STEPS: Stop the motor. Counter-intuitively, packing too much grease into a bearing cavity causes severe overheating due to fluid friction and churning. If the bearing housing is packed 100% full, the heat cannot escape. Remove the grease relief plug at the bottom of the bearing housing and run the motor for 10-15 minutes to allow excess grease to purge out. The bearing cavity should only be 30% to 50% full. Clean any leaked grease from the motor casing.
+STEPS_HI: मोटर बंद करें। अक्सर लोग सोचते हैं कि ज्यादा ग्रीस डालने से बियरिंग ठीक रहेगा, लेकिन बियरिंग में ठसाठस ग्रीस भरने से घर्षण (Friction) पैदा होता है और वह बहुत ज्यादा गर्म हो जाता है। बियरिंग हाउसिंग के नीचे लगा ग्रीस प्लग खोलें और मोटर को 10 मिनट चलाएं ताकि फालतू ग्रीस बाहर निकल जाए। बियरिंग में सिर्फ 30% से 50% ग्रीस होना चाहिए। बाहर गिरे ग्रीस को साफ कर दें।
+
+🔹 Chunk 39 — Wrong Phase Rotation (Reverse Direction)
+PROBLEM: 3-phase pump runs smoothly but delivers very low water pressure and reduced flow rate.
+MACHINE_TYPE: water_pump
+TAGS: reverse rotation, low pressure, ulta ghoom raha, reverse phase, low flow
+ESCALATE_IF:
+STEPS: Switch OFF the motor. If a 3-phase centrifugal or submersible pump runs backward, it will not break or trip immediately, but the impeller will spin in reverse. This results in only 30% to 40% of the normal water output and pressure. Open the starter panel and safely swap the position of ANY TWO of the three incoming phase wires (e.g., swap R with Y). This will reverse the magnetic field and correct the motor's rotation direction. Verify flow has returned to normal.
+STEPS_HI: मोटर बंद करें। अगर 3-फेज पंप बिना आवाज किए चल रहा है लेकिन पानी बहुत कम दे रहा है, तो इसका मतलब है कि मोटर उल्टी दिशा (Reverse) में घूम रही है। स्टार्टर पैनल खोलें और अंदर आ रहे तीन फेज तारों में से किन्हीं भी दो तारों की जगह आपस में बदल दें (जैसे लाल की जगह पीला और पीले की जगह लाल)। इससे मोटर के चक्कर सीधे हो जाएंगे और पानी का प्रेशर पूरा हो जाएगा।
+
+🔹 Chunk 40 — Minimum Submergence Requirement (Motor Overheating)
+PROBLEM: Submersible pump overheats and trips the thermal overload relay after running for 20-30 minutes. Water level in the pit is very low.
+MACHINE_TYPE: submersible_pump
+TAGS: low water level, motor overheating, thermal trip, minimum submergence, cooling issue, pump nanga hai
+ESCALATE_IF: The motor smells of burnt insulation or varnish.
+STEPS: Stop the pump. Submersible motors rely entirely on the surrounding water to dissipate their internal heat. If the water level in the sump or borewell drops below the top of the motor casing (exposing the motor to air), it will rapidly overheat and trip the relay. Ensure the pump is installed deep enough. Adjust the float switches or level-controller probes so that the pump automatically shuts off BEFORE the water level falls below the motor's minimum submergence depth.
+STEPS_HI: पंप बंद करें। सबमर्सिबल मोटर ठंडी रहने के लिए पूरी तरह पानी में डूबी होनी चाहिए। अगर पानी का स्तर मोटर के ऊपर से नीचे चला गया है (मोटर हवा में है), तो वह 20 मिनट में ही गर्म होकर ट्रिप मार देगी। चेक करें कि पंप काफी गहराई में लगा हो। अपने फ्लोट स्विच या सेंसर को ऐसे सेट करें कि पानी मोटर के लेवल से नीचे जाने से पहले ही पंप अपने आप बंद हो जाए।
+
+🟦 PROBLEM 19 — ADVANCED HYDRAULICS & SEALING (WATER PUMP)
+
+🔹 Chunk 41 — Pump Cavitation (Marble/Gravel Sound)
+PROBLEM: Pump makes a loud crackling noise as if gravel or marbles are passing through it.
+MACHINE_TYPE: water_pump
+TAGS: crackling, marbles, gravel sound, cavitation, pitting, vibration, noise like stones
+ESCALATE_IF: The pump casing shows visible hairline cracks from prolonged vibration.
+STEPS: Do not ignore this noise. This is "Cavitation," caused when the pump is starved of water on the suction side, creating microscopic vacuum bubbles that implode violently against the impeller. Switch off the pump. Check the suction pipe for blockages, ensure the foot valve is fully submerged, and verify that the suction lift (depth to water) does not exceed the pump's limits. Clean the suction strainer. Operating under cavitation will rapidly destroy the brass/cast-iron impeller.
+STEPS_HI: इस आवाज को नजरअंदाज न करें। यह "कैविटेशन" (Cavitation) है, जो तब होता है जब पंप को सक्शन (खींचने वाली) तरफ से पूरा पानी नहीं मिलता। अंदर वैक्यूम के बुलबुले बनते हैं और पंखी से टकराकर फूटते हैं जिससे कंकड़ जैसी आवाज आती है। पंप बंद करें। चेक करें कि सक्शन पाइप में कचरा तो नहीं है, फुट वाल्व पूरी तरह पानी में डूबा हो, और पानी बहुत ज्यादा गहराई में न चला गया हो। इस हालत में पंप चलाने से पंखी (Impeller) टूट जाएगी।
+
+🔹 Chunk 42 — Gland Packing Leakage (Excessive)
+PROBLEM: Continuous, heavy stream of water leaking from the pump shaft right behind the casing.
+MACHINE_TYPE: water_pump
+TAGS: shaft leak, gland leak, rope seal, continuous stream, water spraying, stuffing box
+ESCALATE_IF: The shaft sleeve is deeply grooved or scored by the packing material.
+STEPS: Stop the pump. A centrifugal pump uses a "gland packing" (asbestos or teflon rope) to seal the spinning shaft. It is normal for it to drip 30-40 drops per minute for cooling. However, a continuous heavy stream is a fault. Using a spanner, tighten the two gland pusher nuts evenly by half a turn each. Turn the shaft by hand to ensure it is not too tight. If the nuts are fully tightened and it still leaks, or if the packing is hard and dry, remove the old packing rings with a puller hook and install new, well-lubricated gland packing rope.
+STEPS_HI: पंप बंद करें। सेंट्रीफ्यूगल पंप में शाफ्ट को लीक से बचाने के लिए "ग्लैंड डोरी" (Gland Packing) लगी होती है। इसे ठंडा रखने के लिए 1 मिनट में 30-40 बूंद पानी टपकना नॉर्मल है। लेकिन अगर पानी की धार बह रही है, तो पाने से दोनों ग्लैंड नट को आधा-आधा चक्कर बराबर कसें। हाथ से शाफ्ट घुमाकर देखें कि वह जाम न हो। अगर नट पूरे कस चुके हैं फिर भी लीकेज है, तो पुरानी डोरी निकालकर नई और चिकनी ग्लैंड डोरी (Rope) लगाएं।
+
+🔹 Chunk 43 — Wear Ring Degradation (Loss of Head/Pressure)
+PROBLEM: Pump runs smoothly with no unusual noise and normal current, but water pressure and delivery volume have dropped severely over time.
+MACHINE_TYPE: water_pump
+TAGS: low pressure, old pump, loss of head, slow flow, smooth running but low water, wear ring
+ESCALATE_IF:
+STEPS: Switch off the power. If an older pump runs perfectly smooth but fails to build pressure, the internal "wear rings" (clearance rings between the spinning impeller and the stationary casing) have likely eroded due to sand or age. This allows high-pressure water to recirculate back to the low-pressure side internally. The pump must be unbolted and dismantled. Measure the clearance between the impeller neck and the casing ring using a feeler gauge. If the clearance exceeds the manufacturer's maximum limit (usually > 0.5mm to 1mm depending on size), replace the bronze wear rings.
+STEPS_HI: पावर बंद करें। अगर कोई पुराना पंप बिना आवाज किए सही चल रहा है लेकिन प्रेशर और पानी कम दे रहा है, तो अंदर के "वियर रिंग" (Wear Rings) घिस चुके हैं। इससे अंदर का पानी वापस लीक होकर प्रेशर कम कर देता है। पंप को खोलना पड़ेगा। पंखी (Impeller) और वियर रिंग के बीच का गैप चेक करें। अगर गैप बहुत ज्यादा (0.5mm से ज्यादा) हो गया है, तो नए पीतल/ब्रॉन्ज के वियर रिंग डालने होंगे।
+
+🟦 PROBLEM 20 — ADVANCED MOTOR MECHANICAL & STARTING FAULTS
+
+🔹 Chunk 44 — Broken Cooling Fan (TEFC Motors)
+PROBLEM: Motor body becomes scalding hot; a rattling or scraping plastic noise is heard from the rear of the motor.
+MACHINE_TYPE: electric_motor
+TAGS: rattling back, plastic noise, motor hot, rear noise, cooling fan broken, cowl noise
+ESCALATE_IF: Smoke is coming from the main terminal box or windings.
+STEPS: Switch off the MCB immediately. Totally Enclosed Fan Cooled (TEFC) electric motors rely on an external plastic or aluminum fan at the non-drive end. The rattling noise indicates the fan has cracked, slipped off its keyway, or is rubbing against the metal fan cover (cowl). Without this fan, the motor will rapidly overheat and burn out. Remove the 3 or 4 bolts holding the metal fan cowl. Inspect the cooling fan. If the blades are broken or the center hub is cracked, use a puller to remove it and press on a new OEM replacement fan before operating.
+STEPS_HI: तुरंत MCB बंद करें। मोटर के पीछे से प्लास्टिक के टकराने या खड़खड़ाने की आवाज का मतलब है कि मोटर को ठंडा रखने वाला पिछला पंखा (Cooling Fan) टूट गया है या अपने कवर से रगड़ खा रहा है। इस पंखे के बिना मोटर बहुत जल्दी गर्म होकर जल जाएगी। पीछे के जालीदार कवर (Cowl) के बोल्ट खोलें। अगर पंखे की पंखुड़ियां टूटी हैं या बीच से क्रैक है, तो उसे निकालकर नया ओरिजिनल पंखा लगाएं।
+
+🔹 Chunk 45 — Bearing Replacement & Safe Handling
+PROBLEM: Motor emits a loud howling, screeching, or continuous grinding noise from the shaft ends. Shaft is very stiff to turn by hand.
+MACHINE_TYPE: electric_motor
+TAGS: howling, screeching, grinding continuous, stiff shaft, bearing failure, jam motor
+ESCALATE_IF: The bearing housing on the motor end-shield has shattered or cracked.
+STEPS: Do not run the motor; catastrophic bearing failure is imminent, which will allow the rotor to drop and destroy the internal stator windings. Disconnect power and decouple the motor. Dismantle the end shields. NEVER remove a bearing by hitting it with a hammer and chisel. Use a proper 3-jaw mechanical bearing puller. When installing the new bearing, NEVER strike the outer ring. Use an induction heater or an oil bath to expand the bearing to 90°C (194°F) so it slides onto the shaft easily, or use a proper sleeve press tool on the inner ring only.
+STEPS_HI: मोटर बिल्कुल न चलाएं। जोर से चीखने (Screeching) या रगड़ने की आवाज का मतलब है कि बियरिंग पूरी तरह टूट चुका है। अगर इसे चलाया, तो रोटर नीचे गिरकर पूरी वाइंडिंग को चीर देगा। मोटर खोलें। पुराने बियरिंग को निकालने के लिए हमेशा 'बियरिंग पुलर' (3-jaw puller) का इस्तेमाल करें; कभी भी हथौड़ा या छेनी न मारें। नया बियरिंग लगाते समय कभी भी बाहरी रिंग पर चोट न मारें। बियरिंग को इंडक्शन हीटर या गरम तेल में हल्का गर्म करके शाफ्ट पर चढ़ाएं।
+
+🔹 Chunk 46 — Star-Delta Starter Changeover Jerk/Trip
+PROBLEM: Large 3-phase motor starts fine initially, but after 5 to 10 seconds, it gives a massive mechanical jerk or trips the main breaker instantly.
+MACHINE_TYPE: submersible_pump
+TAGS: star delta, heavy jerk, trip after 5 seconds, changeover trip, timer fault
+ESCALATE_IF:
+STEPS: Switch OFF the main isolator. This is a classic Star-Delta transition failure. The motor starts safely in "Star" (low voltage mode) but fails when the panel attempts to switch to "Delta" (full running mode). This is usually caused by a faulty pneumatic or electronic timer relay in the panel, or welded contacts inside the Delta contactor. Open the panel and inspect the timer setting — it should be set between 6 to 10 seconds. Manually inspect the Star and Delta contactor points for black soot or welding. Replace the timer or burnt contact points. Do not attempt to run the pump directly in Delta mode.
+STEPS_HI: मेन स्विच बंद करें। यह 'स्टार-डेल्टा' (Star-Delta) स्टार्टर की खराबी है। मोटर 'स्टार' में सही शुरू होती है लेकिन 5-10 सेकंड बाद जब वह 'डेल्टा' (फुल पावर) में जाती है, तो टाइमर या कॉन्टैक्टर की खराबी के कारण शॉर्ट-सर्किट या भारी झटका लगता है। पैनल खोलें और टाइमर चेक करें — यह 6 से 10 सेकंड पर सेट होना चाहिए। स्टार और डेल्टा कॉन्टैक्टर के अंदर के पॉइंट (Contacts) चेक करें कि कहीं वे जल कर चिपक तो नहीं गए हैं। जले हुए कॉन्टैक्टर या खराब टाइमर को बदलें।
+
+🟦 PROBLEM 21 — DIGITAL PANELS & ADVANCED SWITCHGEAR FAULTS
+
+🔹 Chunk 47 — Dry Run Auto-Reset Loop (Hunting)
+PROBLEM: Pump starts, runs for 1-2 minutes, stops automatically, waits, and then starts again, repeating this cycle infinitely.
+MACHINE_TYPE: submersible_pump
+TAGS: auto reset, hunting, bar bar chalu band, on off loop, digital panel, dry run timer, borewell empty
+ESCALATE_IF:
+STEPS: Switch the panel from "Auto" to "Manual" mode and turn it OFF. This cycle is called "hunting." It means your borewell's water yield is lower than the pump's capacity. The digital panel correctly detects a dry run (underload) and trips to save the motor. However, the panel's "Auto-Reset Timer" is set too short (e.g., 2 minutes). The pump restarts before the borewell has time to refill, causing it to trip again. Access the digital panel settings and increase the Dry Run Auto-Reset Delay to at least 30 to 60 minutes, allowing groundwater to recharge.
+STEPS_HI: स्टार्टर को 'ऑटो' (Auto) से 'मैनुअल' (Manual) पर करें और बंद कर दें। इस बार-बार चालू-बंद होने को "हंटिंग" कहते हैं। इसका मतलब है कि बोरवेल में पानी धीरे आ रहा है, लेकिन पंप उसे जल्दी खींच लेता है। पैनल ड्राई-रन (पानी खत्म होने) पर पंप बंद तो कर देता है, लेकिन उसका 'ऑटो-रीसेट टाइमर' बहुत कम (जैसे 2 मिनट) पर सेट है, इसलिए वह बोरवेल भरने से पहले ही पंप फिर चला देता है। पैनल की सेटिंग में जाएं और 'ऑटो-रीसेट टाइमर' को 30 से 60 मिनट पर सेट करें ताकि बोरवेल में पानी वापस आ सके।
+
+🔹 Chunk 48 — Digital Panel Error "E-OV" or "E-UV"
+PROBLEM: Digital starter panel beeps and displays "E-OV" or "E-UV" on the screen; pump refuses to turn on.
+MACHINE_TYPE: electric_motor
+TAGS: e-ov, e-uv, over voltage, under voltage, digital error, display code, beeping panel
+ESCALATE_IF: A burning smell is coming from the digital display board.
+STEPS: Do not attempt to bypass the digital protection. "E-OV" stands for Over Voltage, and "E-UV" stands for Under Voltage. The panel has locked out the motor because the incoming grid supply is dangerously high or low (usually outside the +/- 10% safe range of 220V/415V). Measure the incoming grid voltage with a multimeter. If the grid voltage is genuinely fluctuating, wait for stable power or install a voltage stabilizer. If the multimeter shows normal voltage but the panel still shows an error, the panel's internal voltage monitor needs recalibration through the admin menu.
+STEPS_HI: डिजिटल पैनल के सुरक्षा सिस्टम को बायपास (Direct) न करें। "E-OV" का मतलब ओवर वोल्टेज (बिजली तेज है) और "E-UV" का मतलब अंडर वोल्टेज (बिजली कम है)। पैनल ने मोटर को जलने से बचाने के लिए लॉक कर दिया है। मल्टीमीटर से पीछे से आ रही बिजली (Grid) नापें। अगर बिजली सच में बहुत कम-ज्यादा हो रही है, तो स्टेबलाइजर (Stabilizer) लगाएं या बिजली ठीक होने का इंतजार करें। अगर मीटर में बिजली सही है फिर भी एरर आ रहा है, तो पैनल की सेटिंग खराब हो गई है, उसे कैलिब्रेट करना होगा।
+
+🟦 PROBLEM 22 — FIRE-FIGHTING PUMP & ENGINE CONTROLS (FM/UL STANDARD)
+
+🔹 Chunk 49 — Fire Pump Battery Charger Failure (Dual Battery System)
+PROBLEM: Diesel fire-fighting engine control panel shows "Charger Fault" or Battery 1 & 2 voltages are dropping below 12V.
+MACHINE_TYPE: diesel_engine
+TAGS: fire pump, FM UL, battery charger fault, dual battery, panel to engine harness, low voltage, starting failure
+ESCALATE_IF: Batteries are bulging, leaking acid, or very hot to the touch.
+STEPS: Switch the fire controller panel to manual mode. FM/UL standard fire-fighting engines use a redundant dual-battery system. If the panel's built-in charger fails, the diesel engine will not crank during a fire emergency. First, check the 16-pin or 23-pin main wiring harness connecting the panel to the engine; ensure the connector ring is tightly screwed in. Verify 220V AC input is reaching the panel's charger module. If AC is present but DC output to the batteries is zero, the charging module is dead. Connect an external trickle charger to the batteries immediately to maintain fire readiness and replace the module.
+STEPS_HI: फायर पैनल को मैनुअल मोड पर करें। फायर-फाइटिंग (आग बुझाने वाले) इंजनों में दो बैटरियों का सिस्टम होता है। अगर पैनल का चार्जर खराब हो जाए, तो आपातकाल में इंजन स्टार्ट नहीं होगा। सबसे पहले इंजन और पैनल को जोड़ने वाले 16-पिन या 23-पिन मोटे तार (Harness) का कपलर चेक करें कि वह पूरा कसा है या नहीं। पैनल में आ रही 220V AC बिजली चेक करें। अगर AC आ रही है लेकिन बैटरी चार्ज नहीं हो रही, तो चार्जर मॉड्यूल जल गया है। सुरक्षा के लिए तुरंत बाहर से दूसरा चार्जर लगाकर बैटरी चार्ज रखें और खराब मॉड्यूल को बदलवाएं।
+
+🔹 Chunk 50 — Jockey Pump Rapid Cycling (Pressure Tank Failure)
+PROBLEM: The small jockey pump turns on and off every few seconds continuously without any fire hydrants being opened.
+MACHINE_TYPE: water_pump
+TAGS: jockey pump, rapid cycling, bar bar on off, pressure drop, pressure tank, bladder burst, fire line
+ESCALATE_IF:
+STEPS: Isolate the jockey pump panel. In a fire network, the jockey pump maintains line pressure. Rapid cycling means the system is losing pressure instantly, or the pressure tank (accumulator) has failed. First, walk the fire line and check for underground leaks or slightly open hydrant valves. If there are no leaks, tap the side of the red pressure tank. If it sounds completely solid/full of water instead of hollow, its internal rubber bladder has ruptured. A water-logged tank cannot absorb pressure shocks. Replace the pressure tank bladder and re-pressurize the air cushion to the correct PSI.
+STEPS_HI: जॉकी पंप का पैनल बंद करें। फायर लाइन में जॉकी पंप का काम पाइप में प्रेशर बनाए रखना है। अगर यह हर 2-4 सेकंड में चालू-बंद हो रहा है, तो इसका मतलब या तो पाइप कहीं से लीक है, या प्रेशर टैंक खराब हो गया है। लाइन चेक करें। लाल रंग के प्रेशर टैंक को बाहर से थपथपाकर देखें। अगर वह अंदर से पूरा पानी से भरा हुआ और ठोस लगे (खाली या हवा जैसी आवाज न आए), तो टैंक के अंदर का रबर का गुब्बारा (Bladder) फट गया है। टैंक का ब्लैडर बदलें और उसमें दोबारा सही प्रेशर से हवा भरें।
+
+🟦 PROBLEM 23 — SENSORS & AUTOMATION LOGIC
+
+🔹 Chunk 51 — Float Switch Tangled / Stuck (Overhead Tank Overflow)
+PROBLEM: The overhead water tank is overflowing, but the submersible pump continues to run in "Auto" mode.
+MACHINE_TYPE: electric_motor
+TAGS: tank overflow, pani beh raha, auto off not working, float switch, sensor stuck, sensor fail
+ESCALATE_IF: Water has flooded the starter panel or electrical sockets.
+STEPS: Switch the panel from "Auto" to "Manual" and turn it OFF immediately to stop the overflow. The "float switch" inside the overhead tank sends the shutoff signal when water reaches the top. If the tank overflows, the float is either physically tangled in its own cable/tank ladder, or the microswitch inside the plastic float has fused closed. Climb to the tank and pull the float switch up manually by its wire. If the pump stops, the wire was tangled; adjust the position of the heavy counterweight on the cable. If the pump keeps running even when the float is pointing straight up, the internal switch is dead and the entire float unit must be replaced.
+STEPS_HI: तुरंत पैनल को 'ऑटो' से हटाकर 'मैनुअल' पर करें और पंप बंद कर दें ताकि पानी बहना रुक जाए। ऊपर की टंकी में लगा 'फ्लोट स्विच' (Float Switch) पंप को खुद बंद करने का सिग्नल देता है। टंकी भरने के बाद भी पंप चल रहा है, इसका मतलब या तो फ्लोट स्विच तार में उलझ गया है, या उसके अंदर का स्विच चिपक (फ्यूज) गया है। टंकी के पास जाएं और फ्लोट को हाथ से सीधा ऊपर उठाएं। अगर पंप बंद हो जाए, तो तार की सेटिंग ठीक करें और वजन (Counterweight) को एडजस्ट करें। अगर फ्लोट ऊपर उठाने पर भी पंप बंद न हो, तो पूरा फ्लोट स्विच नया लगाना पड़ेगा।
+
+🟦 PROBLEM 24 — FIRE PUMP ENGINE CHARGING & DRIVE FAULTS
+
+🔹 Chunk 52 — Alternator V-Belt Snapped (Fire Engine)
+PROBLEM: Fire engine control panel shows "Battery Not Charging" and the engine overheats quickly if run.
+MACHINE_TYPE: diesel_engine
+TAGS: alternator belt, v belt broken, battery not charging, FM UL engine, fire pump drive belt, fan belt tut gaya
+ESCALATE_IF:
+STEPS: Switch the fire pump panel to OFF. The V-belt on the front of the engine drives both the alternator (to charge the batteries) and the engine coolant pump. If it snaps, the batteries will drain and the engine will overheat rapidly. Open the front safety guard. Inspect the V-belt routing. If missing or broken, loosen the alternator mounting bolts. Install a new OEM V-belt. Use a pry bar to tension the alternator until the belt has only 10mm (approx. half an inch) of deflection when pressed firmly in the middle, then tighten the bolts securely.
+STEPS_HI: फायर पंप पैनल को OFF करें। इंजन के आगे लगी V-बेल्ट अल्टरनेटर (बैटरी चार्ज करने के लिए) और कूलेंट पंप दोनों को चलाती है। इसके टूटने पर बैटरी डिस्चार्ज होगी और इंजन तुरंत गर्म हो जाएगा। सामने का सेफ्टी गार्ड खोलें। अगर बेल्ट टूटी या गायब है, तो अल्टरनेटर के बोल्ट ढीले करें। नई ओरिजिनल V-बेल्ट लगाएं। किसी लोहे की रॉड (Pry bar) से अल्टरनेटर को तब तक खींचें जब तक बेल्ट बीच में दबाने पर सिर्फ 10mm ही दबे, फिर बोल्ट कस दें।
+
+🟦 PROBLEM 25 — MOTOR TERMINAL BOX FAULTS
+
+🔹 Chunk 53 — Burnt Star-Delta Terminal Links
+PROBLEM: Motor trips on startup, and a burning smell is coming directly from the motor's top metal junction box.
+MACHINE_TYPE: electric_motor
+TAGS: terminal box, burnt link, star delta connections, short circuit, melted terminal, motor junction box, connection jal gaya
+ESCALATE_IF: The terminal block plastic is completely melted or the winding wires are fused together.
+STEPS: DANGER: Ensure the main MCB is completely OFF and locked. Open the motor's terminal box cover (usually 4 screws on top). Inside, there are 6 brass terminals (U1, V1, W1, U2, V2, W2) connected by brass/copper links. If these links are loose, they create immense heat, melting the terminal block and causing a short circuit. Inspect the brass links and nuts. If they are blackened but the plastic block is intact, remove the links, clean them with emery paper, and reinstall with new spring washers, tightening them firmly with a spanner. If the block is melted, an electrician must replace the entire terminal board.
+STEPS_HI: खतरा: मेन MCB पूरी तरह OFF करें। मोटर के ऊपर लगे लोहे के टर्मिनल बॉक्स का ढक्कन खोलें। अंदर 6 पीतल के टर्मिनल (U1, V1, W1, U2, V2, W2) होते हैं जो पीतल/तांबे की पत्तियों (Links) से जुड़े होते हैं। अगर ये पत्तियां ढीली हों, तो बहुत ज्यादा गर्मी पैदा होती है जिससे टर्मिनल ब्लॉक पिघल जाता है और शॉर्ट सर्किट होता है। अगर पत्तियां काली पड़ गई हैं लेकिन प्लास्टिक ब्लॉक सही है, तो पत्तियों को खोलकर रेगमाल (Emery paper) से साफ करें और नए स्प्रिंग वॉशर लगाकर पाने से कस दें। अगर ब्लॉक पिघल गया है, तो इलेक्ट्रीशियन से पूरा टर्मिनल बोर्ड बदलवाएं।
+
+🟦 PROBLEM 26 — SUBMERSIBLE PUMP INTERNAL HYDRAULICS
+
+🔹 Chunk 54 — Sand Guard / Sand Slinger Friction Noise
+PROBLEM: Submersible pump makes a high-pitched squealing or scraping noise underwater, but water delivery is normal.
+MACHINE_TYPE: submersible_pump
+TAGS: sand guard, sand slinger, scraping noise, squealing underwater, rubbing sound, awaz aa rahi andar se
+ESCALATE_IF:
+STEPS: Turn off the pump. Submersible motors have a rubber or brass "sand guard" (or sand slinger) mounted on the shaft just above the mechanical seal to deflect abrasive sand away from the seal face. If the pump was recently dismantled or if heavy sand is present, this guard can rub against the pump suction bracket, causing a high-pitched squeal. Pull the pump and separate the motor from the pump end. Check the clearance of the sand guard. It must not touch the stationary metal casting. Push the rubber slinger down the shaft slightly to ensure a 1-2mm clearance, then reassemble.
+STEPS_HI: पंप बंद करें। सबमर्सिबल मोटर में मैकेनिकल सील के ठीक ऊपर रबर या पीतल का एक "सैंड गार्ड" (Sand Slinger) लगा होता है जो रेत को सील में जाने से रोकता है। अगर यह खिसक कर पंप की बॉडी से रगड़ खाने लगे, तो पानी के अंदर से सीटी जैसी या रगड़ने की आवाज आती है। पंप को बाहर निकालें और मोटर को पंप से अलग करें। सक्शन ब्रैकेट के पास सैंड गार्ड का गैप चेक करें। इसे थोड़ा नीचे खिसकाएं ताकि 1-2mm की जगह बन जाए और यह लोहे से न टकराए, फिर पंप वापस जोड़ दें।
+
+🟦 PROBLEM 27 — MOTOR GREASING & BEARING MAINTENANCE
+
+🔹 Chunk 55 — Wrong Grease Type Mixing (Bearing Failure)
+PROBLEM: Motor bearings run hot and noisy despite recently being greased. The purged grease looks like a thick, hard soap or liquid oil separating.
+MACHINE_TYPE: electric_motor
+TAGS: wrong grease, incompatible grease, hard grease, oil separation, hot bearing after greasing, lithium polyurea mix, grease sukh gaya
+ESCALATE_IF:
+STEPS: Stop the motor. This occurs when incompatible types of grease (e.g., mixing Lithium-base grease with Polyurea-base grease) are pumped into the same bearing. The chemical reaction destroys the grease, turning it into hard soap and liquid oil, completely removing its lubricating properties. Do not add more grease. The motor must be opened, the bearing housing thoroughly cleaned out with solvent, and the bearings washed and repacked with only the manufacturer-recommended grease (typically a high-temperature Lithium Complex grease for motors).
+STEPS_HI: मोटर रोक दें। यह तब होता है जब दो अलग-अलग तरह के ग्रीस (जैसे लिथियम और पॉलीयूरिया) को एक ही बियरिंग में मिला दिया जाता है। केमिकल रिएक्शन के कारण ग्रीस जमकर कड़क साबुन जैसा बन जाता है या तेल अलग हो जाता है, जिससे बियरिंग सूख कर गर्म हो जाता है। इसमें और ग्रीस न डालें। मोटर को खोलना होगा, बियरिंग हाउसिंग को पेट्रोल/सॉल्वेंट से अच्छी तरह साफ करना होगा, और बियरिंग धोकर सिर्फ कंपनी द्वारा बताया गया एक ही तरह का ग्रीस (आमतौर पर लिथियम कॉम्प्लेक्स) दोबारा भरना होगा।
+
+🟦 PROBLEM 28 — FIRE ENGINE COOLING LOOP
+
+🔹 Chunk 56 — Heat Exchanger Raw Water Loop Blocked
+PROBLEM: FM/UL Fire fighting engine overheats during a run. The raw water discharge line is completely dry.
+MACHINE_TYPE: diesel_engine
+TAGS: heat exchanger, raw water loop, cooling loop blocked, fire engine overheating, cooling line dry, y-strainer choked
+ESCALATE_IF: Engine coolant is boiling over or mixing with engine oil.
+STEPS: Stop the engine. FM/UL fire engines often use a heat exchanger instead of a radiator. A portion of the high-pressure water from the fire pump is routed through a cooling loop to cool the engine's internal coolant. If the raw water discharge is dry, the cooling loop is blocked. Inspect the Y-strainer on the cooling loop inlet line. Close the isolation valves, open the Y-strainer cap, and clean out the mesh screen (often clogged with pipe scale or debris). Reinstall the screen, open the valves, and verify water flows out of the discharge pipe when the pump runs.
+STEPS_HI: इंजन बंद करें। FM/UL फायर इंजनों में रेडिएटर की जगह अक्सर 'हीट एक्सचेंजर' (Heat Exchanger) होता है। फायर पंप का कुछ पानी एक कूलिंग लूप के जरिए इंजन को ठंडा करने के लिए जाता है। अगर आउटलेट पाइप से पानी नहीं गिर रहा, तो लूप ब्लॉक है। कूलिंग लाइन के इनलेट पर लगे Y-स्ट्रेनर (जाली) को चेक करें। वाल्व बंद करें, Y-स्ट्रेनर का ढक्कन खोलें और अंदर की जाली साफ करें (अक्सर इसमें पाइप का जंग या कचरा फंस जाता है)। जाली वापस लगाएं, वाल्व खोलें और चेक करें कि पंप चलने पर पानी बाहर गिरे।
+
+🟦 PROBLEM 29 — SUBMERSIBLE INSTALLATION ENVIRONMENT
+
+🔹 Chunk 57 — Missing Cooling Jacket (Open Well/Tank Installation)
+PROBLEM: Submersible motor overheats and trips when installed in an open tank or wide well, despite being fully underwater.
+MACHINE_TYPE: submersible_pump
+TAGS: open well, tank installation, cooling jacket, shroud, motor overheating underwater, no water velocity, hauz mein pump
+ESCALATE_IF: Motor winding insulation emits a burning smell.
+STEPS: Switch OFF the power. Borewell submersible motors rely on the high-velocity flow of water rushing past their outer casing to carry heat away. If you install a borewell pump inside a wide open tank, river, or large well, the water is stagnant around the motor and it will quickly overheat and trip the thermal relay. Pull the pump out and slide a PVC or metallic "cooling jacket" (shroud) over the motor. This forces the suction water to flow directly over the motor surface before entering the intake, ensuring proper cooling.
+STEPS_HI: पावर बंद करें। बोरवेल सबमर्सिबल मोटर को ठंडा रहने के लिए पानी के तेज बहाव की जरूरत होती है जो बोरवेल के पतले पाइप में मिलता है। अगर आप इसे किसी खुली टंकी (Hauz), नदी या चौड़े कुएं में डाल देंगे, तो मोटर के आसपास पानी ठहरा रहेगा और वह पानी के अंदर भी गर्म होकर ट्रिप हो जाएगी। पंप को बाहर निकालें और मोटर के ऊपर एक PVC या लोहे का "कूलिंग जैकेट" (Shroud/पाइप का टुकड़ा) पहना दें। इससे पानी मोटर को छूता हुआ अंदर जाएगा और मोटर ठंडी रहेगी।
+
+🟦 PROBLEM 30 — MOTOR ANTI-CONDENSATION HEATER FAILURE
+
+🔹 Chunk 58 — Space Heater Failure (Moisture in Standby Motor)
+PROBLEM: Motor insulation resistance (IR) drops drastically when the motor is in standby for a few days, leading to ELCB trips on startup.
+MACHINE_TYPE: electric_motor
+TAGS: space heater, anti condensation heater, cold climate, high humidity, moisture in winding, IR value drop, ELCB trip on cold start
+ESCALATE_IF: Megger test shows a dead short to earth (0 ohms).
+STEPS: Do not start the motor. In highly humid, damp, or cold environments, large electric motors have built-in "space heaters" (anti-condensation heaters) that automatically turn ON when the main motor is OFF to keep the stator windings warm and dry. Check the auxiliary terminal block where the 220V heater is connected. If the heater is burnt, disconnected, or left OFF, moisture will form dew on the windings, causing the ELCB to trip on startup. Use an external hot air blower (max 80°C) to safely dry the stator windings until the Megger IR reading is above 10 Mega-ohms, then repair the space heater circuit.
+STEPS_HI: मोटर चालू न करें। बहुत ज्यादा नमी, बारिश या ठंडी जगहों पर, बड़ी मोटरों के अंदर "स्पेस हीटर" (Space Heater) लगे होते हैं जो मोटर बंद होने पर उसे गर्म और सूखा रखते हैं। अगर हीटर का तार टूट गया है या वह खराब है, तो मोटर के अंदर ओस (Moisture) जम जाती है और मोटर चालू करते ही ELCB ट्रिप कर जाता है। वाइंडिंग को सुरक्षित रूप से सुखाने के लिए बाहर से गर्म हवा का ब्लोअर (Hot air blower) इस्तेमाल करें। जब मेगर (Megger) मीटर 10 MΩ से ऊपर रीडिंग दिखाए, तभी मोटर चालू करें और हीटर का कनेक्शन ठीक करें।
+
+🟦 PROBLEM 31 — VOLTAGE SURGE & LIGHTNING DAMAGE
+
+🔹 Chunk 59 — Surge Arrester / MOV Failure (Lightning Strike)
+PROBLEM: Control panel is completely dead or trips main breakers immediately following a thunderstorm, lightning strike, or grid power surge.
+MACHINE_TYPE: electric_motor
+TAGS: lightning strike, power surge, thunderstorm, bijli girna, panel dead after rain, surge arrester blown, MOV burnt, high voltage spike
+ESCALATE_IF: The main contactor or digital board is physically charred, melted, or on fire.
+STEPS: Isolate the main power supply from the grid immediately. Open the control panel and visually inspect the Surge Protection Device (SPD) or Metal Oxide Varistors (MOVs). A lightning strike or severe high-voltage spike will intentionally sacrifice these components to protect the expensive motor windings. If the SPD indicator shows red, or the MOVs are blackened and burst open, they have absorbed a surge and are now causing a dead short to earth. Remove the blown surge arresters. Have a qualified electrician test the panel with a multimeter and install new SPDs before restoring power.
+STEPS_HI: तुरंत पीछे से मेन पावर काट दें। आकाशीय बिजली गिरने (Lightning) या अचानक हाई-वोल्टेज आने पर पैनल में लगे 'सर्ज प्रोटेक्शन डिवाइस' (SPD या MOV) जानबूझकर खुद को जला लेते हैं ताकि आपकी महंगी मोटर बच सके। पैनल खोलकर देखें। अगर SPD का इंडिकेटर लाल हो गया है या पुर्जे काले पड़ कर फट गए हैं, तो वे अर्थ (Earth) से शॉर्ट हो गए हैं और इसी वजह से MCB ट्रिप हो रही है। जले हुए पुर्जों को हटाएं। पावर दोबारा चालू करने से पहले इलेक्ट्रीशियन से नए SPD लगवाएं।
+
+🟦 PROBLEM 32 — MECHANICAL SEAL WEAR (ABRASIVE FLUIDS)
+
+🔹 Chunk 60 — Slurry / Mud Pumping Seal Failure
+PROBLEM: Pump is leaking fluid heavily from the mechanical seal area shortly after being used to pump muddy water, slurry, or water with heavy suspended solids.
+MACHINE_TYPE: water_pump
+TAGS: muddy water, slurry, mechanical seal scored, carbon ceramic face, silica damage, abrasive fluid, heavy leak, keechad ka pani
+ESCALATE_IF: Water is actively entering the motor bearings causing a grinding noise.
+STEPS: Stop the pump. Standard pumps are equipped with Carbon/Ceramic mechanical seals designed for clean water. Abrasive silica sand, mud, or slurry acts like grinding paste and will quickly scratch and destroy standard seal faces, resulting in a heavy continuous leak. Remove the pump from the line and dismantle the seal housing. You must upgrade and replace the standard mechanical seal with a heavy-duty Silicon Carbide (SiC) or Tungsten Carbide mechanical seal, which are hard enough to withstand abrasive particles without scratching.
+STEPS_HI: पंप रोक दें। साधारण पानी के पंपों में कार्बन/सिरेमिक की मैकेनिकल सील लगी होती है जो केवल साफ पानी के लिए होती है। अगर आप इससे कीचड़ या रेत वाला पानी (Slurry) खींचेंगे, तो रेत रेगमाल की तरह काम करेगी और सील को घिस कर काट देगी, जिससे पानी तेजी से लीक होने लगेगा। पंप को खोलें। आगे से इस तरह के पानी के लिए आपको सील अपग्रेड करनी होगी — इसमें 'सिलिकॉन कार्बाइड' (SiC) या 'टंगस्टन कार्बाइड' की हार्ड सील लगवाएं जो रेत से नहीं कटती।
+
+🟦 PROBLEM 33 — VFD (VARIABLE FREQUENCY DRIVE) PANEL ERRORS
+
+🔹 Chunk 61 — VFD Overcurrent / Overload (Error: oC / oL)
+PROBLEM: The VFD screen displays an "oC" (Overcurrent) or "oL" (Overload) error code and stops the motor.
+MACHINE_TYPE: electric_motor
+TAGS: VFD, drive panel, AC drive, oC error, oL error, display code, frequency drive trip, overcurrent
+ESCALATE_IF: The VFD panel smells of burnt electronics or shows a direct short (SC) error.
+STEPS: Do not repeatedly reset the VFD. An "oC" or "oL" error means the drive is working perfectly to protect the motor from a massive mechanical or electrical load. Switch OFF the main power. The issue is at the pump end, not the panel. Check if the pump is jammed by mud or debris, or if the drop cable has a partial short underwater. Do NOT enter the VFD parameter menu to increase the current limit (Amps); doing so will bypass the safety limits and burn the motor windings. Clear the physical jam before resetting the drive.
+STEPS_HI: VFD को बार-बार रीसेट (Reset) न करें। स्क्रीन पर "oC" (ओवरकरंट) या "oL" (ओवरलोड) का मतलब है कि VFD अपना काम सही कर रहा है और मोटर को जलने से बचा रहा है। यह खराबी पैनल में नहीं, बल्कि पंप में है। मेन पावर बंद करें। चेक करें कि पंप कीचड़ या कचरे से जाम तो नहीं है, या केबल में शॉर्ट सर्किट तो नहीं है। VFD की सेटिंग में जाकर करंट (Amps) की लिमिट कभी न बढ़ाएं, वरना मोटर जल जाएगी। पंप का जाम ठीक करने के बाद ही इसे दोबारा चलाएं।
+
+🔹 Chunk 62 — VFD Hz Rising But No Water Flow (Broken Shaft)
+PROBLEM: VFD display shows the frequency rising smoothly from 0 to 50Hz, current (Amps) is unusually low, but no water is delivered and the motor makes no unusual noise.
+MACHINE_TYPE: water_pump
+TAGS: VFD running, Hz rising, low amps, no water, broken shaft, broken keyway, motor running empty
+ESCALATE_IF:
+STEPS: Switch OFF the drive. If the VFD screen shows 50Hz but the Amp draw is extremely low (e.g., 2A instead of 10A), the motor is running completely unloaded. This means the electrical system is perfect, but the mechanical connection between the motor and the pump impeller has broken. The coupling rubber is destroyed, the metal shaft key has sheared off, or the pump shaft itself has snapped. Disconnect the motor from the pump casing and physically inspect the coupling and shaft keyway.
+STEPS_HI: VFD बंद करें। अगर स्क्रीन पर फ्रीक्वेंसी 50Hz तक जा रही है, लेकिन करंट (Amps) बहुत कम आ रहा है और पानी नहीं निकल रहा है, तो इसका मतलब है कि मोटर बिना लोड के (खाली) घूम रही है। बिजली का सिस्टम बिल्कुल सही है, लेकिन मोटर और पंप को जोड़ने वाला हिस्सा टूट गया है। या तो कपलिंग (Coupling) कट गई है, शाफ्ट की चाबी (Key) टूट गई है, या पंप की शाफ्ट अंदर से टूट गई है। मोटर को पंप से अलग करें और शाफ्ट/कपलिंग चेक करें।
+
+🟦 PROBLEM 34 — OIL-IMMERSED STARTER FAULTS (HIGH HP PUMPS)
+
+🔹 Chunk 63 — Oil-Immersed Starter Flashover (Low/Dirty Oil)
+PROBLEM: Loud popping sounds, sparks, or smoke coming from an older oil-filled starter panel when the handle is pushed.
+MACHINE_TYPE: submersible_pump
+TAGS: oil starter, tel wala panel, flashover, spark inside panel, low oil, transformer oil, handle starter
+ESCALATE_IF: The starter oil catches fire or the metal casing becomes highly electrified.
+STEPS: IMMEDIATELY cut the main grid power isolating the panel. Do not touch the metal body of the starter. High-HP agricultural pumps often use manual oil-immersed starters. The heavy copper contacts are submerged in transformer oil to quench electrical sparks (arcs) during startup. If the oil level drops below the contacts, or if the oil becomes thick and black with carbon, massive sparks will jump across the phases, causing explosions or smoke. Open the oil tank only when power is fully disconnected. Drain the dirty oil, clean the burnt copper contacts with a file, and fill with fresh, correct-grade transformer oil.
+STEPS_HI: तुरंत मेन लाइन से बिजली काट दें। स्टार्टर की लोहे की बॉडी को हाथ न लगाएं। ज्यादा हॉर्सपावर (HP) वाले पंपों में 'तेल वाला स्टार्टर' (Oil-immersed) लगता है। इसके अंदर का तेल चालू करते समय निकलने वाली चिंगारी (Sparks) को बुझाता है। अगर तेल कम हो जाए या जलकर काला हो जाए, तो अंदर भयंकर चिंगारी उठती है और धमाके या धुआं होता है। बिजली काटने के बाद ही तेल का डिब्बा खोलें। खराब तेल निकालें, जली हुई तांबे की पत्तियों को रेती (File) से साफ करें, और नया सही ग्रेड का ट्रांसफार्मर तेल भरें।
+
+🟦 PROBLEM 35 — BOREWELL STRUCTURAL FAILURES
+
+🔹 Chunk 64 — Pump Stuck Underground (Casing Collapse)
+PROBLEM: Attempting to pull the submersible pump out of the borewell for repair, but the pipe and cable refuse to move and feel jammed solid.
+MACHINE_TYPE: submersible_pump
+TAGS: pump stuck, pipe phans gaya, casing collapse, borewell damage, heavy mud, motor jammed underground, cannot pull pump
+ESCALATE_IF:
+STEPS: STOP pulling immediately. Do NOT use a tractor, heavy chain block, or hydraulic jack to force the pump out. Submersible pumps get stuck when the PVC/MS borewell casing pipe collapses, or when rocks/heavy silt wedge themselves between the motor and the casing wall. Forcing it out will stretch the drop cable to the point of breaking, tear the delivery pipe, and result in the pump falling to the bottom of the borewell where it can never be recovered. Call a professional borewell scanning service with an underwater camera to assess the jam. They will use specialized air-compressor flushing or drilling techniques to free it safely.
+STEPS_HI: पंप को ऊपर खींचना तुरंत बंद करें। ट्रैक्टर, भारी जैक या क्रेन लगाकर पंप को जबरदस्ती बाहर निकालने की कोशिश बिल्कुल न करें। सबमर्सिबल पंप तब फंसता है जब बोरवेल का पाइप (Casing) पिचक जाता है या मोटर के बगल में कोई बड़ा पत्थर/मिट्टी फंस जाती है। अगर आप जोर लगाएंगे, तो पाइप या केबल टूट जाएगी और मोटर हमेशा के लिए बोरवेल के अंदर गिर जाएगी। इसे निकालने के लिए बोरवेल कैमरा वाले प्रोफेशनल मैकेनिक को बुलाएं। वे कंप्रेसर से हवा का प्रेशर मारकर या खास तकनीक से इसे सुरक्षित बाहर निकालेंगे।
+
+🔹 Chunk 65 — Engine-Driven Pump Drive Belt
+PROBLEM: Drive belt is broken, slipping, or squealing
+MACHINE_TYPE: water_pump
+TAGS: drive belt, broken belt, slipping, squealing, pulley
+ESCALATE_IF: 
+STEPS: Switch off the pump engine and remove the key. Locate the drive belt connecting the engine pulley to the pump pulley. If the belt is broken, frayed, or missing, remove the debris. Loosen the tensioner pulley bolt using a spanner. Slide a new OEM-specification V-belt over the pulleys. Adjust the tensioner until the belt deflects no more than half an inch when pressed firmly in the center, then tighten the bolt.
+
+🔹 Chunk 66 — Casing Grounding / Tingling Sensation
+PROBLEM: Tingling sensation or mild shock from motor casing
+MACHINE_TYPE: electric_motor
+TAGS: casing, tingling, mild shock, earthing, ground wire, current sensation, hand on casing
+ESCALATE_IF: User reports a severe electric shock, being thrown back, or burns.
+STEPS: Do not touch the motor. Immediately switch off the main MCB isolator. A tingling sensation indicates a failing earth/ground connection or internal winding insulation breakdown. Inspect the green/yellow earth wire attached to the motor casing terminal. If loose or broken, reconnect it securely. Do not operate the motor until an electrician verifies the earth continuity.
+🔹 Chunk 67 — Excessive Vibration / Anti-Vibration Mounts (Shock Absorber Pads)
+PROBLEM: Excessive vibration and noise from motor or pump base
+MACHINE_TYPE: electric_motor, water_pump, submersible_pump
+TAGS: shock absorber, anti-vibration, rubber mount, vibration pad, vibration isolator, mounting rubber, pump hil raha, excessive vibration, motor shake, base shake, rubber pad, anti vibration pad, shock absorber pad, vibration mount worn
+SYMPTOM: Motor or pump vibrates excessively during operation; rubber isolators or anti-vibration mounts show cracking, splitting, oil-soaking, or compression set.
+LIKELY_CAUSES: worn or hardened rubber anti-vibration mounts, loose mounting bolts, deteriorated rubber bushes, misaligned shaft
+MECHANICAL_REASON: Anti-vibration mounts isolate motor vibration from the frame. When the rubber degrades, vibration transmits directly to the structure and worsens bearing wear.
+DIAGNOSTIC_BRANCH: IF rubber mounts are visibly cracked or collapsed -> rubber mount replacement route; IF mounts look OK but bolts loose -> tighten bolts first; IF vibration continues after tightening -> alignment/bearing route.
+STEPS: Switch OFF and isolate power at MCB. Inspect all four motor foot mounting bolts — tighten any that are loose using a spanner. Inspect the rubber anti-vibration mounts (shock absorber pads) under each foot — if the rubber is cracked, split, oil-soaked, or has compressed more than 50%, replace all mounts with identically-rated rubber isolators. After replacement, tighten bolts and confirm the motor sits flat on the base (no soft foot).
+STEPS_HI: MCB बंद करें। मोटर के चारों पैरों के बोल्ट कसें। रबर माउंट (शॉक एब्सॉर्बर पैड) देखें — अगर कटे हुए, तेल में भीगे, या बहुत दबे हुए हैं तो सभी बदलें। बदलने के बाद बोल्ट कसें और मोटर का बेस समतल जांचें।
+TOOLS: spanner, torch
+VISUAL: Motor_Foot, Mounting_Bolt, Rubber_Mount, Anti_Vibration_Pad
+PARTS: Anti_Vibration_Mount, Mounting_Bolt, Base_Frame, Motor_Foot
+ESCALATE_IF: Vibration continues after mount replacement and bolt tightening — bearing wear or shaft misalignment likely.
+
+🔹 Chunk 68 — Persistent Prime Loss After Re-Priming Attempt
+PROBLEM: Pump loses prime repeatedly — water not coming despite re-priming
+MACHINE_TYPE: water_pump
+TAGS: priming baad bhi nahi, priming karne ke baad bhi, persistent prime loss, still no water after prime, air lock return, suction nahi ban raha, re-prime again again, prime nahi reh raha, bar bar prime karna pad raha, prime kho raha, prime nahi ruk raha
+SYMPTOM: User has already attempted re-priming but water still does not come, or pump quickly loses prime again after each attempt.
+LIKELY_CAUSES: foot valve leaking (water drains back), suction pipe air leak at joint, suction hose cracked, pump casing damage
+MECHANICAL_REASON: If the foot valve does not seal, water drains back immediately after the pump stops and even during operation air re-enters. If there is an air leak in the suction line, the vacuum is never maintained.
+DIAGNOSTIC_BRANCH: IF prime fills casing but empties immediately -> foot valve not holding route; IF casing stays full but pump still no water -> air lock/impeller route; IF priming cap area bubbles -> suction joint air leak route.
+STEPS: Switch OFF the pump. Step 1 — Check the foot valve: fill the suction pipe completely with water and watch whether it drains back within 30 seconds; if it does, the foot valve rubber flap is worn or has debris — inspect the foot valve, clean the strainer, and replace the rubber flap if damaged. Step 2 — Inspect every suction joint for air leaks: wrap a wet cloth around each union and watch for bubbling during pump operation; tighten any loose joint or replace cracked hose. Step 3 — Check for air lock: if the suction pipe has an upward bend or U-trap, air can collect there — straighten the pipe run or add a high-point vent. Re-prime only after completing these checks.
+STEPS_HI: पंप बंद करें। Step 1 — फुट वाल्व जांचें: सक्शन पाइप में पूरा पानी भरें और देखें कि 30 सेकंड में वापस जाता है या नहीं — अगर जाता है तो फुट वाल्व की रबर फ्लैप खराब है, उसे साफ करें या बदलें। Step 2 — हर सक्शन जोड़ पर हवा का रिसाव जांचें: चलते हुए पंप के पास जोड़ों पर गीला कपड़ा रखें — बुलबुले आएं तो जोड़ कसें या नली बदलें। Step 3 — अगर सक्शन पाइप में कोई मोड़ है तो वहां हवा फंस सकती है — पाइप सीधा करें।
+TOOLS: spanner, bucket, torch, cloth
+VISUAL: Foot_Valve, Suction_Strainer, Priming_Port, Suction_Pipe, Union_Joint
+PARTS: Foot_Valve, Valve_Flap, Suction_Strainer, Suction_Pipe, Union_Joint, Hose_Clamp
+ESCALATE_IF: Foot valve is inaccessible (submerged deep well) or air leak cannot be located after full inspection.

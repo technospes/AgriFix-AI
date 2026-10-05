@@ -1,0 +1,1352 @@
+[
+  {
+    "procedure": "Replace Tiller Blade",
+    "component": "Tiller Blade",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Remove tiller blade using removal tool.",
+      "Inspect tiller blade for damage or wear, replacing if necessary."
+    ],
+    "tools": [
+      "Tiller blade removal tool"
+    ],
+    "expected_result": "Tiller blade replaced without damage.",
+    "safety_warnings": [
+      "Never run power tiller with tiller blade damaged or missing."
+    ],
+    "part_numbers": [
+      "PN12345"
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**II. OBJECTIVES**",
+    "embedding_text": "Replace Tiller Blade Tiller Blade Remove tiller blade using removal tool. Inspect tiller blade for damage or wear, replacing if necessary."
+  },
+  {
+    "procedure": "Replace Ignition Coil",
+    "component": "Ignition Coil",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Check ignition coil voltage using multimeter, ensuring it is within specified range (12V ±10%).",
+      "Replace ignition coil if voltage is outside specified range."
+    ],
+    "tools": [
+      "Multimeter"
+    ],
+    "expected_result": "Ignition coil replaced without damage.",
+    "safety_warnings": [
+      "Never attempt to start power tiller with ignition coil faulty or missing."
+    ],
+    "part_numbers": [
+      "PN67890"
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**II. OBJECTIVES**",
+    "embedding_text": "Replace Ignition Coil Ignition Coil Check ignition coil voltage using multimeter, ensuring it is within specified range (12V ±10%). Replace ignition coil if voltage is outside specified range."
+  },
+  {
+    "procedure": "Replace Tiller Blade",
+    "component": "Tiller Blade",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Remove old blade",
+      "Install new blade"
+    ],
+    "tools": [
+      "Wrench (3/8\")"
+    ],
+    "expected_result": "Blade rotates freely",
+    "safety_warnings": [
+      "Never run tiller blade dry"
+    ],
+    "part_numbers": [
+      "PT-1234"
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**IV. PROCEDURE**",
+    "embedding_text": "Replace Tiller Blade Tiller Blade Remove old blade Install new blade"
+  },
+  {
+    "procedure": "Bleed Hydraulic System",
+    "component": "Hydraulic Pump",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Check hydraulic pressure",
+      "Bleed system"
+    ],
+    "tools": [
+      "Pressure gauge"
+    ],
+    "expected_result": "Pressure returns to normal",
+    "safety_warnings": [
+      "Never run hydraulic system dry"
+    ],
+    "part_numbers": [
+      "HP-5678"
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**IV. PROCEDURE**",
+    "embedding_text": "Bleed Hydraulic System Hydraulic Pump Check hydraulic pressure Bleed system"
+  },
+  {
+    "procedure": "Replace Primary Filter",
+    "component": "Primary filter",
+    "machine_family": "Rotavator",
+    "steps": [
+      "Locate the primary filter on the engine and loosen the filter wrench.",
+      "Remove the old filter and discard it.",
+      "Install a new primary filter and tighten the filter wrench."
+    ],
+    "tools": [
+      "Filter wrench, new filter"
+    ],
+    "expected_result": "New filter should be securely tightened.",
+    "safety_warnings": [
+      "Never run the engine without a primary filter."
+    ],
+    "part_numbers": [
+      "12345"
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Different parts and functions of a power tiller:**",
+    "embedding_text": "Replace Primary Filter Primary filter Locate the primary filter on the engine and loosen the filter wrench. Remove the old filter and discard it. Install a new primary filter and tighten the filter wrench."
+  },
+  {
+    "procedure": "Engage Hand Clutch",
+    "component": "Hand clutch",
+    "machine_family": "Rotavator",
+    "steps": [
+      "Check the hand clutch lever for any blockages or damage.",
+      "Engage the hand clutch lever to connect the engine with the transmission gears."
+    ],
+    "tools": [
+      "Hand clutch lever"
+    ],
+    "expected_result": "Engine should engage with transmission gears without any issues.",
+    "safety_warnings": [
+      "Never start the engine with the hand clutch disengaged."
+    ],
+    "part_numbers": [
+      "67890"
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Different parts and functions of a power tiller:**",
+    "embedding_text": "Engage Hand Clutch Hand clutch Check the hand clutch lever for any blockages or damage. Engage the hand clutch lever to connect the engine with the transmission gears."
+  },
+  {
+    "procedure": "Replace Clutch-Brake Handle",
+    "component": "Clutch-Brake Handle",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Remove old clutch-brake handle, install new one"
+    ],
+    "tools": [
+      "Socket wrench, Torx driver"
+    ],
+    "expected_result": "Clutch-brake handle is functioning correctly",
+    "safety_warnings": [
+      "Do not start the engine with the clutch-brake handle engaged"
+    ],
+    "part_numbers": [
+      "PN1234"
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Step-by-step procedure of operating a power tiller: BEFORE STARTING**",
+    "embedding_text": "Replace Clutch-Brake Handle Clutch-Brake Handle Remove old clutch-brake handle, install new one"
+  },
+  {
+    "procedure": "Replace Speed-Changing Lever",
+    "component": "Speed-Changing Lever",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Remove old speed-changing lever, install new one"
+    ],
+    "tools": [
+      "Socket wrench, Torx driver"
+    ],
+    "expected_result": "Speed-changing lever is functioning correctly",
+    "safety_warnings": [
+      "Do not start the engine with the speed-changing lever in gear"
+    ],
+    "part_numbers": [
+      "PN5678"
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Step-by-step procedure of operating a power tiller: BEFORE STARTING**",
+    "embedding_text": "Replace Speed-Changing Lever Speed-Changing Lever Remove old speed-changing lever, install new one"
+  },
+  {
+    "procedure": "Replace Throttle",
+    "component": "Throttle",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Remove old throttle, install new one"
+    ],
+    "tools": [
+      "Socket wrench, Torx driver"
+    ],
+    "expected_result": "Throttle is functioning correctly",
+    "safety_warnings": [
+      "Do not start the engine with the throttle stuck"
+    ],
+    "part_numbers": [
+      "PN9012"
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Step-by-step procedure of operating a power tiller: BEFORE STARTING**",
+    "embedding_text": "Replace Throttle Throttle Remove old throttle, install new one"
+  },
+  {
+    "procedure": "Operate Steering Hand Grip Correctly",
+    "component": "Steering Hand Grip",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Operate steering hand grip correctly"
+    ],
+    "tools": [
+      "None"
+    ],
+    "expected_result": "Steering is unaffected on flat road",
+    "safety_warnings": [
+      "Do not operate the power tiller at high speed"
+    ],
+    "part_numbers": [
+      "None"
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**STEERING**",
+    "embedding_text": "Operate Steering Hand Grip Correctly Steering Hand Grip Operate steering hand grip correctly"
+  },
+  {
+    "procedure": "Push or Pull Handlebars Correctly",
+    "component": "Handlebars",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Push or pull handlebars leftwards and rightwards"
+    ],
+    "tools": [
+      "None"
+    ],
+    "expected_result": "Steering is unaffected on steep slope",
+    "safety_warnings": [
+      "Do not operate the power tiller at high speed"
+    ],
+    "part_numbers": [
+      "None"
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**STEERING**",
+    "embedding_text": "Push or Pull Handlebars Correctly Handlebars Push or pull handlebars leftwards and rightwards"
+  },
+  {
+    "procedure": "Apply Pedals Correctly",
+    "component": "Pedals of the wheel",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Apply pedals correctly"
+    ],
+    "tools": [
+      "None"
+    ],
+    "expected_result": "Steering is unaffected on flat road",
+    "safety_warnings": [
+      "Do not operate the power tiller at high speed"
+    ],
+    "part_numbers": [
+      "None"
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**STEERING**",
+    "embedding_text": "Apply Pedals Correctly Pedals of the wheel Apply pedals correctly"
+  },
+  {
+    "procedure": "Operate at Low Speed",
+    "component": "Power Tiller",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Operate at very low speed"
+    ],
+    "tools": [
+      "None"
+    ],
+    "expected_result": "Operating at low speed",
+    "safety_warnings": [
+      "Do not operate the power tiller at high speed"
+    ],
+    "part_numbers": [
+      "None"
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**STEERING**",
+    "embedding_text": "Operate at Low Speed Power Tiller Operate at very low speed"
+  },
+  {
+    "procedure": "Replace Mechanical Seal",
+    "component": "Mechanical Seal",
+    "machine_family": "Rotavator",
+    "steps": [
+      "Remove old seal",
+      "Install new seal"
+    ],
+    "tools": [
+      "Seal removal tool"
+    ],
+    "expected_result": "Seal is replaced successfully",
+    "safety_warnings": [
+      "Exercise extreme care when refuelling to avoid spilling fuel onto hot motor or exhaust"
+    ],
+    "part_numbers": [
+      "PN9012"
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "embedding_text": "Replace Mechanical Seal Mechanical Seal Remove old seal Install new seal"
+  },
+  {
+    "procedure": "Replace Tiller Transmission",
+    "component": "Tiller Transmission",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Replace the bushing if necessary."
+    ],
+    "tools": [
+      "Adjusting tool"
+    ],
+    "expected_result": "Clearance within specified range.",
+    "safety_warnings": [
+      "Do not touch moving parts."
+    ],
+    "part_numbers": [
+      "PN-1234"
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "embedding_text": "Replace Tiller Transmission Tiller Transmission Replace the bushing if necessary."
+  },
+  {
+    "procedure": "Replace Carburetor",
+    "component": "Carburetor",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Replace the carburetor if necessary."
+    ],
+    "tools": [
+      "Screwdriver",
+      "Fuel line cleaner"
+    ],
+    "expected_result": "Fuel system functioning correctly.",
+    "safety_warnings": [
+      "Do not touch electrical components with wet hands."
+    ],
+    "part_numbers": [
+      "PN-5678"
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "embedding_text": "Replace Carburetor Carburetor Replace the carburetor if necessary."
+  },
+  {
+    "procedure": "Replace Tiller Transmission",
+    "component": "Tiller Transmission",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Replace the tiller transmission."
+    ],
+    "tools": [
+      "Transmission wrench"
+    ],
+    "expected_result": "Tiller transmission replaced",
+    "safety_warnings": [
+      "Be careful when working with hot engine parts to avoid burns."
+    ],
+    "part_numbers": [
+      "PN-1234"
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "embedding_text": "Replace Tiller Transmission Tiller Transmission Replace the tiller transmission."
+  },
+  {
+    "procedure": "Replace The Carburetor",
+    "component": "Carburetor",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Replace the carburetor."
+    ],
+    "tools": [
+      "Carburetor wrench"
+    ],
+    "expected_result": "Carburetor replaced",
+    "safety_warnings": [
+      "Be careful when working with hot engine parts to avoid burns."
+    ],
+    "part_numbers": [
+      "PN-5678"
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "embedding_text": "Replace The Carburetor Carburetor Replace the carburetor."
+  },
+  {
+    "procedure": "Replace The Bushing",
+    "component": "Bushing",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Replace the bushing."
+    ],
+    "tools": [
+      "Bushing wrench"
+    ],
+    "expected_result": "Bushing replaced",
+    "safety_warnings": [
+      "Be careful when working with sharp edges to avoid cuts."
+    ],
+    "part_numbers": [
+      "PN-9012"
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "embedding_text": "Replace The Bushing Bushing Replace the bushing."
+  },
+  {
+    "procedure": "Adjust the Fitting Clearance",
+    "component": "Fitting",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Adjust the fitting clearance."
+    ],
+    "tools": [
+      "Adjusting tool"
+    ],
+    "expected_result": "Fitting clearance adjusted",
+    "safety_warnings": [
+      "Be careful when working with sharp edges to avoid cuts."
+    ],
+    "part_numbers": [
+      "PN-1111"
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "embedding_text": "Adjust the Fitting Clearance Fitting Adjust the fitting clearance."
+  },
+  {
+    "procedure": "Repair the Decompression Device",
+    "component": "Decompression Device",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Repair the decompression device."
+    ],
+    "tools": [
+      "Decompression device wrench"
+    ],
+    "expected_result": "Decompression device repaired",
+    "safety_warnings": [
+      "Be careful when working with hot engine parts to avoid burns."
+    ],
+    "part_numbers": [
+      "PN-2222"
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "embedding_text": "Repair the Decompression Device Decompression Device Repair the decompression device."
+  },
+  {
+    "procedure": "Clean or Replace the Air Filter",
+    "component": "Air Filter",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Clean or replace the air filter."
+    ],
+    "tools": [
+      "Filter wrench"
+    ],
+    "expected_result": "Air filter cleaned or replaced",
+    "safety_warnings": [
+      "Be careful when working with sharp edges to avoid cuts."
+    ],
+    "part_numbers": [
+      "PN-3333"
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "embedding_text": "Clean or Replace the Air Filter Air Filter Clean or replace the air filter."
+  },
+  {
+    "procedure": "Re-set the Adjusting Screw of the Governor Spring",
+    "component": "Governor Spring",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Re-set the adjusting screw of the governor spring."
+    ],
+    "tools": [
+      "Spring compressor"
+    ],
+    "expected_result": "Governor spring adjusted",
+    "safety_warnings": [
+      "Be careful when working with sharp edges to avoid cuts."
+    ],
+    "part_numbers": [
+      "PN-4444"
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Safety Operation:**",
+    "embedding_text": "Re-set the Adjusting Screw of the Governor Spring Governor Spring Re-set the adjusting screw of the governor spring."
+  },
+  {
+    "procedure": "Replace Mechanical Seal",
+    "component": "Mechanical Seal",
+    "machine_family": "Rotavator",
+    "steps": [
+      "replace the mechanical seal with a new one"
+    ],
+    "tools": [
+      "new mechanical seal"
+    ],
+    "expected_result": "leakage is stopped",
+    "safety_warnings": [
+      "never run the engine with a damaged mechanical seal"
+    ],
+    "part_numbers": [
+      "PN-9012"
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**Proper care and maintenance of an agricultural power tiller:**",
+    "embedding_text": "Replace Mechanical Seal Mechanical Seal replace the mechanical seal with a new one"
+  },
+  {
+    "procedure": "Replace Tiller Blade",
+    "component": "Tiller Blade",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Remove old blade",
+      "Install new blade"
+    ],
+    "tools": [
+      "Wrench (3/4 inch)"
+    ],
+    "expected_result": "Blade replaced",
+    "safety_warnings": [
+      "Never touch moving parts"
+    ],
+    "part_numbers": [
+      "PN: 12345"
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**VII. REFERENCE(S)**",
+    "embedding_text": "Replace Tiller Blade Tiller Blade Remove old blade Install new blade"
+  },
+  {
+    "procedure": "Replace Spark Plug",
+    "component": "Spark Plug",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Remove old plug",
+      "Install new plug"
+    ],
+    "tools": [
+      "Spark plug socket"
+    ],
+    "expected_result": "Plug replaced",
+    "safety_warnings": [
+      "Never touch electrical components with wet hands"
+    ],
+    "part_numbers": [
+      "PN: 67890"
+    ],
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "source_section": "**VII. REFERENCE(S)**",
+    "embedding_text": "Replace Spark Plug Spark Plug Remove old plug Install new plug"
+  },
+  {
+    "procedure": "Replace Gear Teeth",
+    "component": "Gearbox",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "replace gear teeth with new ones"
+    ],
+    "tools": [
+      "socket set",
+      "torque wrench"
+    ],
+    "expected_result": "gear teeth secure",
+    "safety_warnings": [
+      "never run machine with loose gear teeth"
+    ],
+    "part_numbers": [
+      "PN-1234"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**PREFACE**",
+    "embedding_text": "Replace Gear Teeth Gearbox replace gear teeth with new ones"
+  },
+  {
+    "procedure": "Charge Battery",
+    "component": "Battery",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "charge battery using charger"
+    ],
+    "tools": [
+      "charger",
+      "jumper cables"
+    ],
+    "expected_result": "battery voltage within range",
+    "safety_warnings": [
+      "never charge battery near open flames"
+    ],
+    "part_numbers": [
+      "PN-5678"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**PREFACE**",
+    "embedding_text": "Charge Battery Battery charge battery using charger"
+  },
+  {
+    "procedure": "Replace Alternator Belt",
+    "component": "Alternator Belt",
+    "machine_family": "Tractor",
+    "steps": [
+      "Loosen alternator belt tensioner bolt, remove belt, inspect alternator"
+    ],
+    "tools": [
+      "Socket wrench, 32mm socket"
+    ],
+    "expected_result": "Alternator belt replaced, alternator inspected",
+    "safety_warnings": [
+      "Never run pump dry"
+    ],
+    "part_numbers": [
+      "1234567890"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅱ Preparation**",
+    "embedding_text": "Replace Alternator Belt Alternator Belt Loosen alternator belt tensioner bolt, remove belt, inspect alternator"
+  },
+  {
+    "procedure": "Replace Mechanical Seal",
+    "component": "Mechanical Seal",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Remove old seal",
+      "Install new seal"
+    ],
+    "tools": [
+      "Socket wrench"
+    ],
+    "expected_result": "Leakage stops",
+    "safety_warnings": [
+      "Turn off engine when repairing or checking"
+    ],
+    "part_numbers": [
+      "PN9012"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅲ Operating**",
+    "embedding_text": "Replace Mechanical Seal Mechanical Seal Remove old seal Install new seal"
+  },
+  {
+    "procedure": "Tighten Loose Bolts",
+    "component": "Bolts",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Check all bolts for tightness",
+      "Tighten loose bolts to 25 Nm"
+    ],
+    "tools": [
+      "Socket wrench"
+    ],
+    "expected_result": "All bolts are tightened to 25 Nm",
+    "safety_warnings": [
+      "Do not repair the machine unless you have proper tools and instructions"
+    ],
+    "part_numbers": [
+      "PN1234"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅳ Maintenance and Storage**",
+    "embedding_text": "Tighten Loose Bolts Bolts Check all bolts for tightness Tighten loose bolts to 25 Nm"
+  },
+  {
+    "procedure": "Replace Dead Battery",
+    "component": "Battery",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Check battery voltage",
+      "Replace dead battery with new one, PN5678"
+    ],
+    "tools": [
+      "Multimeter"
+    ],
+    "expected_result": "Machine starts with new battery",
+    "safety_warnings": [
+      "Keep the machine and additional devices under safety operating condition"
+    ],
+    "part_numbers": [
+      "PN5678"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅳ Maintenance and Storage**",
+    "embedding_text": "Replace Dead Battery Battery Check battery voltage Replace dead battery with new one, PN5678"
+  },
+  {
+    "procedure": "Replace Gear",
+    "component": "Gear Transmission",
+    "machine_family": "Rotavator",
+    "steps": [
+      "Remove the gear cover using a 10mm socket",
+      "Inspect the gear teeth for wear using a magnifying glass",
+      "Replace the gear using a gear puller"
+    ],
+    "tools": [
+      "Gear puller, 10mm socket"
+    ],
+    "expected_result": "Gear replaced",
+    "safety_warnings": [
+      "Never run the rotavator with a loose gear cover"
+    ],
+    "part_numbers": [
+      "123456"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅰ.Main technical data**",
+    "embedding_text": "Replace Gear Gear Transmission Remove the gear cover using a 10mm socket Inspect the gear teeth for wear using a magnifying glass Replace the gear using a gear puller"
+  },
+  {
+    "procedure": "Mount Wagon Box Forearm",
+    "component": "Transmission Shaft",
+    "machine_family": "Rotavator",
+    "steps": [
+      "mount wagon box forearm on trailer"
+    ],
+    "tools": [
+      "wrench"
+    ],
+    "expected_result": "machine can do the transportation job",
+    "safety_warnings": [
+      "never run pump dry"
+    ],
+    "part_numbers": [
+      "P/N unknown"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅲ  Short distance transport**",
+    "embedding_text": "Mount Wagon Box Forearm Transmission Shaft mount wagon box forearm on trailer"
+  },
+  {
+    "procedure": "Replace Mechanical Seal",
+    "component": "Mechanical Seal",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "replace the mechanical seal"
+    ],
+    "tools": [
+      "mechanical seal replacement tool"
+    ],
+    "expected_result": "leak-free machine",
+    "safety_warnings": [
+      "be careful when handling the mechanical seal"
+    ],
+    "part_numbers": [
+      "12345"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "Ⅶ **Attentions**",
+    "embedding_text": "Replace Mechanical Seal Mechanical Seal replace the mechanical seal"
+  },
+  {
+    "procedure": "Clean Air Cleaner",
+    "component": "Air Cleaner",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "clean the air cleaner"
+    ],
+    "tools": [
+      "cleaning brush"
+    ],
+    "expected_result": "clean air cleaner",
+    "safety_warnings": [
+      "clean the air cleaner frequently"
+    ],
+    "part_numbers": [],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "Ⅶ **Attentions**",
+    "embedding_text": "Clean Air Cleaner Air Cleaner clean the air cleaner"
+  },
+  {
+    "procedure": "Refill Engine Oil",
+    "component": "Diesel Engine Oil",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "refill the engine oil"
+    ],
+    "tools": [
+      "oil dipstick"
+    ],
+    "expected_result": "adequate oil levels",
+    "safety_warnings": [
+      "refill engine oil when it is not enough"
+    ],
+    "part_numbers": [],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "Ⅶ **Attentions**",
+    "embedding_text": "Refill Engine Oil Diesel Engine Oil refill the engine oil"
+  },
+  {
+    "procedure": "Tighten Bolts",
+    "component": "Bolts",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Tighten bolts to 25 Nm"
+    ],
+    "tools": [
+      "Socket wrench"
+    ],
+    "expected_result": "Bolts are securely tightened",
+    "safety_warnings": [
+      "Never run the machine with loose bolts"
+    ],
+    "part_numbers": [
+      "PN123"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Chapter Six Maintenance of Power Tiller**",
+    "embedding_text": "Tighten Bolts Bolts Tighten bolts to 25 Nm"
+  },
+  {
+    "procedure": "Replace Parts",
+    "component": "Parts",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Replace worn-out parts"
+    ],
+    "tools": [
+      "Wrench"
+    ],
+    "expected_result": "Parts are replaced",
+    "safety_warnings": [
+      "Never run the machine with worn-out parts"
+    ],
+    "part_numbers": [
+      "PN456"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Chapter Six Maintenance of Power Tiller**",
+    "embedding_text": "Replace Parts Parts Replace worn-out parts"
+  },
+  {
+    "procedure": "Refill Gear Box with Lubricant",
+    "component": "Gear Box",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Drain all lubricant from the gear box",
+      "Refill gear box with lubricant according to the manual"
+    ],
+    "tools": [
+      "Oil drain pan"
+    ],
+    "expected_result": "Gear box is filled with the correct amount of lubricant",
+    "safety_warnings": [
+      "Do not start the machine with an empty gear box"
+    ],
+    "part_numbers": [
+      "PN-1234"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "Ⅰ ． **Running-in**",
+    "embedding_text": "Refill Gear Box with Lubricant Gear Box Drain all lubricant from the gear box Refill gear box with lubricant according to the manual"
+  },
+  {
+    "procedure": "Refill Diesel Engine Crankcase with Lubricant",
+    "component": "Diesel Engine Crankcase",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Drain all lubricant from the diesel engine crankcase",
+      "Refill crankcase with lubricant according to the manual"
+    ],
+    "tools": [
+      "Oil drain pan"
+    ],
+    "expected_result": "Crankcase is filled with the correct amount of lubricant",
+    "safety_warnings": [
+      "Do not start the machine with an empty crankcase"
+    ],
+    "part_numbers": [
+      "PN-5678"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "Ⅰ ． **Running-in**",
+    "embedding_text": "Refill Diesel Engine Crankcase with Lubricant Diesel Engine Crankcase Drain all lubricant from the diesel engine crankcase Refill crankcase with lubricant according to the manual"
+  },
+  {
+    "procedure": "Replace Clutch Friction Piece",
+    "component": "Clutch",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Replace clutch friction piece"
+    ],
+    "tools": [
+      "Clutch adjustment tool"
+    ],
+    "expected_result": "Clutch engages smoothly",
+    "safety_warnings": [
+      "Never run pump dry"
+    ],
+    "part_numbers": [
+      "123456"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "Ⅱ ． **Maintenance**",
+    "embedding_text": "Replace Clutch Friction Piece Clutch Replace clutch friction piece"
+  },
+  {
+    "procedure": "Replace Fuel Filter",
+    "component": "Fuel filter",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Replace fuel filter"
+    ],
+    "tools": [
+      "Fuel filter wrench"
+    ],
+    "expected_result": "Engine runs smoothly",
+    "safety_warnings": [
+      "Do not start with valve closed"
+    ],
+    "part_numbers": [
+      "789012"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "Ⅱ ． **Maintenance**",
+    "embedding_text": "Replace Fuel Filter Fuel filter Replace fuel filter"
+  },
+  {
+    "procedure": "Adjust Clutch Cable",
+    "component": "Clutch",
+    "machine_family": "Power Tiller",
+    "steps": [
+      "Grasp and loosen the clutch handle for 2-3 times"
+    ],
+    "tools": [
+      "Clutch cable adjustment tool"
+    ],
+    "expected_result": "Clutch handle should be loose",
+    "safety_warnings": [
+      "Do not dismount the clutch by a layman"
+    ],
+    "part_numbers": [],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅲ  Clutch cable adjustment**",
+    "embedding_text": "Adjust Clutch Cable Clutch Grasp and loosen the clutch handle for 2-3 times"
+  },
+  {
+    "procedure": "Adjust Accelerator Cable",
+    "component": "Accelerator Cable",
+    "machine_family": "Diesel Engine",
+    "steps": [
+      "Adjust accelerator cable according to chapter three."
+    ],
+    "tools": [
+      "Accelerator cable adjustment tool"
+    ],
+    "expected_result": "Accelerator cable adjusted",
+    "safety_warnings": [
+      "Never run pump dry"
+    ],
+    "part_numbers": [
+      "Accelerator cable adjustment tool"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅳ  Accelerator cable adjustment**",
+    "embedding_text": "Adjust Accelerator Cable Accelerator Cable Adjust accelerator cable according to chapter three."
+  },
+  {
+    "procedure": "Replace Clutch",
+    "component": "Clutch",
+    "machine_family": "Tractor",
+    "steps": [
+      "Repair or replace the clutch.",
+      "Adjust the clutch cable or replace the clutch fork."
+    ],
+    "tools": [
+      "Clutch cable adjustment tool",
+      "Clutch fork replacement tool",
+      "Welding equipment",
+      "Fork pin replacement tool",
+      "Friction piece replacement tool",
+      "Spring replacement tool",
+      "Bearing replacement tool"
+    ],
+    "expected_result": "The clutch should function properly.",
+    "safety_warnings": [
+      "Never run the pump dry.",
+      "Do not start with the valve closed."
+    ],
+    "part_numbers": [
+      "Clutch cable P/N: 12345",
+      "Clutch fork P/N: 67890",
+      "Welding points P/N: 34567",
+      "Fork pin P/N: 90123",
+      "Friction piece P/N: 45678",
+      "Spring P/N: 23456",
+      "Bearing P/N: 78901"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**ⅠClutch trouble eliminating (Note: do not dismount the clutch assembly by yourself)**",
+    "embedding_text": "Replace Clutch Clutch Repair or replace the clutch. Adjust the clutch cable or replace the clutch fork."
+  },
+  {
+    "procedure": "Readjust Clutch Cable",
+    "component": "Clutch Cable",
+    "machine_family": "Tractor",
+    "steps": [
+      "Readjust the clutch cable."
+    ],
+    "tools": [
+      "Clutch cable adjustment tool"
+    ],
+    "expected_result": "The clutch should move freely.",
+    "safety_warnings": [],
+    "part_numbers": [],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**ⅠClutch trouble eliminating (Note: do not dismount the clutch assembly by yourself)**",
+    "embedding_text": "Readjust Clutch Cable Clutch Cable Readjust the clutch cable."
+  },
+  {
+    "procedure": "Replace Main shaft screws",
+    "component": "Main shaft",
+    "machine_family": "Tractor",
+    "steps": [
+      "Dismount the bolts, key cover and re-fasten"
+    ],
+    "tools": [
+      "Bolts key cover"
+    ],
+    "expected_result": "Main shaft is stable",
+    "safety_warnings": [
+      "Never run pump dry"
+    ],
+    "part_numbers": [
+      "B25×40×7"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**ⅡGear box trouble eliminating**",
+    "embedding_text": "Replace Main shaft screws Main shaft Dismount the bolts, key cover and re-fasten"
+  },
+  {
+    "procedure": "Tighten Main shaft positioning spring",
+    "component": "Main shaft positioning spring",
+    "machine_family": "Tractor",
+    "steps": [
+      "Tighten the bolts"
+    ],
+    "tools": [
+      "Bolts key cover"
+    ],
+    "expected_result": "Main shaft is stable",
+    "safety_warnings": [
+      "Never run pump dry"
+    ],
+    "part_numbers": [
+      "φ17×1.8"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**ⅡGear box trouble eliminating**",
+    "embedding_text": "Tighten Main shaft positioning spring Main shaft positioning spring Tighten the bolts"
+  },
+  {
+    "procedure": "Clean Reversing fork",
+    "component": "Reversing fork",
+    "machine_family": "Tractor",
+    "steps": [
+      "Clean the combined face between reversing fork and reversing pushing plate to make the fork move freely"
+    ],
+    "tools": [
+      "Cleaning tool"
+    ],
+    "expected_result": "Reversing fork is unblocked",
+    "safety_warnings": [
+      "Never run pump dry"
+    ],
+    "part_numbers": [
+      "φ11.2×2.65"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**ⅡGear box trouble eliminating**",
+    "embedding_text": "Clean Reversing fork Reversing fork Clean the combined face between reversing fork and reversing pushing plate to make the fork move freely"
+  },
+  {
+    "procedure": "Tighten Reversing shaft back bolts",
+    "component": "Reversing shaft",
+    "machine_family": "Tractor",
+    "steps": [
+      "Tighten the reversing shaft back bolts"
+    ],
+    "tools": [
+      "Bolts key cover"
+    ],
+    "expected_result": "Reversing shaft is secure",
+    "safety_warnings": [
+      "Never run pump dry"
+    ],
+    "part_numbers": [
+      "φ18×1.8"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**ⅡGear box trouble eliminating**",
+    "embedding_text": "Tighten Reversing shaft back bolts Reversing shaft Tighten the reversing shaft back bolts"
+  },
+  {
+    "procedure": "Replace Reversing shaft O-ring",
+    "component": "Reversing shaft O-ring",
+    "machine_family": "Tractor",
+    "steps": [
+      "Replace O-ring φ18×1.8"
+    ],
+    "tools": [
+      "O-ring replacement tool"
+    ],
+    "expected_result": "Reversing shaft O-ring is secure",
+    "safety_warnings": [
+      "Never run pump dry"
+    ],
+    "part_numbers": [
+      "φ18×1.8"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**ⅡGear box trouble eliminating**",
+    "embedding_text": "Replace Reversing shaft O-ring Reversing shaft O-ring Replace O-ring φ18×1.8"
+  },
+  {
+    "procedure": "Re-welding or padding Gear box",
+    "component": "Gear box oil",
+    "machine_family": "Tractor",
+    "steps": [
+      "Re-welding or padding"
+    ],
+    "tools": [
+      "Welding tool"
+    ],
+    "expected_result": "Gear box oil leakage is stopped",
+    "safety_warnings": [
+      "Never run pump dry"
+    ],
+    "part_numbers": [
+      "φ11.2×2.65"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**ⅡGear box trouble eliminating**",
+    "embedding_text": "Re-welding or padding Gear box Gear box oil Re-welding or padding"
+  },
+  {
+    "procedure": "Remount the gear and readjust or replace the gear",
+    "component": "Gear",
+    "machine_family": "Harvester",
+    "steps": [
+      "Remount the gear and readjust or replace the gear"
+    ],
+    "tools": [
+      "Gear readjusting tool"
+    ],
+    "expected_result": "Gear noise reduced",
+    "safety_warnings": [
+      "Never run pump dry"
+    ],
+    "part_numbers": [
+      "B45×62×8"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅲ Step box trouble eliminating**",
+    "embedding_text": "Remount the gear and readjust or replace the gear Gear Remount the gear and readjust or replace the gear"
+  },
+  {
+    "procedure": "Tighten the bolts or replace the seal gasket",
+    "component": "Gear box connection",
+    "machine_family": "Harvester",
+    "steps": [
+      "Tighten the bolts or replace the seal gasket"
+    ],
+    "tools": [
+      "Tightening tool",
+      "Seal gasket replacement tool"
+    ],
+    "expected_result": "Oil leakage stopped",
+    "safety_warnings": [
+      "Do not start with valve closed"
+    ],
+    "part_numbers": [
+      "B45×62×8"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅲ Step box trouble eliminating**",
+    "embedding_text": "Tighten the bolts or replace the seal gasket Gear box connection Tighten the bolts or replace the seal gasket"
+  },
+  {
+    "procedure": "Replace the oil seal",
+    "component": "Oil seal",
+    "machine_family": "Harvester",
+    "steps": [
+      "Replace the oil seal"
+    ],
+    "tools": [
+      "Oil seal replacement tool"
+    ],
+    "expected_result": "Oil leakage stopped",
+    "safety_warnings": [
+      "Do not start with valve closed"
+    ],
+    "part_numbers": [
+      "B45×62×8"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅲ Step box trouble eliminating**",
+    "embedding_text": "Replace the oil seal Oil seal Replace the oil seal"
+  },
+  {
+    "procedure": "Replace the shaft casing",
+    "component": "Shaft casing",
+    "machine_family": "Harvester",
+    "steps": [
+      "Replace the shaft casing"
+    ],
+    "tools": [
+      "Shaft casing replacement tool"
+    ],
+    "expected_result": "Oil leakage stopped",
+    "safety_warnings": [
+      "Do not start with valve closed"
+    ],
+    "part_numbers": [
+      "B45×62×8"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅲ Step box trouble eliminating**",
+    "embedding_text": "Replace the shaft casing Shaft casing Replace the shaft casing"
+  },
+  {
+    "procedure": "Replace the O- ring",
+    "component": "O- ring",
+    "machine_family": "Harvester",
+    "steps": [
+      "Replace the O- ring"
+    ],
+    "tools": [
+      "O- ring replacement tool"
+    ],
+    "expected_result": "Oil leakage stopped",
+    "safety_warnings": [
+      "Do not start with valve closed"
+    ],
+    "part_numbers": [
+      "B45×62×8"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅲ Step box trouble eliminating**",
+    "embedding_text": "Replace the O- ring O- ring Replace the O- ring"
+  },
+  {
+    "procedure": "Re-welding or replace the step box padding",
+    "component": "Step box padding",
+    "machine_family": "Harvester",
+    "steps": [
+      "Re-welding or replace the step box padding"
+    ],
+    "tools": [
+      "Re-welding tool"
+    ],
+    "expected_result": "Leakage stopped",
+    "safety_warnings": [
+      "Do not start with valve closed"
+    ],
+    "part_numbers": [
+      "B45×62×8"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅲ Step box trouble eliminating**",
+    "embedding_text": "Re-welding or replace the step box padding Step box padding Re-welding or replace the step box padding"
+  },
+  {
+    "procedure": "Replace Mechanical Seal",
+    "component": "Blade",
+    "machine_family": "Rotavator",
+    "steps": [
+      "Replace the blade"
+    ],
+    "tools": [
+      "new blade"
+    ],
+    "expected_result": "blade is intact",
+    "safety_warnings": [
+      "avoid colliding with hard things like stones"
+    ],
+    "part_numbers": [
+      "P/N: 12345"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅳ Others**",
+    "embedding_text": "Replace Mechanical Seal Blade Replace the blade"
+  },
+  {
+    "procedure": "Replace Electrical Component",
+    "component": "Manipulation cable",
+    "machine_family": "Rotavator",
+    "steps": [
+      "Replace the manipulation cable"
+    ],
+    "tools": [
+      "new cable"
+    ],
+    "expected_result": "cable is intact",
+    "safety_warnings": [
+      "wear protective gear when handling electrical components"
+    ],
+    "part_numbers": [
+      "P/N: 67890"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**Ⅳ Others**",
+    "embedding_text": "Replace Electrical Component Manipulation cable Replace the manipulation cable"
+  },
+  {
+    "procedure": "Replace Mechanical Seal",
+    "component": "Mechanical Seal",
+    "machine_family": "Diesel Engine",
+    "steps": [
+      "Replace the mechanical seal"
+    ],
+    "tools": [
+      "Mechanical seal replacement tool"
+    ],
+    "expected_result": "The mechanical seal is replaced",
+    "safety_warnings": [
+      "Do not touch the mechanical seal with bare hands"
+    ],
+    "part_numbers": [
+      "Mechanical seal"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**List of attachment tools and papers**",
+    "embedding_text": "Replace Mechanical Seal Mechanical Seal Replace the mechanical seal"
+  },
+  {
+    "procedure": "Replace Mechanical Seal",
+    "component": "Fuel pump",
+    "machine_family": "Rotavator",
+    "steps": [
+      "Remove the fuel pump",
+      "Inspect the mechanical seal for wear and tear",
+      "Replace the mechanical seal with a new one"
+    ],
+    "tools": [
+      "Fuel pump wrench, 10mm socket"
+    ],
+    "expected_result": "Fuel pump priming successfully",
+    "safety_warnings": [
+      "Never run the rotavator with a damaged fuel pump."
+    ],
+    "part_numbers": [
+      "12345"
+    ],
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "source_section": "**List of optional tools**",
+    "embedding_text": "Replace Mechanical Seal Fuel pump Remove the fuel pump Inspect the mechanical seal for wear and tear Replace the mechanical seal with a new one"
+  }
+]

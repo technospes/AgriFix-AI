@@ -1,0 +1,827 @@
+[
+  {
+    "component": "Rotavator Assembly",
+    "aliases": [],
+    "connected_to": [
+      "gearbox",
+      "transmission components"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Rotavator_Manual.pdf"
+    ],
+    "related_faults": [
+      "Excessive wear",
+      "Cracked or damaged components",
+      "Loose hardware"
+    ],
+    "related_specs": [],
+    "machine_family": "Water Pump",
+    "embedding_text": "Rotavator Assembly gearbox transmission components Excessive wear Cracked or damaged components Loose hardware"
+  },
+  {
+    "component": "Pto Drive Shaft Guard",
+    "aliases": [],
+    "connected_to": [
+      "pto drive shaft",
+      "tractor",
+      "implement"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Rotavator_Manual.pdf"
+    ],
+    "related_faults": [
+      "Guard tubes separating at working length",
+      "Guard tubes bottoming out at shortest length",
+      "Guard damaged or broken"
+    ],
+    "related_specs": [],
+    "machine_family": "Water Pump",
+    "embedding_text": "Pto Drive Shaft Guard pto drive shaft tractor implement Guard tubes separating at working length Guard tubes bottoming out at shortest length Guard damaged or broken"
+  },
+  {
+    "component": "Gearbox And Side Drive",
+    "aliases": [],
+    "connected_to": [
+      "gearbox",
+      "side drive"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Rotavator_Manual.pdf"
+    ],
+    "related_faults": [
+      "Excessive noise or heat from gearbox",
+      "Premature wear of drive components",
+      "Gearbox or side drive overheating",
+      "Excessive noise during operation"
+    ],
+    "related_specs": [],
+    "machine_family": "Water Pump",
+    "embedding_text": "Gearbox And Side Drive gearbox side drive Excessive noise or heat from gearbox Premature wear of drive components Gearbox or side drive overheating"
+  },
+  {
+    "component": "Pto Drive Shaft",
+    "aliases": [
+      "pto driveshaft"
+    ],
+    "connected_to": [
+      "tractor pto",
+      "gearbox input shaft",
+      "tractor",
+      "rotavator",
+      "tractor pto output",
+      "implement pto input",
+      "3-point hitch",
+      "pump input shaft"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Rotavator_Manual.pdf",
+      "Shaktiman_Rotavator_Guide.pdf"
+    ],
+    "related_faults": [
+      "PTO shaft bottoms out or separates during operation",
+      "PTO shaft bottoms out",
+      "PTO shaft separates",
+      "PTO shaft exceeds maximum operating angle",
+      "Driveshaft bends",
+      "Damage to tractor or implement",
+      "drive shaft stiff or noisy during operation"
+    ],
+    "related_specs": [],
+    "machine_family": "Water Pump",
+    "embedding_text": "Pto Drive Shaft pto driveshaft tractor pto gearbox input shaft tractor rotavator PTO shaft bottoms out or separates during operation PTO shaft bottoms out PTO shaft separates"
+  },
+  {
+    "component": "Impeller Blades",
+    "aliases": [],
+    "connected_to": [
+      "pump shaft",
+      "impeller hub"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Rotavator_Manual.pdf"
+    ],
+    "related_faults": [
+      "Catastrophic pump failure",
+      "Severe vibration",
+      "Loss of pumping efficiency",
+      "Reduced water output",
+      "Increased vibration",
+      "Excessive noise"
+    ],
+    "related_specs": [
+      "Blades are straight, uniform, and free of cracks."
+    ],
+    "machine_family": "Water Pump",
+    "embedding_text": "Impeller Blades pump shaft impeller hub Catastrophic pump failure Severe vibration Loss of pumping efficiency"
+  },
+  {
+    "component": "Blade Assembly",
+    "aliases": [],
+    "connected_to": [
+      "rotor flanges",
+      "propeller shaft"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Rotavator_Manual.pdf",
+      "Shaktiman_Rotavator_Guide.pdf"
+    ],
+    "related_faults": [
+      "Excessive vibration",
+      "Uneven soil cultivation",
+      "Increased transmission load",
+      "Reduced pumping efficiency"
+    ],
+    "related_specs": [
+      "Blades form a scroll pattern."
+    ],
+    "machine_family": "Rotary Tiller",
+    "embedding_text": "Blade Assembly rotor flanges propeller shaft Excessive vibration Uneven soil cultivation Increased transmission load"
+  },
+  {
+    "component": "Blade Bolt",
+    "aliases": [],
+    "connected_to": [
+      "blade",
+      "flange"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Rotavator_Manual.pdf"
+    ],
+    "related_faults": [
+      "Blade detachment",
+      "Excessive noise",
+      "Rotor flange damage"
+    ],
+    "related_specs": [
+      "Torque of 200 Nm achieved."
+    ],
+    "machine_family": "Rotary Tiller",
+    "embedding_text": "Blade Bolt blade flange Blade detachment Excessive noise Rotor flange damage"
+  },
+  {
+    "component": "Howard Blade Bolt",
+    "aliases": [],
+    "connected_to": [
+      "blade",
+      "flange"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Rotavator_Manual.pdf"
+    ],
+    "related_faults": [
+      "Blade detachment",
+      "Excessive vibration",
+      "Rotor flange damage",
+      "Damage to rotor flange"
+    ],
+    "related_specs": [
+      "Bolt head flush against blade, spring washer and nut seated against flange.",
+      "Torque value of 200 Nm achieved."
+    ],
+    "machine_family": "Agricultural Equipment",
+    "embedding_text": "Howard Blade Bolt blade flange Blade detachment Excessive vibration Rotor flange damage"
+  },
+  {
+    "component": "Bolts And Screws",
+    "aliases": [],
+    "connected_to": [
+      "structural frame",
+      "transmission housing"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Shaktiman_Rotavator_Guide.pdf"
+    ],
+    "related_faults": [
+      "Vibration",
+      "Mechanical noise",
+      "Component detachment",
+      "Excessive vibration",
+      "Loose components",
+      "Structural failure"
+    ],
+    "related_specs": [
+      "Torque value matches class specification"
+    ],
+    "machine_family": "Electric Motor",
+    "embedding_text": "Bolts And Screws structural frame transmission housing Vibration Mechanical noise Component detachment"
+  },
+  {
+    "component": "Rotor Axis",
+    "aliases": [],
+    "connected_to": [
+      "side transmission unit",
+      "blades"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Shaktiman_Rotavator_Guide.pdf"
+    ],
+    "related_faults": [
+      "Vibration",
+      "Premature bearing failure",
+      "Rotor seizure",
+      "Excessive vibration",
+      "Loud grinding noise",
+      "Uneven soil cultivation depth"
+    ],
+    "related_specs": [
+      "Axis must be perfectly parallel to the transmission output."
+    ],
+    "machine_family": "Water Pump",
+    "embedding_text": "Rotor Axis side transmission unit blades Vibration Premature bearing failure Rotor seizure"
+  },
+  {
+    "component": "Machine Support/Stabilization",
+    "aliases": [],
+    "connected_to": [
+      "tractor",
+      "ground surface"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Shaktiman_Rotavator_Guide.pdf"
+    ],
+    "related_faults": [
+      "Machine rolls away",
+      "Crushing hazard due to unexpected movement",
+      "Machine rolls or shifts during operation",
+      "Unexpected equipment movement"
+    ],
+    "related_specs": [
+      "Machine is stationary and stable.",
+      "Machine is adequately supported by stands."
+    ],
+    "machine_family": "Electric Motor",
+    "embedding_text": "Machine Support/Stabilization tractor ground surface Machine rolls away Crushing hazard due to unexpected movement Machine rolls or shifts during operation"
+  },
+  {
+    "component": "Front Ballast / Weight",
+    "aliases": [],
+    "connected_to": [
+      "front axle",
+      "front tires",
+      "implement"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Shaktiman_Rotavator_Guide.pdf"
+    ],
+    "related_faults": [
+      "Tractor becomes unstable",
+      "Steering feels light or unresponsive",
+      "Front tires lose traction",
+      "Tractor front end lifts during operation",
+      "Loss of steering control",
+      "Front tire slippage"
+    ],
+    "related_specs": [
+      "Front axle load >= 20% of total combined weight"
+    ],
+    "machine_family": "Tractor",
+    "embedding_text": "Front Ballast / Weight front axle front tires implement Tractor becomes unstable Steering feels light or unresponsive Front tires lose traction"
+  },
+  {
+    "component": "Cutting Blades",
+    "aliases": [],
+    "connected_to": [
+      "flange",
+      "bridle"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Shaktiman_Rotavator_Guide.pdf"
+    ],
+    "related_faults": [
+      "Machine imbalance",
+      "Poor cutting performance",
+      "Structural damage to flange",
+      "Uneven cutting",
+      "Excessive vibration",
+      "Premature blade wear"
+    ],
+    "related_specs": [
+      "Blades oriented in helical pattern with left/right sides swapped relative to flange.",
+      "Screw head flush against blade, nut/washer secured on bridle side.",
+      "Uniform spacing with 3 blades per side."
+    ],
+    "machine_family": "Agricultural Equipment",
+    "embedding_text": "Cutting Blades flange bridle Machine imbalance Poor cutting performance Structural damage to flange"
+  },
+  {
+    "component": "Tensor Arm",
+    "aliases": [],
+    "connected_to": [
+      "rear cover",
+      "collar"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Shaktiman_Rotavator_Guide.pdf"
+    ],
+    "related_faults": [
+      "Belt squealing",
+      "Loss of pump pressure due to drive slippage",
+      "Excessive vibration",
+      "Belt slippage",
+      "Premature wear of drive components"
+    ],
+    "related_specs": [
+      "Fastener (C) is torqued to specification and arm is rigid."
+    ],
+    "machine_family": "Water Pump",
+    "embedding_text": "Tensor Arm rear cover collar Belt squealing Loss of pump pressure due to drive slippage Excessive vibration"
+  },
+  {
+    "component": "Rear Cover Hinge",
+    "aliases": [],
+    "connected_to": [
+      "chassis",
+      "rear cover"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Shaktiman_Rotavator_Guide.pdf"
+    ],
+    "related_faults": [
+      "Cover binds",
+      "Hinge pin fails to insert",
+      "Cover fails to open/close",
+      "Hinge pin shears"
+    ],
+    "related_specs": [
+      "Holes perfectly concentric"
+    ],
+    "machine_family": "Rototiller",
+    "embedding_text": "Rear Cover Hinge chassis rear cover Cover binds Hinge pin fails to insert Cover fails to open/close"
+  },
+  {
+    "component": "Tension Arms",
+    "aliases": [],
+    "connected_to": [
+      "chassis",
+      "tension arms"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Shaktiman_Rotavator_Guide.pdf"
+    ],
+    "related_faults": [
+      "Tension arm rattles",
+      "Loss of tension control",
+      "Excessive vibration",
+      "Tension arm detachment",
+      "Uneven tilling depth"
+    ],
+    "related_specs": [
+      "Fasteners secure with no play"
+    ],
+    "machine_family": "Rototiller",
+    "embedding_text": "Tension Arms chassis tension arms Tension arm rattles Loss of tension control Excessive vibration"
+  },
+  {
+    "component": "Fasteners (Screws And Nuts)",
+    "aliases": [],
+    "connected_to": [
+      "chassis",
+      "tine assembly",
+      "transmission housing"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Shaktiman_Rotavator_Guide.pdf"
+    ],
+    "related_faults": [
+      "Vibration",
+      "Mechanical failure of components",
+      "Structural damage",
+      "Excessive vibration",
+      "Parts falling off during operation",
+      "Unusual rattling noises"
+    ],
+    "related_specs": [
+      "All fasteners secured to manufacturer torque specifications."
+    ],
+    "machine_family": "Rototiller",
+    "embedding_text": "Fasteners (Screws And Nuts) chassis tine assembly transmission housing Vibration Mechanical failure of components Structural damage"
+  },
+  {
+    "component": "Lubrication System",
+    "aliases": [],
+    "connected_to": [
+      "gearbox",
+      "drive train"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Shaktiman_Rotavator_Guide.pdf"
+    ],
+    "related_faults": [
+      "Seizure of moving parts",
+      "Overheating",
+      "Power loss",
+      "Overheating of gearboxes",
+      "Increased mechanical resistance",
+      "Premature wear of moving parts"
+    ],
+    "related_specs": [
+      "Lubricant level matches the manufacturer's specified fill line."
+    ],
+    "machine_family": "Rototiller",
+    "embedding_text": "Lubrication System gearbox drive train Seizure of moving parts Overheating Power loss"
+  },
+  {
+    "component": "Driveshaft Universal Joint",
+    "aliases": [],
+    "connected_to": [
+      "tractor pto",
+      "gearbox"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Shaktiman_Rotavator_Guide.pdf"
+    ],
+    "related_faults": [
+      "Vibration",
+      "Mechanical damage to PTO or gearbox",
+      "Excessive vibration",
+      "Premature bearing failure",
+      "Loud knocking noise during operation"
+    ],
+    "related_specs": [
+      "Angle must not exceed 15 degrees."
+    ],
+    "machine_family": "Water Pump",
+    "embedding_text": "Driveshaft Universal Joint tractor pto gearbox Vibration Mechanical damage to PTO or gearbox Excessive vibration"
+  },
+  {
+    "component": "Drive Shaft (Pto)",
+    "aliases": [],
+    "connected_to": [
+      "tractor pto",
+      "machine input shaft"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Shaktiman_Rotavator_Guide.pdf"
+    ],
+    "related_faults": [
+      "Driveshaft failure",
+      "Bearing damage",
+      "Safety hazard due to exposed rotating parts",
+      "Excessive vibration",
+      "Mechanical binding",
+      "Damage to tractor or machine input shaft"
+    ],
+    "related_specs": [
+      "Shaft length allows for full range of motion without bottoming out or over-extending."
+    ],
+    "machine_family": "Agricultural Equipment",
+    "embedding_text": "Drive Shaft (Pto) tractor pto machine input shaft Driveshaft failure Bearing damage Safety hazard due to exposed rotating parts"
+  },
+  {
+    "component": "Cardan Driveshaft",
+    "aliases": [],
+    "connected_to": [
+      "tractor pto",
+      "implement gearbox"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Shaktiman_Rotavator_Guide.pdf"
+    ],
+    "related_faults": [
+      "Driveshaft vibration",
+      "Mechanical failure of PTO or gearbox due to binding",
+      "Driveshaft bottoming out",
+      "Damage to tractor PTO or implement gearbox"
+    ],
+    "related_specs": [
+      "Minimum clearance of at least 3 cm.",
+      "Minimum overlap of 10 cm."
+    ],
+    "machine_family": "Water Pump",
+    "embedding_text": "Cardan Driveshaft tractor pto implement gearbox Driveshaft vibration Mechanical failure of PTO or gearbox due to binding Driveshaft bottoming out"
+  },
+  {
+    "component": "Fusible Screw",
+    "aliases": [],
+    "connected_to": [
+      "drive shaft",
+      "coupling"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Shaktiman_Rotavator_Guide.pdf"
+    ],
+    "related_faults": [
+      "Premature failure of the screw if not tightened correctly",
+      "Damage to drive components if an incorrect material/size is used",
+      "Equipment stops rotating",
+      "Loss of power transmission to pump",
+      "Motor runs but pump does not move fluid"
+    ],
+    "related_specs": [
+      "Screw intact and holding torque at the joint."
+    ],
+    "machine_family": "Water Pump",
+    "embedding_text": "Fusible Screw drive shaft coupling Premature failure of the screw if not tightened correctly Damage to drive components if an incorrect material/size is used Equipment stops rotating"
+  },
+  {
+    "component": "Pto Shaft (Cardan)",
+    "aliases": [],
+    "connected_to": [
+      "tractor pto",
+      "rototiller input shaft"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Shaktiman_Rotavator_Guide.pdf"
+    ],
+    "related_faults": [
+      "Vibration",
+      "Mechanical damage to PTO components",
+      "Mechanical failure",
+      "Damage to tractor PTO"
+    ],
+    "related_specs": [
+      "Cardan locked in place"
+    ],
+    "machine_family": "Rototiller",
+    "embedding_text": "Pto Shaft (Cardan) tractor pto rototiller input shaft Vibration Mechanical damage to PTO components Mechanical failure"
+  },
+  {
+    "component": "Pto Engagement",
+    "aliases": [],
+    "connected_to": [
+      "tractor engine",
+      "rototiller gearbox"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Shaktiman_Rotavator_Guide.pdf"
+    ],
+    "related_faults": [
+      "Premature wear of clutch",
+      "Mechanical shock to gearbox",
+      "Sudden jerk",
+      "Stalling",
+      "Mechanical damage to drivetrain"
+    ],
+    "related_specs": [
+      "Smooth engagement without sudden shock"
+    ],
+    "machine_family": "Rototiller",
+    "embedding_text": "Pto Engagement tractor engine rototiller gearbox Premature wear of clutch Mechanical shock to gearbox Sudden jerk"
+  },
+  {
+    "component": "Rotor Blade",
+    "aliases": [],
+    "connected_to": [
+      "rotor"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Shaktiman_Rotavator_Guide.pdf"
+    ],
+    "related_faults": [
+      "Severe vibration",
+      "Mechanical damage to rotor housing",
+      "Excessive vibration",
+      "Loud knocking noise",
+      "Reduced pumping efficiency"
+    ],
+    "related_specs": [
+      "Blade positioned exactly as the previous one."
+    ],
+    "machine_family": "Water Pump",
+    "embedding_text": "Rotor Blade rotor Severe vibration Mechanical damage to rotor housing Excessive vibration"
+  },
+  {
+    "component": "Skate (Depth Control)",
+    "aliases": [],
+    "connected_to": [
+      "rototiller frame",
+      "adjustment screws (b)",
+      "bolts (a)"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Shaktiman_Rotavator_Guide.pdf"
+    ],
+    "related_faults": [
+      "Tiller depth fluctuates during operation",
+      "Skate vibrates or drags unevenly",
+      "Uneven tillage depth",
+      "Tiller digging too deep or too shallow",
+      "Skate falling off during operation"
+    ],
+    "related_specs": [
+      "Skate is free to move vertically.",
+      "Skate aligned with desired depth hole.",
+      "Skate is rigidly fixed to the frame."
+    ],
+    "machine_family": "Rototiller",
+    "embedding_text": "Skate (Depth Control) rototiller frame adjustment screws (b) bolts (a) Tiller depth fluctuates during operation Skate vibrates or drags unevenly Uneven tillage depth"
+  },
+  {
+    "component": "Grease Fittings",
+    "aliases": [],
+    "connected_to": [
+      "rototiller lubrication points"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Shaktiman_Rotavator_Guide.pdf"
+    ],
+    "related_faults": [
+      "Grease fitting does not accept grease"
+    ],
+    "related_specs": [],
+    "machine_family": "Water Pump",
+    "embedding_text": "Grease Fittings rototiller lubrication points Grease fitting does not accept grease"
+  },
+  {
+    "component": "Differentials And Gears",
+    "aliases": [],
+    "connected_to": [
+      "gears",
+      "differential"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Shaktiman_Rotavator_Guide.pdf"
+    ],
+    "related_faults": [
+      "Increased gear noise",
+      "Overheating of gear housing"
+    ],
+    "related_specs": [],
+    "machine_family": "Water Pump",
+    "embedding_text": "Differentials And Gears gears differential Increased gear noise Overheating of gear housing"
+  },
+  {
+    "component": "Propeller Shaft",
+    "aliases": [],
+    "connected_to": [
+      "universal joints"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Shaktiman_Rotavator_Guide.pdf"
+    ],
+    "related_faults": [
+      "Excessive vibration",
+      "Grinding noise from shaft area"
+    ],
+    "related_specs": [],
+    "machine_family": "Water Pump",
+    "embedding_text": "Propeller Shaft universal joints Excessive vibration Grinding noise from shaft area"
+  },
+  {
+    "component": "Drive Shaft",
+    "aliases": [],
+    "connected_to": [
+      "universal joint",
+      "bearings"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Shaktiman_Rotavator_Guide.pdf"
+    ],
+    "related_faults": [
+      "Excessive noise during operation",
+      "Vibration in drive assembly"
+    ],
+    "related_specs": [],
+    "machine_family": "Water Pump",
+    "embedding_text": "Drive Shaft universal joint bearings Excessive noise during operation Vibration in drive assembly"
+  },
+  {
+    "component": "Universal Joint",
+    "aliases": [],
+    "connected_to": [
+      "drive shaft"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Shaktiman_Rotavator_Guide.pdf"
+    ],
+    "related_faults": [
+      "Clunking noise during rotation",
+      "Binding during operation"
+    ],
+    "related_specs": [],
+    "machine_family": "Water Pump",
+    "embedding_text": "Universal Joint drive shaft Clunking noise during rotation Binding during operation"
+  },
+  {
+    "component": "Gearbox",
+    "aliases": [],
+    "connected_to": [
+      "side transmission",
+      "pto input shaft",
+      "three-point hitch frame"
+    ],
+    "function": "",
+    "diagram_sources": [
+      "Shaktiman_Rotavator_Guide_p1_img2.jpeg"
+    ],
+    "manual_sources": [
+      "Shaktiman_Rotavator_Guide.pdf"
+    ],
+    "related_faults": [
+      "Low oil level in gearbox"
+    ],
+    "related_specs": [],
+    "machine_family": "Water Pump",
+    "embedding_text": "Gearbox side transmission pto input shaft three-point hitch frame Low oil level in gearbox"
+  },
+  {
+    "component": "Transmission",
+    "aliases": [],
+    "connected_to": [
+      "breather plug (a)",
+      "level plug (b)"
+    ],
+    "function": "",
+    "diagram_sources": [],
+    "manual_sources": [
+      "Shaktiman_Rotavator_Guide.pdf"
+    ],
+    "related_faults": [
+      "Low oil level in transmission"
+    ],
+    "related_specs": [],
+    "machine_family": "Water Pump",
+    "embedding_text": "Transmission breather plug (a) level plug (b) Low oil level in transmission"
+  },
+  {
+    "component": "Blade",
+    "aliases": [],
+    "connected_to": [
+      "shaft",
+      "flange"
+    ],
+    "function": "",
+    "diagram_sources": [
+      "Shaktiman_Rotavator_Guide_p1_img2.jpeg"
+    ],
+    "manual_sources": [
+      "Shaktiman_Rotavator_Guide.pdf"
+    ],
+    "related_faults": [
+      "Vibration",
+      "Mechanical damage to housing",
+      "Blade detachment",
+      "Excessive vibration",
+      "Loud knocking noise",
+      "Reduced pumping efficiency"
+    ],
+    "related_specs": [
+      "Blade orientation matches original factory configuration.",
+      "Fasteners secured to manufacturer torque specifications."
+    ],
+    "machine_family": "Water Pump",
+    "embedding_text": "Blade shaft flange Vibration Mechanical damage to housing Blade detachment"
+  }
+]

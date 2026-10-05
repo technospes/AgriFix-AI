@@ -1,0 +1,913 @@
+[
+  {
+    "symptom": "electric pump does not turn on",
+    "problem_description": "The electric pump is not functioning due to electrical connection leakage.",
+    "likely_causes": [
+      "electrical connection leakage"
+    ],
+    "understanding": "The electric pump is not turning on due to a faulty electrical connection.",
+    "verify": [
+      "check the electrical connection for any signs of leakage"
+    ],
+    "repair": [
+      "replace the protective device"
+    ],
+    "machine_family": "Electric Pump",
+    "component": "Electricity Protective Device",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**I. Safety and Installation Precautions**",
+    "embedding_text": "FAULT: electric pump does not turn on\nSYMPTOM: The electric pump is not functioning due to electrical connection leakage.\nCOMPONENT: Electricity Protective Device\nLIKELY CAUSES:\n- electrical connection leakage\nVERIFY:\n- check the electrical connection for any signs of leakage\nREPAIR:\n- replace the protective device\n",
+    "fault_id": "fault_electric_pump_does_not_6500216a",
+    "component_id": "electricity_protective_9dfee6"
+  },
+  {
+    "symptom": "motor is overheating",
+    "problem_description": "The motor is overheating due to poor ventilation and heat dissipation.",
+    "likely_causes": [
+      "poor ventilation and heat dissipation"
+    ],
+    "understanding": "The motor is overheating due to a faulty thermal insulation material.",
+    "verify": [
+      "check the thermal insulation material for any damage or malfunction"
+    ],
+    "repair": [
+      "replace the thermal insulation material"
+    ],
+    "machine_family": "Electric Pump",
+    "component": "Motor",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**I. Safety and Installation Precautions**",
+    "embedding_text": "FAULT: motor is overheating\nSYMPTOM: The motor is overheating due to poor ventilation and heat dissipation.\nCOMPONENT: Motor\nLIKELY CAUSES:\n- poor ventilation and heat dissipation\nVERIFY:\n- check the thermal insulation material for any damage or malfunction\nREPAIR:\n- replace the thermal insulation material\n",
+    "fault_id": "fault_motor_is_overheating_ac96dcb2",
+    "component_id": "motor_594171"
+  },
+  {
+    "symptom": "pump leaks",
+    "problem_description": "The pump is leaking due to mechanical seal failure.",
+    "likely_causes": [
+      "mechanical seal failure"
+    ],
+    "understanding": "The mechanical seal is responsible for preventing leaks between the pump and motor.",
+    "verify": [
+      "check seal for damage"
+    ],
+    "repair": [
+      "replace mechanical seal"
+    ],
+    "machine_family": "Electric Pump",
+    "component": "Mechanical Seal",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**II. Product Overview**",
+    "embedding_text": "FAULT: pump leaks\nSYMPTOM: The pump is leaking due to mechanical seal failure.\nCOMPONENT: Mechanical Seal\nLIKELY CAUSES:\n- mechanical seal failure\nVERIFY:\n- check seal for damage\nREPAIR:\n- replace mechanical seal\n",
+    "fault_id": "fault_pump_leaks_837005f8",
+    "component_id": "mechanical_seal_1301ac"
+  },
+  {
+    "symptom": "pump does not work",
+    "problem_description": "pump fails to operate due to environmental conditions",
+    "likely_causes": [
+      "environment ambient exceeds +40℃"
+    ],
+    "understanding": "pump requires specific environmental conditions to operate",
+    "verify": [
+      "check ambient temperature"
+    ],
+    "repair": [
+      "replace electric pump"
+    ],
+    "machine_family": "Electric Pump",
+    "component": "Electric Pump",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**III. Working Conditions**",
+    "embedding_text": "FAULT: pump does not work\nSYMPTOM: pump fails to operate due to environmental conditions\nCOMPONENT: Electric Pump\nLIKELY CAUSES:\n- environment ambient exceeds +40℃\nVERIFY:\n- check ambient temperature\nREPAIR:\n- replace electric pump\n",
+    "fault_id": "fault_pump_does_not_work_e1d0e2b6",
+    "component_id": "electric_pump_93c8fb"
+  },
+  {
+    "symptom": "pump leaks",
+    "problem_description": "pump is leaking due to worn mechanical seal",
+    "likely_causes": [
+      "worn mechanical seal"
+    ],
+    "understanding": "worn mechanical seal causes pump to leak",
+    "verify": [
+      "check for worn seal"
+    ],
+    "repair": [
+      "replace mechanical seal"
+    ],
+    "machine_family": "Submersible Pump",
+    "component": "Mechanical Seal",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**QB Series**",
+    "embedding_text": "FAULT: pump leaks\nSYMPTOM: pump is leaking due to worn mechanical seal\nCOMPONENT: Mechanical Seal\nLIKELY CAUSES:\n- worn mechanical seal\nVERIFY:\n- check for worn seal\nREPAIR:\n- replace mechanical seal\n",
+    "fault_id": "fault_pump_leaks_837005f8",
+    "component_id": "mechanical_seal_1301ac"
+  },
+  {
+    "symptom": "pump does not start",
+    "problem_description": "pump does not start due to bad capacitor",
+    "likely_causes": [
+      "bad capacitor"
+    ],
+    "understanding": "bad capacitor causes pump to not start",
+    "verify": [
+      "check capacitor voltage"
+    ],
+    "repair": [
+      "replace capacitor"
+    ],
+    "machine_family": "Submersible Pump",
+    "component": "Capacitor",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**QB Series**",
+    "embedding_text": "FAULT: pump does not start\nSYMPTOM: pump does not start due to bad capacitor\nCOMPONENT: Capacitor\nLIKELY CAUSES:\n- bad capacitor\nVERIFY:\n- check capacitor voltage\nREPAIR:\n- replace capacitor\n",
+    "fault_id": "fault_pump_does_not_start_e52f49b0",
+    "component_id": "capacitor_e271ca"
+  },
+  {
+    "symptom": "pump leaks",
+    "problem_description": "pump is leaking fluid",
+    "likely_causes": [
+      "worn or damaged mechanical seal"
+    ],
+    "understanding": "mechanical seal is worn or damaged",
+    "verify": [
+      "check for blockages"
+    ],
+    "repair": [
+      "replace mechanical seal"
+    ],
+    "machine_family": "Submersible Pump",
+    "component": "Mechanical Seal",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**PW-Z Series**",
+    "embedding_text": "FAULT: pump leaks\nSYMPTOM: pump is leaking fluid\nCOMPONENT: Mechanical Seal\nLIKELY CAUSES:\n- worn or damaged mechanical seal\nVERIFY:\n- check for blockages\nREPAIR:\n- replace mechanical seal\n",
+    "fault_id": "fault_pump_leaks_837005f8",
+    "component_id": "mechanical_seal_1301ac"
+  },
+  {
+    "symptom": "pump not turning on",
+    "problem_description": "pump is not turning on",
+    "likely_causes": [
+      "bad capacitor"
+    ],
+    "understanding": "capacitor is bad",
+    "verify": [
+      "check capacitor voltage"
+    ],
+    "repair": [
+      "replace capacitor"
+    ],
+    "machine_family": "Submersible Pump",
+    "component": "Capacitor",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**PW-Z Series**",
+    "embedding_text": "FAULT: pump not turning on\nSYMPTOM: pump is not turning on\nCOMPONENT: Capacitor\nLIKELY CAUSES:\n- bad capacitor\nVERIFY:\n- check capacitor voltage\nREPAIR:\n- replace capacitor\n",
+    "fault_id": "fault_pump_not_turning_on_013eeacf",
+    "component_id": "capacitor_e271ca"
+  },
+  {
+    "symptom": "Pump leaks water",
+    "problem_description": "The pump is leaking water due to a worn or damaged mechanical seal.",
+    "likely_causes": [
+      "Worn or damaged mechanical seal"
+    ],
+    "understanding": "The mechanical seal is responsible for preventing water from leaking out of the pump.",
+    "verify": [
+      "Check the mechanical seal for any signs of wear or damage."
+    ],
+    "repair": [
+      "Replace the mechanical seal with a new one."
+    ],
+    "machine_family": "Pump",
+    "component": "Mechanical Seal",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**WZB Series**",
+    "embedding_text": "FAULT: Pump leaks water\nSYMPTOM: The pump is leaking water due to a worn or damaged mechanical seal.\nCOMPONENT: Mechanical Seal\nLIKELY CAUSES:\n- Worn or damaged mechanical seal\nVERIFY:\n- Check the mechanical seal for any signs of wear or damage.\nREPAIR:\n- Replace the mechanical seal with a new one.\n",
+    "fault_id": "fault_pump_leaks_water_dd850a8e",
+    "component_id": "mechanical_seal_1301ac"
+  },
+  {
+    "symptom": "Motor hums but does not rotate",
+    "problem_description": "The motor is not rotating due to a faulty capacitor.",
+    "likely_causes": [
+      "Capacitor failure"
+    ],
+    "understanding": "The capacitor is responsible for regulating the motor's speed.",
+    "verify": [
+      "Check capacitor value"
+    ],
+    "repair": [
+      "Replace capacitor"
+    ],
+    "machine_family": "Generator",
+    "component": "Flow Switch Subline Capacitor",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**V. Wiring Schematic Diagram of the Electric Pump**",
+    "embedding_text": "FAULT: Motor hums but does not rotate\nSYMPTOM: The motor is not rotating due to a faulty capacitor.\nCOMPONENT: Flow Switch Subline Capacitor\nLIKELY CAUSES:\n- Capacitor failure\nVERIFY:\n- Check capacitor value\nREPAIR:\n- Replace capacitor\n",
+    "fault_id": "fault_motor_hums_but_does_e2de0bb6",
+    "component_id": "flow_switch_51144d"
+  },
+  {
+    "symptom": "Seal leak",
+    "problem_description": "Water leakage from the pump due to a faulty shaft seal.",
+    "likely_causes": [
+      "Incorrect installation of shaft seal"
+    ],
+    "understanding": "A faulty shaft seal can cause water leakage from the pump.",
+    "verify": [
+      "Check the shaft seal for proper installation."
+    ],
+    "repair": [
+      "Replace the shaft seal with a new one."
+    ],
+    "machine_family": "Submersible Pump",
+    "component": "Shaft Seal",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**VI. Installation Schematic Diagram**",
+    "embedding_text": "FAULT: Seal leak\nSYMPTOM: Water leakage from the pump due to a faulty shaft seal.\nCOMPONENT: Shaft Seal\nLIKELY CAUSES:\n- Incorrect installation of shaft seal\nVERIFY:\n- Check the shaft seal for proper installation.\nREPAIR:\n- Replace the shaft seal with a new one.\n",
+    "fault_id": "fault_seal_leak_6bfbff27",
+    "component_id": "shaft_seal_e7d67f"
+  },
+  {
+    "symptom": "Motor hums",
+    "problem_description": "The motor is humming due to incorrect wiring.",
+    "likely_causes": [
+      "Incorrect wiring of motor"
+    ],
+    "understanding": "Incorrect wiring can cause the motor to hum.",
+    "verify": [
+      "Check the motor wiring for correct polarity."
+    ],
+    "repair": [
+      "Swap the motor wires."
+    ],
+    "machine_family": "Submersible Pump",
+    "component": "Motor",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**VI. Installation Schematic Diagram**",
+    "embedding_text": "FAULT: Motor hums\nSYMPTOM: The motor is humming due to incorrect wiring.\nCOMPONENT: Motor\nLIKELY CAUSES:\n- Incorrect wiring of motor\nVERIFY:\n- Check the motor wiring for correct polarity.\nREPAIR:\n- Swap the motor wires.\n",
+    "fault_id": "fault_motor_hums_2ddf36dc",
+    "component_id": "motor_594171"
+  },
+  {
+    "symptom": "Motor hums",
+    "problem_description": "The motor is humming due to low insulation resistance.",
+    "likely_causes": [
+      "Low insulation resistance"
+    ],
+    "understanding": "Low insulation resistance can cause the motor to hum.",
+    "verify": [
+      "Check insulation resistance with multimeter"
+    ],
+    "repair": [
+      "Replace insulation"
+    ],
+    "machine_family": "Electric Pump",
+    "component": "Insulation Resistance",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**VII. Installation of the Electric Pump and the Precautions**",
+    "embedding_text": "FAULT: Motor hums\nSYMPTOM: The motor is humming due to low insulation resistance.\nCOMPONENT: Insulation Resistance\nLIKELY CAUSES:\n- Low insulation resistance\nVERIFY:\n- Check insulation resistance with multimeter\nREPAIR:\n- Replace insulation\n",
+    "fault_id": "fault_motor_hums_2ddf36dc",
+    "component_id": "insulation_resistance_e376e8"
+  },
+  {
+    "symptom": "Trips breaker",
+    "problem_description": "The breaker is tripping due to low insulation resistance.",
+    "likely_causes": [
+      "Low insulation resistance"
+    ],
+    "understanding": "Low insulation resistance can cause the breaker to trip.",
+    "verify": [
+      "Check insulation resistance with multimeter"
+    ],
+    "repair": [
+      "Replace insulation"
+    ],
+    "machine_family": "Electric Pump",
+    "component": "Insulation Resistance",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**VII. Installation of the Electric Pump and the Precautions**",
+    "embedding_text": "FAULT: Trips breaker\nSYMPTOM: The breaker is tripping due to low insulation resistance.\nCOMPONENT: Insulation Resistance\nLIKELY CAUSES:\n- Low insulation resistance\nVERIFY:\n- Check insulation resistance with multimeter\nREPAIR:\n- Replace insulation\n",
+    "fault_id": "fault_trips_breaker_182f8322",
+    "component_id": "insulation_resistance_e376e8"
+  },
+  {
+    "symptom": "Air lock",
+    "problem_description": "The pump is experiencing air lock due to dry operation.",
+    "likely_causes": [
+      "Dry operation"
+    ],
+    "understanding": "Dry operation can cause air lock in the pump.",
+    "verify": [
+      "Check for air leaks"
+    ],
+    "repair": [
+      "Fill pump body with water before use"
+    ],
+    "machine_family": "Electric Pump",
+    "component": "Pump Body",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**VII. Installation of the Electric Pump and the Precautions**",
+    "embedding_text": "FAULT: Air lock\nSYMPTOM: The pump is experiencing air lock due to dry operation.\nCOMPONENT: Pump Body\nLIKELY CAUSES:\n- Dry operation\nVERIFY:\n- Check for air leaks\nREPAIR:\n- Fill pump body with water before use\n",
+    "fault_id": "fault_air_lock_9193fd42",
+    "component_id": "pump_body_8c0882"
+  },
+  {
+    "symptom": "Cavitation",
+    "problem_description": "The pump is experiencing cavitation due to dry operation.",
+    "likely_causes": [
+      "Dry operation"
+    ],
+    "understanding": "Dry operation can cause cavitation in the pump.",
+    "verify": [
+      "Check for air leaks"
+    ],
+    "repair": [
+      "Fill pump body with water before use"
+    ],
+    "machine_family": "Electric Pump",
+    "component": "Pump Body",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**VII. Installation of the Electric Pump and the Precautions**",
+    "embedding_text": "FAULT: Cavitation\nSYMPTOM: The pump is experiencing cavitation due to dry operation.\nCOMPONENT: Pump Body\nLIKELY CAUSES:\n- Dry operation\nVERIFY:\n- Check for air leaks\nREPAIR:\n- Fill pump body with water before use\n",
+    "fault_id": "fault_cavitation_2470aac8",
+    "component_id": "pump_body_8c0882"
+  },
+  {
+    "symptom": "Wearing",
+    "problem_description": "The impeller is wearing due to sand entering into the pump body.",
+    "likely_causes": [
+      "Sand entering into pump body"
+    ],
+    "understanding": "Sand entering into the pump body can cause wearing of the impeller.",
+    "verify": [
+      "Check for sand in pump body"
+    ],
+    "repair": [
+      "Install Y-shaped filter at inlet pipe"
+    ],
+    "machine_family": "Electric Pump",
+    "component": "Impeller",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**VII. Installation of the Electric Pump and the Precautions**",
+    "embedding_text": "FAULT: Wearing\nSYMPTOM: The impeller is wearing due to sand entering into the pump body.\nCOMPONENT: Impeller\nLIKELY CAUSES:\n- Sand entering into pump body\nVERIFY:\n- Check for sand in pump body\nREPAIR:\n- Install Y-shaped filter at inlet pipe\n",
+    "fault_id": "fault_wearing_4ac0803b",
+    "component_id": "impeller_78f646"
+  },
+  {
+    "symptom": "Blocking",
+    "problem_description": "The impeller is blocking due to sand entering into the pump body.",
+    "likely_causes": [
+      "Sand entering into pump body"
+    ],
+    "understanding": "Sand entering into the pump body can cause blocking of the impeller.",
+    "verify": [
+      "Check for sand in pump body"
+    ],
+    "repair": [
+      "Install Y-shaped filter at inlet pipe"
+    ],
+    "machine_family": "Electric Pump",
+    "component": "Impeller",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**VII. Installation of the Electric Pump and the Precautions**",
+    "embedding_text": "FAULT: Blocking\nSYMPTOM: The impeller is blocking due to sand entering into the pump body.\nCOMPONENT: Impeller\nLIKELY CAUSES:\n- Sand entering into pump body\nVERIFY:\n- Check for sand in pump body\nREPAIR:\n- Install Y-shaped filter at inlet pipe\n",
+    "fault_id": "fault_blocking_14343966",
+    "component_id": "impeller_78f646"
+  },
+  {
+    "symptom": "water leakage",
+    "problem_description": "water leakage due to wrong installation",
+    "likely_causes": [
+      "wrong installation"
+    ],
+    "understanding": "wrong installation can cause water leakage",
+    "verify": [
+      "check connection"
+    ],
+    "repair": [
+      "check and correct installation"
+    ],
+    "machine_family": "Submersible Pump",
+    "component": "Pressure Control Device",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**VII. Installation of the Electric Pump and the Precautions**",
+    "embedding_text": "FAULT: water leakage\nSYMPTOM: water leakage due to wrong installation\nCOMPONENT: Pressure Control Device\nLIKELY CAUSES:\n- wrong installation\nVERIFY:\n- check connection\nREPAIR:\n- check and correct installation\n",
+    "fault_id": "fault_water_leakage_0c8c9da6",
+    "component_id": "pressure_control_b218f7"
+  },
+  {
+    "symptom": "pump damage due to overload",
+    "problem_description": "pump damage due to overload",
+    "likely_causes": [
+      "wrong installation"
+    ],
+    "understanding": "wrong installation can cause pump damage due to overload",
+    "verify": [
+      "check current or power"
+    ],
+    "repair": [
+      "check and correct installation"
+    ],
+    "machine_family": "Submersible Pump",
+    "component": "Overload Protector",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**VII. Installation of the Electric Pump and the Precautions**",
+    "embedding_text": "FAULT: pump damage due to overload\nSYMPTOM: pump damage due to overload\nCOMPONENT: Overload Protector\nLIKELY CAUSES:\n- wrong installation\nVERIFY:\n- check current or power\nREPAIR:\n- check and correct installation\n",
+    "fault_id": "fault_pump_damage_due_to_2490e733",
+    "component_id": "overload_protector_7e584c"
+  },
+  {
+    "symptom": "loose connection",
+    "problem_description": "loose connection due to wrong installation",
+    "likely_causes": [
+      "wrong installation"
+    ],
+    "understanding": "wrong installation can cause loose connection",
+    "verify": [
+      "check connection"
+    ],
+    "repair": [
+      "check and correct installation"
+    ],
+    "machine_family": "Submersible Pump",
+    "component": "Cable",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**VII. Installation of the Electric Pump and the Precautions**",
+    "embedding_text": "FAULT: loose connection\nSYMPTOM: loose connection due to wrong installation\nCOMPONENT: Cable\nLIKELY CAUSES:\n- wrong installation\nVERIFY:\n- check connection\nREPAIR:\n- check and correct installation\n",
+    "fault_id": "fault_loose_connection_8ae15155",
+    "component_id": "cable_855923"
+  },
+  {
+    "symptom": "failure of the water pump, pipeline and other parts",
+    "problem_description": "failure of the water pump, pipeline and other parts due to wrong installation",
+    "likely_causes": [
+      "wrong installation"
+    ],
+    "understanding": "wrong installation can cause failure of the water pump, pipeline and other parts",
+    "verify": [
+      "check cleaning"
+    ],
+    "repair": [
+      "check and correct installation"
+    ],
+    "machine_family": "Submersible Pump",
+    "component": "Check Valve and Filter Screen",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**VII. Installation of the Electric Pump and the Precautions**",
+    "embedding_text": "FAULT: failure of the water pump, pipeline and other parts\nSYMPTOM: failure of the water pump, pipeline and other parts due to wrong installation\nCOMPONENT: Check Valve and Filter Screen\nLIKELY CAUSES:\n- wrong installation\nVERIFY:\n- check cleaning\nREPAIR:\n- check and correct installation\n",
+    "fault_id": "fault_failure_of_the_water_f7e937b4",
+    "component_id": "check_valve_03caf5"
+  },
+  {
+    "symptom": "pump hums but does not rotate",
+    "problem_description": "pump not rotating due to mechanical issue",
+    "likely_causes": [
+      "mechanical seal damaged",
+      "bearing worn out"
+    ],
+    "understanding": "pump not rotating due to mechanical issue",
+    "verify": [
+      "check mechanical seal for damage"
+    ],
+    "repair": [
+      "replace mechanical seal"
+    ],
+    "machine_family": "Electric Pump",
+    "component": "Mechanical Seal",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**VIII. Maintenance**",
+    "embedding_text": "FAULT: pump hums but does not rotate\nSYMPTOM: pump not rotating due to mechanical issue\nCOMPONENT: Mechanical Seal\nLIKELY CAUSES:\n- mechanical seal damaged\n- bearing worn out\nVERIFY:\n- check mechanical seal for damage\nREPAIR:\n- replace mechanical seal\n",
+    "fault_id": "fault_pump_hums_but_does_b9c5d5e7",
+    "component_id": "mechanical_seal_1301ac"
+  },
+  {
+    "symptom": "pump does not turn on",
+    "problem_description": "pump not turning on due to electrical issue",
+    "likely_causes": [
+      "flow switch faulty",
+      "pressure tank empty"
+    ],
+    "understanding": "pump not turning on due to electrical issue",
+    "verify": [
+      "check flow switch for continuity"
+    ],
+    "repair": [
+      "replace flow switch"
+    ],
+    "machine_family": "Electric Pump",
+    "component": "Flow Switch",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**VIII. Maintenance**",
+    "embedding_text": "FAULT: pump does not turn on\nSYMPTOM: pump not turning on due to electrical issue\nCOMPONENT: Flow Switch\nLIKELY CAUSES:\n- flow switch faulty\n- pressure tank empty\nVERIFY:\n- check flow switch for continuity\nREPAIR:\n- replace flow switch\n",
+    "fault_id": "fault_pump_does_not_turn_4e4e782a",
+    "component_id": "flow_switch_4fd774"
+  },
+  {
+    "symptom": "motor hums but does not rotate",
+    "problem_description": "The motor hums but does not rotate, which may be caused by low voltage, default phase of electric pump or leakage of the cable, air leakage at the water inlet pipeline, air retained in the pump cavity, air enters in through the sealing elements, water level of the well is too low, foot valve is not opened or seriously blocked, protector is disconnected or the fuse is burned out, impeller is stuck, stator winding is burned out, voltage is too low, or cable is broken.",
+    "likely_causes": [
+      "low voltage",
+      "default phase of electric pump or leakage of the cable"
+    ],
+    "understanding": "The motor hums but does not rotate, which may be caused by a variety of issues related to the electric pump, cable, or impeller.",
+    "verify": [
+      "check the voltage regulator and adjust the voltage to 0.9 – 1.1 times of the rated value"
+    ],
+    "repair": [
+      "replace the capacitor with one with the same capacitance"
+    ],
+    "machine_family": "Electric Motor",
+    "component": "Electric Pump",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**IX. Troubleshooting**",
+    "embedding_text": "FAULT: motor hums but does not rotate\nSYMPTOM: The motor hums but does not rotate, which may be caused by low voltage, default phase of electric pump or leakage of the cable, air leakage at the water inlet pipeline, air retained in the pump cavity, air enters in through the sealing elements, water level of the well is too low, foot valve is not opened or seriously blocked, protector is disconnected or the fuse is burned out, impeller is stuck, stator winding is burned out, voltage is too low, or cable is broken.\nCOMPONENT: Electric Pump\nLIKELY CAUSES:\n- low voltage\n- default phase of electric pump or leakage of the cable\nVERIFY:\n- check the voltage regulator and adjust the voltage to 0.9 – 1.1 times of the rated value\nREPAIR:\n- replace the capacitor with one with the same capacitance\n",
+    "fault_id": "fault_motor_hums_but_does_e2de0bb6",
+    "component_id": "electric_pump_93c8fb"
+  },
+  {
+    "symptom": "motor runs but no water is discharged",
+    "problem_description": "The motor runs but no water is discharged, which may be caused by air leakage at the water inlet pipeline, air retained in the pump cavity, air enters in through the sealing elements, water level of the well is too low, foot valve is not opened or seriously blocked, protector is disconnected or the fuse is burned out, impeller is stuck, stator winding is burned out, voltage is too low, or cable is broken.",
+    "likely_causes": [
+      "air leakage at the water inlet pipeline"
+    ],
+    "understanding": "The motor runs but no water is discharged, which may be caused by issues related to the water inlet pipeline or impeller.",
+    "verify": [
+      "check whether the water inlet pipelines and joints are sealed well and confrm that the seal is reliable"
+    ],
+    "repair": [
+      "replace the sealing elements"
+    ],
+    "machine_family": "Electric Motor",
+    "component": "Impeller",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**IX. Troubleshooting**",
+    "embedding_text": "FAULT: motor runs but no water is discharged\nSYMPTOM: The motor runs but no water is discharged, which may be caused by air leakage at the water inlet pipeline, air retained in the pump cavity, air enters in through the sealing elements, water level of the well is too low, foot valve is not opened or seriously blocked, protector is disconnected or the fuse is burned out, impeller is stuck, stator winding is burned out, voltage is too low, or cable is broken.\nCOMPONENT: Impeller\nLIKELY CAUSES:\n- air leakage at the water inlet pipeline\nVERIFY:\n- check whether the water inlet pipelines and joints are sealed well and confrm that the seal is reliable\nREPAIR:\n- replace the sealing elements\n",
+    "fault_id": "fault_motor_runs_but_no_68e3bd08",
+    "component_id": "impeller_78f646"
+  },
+  {
+    "symptom": "The electric pump cannot be halted when water is not used",
+    "problem_description": "The pump continues to run even when water is not being used",
+    "likely_causes": [
+      "The water level is lower than the pump suction"
+    ],
+    "understanding": "The pump is designed to run continuously when the water level is below a certain threshold",
+    "verify": [
+      "Check the water level"
+    ],
+    "repair": [
+      "Reduce the installation height of the pump"
+    ],
+    "machine_family": "Electric Pump",
+    "component": "Pressure Switch",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**Troubleshooting AWZB and PW Auto Self-priming Pump**",
+    "embedding_text": "FAULT: The electric pump cannot be halted when water is not used\nSYMPTOM: The pump continues to run even when water is not being used\nCOMPONENT: Pressure Switch\nLIKELY CAUSES:\n- The water level is lower than the pump suction\nVERIFY:\n- Check the water level\nREPAIR:\n- Reduce the installation height of the pump\n",
+    "fault_id": "fault_the_electric_pump_cannot_96f1d501",
+    "component_id": "pressure_switch_73f722"
+  },
+  {
+    "symptom": "The electric pump does not start when water is used",
+    "problem_description": "The pump fails to start when water is being used",
+    "likely_causes": [
+      "The pressure of the water inlet and outlet pipeline is higher than the starting pressure of the pressure switch"
+    ],
+    "understanding": "The pump is designed to start when the pressure of the water inlet and outlet pipeline is below a certain threshold",
+    "verify": [
+      "Check the pressure switch"
+    ],
+    "repair": [
+      "Ask the profession personnel to properly adjust the switch pressure value"
+    ],
+    "machine_family": "Electric Pump",
+    "component": "Pressure Switch",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**Troubleshooting AWZB and PW Auto Self-priming Pump**",
+    "embedding_text": "FAULT: The electric pump does not start when water is used\nSYMPTOM: The pump fails to start when water is being used\nCOMPONENT: Pressure Switch\nLIKELY CAUSES:\n- The pressure of the water inlet and outlet pipeline is higher than the starting pressure of the pressure switch\nVERIFY:\n- Check the pressure switch\nREPAIR:\n- Ask the profession personnel to properly adjust the switch pressure value\n",
+    "fault_id": "fault_the_electric_pump_does_f528a64c",
+    "component_id": "pressure_switch_73f722"
+  },
+  {
+    "symptom": "The electric pump is started frequently when water is used",
+    "problem_description": "The pump starts and stops frequently when water is being used",
+    "likely_causes": [
+      "The pressure fluctuation range of the pipeline networks of the tap water is overlarge"
+    ],
+    "understanding": "The pump is designed to start and stop frequently when the pressure of the pipeline networks of the tap water is fluctuating",
+    "verify": [
+      "Check the pressure switch"
+    ],
+    "repair": [
+      "Adjust the start/stop pressure range of the pressure switch"
+    ],
+    "machine_family": "Electric Pump",
+    "component": "Pressure Switch",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**Troubleshooting AWZB and PW Auto Self-priming Pump**",
+    "embedding_text": "FAULT: The electric pump is started frequently when water is used\nSYMPTOM: The pump starts and stops frequently when water is being used\nCOMPONENT: Pressure Switch\nLIKELY CAUSES:\n- The pressure fluctuation range of the pipeline networks of the tap water is overlarge\nVERIFY:\n- Check the pressure switch\nREPAIR:\n- Adjust the start/stop pressure range of the pressure switch\n",
+    "fault_id": "fault_the_electric_pump_is_2759da3a",
+    "component_id": "pressure_switch_73f722"
+  },
+  {
+    "symptom": "The electric pump is started frequently when water is used",
+    "problem_description": "The electric pump is started frequently when water is used due to the low water discharge of the faucet.",
+    "likely_causes": [
+      "The water discharge of the faucet is little",
+      "Fault of the flow switch",
+      "The pressure tank leaks air and the air pressure is insufficient"
+    ],
+    "understanding": "The electric pump is started frequently when water is used due to the low water discharge of the faucet.",
+    "verify": [
+      "Check the water discharge of the faucet"
+    ],
+    "repair": [
+      "Properly turn up the faucet",
+      "Replace the flow switch with a new one",
+      "Refll the pressure tank with air as per the pressure value on the tag of the pressure tank"
+    ],
+    "machine_family": "",
+    "component": "",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "- **Troubleshooting of PW-Z** 、 **AWZB H1 Series Electric Pump**",
+    "embedding_text": "FAULT: The electric pump is started frequently when water is used\nSYMPTOM: The electric pump is started frequently when water is used due to the low water discharge of the faucet.\nCOMPONENT: \nLIKELY CAUSES:\n- The water discharge of the faucet is little\n- Fault of the flow switch\n- The pressure tank leaks air and the air pressure is insufficient\nVERIFY:\n- Check the water discharge of the faucet\nREPAIR:\n- Properly turn up the faucet\n- Replace the flow switch with a new one\n- Refll the pressure tank with air as per the pressure value on the tag of the pressure tank\n",
+    "fault_id": "fault_the_electric_pump_is_2759da3a",
+    "component_id": "unknown"
+  },
+  {
+    "symptom": "The electric pump does not start when water is used",
+    "problem_description": "The electric pump does not start when water is used due to the low setting of the pressure switch or the fault of the pressure switch.",
+    "likely_causes": [
+      "The setting of the pressure switch is too low or the fault of the pressure switch",
+      "Fault of the controller"
+    ],
+    "understanding": "The electric pump does not start when water is used due to the low setting of the pressure switch or the fault of the pressure switch.",
+    "verify": [
+      "Check the setting of the pressure switch"
+    ],
+    "repair": [
+      "Ask the professional personnel to properly turn up the pressure of the pressure switch",
+      "Replace the pressure switch with a new one",
+      "Replace the controller with a new one"
+    ],
+    "machine_family": "",
+    "component": "",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "- **Troubleshooting of PW-Z** 、 **AWZB H1 Series Electric Pump**",
+    "embedding_text": "FAULT: The electric pump does not start when water is used\nSYMPTOM: The electric pump does not start when water is used due to the low setting of the pressure switch or the fault of the pressure switch.\nCOMPONENT: \nLIKELY CAUSES:\n- The setting of the pressure switch is too low or the fault of the pressure switch\n- Fault of the controller\nVERIFY:\n- Check the setting of the pressure switch\nREPAIR:\n- Ask the professional personnel to properly turn up the pressure of the pressure switch\n- Replace the pressure switch with a new one\n- Replace the controller with a new one\n",
+    "fault_id": "fault_the_electric_pump_does_f528a64c",
+    "component_id": "unknown"
+  },
+  {
+    "symptom": "The electric pump cannot be halted when water is not used",
+    "problem_description": "The electric pump cannot be halted when water is not used due to the stuck check valve or the fault of the flow switch.",
+    "likely_causes": [
+      "The check valve is stuck by the debris and cannot be reset or the fault of the flow switch",
+      "The setting of the pressure switch is too high or the fault of the pressure switch"
+    ],
+    "understanding": "The electric pump cannot be halted when water is not used due to the stuck check valve or the fault of the flow switch.",
+    "verify": [
+      "Check the check valve"
+    ],
+    "repair": [
+      "Clear the debris of the check valve or replace the flow switch with a new one",
+      "Ask the professional personnel to properly turn down the starting pressure of the pressure switch or replace the pressure switch with a new one"
+    ],
+    "machine_family": "",
+    "component": "",
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "- **Troubleshooting of PW-Z** 、 **AWZB H1 Series Electric Pump**",
+    "embedding_text": "FAULT: The electric pump cannot be halted when water is not used\nSYMPTOM: The electric pump cannot be halted when water is not used due to the stuck check valve or the fault of the flow switch.\nCOMPONENT: \nLIKELY CAUSES:\n- The check valve is stuck by the debris and cannot be reset or the fault of the flow switch\n- The setting of the pressure switch is too high or the fault of the pressure switch\nVERIFY:\n- Check the check valve\nREPAIR:\n- Clear the debris of the check valve or replace the flow switch with a new one\n- Ask the professional personnel to properly turn down the starting pressure of the pressure switch or replace the pressure switch with a new one\n",
+    "fault_id": "fault_the_electric_pump_cannot_96f1d501",
+    "component_id": "unknown"
+  },
+  {
+    "symptom": "Pump does not deliver water.",
+    "problem_description": "The pump is not primed or the suction pipe is not completely filled with water.",
+    "likely_causes": [
+      "pump not primed",
+      "suction pipe not completely filled with water"
+    ],
+    "understanding": "The pump is not able to deliver water due to a lack of priming or a blockage in the suction pipe.",
+    "verify": [
+      "check if pump is primed",
+      "check if suction pipe is completely filled with water"
+    ],
+    "repair": [
+      "prime pump",
+      "clear blockage in suction pipe"
+    ],
+    "machine_family": "Pump",
+    "component": "Pump",
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "source_section": "unknown",
+    "embedding_text": "FAULT: Pump does not deliver water.\nSYMPTOM: The pump is not primed or the suction pipe is not completely filled with water.\nCOMPONENT: Pump\nLIKELY CAUSES:\n- pump not primed\n- suction pipe not completely filled with water\nVERIFY:\n- check if pump is primed\n- check if suction pipe is completely filled with water\nREPAIR:\n- prime pump\n- clear blockage in suction pipe\n",
+    "fault_id": "fault_pump_does_not_deliver_dc1db153",
+    "component_id": "pump_cf8272"
+  },
+  {
+    "symptom": "Insufficient capacity delivered.",
+    "problem_description": "The pump is not able to deliver the required amount of water.",
+    "likely_causes": [
+      "suction pipe not completely filled with water",
+      "excessive amount of air or gas in water"
+    ],
+    "understanding": "The pump is not able to deliver the required amount of water due to a lack of priming or excessive air or gas in the water.",
+    "verify": [
+      "check if suction pipe is completely filled with water",
+      "check for excessive air or gas in water"
+    ],
+    "repair": [
+      "prime pump",
+      "remove excessive air or gas from water"
+    ],
+    "machine_family": "Pump",
+    "component": "Pump",
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "source_section": "unknown",
+    "embedding_text": "FAULT: Insufficient capacity delivered.\nSYMPTOM: The pump is not able to deliver the required amount of water.\nCOMPONENT: Pump\nLIKELY CAUSES:\n- suction pipe not completely filled with water\n- excessive amount of air or gas in water\nVERIFY:\n- check if suction pipe is completely filled with water\n- check for excessive air or gas in water\nREPAIR:\n- prime pump\n- remove excessive air or gas from water\n",
+    "fault_id": "fault_insufficient_capacity_delivered_f65ea94a",
+    "component_id": "pump_cf8272"
+  },
+  {
+    "symptom": "Foreign matter in impeller.",
+    "problem_description": "Foreign matter in the impeller can cause it to malfunction or become damaged.",
+    "likely_causes": [
+      "Foreign matter in the impeller"
+    ],
+    "understanding": "Foreign matter in the impeller can cause it to malfunction or become damaged.",
+    "verify": [
+      "Check for any blockages or damage to the impeller."
+    ],
+    "repair": [
+      "Replace the impeller with a new one."
+    ],
+    "machine_family": "Pump",
+    "component": "Impeller",
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "source_section": "unknown",
+    "embedding_text": "FAULT: Foreign matter in impeller.\nSYMPTOM: Foreign matter in the impeller can cause it to malfunction or become damaged.\nCOMPONENT: Impeller\nLIKELY CAUSES:\n- Foreign matter in the impeller\nVERIFY:\n- Check for any blockages or damage to the impeller.\nREPAIR:\n- Replace the impeller with a new one.\n",
+    "fault_id": "fault_foreign_matter_in_impeller_124ec782",
+    "component_id": "impeller_78f646"
+  },
+  {
+    "symptom": "Casing gasket defective, permitting internal leakage.",
+    "problem_description": "A defective casing gasket can cause internal leakage and damage to the pump.",
+    "likely_causes": [
+      "Casing gasket defective"
+    ],
+    "understanding": "A defective casing gasket can cause internal leakage and damage to the pump.",
+    "verify": [
+      "Check for any blockages or damage to the gasket."
+    ],
+    "repair": [
+      "Replace the casing gasket with a new one."
+    ],
+    "machine_family": "Pump",
+    "component": "Casing gasket",
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "source_section": "unknown",
+    "embedding_text": "FAULT: Casing gasket defective, permitting internal leakage.\nSYMPTOM: A defective casing gasket can cause internal leakage and damage to the pump.\nCOMPONENT: Casing gasket\nLIKELY CAUSES:\n- Casing gasket defective\nVERIFY:\n- Check for any blockages or damage to the gasket.\nREPAIR:\n- Replace the casing gasket with a new one.\n",
+    "fault_id": "fault_casing_gasket_defective_permitting_1574c291",
+    "component_id": "casing_gasket_61e21f"
+  },
+  {
+    "symptom": "Motor hums but does not rotate",
+    "problem_description": "The motor is not rotating due to a mechanical issue.",
+    "likely_causes": [
+      "Worn or damaged packing",
+      "Worn or damaged bearing"
+    ],
+    "understanding": "The motor is not rotating due to a mechanical issue that needs to be addressed.",
+    "verify": [
+      "Check packing ring joints are staggered.",
+      "Check bearing temperature with a standard thermometer."
+    ],
+    "repair": [
+      "Add new packing",
+      "Change lubricant according to Table 14."
+    ],
+    "machine_family": "Pump",
+    "component": "Packing",
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "source_section": "unknown",
+    "embedding_text": "FAULT: Motor hums but does not rotate\nSYMPTOM: The motor is not rotating due to a mechanical issue.\nCOMPONENT: Packing\nLIKELY CAUSES:\n- Worn or damaged packing\n- Worn or damaged bearing\nVERIFY:\n- Check packing ring joints are staggered.\n- Check bearing temperature with a standard thermometer.\nREPAIR:\n- Add new packing\n- Change lubricant according to Table 14.\n",
+    "fault_id": "fault_motor_hums_but_does_e2de0bb6",
+    "component_id": "packing_f23937"
+  },
+  {
+    "symptom": "Motor hums but does not rotate",
+    "problem_description": "The motor is not rotating due to a mechanical issue.",
+    "likely_causes": [
+      "Worn or damaged packing",
+      "Worn or damaged bearing"
+    ],
+    "understanding": "The motor is not rotating due to a mechanical issue that needs to be addressed.",
+    "verify": [
+      "Check packing ring joints are staggered.",
+      "Check bearing temperature with a standard thermometer."
+    ],
+    "repair": [
+      "Add new packing",
+      "Change lubricant according to Table 14."
+    ],
+    "machine_family": "Pump",
+    "component": "Bearing",
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "source_section": "unknown",
+    "embedding_text": "FAULT: Motor hums but does not rotate\nSYMPTOM: The motor is not rotating due to a mechanical issue.\nCOMPONENT: Bearing\nLIKELY CAUSES:\n- Worn or damaged packing\n- Worn or damaged bearing\nVERIFY:\n- Check packing ring joints are staggered.\n- Check bearing temperature with a standard thermometer.\nREPAIR:\n- Add new packing\n- Change lubricant according to Table 14.\n",
+    "fault_id": "fault_motor_hums_but_does_e2de0bb6",
+    "component_id": "bearing_a27a44"
+  },
+  {
+    "symptom": "Pump fails to start.",
+    "problem_description": "The pump fails to start due to various reasons.",
+    "likely_causes": [
+      "Bearing friction",
+      "Corrosion products or biological growth",
+      "Fuses burned out",
+      "Impeller locked"
+    ],
+    "understanding": "The pump fails to start due to mechanical issues.",
+    "verify": [
+      "Check tube tension nut for tightness; check for bent shaft and proper anchoring; check oil."
+    ],
+    "repair": [
+      "Check for corrosion products or biological growth; check for sand; raise or lower impeller; backwash. Pull pump if necessary. Also check impeller adjustment; raise impeller to allow shaft to stretch for hydraulic thrust."
+    ],
+    "machine_family": "",
+    "component": "",
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "source_section": "unknown",
+    "embedding_text": "FAULT: Pump fails to start.\nSYMPTOM: The pump fails to start due to various reasons.\nCOMPONENT: \nLIKELY CAUSES:\n- Bearing friction\n- Corrosion products or biological growth\n- Fuses burned out\n- Impeller locked\nVERIFY:\n- Check tube tension nut for tightness; check for bent shaft and proper anchoring; check oil.\nREPAIR:\n- Check for corrosion products or biological growth; check for sand; raise or lower impeller; backwash. Pull pump if necessary. Also check impeller adjustment; raise impeller to allow shaft to stretch for hydraulic thrust.\n",
+    "fault_id": "fault_pump_fails_to_start_06878be5",
+    "component_id": "unknown"
+  },
+  {
+    "symptom": "Pump vibrates excessively.",
+    "problem_description": "The pump vibrates excessively due to various reasons.",
+    "likely_causes": [
+      "Air entering pump",
+      "Over-pumping and water level drawdown",
+      "Leaks in well vent"
+    ],
+    "understanding": "The pump vibrates excessively due to mechanical issues.",
+    "verify": [
+      "Check for air entering pump; check over-pumping and water level drawdown; check leaks in well vent."
+    ],
+    "repair": [
+      "Check for sand in water; check lubricant (oil and grease) for proper grade."
+    ],
+    "machine_family": "",
+    "component": "",
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "source_section": "unknown",
+    "embedding_text": "FAULT: Pump vibrates excessively.\nSYMPTOM: The pump vibrates excessively due to various reasons.\nCOMPONENT: \nLIKELY CAUSES:\n- Air entering pump\n- Over-pumping and water level drawdown\n- Leaks in well vent\nVERIFY:\n- Check for air entering pump; check over-pumping and water level drawdown; check leaks in well vent.\nREPAIR:\n- Check for sand in water; check lubricant (oil and grease) for proper grade.\n",
+    "fault_id": "fault_pump_vibrates_excessively_4df73815",
+    "component_id": "unknown"
+  },
+  {
+    "symptom": "Motor hums but does not rotate",
+    "problem_description": "The motor is not rotating due to a mechanical issue",
+    "likely_causes": [
+      "Bearing failure"
+    ],
+    "understanding": "The motor is not rotating due to a mechanical issue",
+    "verify": [
+      "Check the bearing for signs of wear or damage"
+    ],
+    "repair": [
+      "Replace the bearing"
+    ],
+    "machine_family": "Diesel Engine",
+    "component": "Bearings",
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "source_section": "unknown",
+    "embedding_text": "FAULT: Motor hums but does not rotate\nSYMPTOM: The motor is not rotating due to a mechanical issue\nCOMPONENT: Bearings\nLIKELY CAUSES:\n- Bearing failure\nVERIFY:\n- Check the bearing for signs of wear or damage\nREPAIR:\n- Replace the bearing\n",
+    "fault_id": "fault_motor_hums_but_does_e2de0bb6",
+    "component_id": "bearings_6fc2bd"
+  },
+  {
+    "symptom": "Motor fails to start or come up to speed normally",
+    "problem_description": "The motor is not starting or coming up to speed due to an electrical issue",
+    "likely_causes": [
+      "Commutator failure"
+    ],
+    "understanding": "The motor is not starting or coming up to speed due to an electrical issue",
+    "verify": [
+      "Check the commutator for signs of wear or damage"
+    ],
+    "repair": [
+      "Replace the commutator"
+    ],
+    "machine_family": "Diesel Engine",
+    "component": "Commutator",
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "source_section": "unknown",
+    "embedding_text": "FAULT: Motor fails to start or come up to speed normally\nSYMPTOM: The motor is not starting or coming up to speed due to an electrical issue\nCOMPONENT: Commutator\nLIKELY CAUSES:\n- Commutator failure\nVERIFY:\n- Check the commutator for signs of wear or damage\nREPAIR:\n- Replace the commutator\n",
+    "fault_id": "fault_motor_fails_to_start_64215d27",
+    "component_id": "commutator_f1c93e"
+  }
+]

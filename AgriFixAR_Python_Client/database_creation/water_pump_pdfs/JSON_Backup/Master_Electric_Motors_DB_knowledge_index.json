@@ -1,0 +1,1018 @@
+[
+  {
+    "component": "Pump Connector Unit Leak-Proof Joint",
+    "procedure_ids": [
+      "c8f4c72cf014"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Pump Connector Unit Leak-Proof Joint"
+  },
+  {
+    "component": "Sump Bottom",
+    "procedure_ids": [
+      "165307a39427"
+    ],
+    "fault_ids": [
+      "Excessive pump vibration and noise",
+      "Pump clogs frequently or has reduced water flow"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "support bracket",
+      "pump",
+      "pump intake"
+    ],
+    "embedding_text": "Sump Bottom support bracket pump pump intake Excessive pump vibration and noise Pump clogs frequently or has reduced water flow"
+  },
+  {
+    "component": "Guide Pipe Assembly",
+    "procedure_ids": [
+      "165307a39427"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Guide Pipe Assembly"
+  },
+  {
+    "component": "Support Bracket, Bend, Guide Pipe, Discharge Pipe",
+    "procedure_ids": [
+      "165307a39427"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Support Bracket, Bend, Guide Pipe, Discharge Pipe"
+  },
+  {
+    "component": "Guide Pipe",
+    "procedure_ids": [
+      "165307a39427",
+      "5172e1e1f5f6"
+    ],
+    "fault_ids": [
+      "Pump binds or is difficult to lower/lift"
+    ],
+    "spec_ids": [],
+    "image_ids": [
+      "submersible_manual_p37_img0.png"
+    ],
+    "connected_components": [
+      "pump",
+      "support bracket",
+      "guide shoe"
+    ],
+    "embedding_text": "Guide Pipe pump support bracket guide shoe Pump binds or is difficult to lower/lift"
+  },
+  {
+    "component": "Guide Pipe Holder",
+    "procedure_ids": [
+      "165307a39427"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Guide Pipe Holder"
+  },
+  {
+    "component": "Pump Power Cable",
+    "procedure_ids": [
+      "165307a39427"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Pump Power Cable"
+  },
+  {
+    "component": "Pump, Support Bracket",
+    "procedure_ids": [
+      "165307a39427"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Pump, Support Bracket"
+  },
+  {
+    "component": "Sump, Pump Intake",
+    "procedure_ids": [
+      "165307a39427"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Sump, Pump Intake"
+  },
+  {
+    "component": "Delivery Pipe Line, Pump Casing",
+    "procedure_ids": [
+      "165307a39427"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Delivery Pipe Line, Pump Casing"
+  },
+  {
+    "component": "Lifting Chain",
+    "procedure_ids": [
+      "165307a39427"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "pump"
+    ],
+    "embedding_text": "Lifting Chain pump"
+  },
+  {
+    "component": "Non-Return Valve",
+    "procedure_ids": [
+      "165307a39427"
+    ],
+    "fault_ids": [
+      "Water hammer noise in pipes or pump loses prime"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "delivery pipe",
+      "sluice valve"
+    ],
+    "embedding_text": "Non-Return Valve delivery pipe sluice valve Water hammer noise in pipes or pump loses prime"
+  },
+  {
+    "component": "Mechanical Seal Housing",
+    "procedure_ids": [
+      "6c1dc38bc4b8"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Mechanical Seal Housing"
+  },
+  {
+    "component": "Motor Windings",
+    "procedure_ids": [
+      "6c1dc38bc4b8"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Motor Windings"
+  },
+  {
+    "component": "Moisture Sensor",
+    "procedure_ids": [
+      "6c1dc38bc4b8",
+      "5172e1e1f5f6"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Moisture Sensor"
+  },
+  {
+    "component": "Control Panel (Star-Delta Starter)",
+    "procedure_ids": [
+      "6c1dc38bc4b8"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Control Panel (Star-Delta Starter)"
+  },
+  {
+    "component": "Low Level Electrode",
+    "procedure_ids": [
+      "6c1dc38bc4b8"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Low Level Electrode"
+  },
+  {
+    "component": "Motor",
+    "procedure_ids": [
+      "6c1dc38bc4b8"
+    ],
+    "fault_ids": [
+      "Motor trips, control panel indicates 'Overload'",
+      "Motor trips, control panel indicates 'Overheat' or 'Thermal Fault'",
+      "Over loading of motor LED is on"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Motor Motor trips, control panel indicates 'Overload' Motor trips, control panel indicates 'Overheat' or 'Thermal Fault' Over loading of motor LED is on"
+  },
+  {
+    "component": "Discharge Valve",
+    "procedure_ids": [
+      "6c1dc38bc4b8"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Discharge Valve"
+  },
+  {
+    "component": "Impeller, Casing Ring, Casing Cover",
+    "procedure_ids": [
+      "fbf81a545477"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Impeller, Casing Ring, Casing Cover"
+  },
+  {
+    "component": "Pump Components (General), Impeller, Casing, Shaft",
+    "procedure_ids": [
+      "fbf81a545477"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Pump Components (General), Impeller, Casing, Shaft"
+  },
+  {
+    "component": "Pump Casing (1070001)",
+    "procedure_ids": [
+      "5172e1e1f5f6"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Pump Casing (1070001)"
+  },
+  {
+    "component": "Semi Open Impeller (1530001)",
+    "procedure_ids": [
+      "5172e1e1f5f6"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Semi Open Impeller (1530001)"
+  },
+  {
+    "component": "Rotor Assembly (1640001) / Rotor With Shaft & Spacer (1640101)",
+    "procedure_ids": [
+      "5172e1e1f5f6"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Rotor Assembly (1640001) / Rotor With Shaft & Spacer (1640101)"
+  },
+  {
+    "component": "Mechanical Seal (2300101 / 2300202)",
+    "procedure_ids": [
+      "5172e1e1f5f6"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Mechanical Seal (2300101 / 2300202)"
+  },
+  {
+    "component": "Bearings (63062Rs1Skf, 6304 2Rs1 Skf, Lower Bearing, Upper Bearing)",
+    "procedure_ids": [
+      "5172e1e1f5f6"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Bearings (63062Rs1Skf, 6304 2Rs1 Skf, Lower Bearing, Upper Bearing)"
+  },
+  {
+    "component": "O-Rings (Various)",
+    "procedure_ids": [
+      "5172e1e1f5f6"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "O-Rings (Various)"
+  },
+  {
+    "component": "Stator (9110001)",
+    "procedure_ids": [
+      "5172e1e1f5f6"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Stator (9110001)"
+  },
+  {
+    "component": "Terminal Board (9120001)",
+    "procedure_ids": [
+      "5172e1e1f5f6"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Terminal Board (9120001)"
+  },
+  {
+    "component": "Moisture Sensor (9320001 / 9320203)",
+    "procedure_ids": [
+      "5172e1e1f5f6"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Moisture Sensor (9320001 / 9320203)"
+  },
+  {
+    "component": "Cable Gland & Cable Seal (9100101, 9100201, 9140201, 9140301)",
+    "procedure_ids": [
+      "5172e1e1f5f6"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Cable Gland & Cable Seal (9100101, 9100201, 9140201, 9140301)"
+  },
+  {
+    "component": "Studs, Nuts, And Washers For Pump Casing And Lower Bearing Holder",
+    "procedure_ids": [
+      "5172e1e1f5f6"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Studs, Nuts, And Washers For Pump Casing And Lower Bearing Holder"
+  },
+  {
+    "component": "Pump Connector Unit Joint",
+    "procedure_ids": [
+      "c8f4c72cf014"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Pump Connector Unit Joint"
+  },
+  {
+    "component": "Sump Foundation",
+    "procedure_ids": [
+      "165307a39427"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Sump Foundation"
+  },
+  {
+    "component": "Guide Pipe Support Bracket",
+    "procedure_ids": [
+      "165307a39427"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Guide Pipe Support Bracket"
+  },
+  {
+    "component": "Guide Pipe & Discharge Pipe Alignment",
+    "procedure_ids": [
+      "165307a39427"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Guide Pipe & Discharge Pipe Alignment"
+  },
+  {
+    "component": "Guide Shoe & Guide Pipe Adapter",
+    "procedure_ids": [
+      "165307a39427"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Guide Shoe & Guide Pipe Adapter"
+  },
+  {
+    "component": "Pump Assembly Insertion",
+    "procedure_ids": [
+      "165307a39427"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Pump Assembly Insertion"
+  },
+  {
+    "component": "Pump Seating",
+    "procedure_ids": [
+      "165307a39427"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Pump Seating"
+  },
+  {
+    "component": "Sump Intake",
+    "procedure_ids": [
+      "165307a39427"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Sump Intake"
+  },
+  {
+    "component": "Delivery Pipe (Portable Pump)",
+    "procedure_ids": [
+      "165307a39427"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Delivery Pipe (Portable Pump)"
+  },
+  {
+    "component": "Non-Return Valve (Check Valve)",
+    "procedure_ids": [
+      "165307a39427"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Non-Return Valve (Check Valve)"
+  },
+  {
+    "component": "Mechanical Seal Housing Oil",
+    "procedure_ids": [
+      "6c1dc38bc4b8"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Mechanical Seal Housing Oil"
+  },
+  {
+    "component": "Motor Winding Insulation",
+    "procedure_ids": [
+      "6c1dc38bc4b8"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Motor Winding Insulation"
+  },
+  {
+    "component": "Motor Winding Continuity",
+    "procedure_ids": [
+      "6c1dc38bc4b8"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Motor Winding Continuity"
+  },
+  {
+    "component": "Moisture Sensing Wires (M1, M2)",
+    "procedure_ids": [
+      "6c1dc38bc4b8"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Moisture Sensing Wires (M1, M2)"
+  },
+  {
+    "component": "Low Level Electrode Positioning",
+    "procedure_ids": [
+      "6c1dc38bc4b8"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Low Level Electrode Positioning"
+  },
+  {
+    "component": "Motor Rotation Direction",
+    "procedure_ids": [
+      "6c1dc38bc4b8"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Motor Rotation Direction"
+  },
+  {
+    "component": "Star-Delta Changeover Time Delay",
+    "procedure_ids": [
+      "6c1dc38bc4b8"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Star-Delta Changeover Time Delay"
+  },
+  {
+    "component": "Discharge Valve Operation",
+    "procedure_ids": [
+      "6c1dc38bc4b8"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Discharge Valve Operation"
+  },
+  {
+    "component": "Impeller-Casing Clearance",
+    "procedure_ids": [
+      "fbf81a545477"
+    ],
+    "fault_ids": [
+      "Reduced water output and pressure",
+      "Pump making grinding/scraping noise and overheating"
+    ],
+    "spec_ids": [
+      "clearance:impeller-casing clearance"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "impeller",
+      "casing ring",
+      "casing cover",
+      "pump shaft",
+      "motor"
+    ],
+    "embedding_text": "Impeller-Casing Clearance impeller casing ring casing cover pump shaft Reduced water output and pressure Pump making grinding/scraping noise and overheating"
+  },
+  {
+    "component": "Pump Component Material Suitability",
+    "procedure_ids": [
+      "fbf81a545477"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Pump Component Material Suitability"
+  },
+  {
+    "component": "Impeller Key",
+    "procedure_ids": [
+      "5172e1e1f5f6"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [
+      "submersible_manual_p21_img0.png"
+    ],
+    "connected_components": [],
+    "embedding_text": "Impeller Key"
+  },
+  {
+    "component": "Power Cable",
+    "procedure_ids": [
+      "5172e1e1f5f6",
+      "165307a39427"
+    ],
+    "fault_ids": [
+      "Pump fails to start or trips circuit breaker during/after installation"
+    ],
+    "spec_ids": [],
+    "image_ids": [
+      "submersible_manual_p1_img1.jpeg"
+    ],
+    "connected_components": [
+      "pump motor",
+      "power supply"
+    ],
+    "embedding_text": "Power Cable pump motor power supply Pump fails to start or trips circuit breaker during/after installation"
+  },
+  {
+    "component": "Bearings (Lower And Upper)",
+    "procedure_ids": [
+      "5172e1e1f5f6"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Bearings (Lower And Upper)"
+  },
+  {
+    "component": "Hex Socket Cap Screw",
+    "procedure_ids": [
+      "5172e1e1f5f6"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Hex Socket Cap Screw"
+  },
+  {
+    "component": "Spring Washer",
+    "procedure_ids": [
+      "5172e1e1f5f6"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Spring Washer"
+  },
+  {
+    "component": "Gaskets And O-Rings",
+    "procedure_ids": [
+      "5172e1e1f5f6"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Gaskets And O-Rings"
+  },
+  {
+    "component": "Mechanical Seal",
+    "procedure_ids": [
+      "5172e1e1f5f6"
+    ],
+    "fault_ids": [
+      "Motor trips, control panel indicates 'Oil Contamination' or 'Seal Fault'",
+      "Water leaking from pump shaft"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "rotor assembly",
+      "pump casing",
+      "mechanical seal housing"
+    ],
+    "embedding_text": "Mechanical Seal rotor assembly pump casing mechanical seal housing Motor trips, control panel indicates 'Oil Contamination' or 'Seal Fault' Water leaking from pump shaft"
+  },
+  {
+    "component": "Pump Connector Unit To Support Bracket Joint",
+    "procedure_ids": [
+      "c8f4c72cf014"
+    ],
+    "fault_ids": [
+      "Water leakage around pump connection"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "pump connector unit",
+      "pump support bracket",
+      "guide shoe",
+      "rubber diaphragm"
+    ],
+    "embedding_text": "Pump Connector Unit To Support Bracket Joint pump connector unit pump support bracket guide shoe rubber diaphragm Water leakage around pump connection"
+  },
+  {
+    "component": "Support Bracket & Guide Pipe",
+    "procedure_ids": [
+      "165307a39427"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "sump bottom",
+      "guide pipe",
+      "pump"
+    ],
+    "embedding_text": "Support Bracket & Guide Pipe sump bottom guide pipe pump"
+  },
+  {
+    "component": "Pump Position",
+    "procedure_ids": [
+      "165307a39427"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "support bracket",
+      "guide pipe"
+    ],
+    "embedding_text": "Pump Position support bracket guide pipe"
+  },
+  {
+    "component": "Lifting Method",
+    "procedure_ids": [
+      "165307a39427"
+    ],
+    "fault_ids": [
+      "Pump drops during lifting operation"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "pump",
+      "power cable"
+    ],
+    "embedding_text": "Lifting Method pump power cable Pump drops during lifting operation"
+  },
+  {
+    "component": "Delivery Pipe Support (Portable Installation)",
+    "procedure_ids": [
+      "165307a39427"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "pump casing",
+      "delivery pipe"
+    ],
+    "embedding_text": "Delivery Pipe Support (Portable Installation) pump casing delivery pipe"
+  },
+  {
+    "component": "Pump Components (Material Suitability)",
+    "procedure_ids": [
+      "fbf81a545477"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "impeller",
+      "casing",
+      "shaft",
+      "seals",
+      "pumped liquid"
+    ],
+    "embedding_text": "Pump Components (Material Suitability) impeller casing shaft seals"
+  },
+  {
+    "component": "Bearing (63062Rs1Skf/Equivalent, 6304 2Rs1 Skf/Equivalent)",
+    "procedure_ids": [
+      "5172e1e1f5f6"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "rotor assembly",
+      "lower bearing holder",
+      "bearing cover"
+    ],
+    "embedding_text": "Bearing (63062Rs1Skf/Equivalent, 6304 2Rs1 Skf/Equivalent) rotor assembly lower bearing holder bearing cover"
+  },
+  {
+    "component": "Semi Open Impeller",
+    "procedure_ids": [
+      "5172e1e1f5f6"
+    ],
+    "fault_ids": [
+      "Reduced pump flow or pressure"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "rotor assembly",
+      "pump casing"
+    ],
+    "embedding_text": "Semi Open Impeller rotor assembly pump casing Reduced pump flow or pressure"
+  },
+  {
+    "component": "O-Ring",
+    "procedure_ids": [
+      "5172e1e1f5f6"
+    ],
+    "fault_ids": [
+      "Water leaking from pump joints"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "pump casing",
+      "stator hsg",
+      "plug",
+      "suction plate",
+      "stuffing box bush",
+      "cable gland",
+      "moisture sensor",
+      "mechanical seal housing"
+    ],
+    "embedding_text": "O-Ring pump casing stator hsg plug suction plate Water leaking from pump joints"
+  },
+  {
+    "component": "Cable Gland / Terminal Board",
+    "procedure_ids": [
+      "5172e1e1f5f6"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "stator",
+      "terminal board",
+      "motor endcover",
+      "cable"
+    ],
+    "embedding_text": "Cable Gland / Terminal Board stator terminal board motor endcover cable"
+  },
+  {
+    "component": "Hex Nut / Stud / Hex Soc Cap Screw",
+    "procedure_ids": [
+      "5172e1e1f5f6"
+    ],
+    "fault_ids": [
+      "Excessive pump vibration and noise"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "pump casing",
+      "stator hsg",
+      "lower bearing holder",
+      "bearing cover",
+      "motor endcover",
+      "cable gland",
+      "suction plate",
+      "pump stand",
+      "guide shoe"
+    ],
+    "embedding_text": "Hex Nut / Stud / Hex Soc Cap Screw pump casing stator hsg lower bearing holder bearing cover Excessive pump vibration and noise"
+  },
+  {
+    "component": "Liquid Level Controllers",
+    "procedure_ids": [],
+    "fault_ids": [
+      "Motor trips, pump stops, control panel indicates 'Dry Run' or 'Low Level'"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Liquid Level Controllers Motor trips, pump stops, control panel indicates 'Dry Run' or 'Low Level'"
+  },
+  {
+    "component": "Control Panel",
+    "procedure_ids": [],
+    "fault_ids": [
+      "Motor trips, control panel indicates 'Phase Fault' or 'Motor does not start/runs rough'"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Control Panel Motor trips, control panel indicates 'Phase Fault' or 'Motor does not start/runs rough'"
+  },
+  {
+    "component": "Delivery Pipe",
+    "procedure_ids": [],
+    "fault_ids": [
+      "Water leaks at pump discharge flange (portable installation)"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Delivery Pipe Water leaks at pump discharge flange (portable installation)"
+  },
+  {
+    "component": "Pump",
+    "procedure_ids": [],
+    "fault_ids": [
+      "Pump making noise and vibrations"
+    ],
+    "spec_ids": [],
+    "image_ids": [
+      "submersible_manual_p37_img1.png"
+    ],
+    "connected_components": [],
+    "embedding_text": "Pump Pump making noise and vibrations"
+  },
+  {
+    "component": "Pump Components",
+    "procedure_ids": [],
+    "fault_ids": [
+      "Premature pump failure or rapid performance degradation"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Pump Components Premature pump failure or rapid performance degradation"
+  },
+  {
+    "component": "BEARING",
+    "procedure_ids": [],
+    "fault_ids": [
+      "Loud grinding or squealing noise from pump"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "BEARING Loud grinding or squealing noise from pump"
+  },
+  {
+    "component": "CABLE GLAND / TERMINAL BOARD / MOISTURE SENSOR",
+    "procedure_ids": [],
+    "fault_ids": [
+      "Motor not starting or tripping breaker"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "CABLE GLAND / TERMINAL BOARD / MOISTURE SENSOR Motor not starting or tripping breaker"
+  },
+  {
+    "component": "Oil Chamber",
+    "procedure_ids": [],
+    "fault_ids": [
+      "Oil contamination LED is on"
+    ],
+    "spec_ids": [],
+    "image_ids": [
+      "submersible_manual_p21_img0.png"
+    ],
+    "connected_components": [],
+    "embedding_text": "Oil Chamber Oil contamination LED is on"
+  },
+  {
+    "component": "Liquid Level Controller",
+    "procedure_ids": [],
+    "fault_ids": [
+      "Low liquid level LED is on"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Liquid Level Controller Low liquid level LED is on"
+  },
+  {
+    "component": "Motor Winding",
+    "procedure_ids": [],
+    "fault_ids": [
+      "High temperature of the motor winding LED is on"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Motor Winding High temperature of the motor winding LED is on"
+  },
+  {
+    "component": "Electrical Supply",
+    "procedure_ids": [],
+    "fault_ids": [
+      "Low/High Voltage / Rev. Phasing / single phasing LED is on"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Electrical Supply Low/High Voltage / Rev. Phasing / single phasing LED is on"
+  }
+]

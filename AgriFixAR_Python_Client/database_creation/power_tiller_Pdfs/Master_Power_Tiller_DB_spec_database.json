@@ -1,0 +1,735 @@
+[
+  {
+    "component": "Ignition Coil",
+    "spec_type": "voltage",
+    "value": "12",
+    "unit": "V",
+    "acceptable_range": "",
+    "source_page": "**II. OBJECTIVES**",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "failure_if_out_of_range": [
+      "Power tiller will not start"
+    ],
+    "repair_actions": [
+      "Check ignition coil voltage using multimeter, ensuring it is within specified range (12V ±10%)."
+    ],
+    "embedding_text": "Ignition Coil voltage 12 V Power tiller will not start",
+    "parameter": "voltage",
+    "page": "**II. OBJECTIVES**",
+    "if_out_of_range": [
+      "Power tiller will not start"
+    ]
+  },
+  {
+    "component": "Hydraulic Pump",
+    "spec_type": "pressure",
+    "value": "1000",
+    "unit": "bar",
+    "acceptable_range": "",
+    "source_page": "**IV. PROCEDURE**",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "failure_if_out_of_range": [
+      "Tiller does not move"
+    ],
+    "repair_actions": [
+      "Check hydraulic pressure with gauge",
+      "Bleed hydraulic system"
+    ],
+    "embedding_text": "Hydraulic Pump pressure 1000 bar Tiller does not move",
+    "parameter": "pressure",
+    "page": "**IV. PROCEDURE**",
+    "if_out_of_range": [
+      "Tiller does not move"
+    ]
+  },
+  {
+    "component": "Clutch-Brake Handle",
+    "spec_type": "torque",
+    "value": "25",
+    "unit": "N·m",
+    "acceptable_range": "",
+    "source_page": "**Step-by-step procedure of operating a power tiller: BEFORE STARTING**",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "failure_if_out_of_range": [
+      "Clutch-brake handle does not disengage"
+    ],
+    "repair_actions": [
+      "Check the tightness of the bolts at the clutch-brake handle",
+      "Inspect the clutch-brake handle for damage or wear"
+    ],
+    "embedding_text": "Clutch-Brake Handle torque 25 N·m Clutch-brake handle does not disengage",
+    "parameter": "torque",
+    "page": "**Step-by-step procedure of operating a power tiller: BEFORE STARTING**",
+    "if_out_of_range": [
+      "Clutch-brake handle does not disengage"
+    ]
+  },
+  {
+    "component": "Speed-Changing Lever",
+    "spec_type": "torque",
+    "value": "25",
+    "unit": "N·m",
+    "acceptable_range": "",
+    "source_page": "**Step-by-step procedure of operating a power tiller: BEFORE STARTING**",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "failure_if_out_of_range": [
+      "Speed-changing lever does not shift to neutral"
+    ],
+    "repair_actions": [
+      "Check the tightness of the bolts at the speed-changing lever",
+      "Inspect the speed-changing lever for damage or wear"
+    ],
+    "embedding_text": "Speed-Changing Lever torque 25 N·m Speed-changing lever does not shift to neutral",
+    "parameter": "torque",
+    "page": "**Step-by-step procedure of operating a power tiller: BEFORE STARTING**",
+    "if_out_of_range": [
+      "Speed-changing lever does not shift to neutral"
+    ]
+  },
+  {
+    "component": "Throttle",
+    "spec_type": "torque",
+    "value": "25",
+    "unit": "N·m",
+    "acceptable_range": "",
+    "source_page": "**Step-by-step procedure of operating a power tiller: BEFORE STARTING**",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "failure_if_out_of_range": [
+      "Throttle does not respond"
+    ],
+    "repair_actions": [
+      "Check the tightness of the bolts at the throttle",
+      "Inspect the throttle for damage or wear"
+    ],
+    "embedding_text": "Throttle torque 25 N·m Throttle does not respond",
+    "parameter": "torque",
+    "page": "**Step-by-step procedure of operating a power tiller: BEFORE STARTING**",
+    "if_out_of_range": [
+      "Throttle does not respond"
+    ]
+  },
+  {
+    "component": "Clutch",
+    "spec_type": "clearance",
+    "value": "0.5",
+    "unit": "mm",
+    "acceptable_range": "0.3–0.5 mm",
+    "source_page": "**Safety Operation:**",
+    "manual_source": "10_page_power_Tiller_Manual.pdf",
+    "failure_if_out_of_range": [
+      "Clutch engages but does not disengage"
+    ],
+    "repair_actions": [
+      "Check clutch adjustment (0.3–0.5mm clearance)",
+      "Inspect clutch components for wear or damage"
+    ],
+    "embedding_text": "Clutch clearance 0.5 mm Clutch engages but does not disengage",
+    "parameter": "clearance",
+    "page": "**Safety Operation:**",
+    "if_out_of_range": [
+      "Clutch engages but does not disengage"
+    ]
+  },
+  {
+    "component": "Gearbox",
+    "spec_type": "torque",
+    "value": "30",
+    "unit": "N·m",
+    "acceptable_range": "20–30 Nm",
+    "source_page": "**PREFACE**",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "failure_if_out_of_range": [
+      "machine shakes violently"
+    ],
+    "repair_actions": [
+      "Tighten gear teeth using torque wrench (20-30 Nm)",
+      "Replace gear teeth if worn out"
+    ],
+    "embedding_text": "Gearbox torque 30 N·m machine shakes violently",
+    "parameter": "torque",
+    "page": "**PREFACE**",
+    "if_out_of_range": [
+      "machine shakes violently"
+    ]
+  },
+  {
+    "component": "Battery",
+    "spec_type": "voltage",
+    "value": "12",
+    "unit": "V",
+    "acceptable_range": "",
+    "source_page": "**PREFACE**",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "failure_if_out_of_range": [
+      "machine does not start"
+    ],
+    "repair_actions": [
+      "Check battery voltage using multimeter (12V ±1V)",
+      "Charge battery if dead"
+    ],
+    "embedding_text": "Battery voltage 12 V machine does not start",
+    "parameter": "voltage",
+    "page": "**PREFACE**",
+    "if_out_of_range": [
+      "machine does not start"
+    ]
+  },
+  {
+    "component": "Battery",
+    "spec_type": "voltage",
+    "value": "1",
+    "unit": "V",
+    "acceptable_range": "",
+    "source_page": "**PREFACE**",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "failure_if_out_of_range": [
+      "machine does not start"
+    ],
+    "repair_actions": [
+      "Check battery voltage using multimeter (12V ±1V)",
+      "Charge battery if dead"
+    ],
+    "embedding_text": "Battery voltage 1 V machine does not start",
+    "parameter": "voltage",
+    "page": "**PREFACE**",
+    "if_out_of_range": [
+      "machine does not start"
+    ]
+  },
+  {
+    "component": "Capacitor",
+    "spec_type": "capacitor_rating",
+    "value": "25",
+    "unit": "µF",
+    "acceptable_range": "",
+    "source_page": "**Content**",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "failure_if_out_of_range": [
+      "Motor hums"
+    ],
+    "repair_actions": [
+      "Check the capacitor value is 25μF"
+    ],
+    "embedding_text": "Capacitor capacitor_rating 25 µF Motor hums",
+    "parameter": "capacitor_rating",
+    "page": "**Content**",
+    "if_out_of_range": [
+      "Motor hums"
+    ]
+  },
+  {
+    "component": "Clutch",
+    "spec_type": "clearance",
+    "value": "3.5",
+    "unit": "mm",
+    "acceptable_range": "",
+    "source_page": "**Content**",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "failure_if_out_of_range": [
+      "Clutch failure"
+    ],
+    "repair_actions": [
+      "Check the clutch adjustment is 3.5mm"
+    ],
+    "embedding_text": "Clutch clearance 3.5 mm Clutch failure",
+    "parameter": "clearance",
+    "page": "**Content**",
+    "if_out_of_range": [
+      "Clutch failure"
+    ]
+  },
+  {
+    "component": "Alternator",
+    "spec_type": "torque",
+    "value": "25",
+    "unit": "N·m",
+    "acceptable_range": "",
+    "source_page": "**II Preparation**",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "failure_if_out_of_range": [
+      "Motor hums but does not rotate"
+    ],
+    "repair_actions": [
+      "Loosen alternator belt tensioner bolt (25Nm)",
+      "Remove alternator belt (3/4\" wide, 24\" long)",
+      "Inspect alternator for signs of wear or damage"
+    ],
+    "embedding_text": "Alternator torque 25 N·m Motor hums but does not rotate",
+    "parameter": "torque",
+    "page": "**II Preparation**",
+    "if_out_of_range": [
+      "Motor hums but does not rotate"
+    ]
+  },
+  {
+    "component": "Bolts",
+    "spec_type": "torque",
+    "value": "25",
+    "unit": "N·m",
+    "acceptable_range": "",
+    "source_page": "**IV Maintenance and Storage**",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "failure_if_out_of_range": [
+      "Machine does not start"
+    ],
+    "repair_actions": [
+      "Check all bolts for tightness, torque specification 25 Nm",
+      "Tighten loose bolts to 25 Nm"
+    ],
+    "embedding_text": "Bolts torque 25 N·m Machine does not start",
+    "parameter": "torque",
+    "page": "**IV Maintenance and Storage**",
+    "if_out_of_range": [
+      "Machine does not start"
+    ]
+  },
+  {
+    "component": "Battery",
+    "spec_type": "voltage",
+    "value": "12",
+    "unit": "V",
+    "acceptable_range": "",
+    "source_page": "**IV Maintenance and Storage**",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "failure_if_out_of_range": [
+      "Machine does not start"
+    ],
+    "repair_actions": [
+      "Check battery voltage, specification 12V ±10%",
+      "Replace dead battery with new one, PN5678"
+    ],
+    "embedding_text": "Battery voltage 12 V Machine does not start",
+    "parameter": "voltage",
+    "page": "**IV Maintenance and Storage**",
+    "if_out_of_range": [
+      "Machine does not start"
+    ]
+  },
+  {
+    "component": "Gear Transmission",
+    "spec_type": "clearance",
+    "value": "10",
+    "unit": "mm",
+    "acceptable_range": "",
+    "source_page": "**I.Main technical data**",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "failure_if_out_of_range": [
+      "Blades do not rotate"
+    ],
+    "repair_actions": [
+      "Remove the gear cover using a 10mm socket.",
+      "Inspect the gear teeth for wear using a magnifying glass.",
+      "Replace the gear using a gear puller."
+    ],
+    "embedding_text": "Gear Transmission clearance 10 mm Blades do not rotate",
+    "parameter": "clearance",
+    "page": "**I.Main technical data**",
+    "if_out_of_range": [
+      "Blades do not rotate"
+    ]
+  },
+  {
+    "component": "Battery",
+    "spec_type": "voltage",
+    "value": "12.5",
+    "unit": "V",
+    "acceptable_range": "",
+    "source_page": "**II**",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "failure_if_out_of_range": [
+      "motor hums"
+    ],
+    "repair_actions": [
+      "Check the battery voltage to 12.5V."
+    ],
+    "embedding_text": "Battery voltage 12.5 V motor hums",
+    "parameter": "voltage",
+    "page": "**II**",
+    "if_out_of_range": [
+      "motor hums"
+    ]
+  },
+  {
+    "component": "M8*55 Screw Bolts",
+    "spec_type": "torque",
+    "value": "55",
+    "unit": "N·m",
+    "acceptable_range": "",
+    "source_page": "**I Revolving Farming**",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "failure_if_out_of_range": [
+      "loose or misaligned revolving farming device"
+    ],
+    "repair_actions": [
+      "Check the axial positioning of the revolving farming device using a torque wrench to ensure the M8*55 screw bolts are tightened to 55 Nm."
+    ],
+    "embedding_text": "M8*55 Screw Bolts torque 55 N·m loose or misaligned revolving farming device",
+    "parameter": "torque",
+    "page": "**I Revolving Farming**",
+    "if_out_of_range": [
+      "loose or misaligned revolving farming device"
+    ]
+  },
+  {
+    "component": "Shaft",
+    "spec_type": "clearance",
+    "value": "0.1",
+    "unit": "mm",
+    "acceptable_range": "",
+    "source_page": "TABLE 1",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "failure_if_out_of_range": [
+      "vibration",
+      "noise"
+    ],
+    "repair_actions": [
+      "Check shaft alignment with coupling. Spec: 0.1mm tolerance."
+    ],
+    "embedding_text": "Shaft clearance 0.1 mm vibration noise",
+    "parameter": "clearance",
+    "page": "TABLE 1",
+    "if_out_of_range": [
+      "vibration",
+      "noise"
+    ]
+  },
+  {
+    "component": "Motor",
+    "spec_type": "capacitor_rating",
+    "value": "25",
+    "unit": "µF",
+    "acceptable_range": "",
+    "source_page": "TABLE 1",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "failure_if_out_of_range": [
+      "motor hums",
+      "reverse rotation"
+    ],
+    "repair_actions": [
+      "Check wiring for 25μF capacitor. Spec: 25μF."
+    ],
+    "embedding_text": "Motor capacitor_rating 25 µF motor hums reverse rotation",
+    "parameter": "capacitor_rating",
+    "page": "TABLE 1",
+    "if_out_of_range": [
+      "motor hums",
+      "reverse rotation"
+    ]
+  },
+  {
+    "component": "Wheels",
+    "spec_type": "torque",
+    "value": "55",
+    "unit": "N·m",
+    "acceptable_range": "",
+    "source_page": "bolt",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "failure_if_out_of_range": [
+      "vibration",
+      "noise"
+    ],
+    "repair_actions": [
+      "Check that the M8*55 bolts are tightened to 55 Nm"
+    ],
+    "embedding_text": "Wheels torque 55 N·m vibration noise",
+    "parameter": "torque",
+    "page": "bolt",
+    "if_out_of_range": [
+      "vibration",
+      "noise"
+    ]
+  },
+  {
+    "component": "Connecting Frame",
+    "spec_type": "torque",
+    "value": "55",
+    "unit": "N·m",
+    "acceptable_range": "",
+    "source_page": "bolt",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "failure_if_out_of_range": [
+      "vibration",
+      "noise"
+    ],
+    "repair_actions": [
+      "Check that the M8*55 bolts are tightened to 55 Nm"
+    ],
+    "embedding_text": "Connecting Frame torque 55 N·m vibration noise",
+    "parameter": "torque",
+    "page": "bolt",
+    "if_out_of_range": [
+      "vibration",
+      "noise"
+    ]
+  },
+  {
+    "component": "Armrest",
+    "spec_type": "torque",
+    "value": "140",
+    "unit": "N·m",
+    "acceptable_range": "",
+    "source_page": "bolt",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "failure_if_out_of_range": [
+      "vibration",
+      "noise"
+    ],
+    "repair_actions": [
+      "Check that the M16*140 bolt is tightened to 140 Nm"
+    ],
+    "embedding_text": "Armrest torque 140 N·m vibration noise",
+    "parameter": "torque",
+    "page": "bolt",
+    "if_out_of_range": [
+      "vibration",
+      "noise"
+    ]
+  },
+  {
+    "component": "Shift Lever",
+    "spec_type": "torque",
+    "value": "26",
+    "unit": "N·m",
+    "acceptable_range": "",
+    "source_page": "bolt",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "failure_if_out_of_range": [
+      "vibration",
+      "noise"
+    ],
+    "repair_actions": [
+      "Check that the φ3.2*26 cotter pin is tightened to 26 Nm"
+    ],
+    "embedding_text": "Shift Lever torque 26 N·m vibration noise",
+    "parameter": "torque",
+    "page": "bolt",
+    "if_out_of_range": [
+      "vibration",
+      "noise"
+    ]
+  },
+  {
+    "component": "M8*55 Bolt",
+    "spec_type": "torque",
+    "value": "55",
+    "unit": "N·m",
+    "acceptable_range": "",
+    "source_page": "VI **. Accessory mounting**",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "failure_if_out_of_range": [
+      "loose blades",
+      "unsafe assembly"
+    ],
+    "repair_actions": [
+      "Check the bolt torque value is 55 Nm"
+    ],
+    "embedding_text": "M8*55 Bolt torque 55 N·m loose blades unsafe assembly",
+    "parameter": "torque",
+    "page": "VI **. Accessory mounting**",
+    "if_out_of_range": [
+      "loose blades",
+      "unsafe assembly"
+    ]
+  },
+  {
+    "component": "Gear-Box",
+    "spec_type": "torque",
+    "value": "25",
+    "unit": "N·m",
+    "acceptable_range": "",
+    "source_page": "5. Multi-Functional Working",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "failure_if_out_of_range": [
+      "vibration",
+      "noise"
+    ],
+    "repair_actions": [
+      "Check the gear-box protection cover bolts are tightened to 25 Nm",
+      "Check the belt pulley or coupling is securely fastened to the gear-box's main shaft with screw"
+    ],
+    "embedding_text": "Gear-Box torque 25 N·m vibration noise",
+    "parameter": "torque",
+    "page": "5. Multi-Functional Working",
+    "if_out_of_range": [
+      "vibration",
+      "noise"
+    ]
+  },
+  {
+    "component": "Bolts",
+    "spec_type": "torque",
+    "value": "25",
+    "unit": "N·m",
+    "acceptable_range": "",
+    "source_page": "**Chapter Six Maintenance of Power Tiller**",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "failure_if_out_of_range": [
+      "Bolts loosen during operation"
+    ],
+    "repair_actions": [
+      "Tighten bolts to 25 Nm",
+      "Replace worn-out parts"
+    ],
+    "embedding_text": "Bolts torque 25 N·m Bolts loosen during operation",
+    "parameter": "torque",
+    "page": "**Chapter Six Maintenance of Power Tiller**",
+    "if_out_of_range": [
+      "Bolts loosen during operation"
+    ]
+  },
+  {
+    "component": "Bevel Gear",
+    "spec_type": "clearance",
+    "value": "0.05",
+    "unit": "mm",
+    "acceptable_range": "",
+    "source_page": "**I Bevel gear adjustment**",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "failure_if_out_of_range": [
+      "abnormal sound"
+    ],
+    "repair_actions": [
+      "Check lateral clearance of the gear. If <0.05mm, put vulcanized gasket between gear box and step box.",
+      "Check lateral clearance of the gear. If >0.30mm, put vulcanized gasket between bearing and gear."
+    ],
+    "embedding_text": "Bevel Gear clearance 0.05 mm abnormal sound",
+    "parameter": "clearance",
+    "page": "**I Bevel gear adjustment**",
+    "if_out_of_range": [
+      "abnormal sound"
+    ]
+  },
+  {
+    "component": "Bevel Gear",
+    "spec_type": "clearance",
+    "value": "0.30",
+    "unit": "mm",
+    "acceptable_range": "",
+    "source_page": "**I Bevel gear adjustment**",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "failure_if_out_of_range": [
+      "abnormal sound"
+    ],
+    "repair_actions": [
+      "Check lateral clearance of the gear. If <0.05mm, put vulcanized gasket between gear box and step box.",
+      "Check lateral clearance of the gear. If >0.30mm, put vulcanized gasket between bearing and gear."
+    ],
+    "embedding_text": "Bevel Gear clearance 0.30 mm abnormal sound",
+    "parameter": "clearance",
+    "page": "**I Bevel gear adjustment**",
+    "if_out_of_range": [
+      "abnormal sound"
+    ]
+  },
+  {
+    "component": "Bevel Gear",
+    "spec_type": "clearance",
+    "value": "0.1",
+    "unit": "mm",
+    "acceptable_range": "0.05–0.1 mm",
+    "source_page": "**I Bevel gear adjustment**",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "failure_if_out_of_range": [
+      "abnormal sound"
+    ],
+    "repair_actions": [
+      "Check lateral clearance of the gear. If <0.05mm, put vulcanized gasket between gear box and step box.",
+      "Check lateral clearance of the gear. If >0.30mm, put vulcanized gasket between bearing and gear."
+    ],
+    "embedding_text": "Bevel Gear clearance 0.1 mm abnormal sound",
+    "parameter": "clearance",
+    "page": "**I Bevel gear adjustment**",
+    "if_out_of_range": [
+      "abnormal sound"
+    ]
+  },
+  {
+    "component": "Step Box Gear",
+    "spec_type": "clearance",
+    "value": "0.05",
+    "unit": "mm",
+    "acceptable_range": "0.2–0.3 mm",
+    "source_page": "**I Bevel gear adjustment**",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "failure_if_out_of_range": [
+      "abnormal sound"
+    ],
+    "repair_actions": [
+      "Check lateral clearance of the gear. If <0.05mm, increase adjustment pad I to 0.2-0.3mm.",
+      "Check lateral clearance of the gear. If >0.3mm, reduce adjustment pad I."
+    ],
+    "embedding_text": "Step Box Gear clearance 0.05 mm abnormal sound",
+    "parameter": "clearance",
+    "page": "**I Bevel gear adjustment**",
+    "if_out_of_range": [
+      "abnormal sound"
+    ]
+  },
+  {
+    "component": "Step Box Gear",
+    "spec_type": "clearance",
+    "value": "0.3",
+    "unit": "mm",
+    "acceptable_range": "0.2–0.3 mm",
+    "source_page": "**I Bevel gear adjustment**",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "failure_if_out_of_range": [
+      "abnormal sound"
+    ],
+    "repair_actions": [
+      "Check lateral clearance of the gear. If <0.05mm, increase adjustment pad I to 0.2-0.3mm.",
+      "Check lateral clearance of the gear. If >0.3mm, reduce adjustment pad I."
+    ],
+    "embedding_text": "Step Box Gear clearance 0.3 mm abnormal sound",
+    "parameter": "clearance",
+    "page": "**I Bevel gear adjustment**",
+    "if_out_of_range": [
+      "abnormal sound"
+    ]
+  },
+  {
+    "component": "Step Box Gear",
+    "spec_type": "clearance",
+    "value": "0.15",
+    "unit": "mm",
+    "acceptable_range": "0.05–0.15 mm",
+    "source_page": "**I Bevel gear adjustment**",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "failure_if_out_of_range": [
+      "abnormal sound"
+    ],
+    "repair_actions": [
+      "Check lateral clearance of the gear. If <0.05mm, increase adjustment pad I to 0.2-0.3mm.",
+      "Check lateral clearance of the gear. If >0.3mm, reduce adjustment pad I."
+    ],
+    "embedding_text": "Step Box Gear clearance 0.15 mm abnormal sound",
+    "parameter": "clearance",
+    "page": "**I Bevel gear adjustment**",
+    "if_out_of_range": [
+      "abnormal sound"
+    ]
+  },
+  {
+    "component": "Armrest Handle Assembly",
+    "spec_type": "clearance",
+    "value": "2",
+    "unit": "mm",
+    "acceptable_range": "1–2 mm",
+    "source_page": "Picture 12",
+    "manual_source": "77Page_Power_Tiller_Diesel_Manual.pdf",
+    "failure_if_out_of_range": [
+      "armrest handle assembly not engaging"
+    ],
+    "repair_actions": [
+      "Loosen the armrest handle assembly to separate the gear ring between the armrest and armrest base.",
+      "Adjust the armrest to the best position according to your personal conditions.",
+      "Turn the handle to make the gear ring between the armrest and armrest base be engaged well with each other."
+    ],
+    "embedding_text": "Armrest Handle Assembly clearance 2 mm armrest handle assembly not engaging",
+    "parameter": "clearance",
+    "page": "Picture 12",
+    "if_out_of_range": [
+      "armrest handle assembly not engaging"
+    ]
+  }
+]

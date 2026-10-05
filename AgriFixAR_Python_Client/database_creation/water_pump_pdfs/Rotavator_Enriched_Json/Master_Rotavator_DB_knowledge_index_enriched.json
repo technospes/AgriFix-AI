@@ -1,0 +1,765 @@
+[
+  {
+    "component": "Rotavator Assembly",
+    "procedure_ids": [
+      "6612ecc9560a"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "gearbox",
+      "transmission components"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Rotavator Assembly\n\nFAULT IDS:\n- \n\nCONNECTED:\n- gearbox\n- transmission components\n",
+    "component_id": "rotavator_assembly_1ee9dd"
+  },
+  {
+    "component": "Pto Drive Shaft Guard",
+    "procedure_ids": [
+      "68fa75825c56"
+    ],
+    "fault_ids": [
+      "fault_pto_guard_damaged_or_26c67977"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "pto drive shaft",
+      "tractor",
+      "implement"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Pto Drive Shaft Guard\n\nFAULT IDS:\n- fault_pto_guard_damaged_or_26c67977\n\nCONNECTED:\n- pto drive shaft\n- tractor\n- implement\n",
+    "component_id": "pto_drive_8854f8"
+  },
+  {
+    "component": "Gearbox And Side Drive",
+    "procedure_ids": [
+      "865f57592050",
+      "a73d0f266a28"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "gearbox",
+      "side drive"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Gearbox And Side Drive\n\nFAULT IDS:\n- \n\nCONNECTED:\n- gearbox\n- side drive\n",
+    "component_id": "gearbox_and_248232"
+  },
+  {
+    "component": "Pto Drive Shaft",
+    "procedure_ids": [
+      "8a12e7fcddf6",
+      "7e2fb41ba444",
+      "f495fdf30c2b"
+    ],
+    "fault_ids": [
+      "fault_pto_shaft_bottoms_out_43a96a6c",
+      "fault_pto_shaft_angle_exceeds_2584f5f5",
+      "fault_drive_shaft_stiff_or_592ecfbc"
+    ],
+    "spec_ids": [
+      "clearance:pto drive shaft"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "tractor pto",
+      "gearbox input shaft",
+      "tractor",
+      "rotavator",
+      "tractor pto output",
+      "implement pto input",
+      "3-point hitch",
+      "pump input shaft"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Pto Drive Shaft\n\nFAULT IDS:\n- fault_pto_shaft_bottoms_out_43a96a6c\n- fault_pto_shaft_angle_exceeds_2584f5f5\n- fault_drive_shaft_stiff_or_592ecfbc\n\nCONNECTED:\n- tractor pto\n- gearbox input shaft\n- tractor\n- rotavator\n- tractor pto output\n- implement pto input\n- 3-point hitch\n- pump input shaft\n",
+    "component_id": "pto_drive_93f875"
+  },
+  {
+    "component": "Impeller Blades",
+    "procedure_ids": [
+      "f3ae11f96b1c"
+    ],
+    "fault_ids": [
+      "fault_pump_efficiency_drop_or_2f591d1c"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "pump shaft",
+      "impeller hub"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Impeller Blades\n\nFAULT IDS:\n- fault_pump_efficiency_drop_or_2f591d1c\n\nCONNECTED:\n- pump shaft\n- impeller hub\n",
+    "component_id": "impeller_blades_080d3b"
+  },
+  {
+    "component": "Blade Assembly",
+    "procedure_ids": [
+      "5bfce0c82a05",
+      "94f97cb69ded"
+    ],
+    "fault_ids": [
+      "fault_excessive_vibration_and_uneven_cca7f2b8"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "rotor flanges",
+      "propeller shaft"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Blade Assembly\n\nFAULT IDS:\n- fault_excessive_vibration_and_uneven_cca7f2b8\n\nCONNECTED:\n- rotor flanges\n- propeller shaft\n",
+    "component_id": "blade_assembly_ed4b63"
+  },
+  {
+    "component": "Blade Bolt",
+    "procedure_ids": [
+      "5bfce0c82a05"
+    ],
+    "fault_ids": [
+      "fault_blade_detachment_or_loose_9701f523",
+      "fault_excessive_vibration_during_operation_8ca18a73"
+    ],
+    "spec_ids": [
+      "torque:blade bolt"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "blade",
+      "flange"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Blade Bolt\n\nFAULT IDS:\n- fault_blade_detachment_or_loose_9701f523\n- fault_excessive_vibration_during_operation_8ca18a73\n\nCONNECTED:\n- blade\n- flange\n",
+    "component_id": "blade_bolt_18c6c4"
+  },
+  {
+    "component": "Howard Blade Bolt",
+    "procedure_ids": [
+      "179e8deb6e80"
+    ],
+    "fault_ids": [],
+    "spec_ids": [
+      "torque:howard blade bolt"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "blade",
+      "flange"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Howard Blade Bolt\n\nFAULT IDS:\n- \n\nCONNECTED:\n- blade\n- flange\n",
+    "component_id": "howard_blade_503ef6"
+  },
+  {
+    "component": "Bolts And Screws",
+    "procedure_ids": [
+      "dfcb9b185de7"
+    ],
+    "fault_ids": [
+      "fault_excessive_vibration_or_loose_5fa533f8"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "structural frame",
+      "transmission housing"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Bolts And Screws\n\nFAULT IDS:\n- fault_excessive_vibration_or_loose_5fa533f8\n\nCONNECTED:\n- structural frame\n- transmission housing\n",
+    "component_id": "bolts_and_65c416"
+  },
+  {
+    "component": "Rotor Axis",
+    "procedure_ids": [
+      "d9631799980c"
+    ],
+    "fault_ids": [
+      "fault_excessive_vibration_during_operation_8ca18a73"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "side transmission unit",
+      "blades"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Rotor Axis\n\nFAULT IDS:\n- fault_excessive_vibration_during_operation_8ca18a73\n\nCONNECTED:\n- side transmission unit\n- blades\n",
+    "component_id": "rotor_axis_55011d"
+  },
+  {
+    "component": "Machine Support/Stabilization",
+    "procedure_ids": [
+      "fb4c7b251a46"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "tractor",
+      "ground surface"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Machine Support/Stabilization\n\nFAULT IDS:\n- \n\nCONNECTED:\n- tractor\n- ground surface\n",
+    "component_id": "machine_supportstabilization_43b435"
+  },
+  {
+    "component": "Front Ballast / Weight",
+    "procedure_ids": [
+      "47fa88b4b57d"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "front axle",
+      "front tires",
+      "implement"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Front Ballast / Weight\n\nFAULT IDS:\n- \n\nCONNECTED:\n- front axle\n- front tires\n- implement\n",
+    "component_id": "front_ballast_d37b30"
+  },
+  {
+    "component": "Cutting Blades",
+    "procedure_ids": [
+      "da0eed16d0b4"
+    ],
+    "fault_ids": [
+      "fault_machine_vibrates_excessively_during_111586aa"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "flange",
+      "bridle"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Cutting Blades\n\nFAULT IDS:\n- fault_machine_vibrates_excessively_during_111586aa\n\nCONNECTED:\n- flange\n- bridle\n",
+    "component_id": "cutting_blades_a2e56b"
+  },
+  {
+    "component": "Tensor Arm",
+    "procedure_ids": [
+      "a9b4582988ef"
+    ],
+    "fault_ids": [
+      "fault_pump_drive_belt_squeals_b5ab98f8"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "rear cover",
+      "collar"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Tensor Arm\n\nFAULT IDS:\n- fault_pump_drive_belt_squeals_b5ab98f8\n\nCONNECTED:\n- rear cover\n- collar\n",
+    "component_id": "tensor_arm_d93ac8"
+  },
+  {
+    "component": "Rear Cover Hinge",
+    "procedure_ids": [
+      "10e9e8687606"
+    ],
+    "fault_ids": [
+      "fault_rear_cover_will_not_b108d8e7"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "chassis",
+      "rear cover"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Rear Cover Hinge\n\nFAULT IDS:\n- fault_rear_cover_will_not_b108d8e7\n\nCONNECTED:\n- chassis\n- rear cover\n",
+    "component_id": "rear_cover_102db1"
+  },
+  {
+    "component": "Tension Arms",
+    "procedure_ids": [
+      "10e9e8687606"
+    ],
+    "fault_ids": [
+      "fault_excessive_vibration_or_rattling_f146c491"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "chassis",
+      "tension arms"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Tension Arms\n\nFAULT IDS:\n- fault_excessive_vibration_or_rattling_f146c491\n\nCONNECTED:\n- chassis\n- tension arms\n",
+    "component_id": "tension_arms_0033ed"
+  },
+  {
+    "component": "Fasteners (Screws And Nuts)",
+    "procedure_ids": [
+      "715914eadd39"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "chassis",
+      "tine assembly",
+      "transmission housing"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Fasteners (Screws And Nuts)\n\nFAULT IDS:\n- \n\nCONNECTED:\n- chassis\n- tine assembly\n- transmission housing\n",
+    "component_id": "fasteners_screws_c7e324"
+  },
+  {
+    "component": "Lubrication System",
+    "procedure_ids": [
+      "715914eadd39"
+    ],
+    "fault_ids": [
+      "fault_overheating_and_power_loss_7b1007d4"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "gearbox",
+      "drive train"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Lubrication System\n\nFAULT IDS:\n- fault_overheating_and_power_loss_7b1007d4\n\nCONNECTED:\n- gearbox\n- drive train\n",
+    "component_id": "lubrication_system_080941"
+  },
+  {
+    "component": "Driveshaft Universal Joint",
+    "procedure_ids": [
+      "bf71d178cd79"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "tractor pto",
+      "gearbox"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Driveshaft Universal Joint\n\nFAULT IDS:\n- \n\nCONNECTED:\n- tractor pto\n- gearbox\n",
+    "component_id": "driveshaft_universal_75d817"
+  },
+  {
+    "component": "Drive Shaft (Pto)",
+    "procedure_ids": [
+      "de89ef2b8cca"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "tractor pto",
+      "machine input shaft"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Drive Shaft (Pto)\n\nFAULT IDS:\n- \n\nCONNECTED:\n- tractor pto\n- machine input shaft\n",
+    "component_id": "drive_shaft_072365"
+  },
+  {
+    "component": "Pto Driveshaft",
+    "procedure_ids": [
+      "3c5321f0174c"
+    ],
+    "fault_ids": [
+      "fault_driveshaft_bends_or_damages_c8ae7546"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "INDEX\nCOMPONENT: Pto Driveshaft\n\nFAULT IDS:\n- fault_driveshaft_bends_or_damages_c8ae7546\n\nCONNECTED:\n- \n",
+    "component_id": "pto_driveshaft_5e4c5b"
+  },
+  {
+    "component": "Cardan Driveshaft",
+    "procedure_ids": [
+      "17b7a2edbe3b"
+    ],
+    "fault_ids": [
+      "fault_driveshaft_vibration_or_mechanical_20cd8920"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "tractor pto",
+      "implement gearbox"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Cardan Driveshaft\n\nFAULT IDS:\n- fault_driveshaft_vibration_or_mechanical_20cd8920\n\nCONNECTED:\n- tractor pto\n- implement gearbox\n",
+    "component_id": "cardan_driveshaft_dd7bd4"
+  },
+  {
+    "component": "Fusible Screw",
+    "procedure_ids": [
+      "742840c1527b"
+    ],
+    "fault_ids": [
+      "fault_equipment_stops_rotating_or_65d5b9ab"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "drive shaft",
+      "coupling"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Fusible Screw\n\nFAULT IDS:\n- fault_equipment_stops_rotating_or_65d5b9ab\n\nCONNECTED:\n- drive shaft\n- coupling\n",
+    "component_id": "fusible_screw_bef179"
+  },
+  {
+    "component": "Pto Shaft (Cardan)",
+    "procedure_ids": [
+      "933f6fec54a1"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "tractor pto",
+      "rototiller input shaft"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Pto Shaft (Cardan)\n\nFAULT IDS:\n- \n\nCONNECTED:\n- tractor pto\n- rototiller input shaft\n",
+    "component_id": "pto_shaft_dcc906"
+  },
+  {
+    "component": "Pto Engagement",
+    "procedure_ids": [
+      "933f6fec54a1"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "tractor engine",
+      "rototiller gearbox"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Pto Engagement\n\nFAULT IDS:\n- \n\nCONNECTED:\n- tractor engine\n- rototiller gearbox\n",
+    "component_id": "pto_engagement_c83841"
+  },
+  {
+    "component": "Rotor Blade",
+    "procedure_ids": [
+      "e2278fa38a42"
+    ],
+    "fault_ids": [
+      "fault_excessive_vibration_during_operation_8ca18a73"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "rotor"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Rotor Blade\n\nFAULT IDS:\n- fault_excessive_vibration_during_operation_8ca18a73\n\nCONNECTED:\n- rotor\n",
+    "component_id": "rotor_blade_d8703c"
+  },
+  {
+    "component": "Skate (Depth Control)",
+    "procedure_ids": [
+      "f9307ed8a7fe"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "rototiller frame",
+      "adjustment screws (b)",
+      "bolts (a)"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Skate (Depth Control)\n\nFAULT IDS:\n- \n\nCONNECTED:\n- rototiller frame\n- adjustment screws (b)\n- bolts (a)\n",
+    "component_id": "skate_depth_f7ea72"
+  },
+  {
+    "component": "Grease Fittings",
+    "procedure_ids": [
+      "99a0a9e7a9b9"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "rototiller lubrication points"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Grease Fittings\n\nFAULT IDS:\n- \n\nCONNECTED:\n- rototiller lubrication points\n",
+    "component_id": "grease_fittings_13af78"
+  },
+  {
+    "component": "Differentials And Gears",
+    "procedure_ids": [
+      "aad063696446"
+    ],
+    "fault_ids": [
+      "fault_increased_gear_noise_e1b1533c"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "gears",
+      "differential"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Differentials And Gears\n\nFAULT IDS:\n- fault_increased_gear_noise_e1b1533c\n\nCONNECTED:\n- gears\n- differential\n",
+    "component_id": "differentials_and_3a308e"
+  },
+  {
+    "component": "Propeller Shaft",
+    "procedure_ids": [
+      "94f97cb69ded"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "universal joints"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Propeller Shaft\n\nFAULT IDS:\n- \n\nCONNECTED:\n- universal joints\n",
+    "component_id": "propeller_shaft_11f4b5"
+  },
+  {
+    "component": "Drive Shaft",
+    "procedure_ids": [
+      "b676499bbef6"
+    ],
+    "fault_ids": [
+      "fault_driveshaft_vibration_or_mechanical_3be2bf26"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "universal joint",
+      "bearings"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Drive Shaft\n\nFAULT IDS:\n- fault_driveshaft_vibration_or_mechanical_3be2bf26\n\nCONNECTED:\n- universal joint\n- bearings\n",
+    "component_id": "drive_shaft_aee6b2"
+  },
+  {
+    "component": "Universal Joint",
+    "procedure_ids": [
+      "b676499bbef6"
+    ],
+    "fault_ids": [
+      "fault_loud_knocking_or_vibration_55956262"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "drive shaft"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Universal Joint\n\nFAULT IDS:\n- fault_loud_knocking_or_vibration_55956262\n\nCONNECTED:\n- drive shaft\n",
+    "component_id": "universal_joint_13ea7d"
+  },
+  {
+    "component": "Gearbox",
+    "procedure_ids": [
+      "faa2c469ca05"
+    ],
+    "fault_ids": [
+      "fault_excessive_noise_or_heat_6cea79d5",
+      "fault_low_oil_level_in_fdc1a5b9",
+      "fault_gearbox_overheated_53204cb5",
+      "fault_noisy_gearbox_0def78d8",
+      "fault_escape_in_the_gearbox_8afb3126"
+    ],
+    "spec_ids": [],
+    "image_ids": [
+      "Shaktiman_Rotavator_Guide_p1_img2.jpeg"
+    ],
+    "connected_components": [
+      "side transmission",
+      "pto input shaft",
+      "three-point hitch frame"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Gearbox\n\nFAULT IDS:\n- fault_excessive_noise_or_heat_6cea79d5\n- fault_low_oil_level_in_fdc1a5b9\n- fault_gearbox_overheated_53204cb5\n- fault_noisy_gearbox_0def78d8\n- fault_escape_in_the_gearbox_8afb3126\n\nCONNECTED:\n- side transmission\n- pto input shaft\n- three-point hitch frame\n",
+    "component_id": "gearbox_61a729"
+  },
+  {
+    "component": "Transmission",
+    "procedure_ids": [
+      "c4795b4f4b37"
+    ],
+    "fault_ids": [
+      "fault_low_oil_level_in_a813f074",
+      "fault_the_wheel_doesnt_turn_cd2e4d98"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "breather plug (a)",
+      "level plug (b)"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Transmission\n\nFAULT IDS:\n- fault_low_oil_level_in_a813f074\n- fault_the_wheel_doesnt_turn_cd2e4d98\n\nCONNECTED:\n- breather plug (a)\n- level plug (b)\n",
+    "component_id": "transmission_695bf6"
+  },
+  {
+    "component": "Blade",
+    "procedure_ids": [
+      "b14d1260e777"
+    ],
+    "fault_ids": [
+      "fault_excessive_vibration_and_noise_3e08dc0d"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "shaft",
+      "flange"
+    ],
+    "embedding_text": "INDEX\nCOMPONENT: Blade\n\nFAULT IDS:\n- fault_excessive_vibration_and_noise_3e08dc0d\n\nCONNECTED:\n- shaft\n- flange\n",
+    "component_id": "blade_2c066a"
+  },
+  {
+    "component": "Fasteners",
+    "procedure_ids": [],
+    "fault_ids": [
+      "fault_loose_bolts_or_rattling_1aac06d4",
+      "fault_excessive_vibration_and_rattling_2ed6b7f5"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "INDEX\nCOMPONENT: Fasteners\n\nFAULT IDS:\n- fault_loose_bolts_or_rattling_1aac06d4\n- fault_excessive_vibration_and_rattling_2ed6b7f5\n\nCONNECTED:\n- \n",
+    "component_id": "fasteners_251adf"
+  },
+  {
+    "component": "Braking System",
+    "procedure_ids": [],
+    "fault_ids": [
+      "fault_reduction_in_braking_capacity_715f5c31"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "INDEX\nCOMPONENT: Braking System\n\nFAULT IDS:\n- fault_reduction_in_braking_capacity_715f5c31\n\nCONNECTED:\n- \n",
+    "component_id": "braking_system_62f2ee"
+  },
+  {
+    "component": "Stabilization System",
+    "procedure_ids": [],
+    "fault_ids": [
+      "fault_machine_shifts_or_rolls_2bac2e75"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "INDEX\nCOMPONENT: Stabilization System\n\nFAULT IDS:\n- fault_machine_shifts_or_rolls_2bac2e75\n\nCONNECTED:\n- \n",
+    "component_id": "stabilization_system_f3913e"
+  },
+  {
+    "component": "Front Ballast",
+    "procedure_ids": [],
+    "fault_ids": [
+      "fault_tractor_front_end_lifts_ba61b7ab"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "INDEX\nCOMPONENT: Front Ballast\n\nFAULT IDS:\n- fault_tractor_front_end_lifts_ba61b7ab\n\nCONNECTED:\n- \n",
+    "component_id": "front_ballast_2ae235"
+  },
+  {
+    "component": "Cardan shaft",
+    "procedure_ids": [],
+    "fault_ids": [
+      "fault_rototiller_vibration_or_detachment_1c069c7e"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "INDEX\nCOMPONENT: Cardan shaft\n\nFAULT IDS:\n- fault_rototiller_vibration_or_detachment_1c069c7e\n\nCONNECTED:\n- \n",
+    "component_id": "cardan_shaft_29e9c9"
+  },
+  {
+    "component": "PTO engagement system",
+    "procedure_ids": [],
+    "fault_ids": [
+      "fault_mechanical_damage_to_tractor_6d6f58ad"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "INDEX\nCOMPONENT: PTO engagement system\n\nFAULT IDS:\n- fault_mechanical_damage_to_tractor_6d6f58ad\n\nCONNECTED:\n- \n",
+    "component_id": "pto_engagement_8a1cd9"
+  },
+  {
+    "component": "Skate",
+    "procedure_ids": [],
+    "fault_ids": [
+      "fault_uneven_tillage_depth_007ef3e7"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "INDEX\nCOMPONENT: Skate\n\nFAULT IDS:\n- fault_uneven_tillage_depth_007ef3e7\n\nCONNECTED:\n- \n",
+    "component_id": "skate_7e4f29"
+  },
+  {
+    "component": "Grease Fitting",
+    "procedure_ids": [],
+    "fault_ids": [
+      "fault_grease_fitting_does_not_524ea513"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "INDEX\nCOMPONENT: Grease Fitting\n\nFAULT IDS:\n- fault_grease_fitting_does_not_524ea513\n\nCONNECTED:\n- \n",
+    "component_id": "grease_fitting_aaf656"
+  },
+  {
+    "component": "Propeller Shaft/Blades",
+    "procedure_ids": [],
+    "fault_ids": [
+      "fault_excessive_vibration_during_operation_8ca18a73"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "INDEX\nCOMPONENT: Propeller Shaft/Blades\n\nFAULT IDS:\n- fault_excessive_vibration_during_operation_8ca18a73\n\nCONNECTED:\n- \n",
+    "component_id": "propeller_shaftblades_152a33"
+  },
+  {
+    "component": "Blades",
+    "procedure_ids": [],
+    "fault_ids": [
+      "fault_excessive_vibration_or_noise_d3f15218",
+      "fault_rototiller_blades_show_signs_6b79466d"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "INDEX\nCOMPONENT: Blades\n\nFAULT IDS:\n- fault_excessive_vibration_or_noise_d3f15218\n- fault_rototiller_blades_show_signs_6b79466d\n\nCONNECTED:\n- \n",
+    "component_id": "blades_03a4ed"
+  },
+  {
+    "component": "Frame/Chassis",
+    "procedure_ids": [],
+    "fault_ids": [
+      "fault_oxidation_or_rust_on_99d6990e"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "INDEX\nCOMPONENT: Frame/Chassis\n\nFAULT IDS:\n- fault_oxidation_or_rust_on_99d6990e\n\nCONNECTED:\n- \n",
+    "component_id": "framechassis_43650b"
+  },
+  {
+    "component": "PTO Drive Line",
+    "procedure_ids": [],
+    "fault_ids": [
+      "fault_pto_vibrate_ff9557ca"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "INDEX\nCOMPONENT: PTO Drive Line\n\nFAULT IDS:\n- fault_pto_vibrate_ff9557ca\n\nCONNECTED:\n- \n",
+    "component_id": "pto_drive_f7a33e"
+  },
+  {
+    "component": "Rotor",
+    "procedure_ids": [],
+    "fault_ids": [
+      "fault_vibration_and_rebound_of_bb5e7d2e"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "INDEX\nCOMPONENT: Rotor\n\nFAULT IDS:\n- fault_vibration_and_rebound_of_bb5e7d2e\n\nCONNECTED:\n- \n",
+    "component_id": "rotor_e6af33"
+  },
+  {
+    "component": "General Assembly",
+    "procedure_ids": [],
+    "fault_ids": [
+      "fault_irregular_sound_or_abnormal_7930f240"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "INDEX\nCOMPONENT: General Assembly\n\nFAULT IDS:\n- fault_irregular_sound_or_abnormal_7930f240\n\nCONNECTED:\n- \n",
+    "component_id": "general_assembly_7e5c54"
+  }
+]

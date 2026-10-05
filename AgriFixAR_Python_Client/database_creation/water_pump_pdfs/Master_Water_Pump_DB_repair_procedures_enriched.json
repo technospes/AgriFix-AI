@@ -1,0 +1,589 @@
+[
+  {
+    "procedure": "Replace Electricity Protective Device",
+    "component": "Electricity Protective Device",
+    "machine_family": "Electric Pump",
+    "steps": [
+      "replace the protective device"
+    ],
+    "tools": [
+      "multimeter"
+    ],
+    "expected_result": "electric pump turns on",
+    "safety_warnings": [
+      "do not touch electrical components with wet hands"
+    ],
+    "part_numbers": [
+      "PN1234"
+    ],
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**I. Safety and Installation Precautions**",
+    "embedding_text": "Replace Electricity Protective Device Electricity Protective Device replace the protective device"
+  },
+  {
+    "procedure": "Replace Thermal Insulation Material",
+    "component": "Motor",
+    "machine_family": "Electric Pump",
+    "steps": [
+      "replace the thermal insulation material"
+    ],
+    "tools": [
+      "thermometer"
+    ],
+    "expected_result": "motor temperature is within normal range",
+    "safety_warnings": [
+      "do not cover combustibles on the motor"
+    ],
+    "part_numbers": [
+      "PN5678"
+    ],
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**I. Safety and Installation Precautions**",
+    "embedding_text": "Replace Thermal Insulation Material Motor replace the thermal insulation material"
+  },
+  {
+    "procedure": "Replace Mechanical Seal",
+    "component": "Mechanical Seal",
+    "machine_family": "Electric Pump",
+    "steps": [
+      "Disconnect power supply and remove motor cover",
+      "Remove old seal and inspect for damage",
+      "Install new seal and replace motor cover"
+    ],
+    "tools": [
+      "seal replacement tool"
+    ],
+    "expected_result": "pump leaks fixed",
+    "safety_warnings": [
+      "never run pump dry"
+    ],
+    "part_numbers": [
+      "12345"
+    ],
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**II. Product Overview**",
+    "embedding_text": "Replace Mechanical Seal Mechanical Seal Disconnect power supply and remove motor cover Remove old seal and inspect for damage Install new seal and replace motor cover"
+  },
+  {
+    "procedure": "Replace Electric Pump",
+    "component": "Electric Pump",
+    "machine_family": "Electric Pump",
+    "steps": [
+      "replace electric pump"
+    ],
+    "tools": [
+      "wrench"
+    ],
+    "expected_result": "pump works normally",
+    "safety_warnings": [
+      "never run pump dry"
+    ],
+    "part_numbers": [
+      "P/N: 123456"
+    ],
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**III. Working Conditions**",
+    "embedding_text": "Replace Electric Pump Electric Pump replace electric pump"
+  },
+  {
+    "procedure": "Replace Mechanical Seal",
+    "component": "Mechanical Seal",
+    "machine_family": "Submersible Pump",
+    "steps": [
+      "remove old seal",
+      "install new seal"
+    ],
+    "tools": [
+      "seal replacement tool"
+    ],
+    "expected_result": "pump does not leak",
+    "safety_warnings": [
+      "never run pump dry"
+    ],
+    "part_numbers": [
+      "P/N 12345"
+    ],
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**QB Series**",
+    "embedding_text": "Replace Mechanical Seal Mechanical Seal remove old seal install new seal"
+  },
+  {
+    "procedure": "Replace Capacitor",
+    "component": "Capacitor",
+    "machine_family": "Submersible Pump",
+    "steps": [
+      "measure capacitor voltage",
+      "replace capacitor"
+    ],
+    "tools": [
+      "multimeter"
+    ],
+    "expected_result": "pump starts",
+    "safety_warnings": [
+      "do not start with valve closed"
+    ],
+    "part_numbers": [
+      "P/N 67890"
+    ],
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**QB Series**",
+    "embedding_text": "Replace Capacitor Capacitor measure capacitor voltage replace capacitor"
+  },
+  {
+    "procedure": "Replace Mechanical Seal",
+    "component": "Mechanical Seal",
+    "machine_family": "Submersible Pump",
+    "steps": [
+      "disconnect power and bleed system",
+      "remove old seal and inspect for damage",
+      "install new seal and reassemble system"
+    ],
+    "tools": [
+      "seal replacement tool"
+    ],
+    "expected_result": "no leaks",
+    "safety_warnings": [
+      "never run pump dry"
+    ],
+    "part_numbers": [
+      "123456"
+    ],
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**PW-Z Series**",
+    "embedding_text": "Replace Mechanical Seal Mechanical Seal disconnect power and bleed system remove old seal and inspect for damage install new seal and reassemble system"
+  },
+  {
+    "procedure": "Replace Capacitor",
+    "component": "Capacitor",
+    "machine_family": "Submersible Pump",
+    "steps": [
+      "check capacitor voltage",
+      "replace capacitor and reassemble system"
+    ],
+    "tools": [
+      "multimeter"
+    ],
+    "expected_result": "pump turns on",
+    "safety_warnings": [
+      "never touch electrical components"
+    ],
+    "part_numbers": [
+      "654321"
+    ],
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**PW-Z Series**",
+    "embedding_text": "Replace Capacitor Capacitor check capacitor voltage replace capacitor and reassemble system"
+  },
+  {
+    "procedure": "Replace Mechanical Seal",
+    "component": "Mechanical Seal",
+    "machine_family": "Pump",
+    "steps": [
+      "Loosen the hexagon head bolts (28), remove the old mechanical seal, inspect the pump body, install the new mechanical seal, and tighten the hexagon head bolts (28) in a star pattern."
+    ],
+    "tools": [
+      "Tightening wrench, seal replacement kit"
+    ],
+    "expected_result": "The mechanical seal should be properly seated and the pump should no longer leak water.",
+    "safety_warnings": [
+      "Never run the pump dry, as this can cause damage to the mechanical seal."
+    ],
+    "part_numbers": [
+      "123456"
+    ],
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**WZB Series**",
+    "embedding_text": "Replace Mechanical Seal Mechanical Seal Loosen the hexagon head bolts (28), remove the old mechanical seal, inspect the pump body, install the new mechanical seal, and tighten the hexagon head bolts (28) in a star pattern."
+  },
+  {
+    "procedure": "Replace Capacitor",
+    "component": "Flow Switch Subline Capacitor",
+    "machine_family": "Generator",
+    "steps": [
+      "Replace capacitor with new one (1AWZB-H1)"
+    ],
+    "tools": [
+      "Multimeter"
+    ],
+    "expected_result": "Motor rotates normally",
+    "safety_warnings": [
+      "Never run pump dry"
+    ],
+    "part_numbers": [
+      "1AWZB-H1"
+    ],
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**V. Wiring Schematic Diagram of the Electric Pump**",
+    "embedding_text": "Replace Capacitor Flow Switch Subline Capacitor Replace capacitor with new one (1AWZB-H1)"
+  },
+  {
+    "procedure": "Replace Mechanical Seal",
+    "component": "Mechanical Seal",
+    "machine_family": "Electric Pump",
+    "steps": [
+      "remove old mechanical seal",
+      "install new mechanical seal"
+    ],
+    "tools": [
+      "seal replacement tool"
+    ],
+    "expected_result": "pump rotates properly",
+    "safety_warnings": [
+      "never run pump dry"
+    ],
+    "part_numbers": [
+      "P/N 12345"
+    ],
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**VIII. Maintenance**",
+    "embedding_text": "Replace Mechanical Seal Mechanical Seal remove old mechanical seal install new mechanical seal"
+  },
+  {
+    "procedure": "Replace Flow Switch",
+    "component": "Flow Switch",
+    "machine_family": "Electric Pump",
+    "steps": [
+      "remove old flow switch",
+      "install new flow switch"
+    ],
+    "tools": [
+      "multimeter"
+    ],
+    "expected_result": "pump turns on properly",
+    "safety_warnings": [
+      "do not start with valve closed"
+    ],
+    "part_numbers": [
+      "P/N 67890"
+    ],
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**VIII. Maintenance**",
+    "embedding_text": "Replace Flow Switch Flow Switch remove old flow switch install new flow switch"
+  },
+  {
+    "procedure": "Replace Electric Pump",
+    "component": "Electric Pump",
+    "machine_family": "Electric Motor",
+    "steps": [
+      "check the voltage regulator and adjust the voltage to 0.9 – 1.1 times of the rated value",
+      "check the switch wiring terminal and the cable",
+      "use the screwdriver to toggle the rotation shaft at the fan end to make it rotate flexibly",
+      "disassemble the pump body to clear the debris",
+      "thicken the cable properly",
+      "send it to the maintenance center to replace the capacitor with one with the same capacitance",
+      "send it to the maintenance center to replace the winding coil"
+    ],
+    "tools": [
+      "screwdriver",
+      "multimeter"
+    ],
+    "expected_result": "motor hums and rotates",
+    "safety_warnings": [
+      "never run pump dry",
+      "do not start with valve closed"
+    ],
+    "part_numbers": [
+      "P/N 12345"
+    ],
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**IX. Troubleshooting**",
+    "embedding_text": "Replace Electric Pump Electric Pump check the voltage regulator and adjust the voltage to 0.9 – 1.1 times of the rated value check the switch wiring terminal and the cable use the screwdriver to toggle the rotation shaft at the fan end to make it rotate flexibly disassemble the pump body to clear the debris thicken the cable properly"
+  },
+  {
+    "procedure": "Replace Impeller",
+    "component": "Impeller",
+    "machine_family": "Electric Motor",
+    "steps": [
+      "check whether the water inlet pipelines and joints are sealed well and confrm that the seal is reliable",
+      "refll water into the pump body and discharge the air",
+      "adjust or replace the sealing elements"
+    ],
+    "tools": [
+      "screwdriver",
+      "multimeter"
+    ],
+    "expected_result": "motor runs and water is discharged",
+    "safety_warnings": [
+      "never run pump dry",
+      "do not start with valve closed"
+    ],
+    "part_numbers": [
+      "P/N 67890"
+    ],
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**IX. Troubleshooting**",
+    "embedding_text": "Replace Impeller Impeller check whether the water inlet pipelines and joints are sealed well and confrm that the seal is reliable refll water into the pump body and discharge the air adjust or replace the sealing elements"
+  },
+  {
+    "procedure": "Replace Pressure Switch",
+    "component": "Pressure Switch",
+    "machine_family": "Electric Pump",
+    "steps": [
+      "Remove the old pressure switch",
+      "Install a new pressure switch"
+    ],
+    "tools": [
+      "Screwdriver",
+      "Wrench"
+    ],
+    "expected_result": "The pump can be halted when water is not used",
+    "safety_warnings": [
+      "Never run pump dry"
+    ],
+    "part_numbers": [
+      "P/N: 12345"
+    ],
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "**Troubleshooting AWZB and PW Auto Self-priming Pump**",
+    "embedding_text": "Replace Pressure Switch Pressure Switch Remove the old pressure switch Install a new pressure switch"
+  },
+  {
+    "procedure": "Replace Flow Switch",
+    "component": "Flow Switch",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Unplug the plug of the flow switch on the controller and make the socket of the flow switch on the controller contact short circuit",
+      "Replace the flow switch with a new one"
+    ],
+    "tools": [
+      "Socket wrench",
+      "Teflon tape"
+    ],
+    "expected_result": "The flow switch is replaced",
+    "safety_warnings": [
+      "Never run pump dry"
+    ],
+    "part_numbers": [
+      "123456"
+    ],
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "- **Troubleshooting of PW-Z** 、 **AWZB H1 Series Electric Pump**",
+    "embedding_text": "Replace Flow Switch Flow Switch Unplug the plug of the flow switch on the controller and make the socket of the flow switch on the controller contact short circuit Replace the flow switch with a new one"
+  },
+  {
+    "procedure": "Replace Pressure Switch",
+    "component": "Pressure Switch",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Unplug the plug of the pressure switch on the controller and make the socket of the pressure switch on the controller contact short circuit",
+      "Ask the professional personnel to properly turn up the pressure of the pressure switch",
+      "Replace the pressure switch with a new one"
+    ],
+    "tools": [
+      "Socket wrench",
+      "Multimeter"
+    ],
+    "expected_result": "The pressure switch is replaced",
+    "safety_warnings": [
+      "Never run pump dry"
+    ],
+    "part_numbers": [
+      "789012"
+    ],
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "- **Troubleshooting of PW-Z** 、 **AWZB H1 Series Electric Pump**",
+    "embedding_text": "Replace Pressure Switch Pressure Switch Unplug the plug of the pressure switch on the controller and make the socket of the pressure switch on the controller contact short circuit Ask the professional personnel to properly turn up the pressure of the pressure switch Replace the pressure switch with a new one"
+  },
+  {
+    "procedure": "Clear Check Valve",
+    "component": "Check Valve",
+    "machine_family": "Water Pump",
+    "steps": [
+      "Clear the debris of the check valve",
+      "Ask the professional personnel to properly turn down the starting pressure of the pressure switch"
+    ],
+    "tools": [
+      "Socket wrench",
+      "Teflon tape"
+    ],
+    "expected_result": "The check valve is cleared",
+    "safety_warnings": [
+      "Never run pump dry"
+    ],
+    "part_numbers": [
+      "345678"
+    ],
+    "manual_source": "Electric_Water_Pump_servicing.pdf",
+    "source_section": "- **Troubleshooting of PW-Z** 、 **AWZB H1 Series Electric Pump**",
+    "embedding_text": "Clear Check Valve Check Valve Clear the debris of the check valve Ask the professional personnel to properly turn down the starting pressure of the pressure switch"
+  },
+  {
+    "procedure": "Prime pump",
+    "component": "Pump",
+    "machine_family": "Pump",
+    "steps": [
+      "prime pump"
+    ],
+    "tools": [
+      ""
+    ],
+    "expected_result": "pump delivers water",
+    "safety_warnings": [
+      "ensure pump is primed"
+    ],
+    "part_numbers": [
+      ""
+    ],
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "source_section": "unknown",
+    "embedding_text": "Prime pump Pump prime pump"
+  },
+  {
+    "procedure": "Clear blockage in suction pipe",
+    "component": "Suction pipe",
+    "machine_family": "Pump",
+    "steps": [
+      "clear blockage in suction pipe"
+    ],
+    "tools": [
+      ""
+    ],
+    "expected_result": "suction pipe clear",
+    "safety_warnings": [
+      "ensure suction pipe is clear"
+    ],
+    "part_numbers": [
+      ""
+    ],
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "source_section": "unknown",
+    "embedding_text": "Clear blockage in suction pipe Suction pipe clear blockage in suction pipe"
+  },
+  {
+    "procedure": "Replace Mechanical Seal",
+    "component": "Mechanical seal",
+    "machine_family": "Pump",
+    "steps": [
+      "Remove the mechanical seal from the pump casing.",
+      "Inspect the mechanical seal for any signs of damage or wear."
+    ],
+    "tools": [
+      "Mechanical seal removal tool"
+    ],
+    "expected_result": "Mechanical seal replaced successfully.",
+    "safety_warnings": [
+      "Never run the pump dry."
+    ],
+    "part_numbers": [
+      "P/N: 345678"
+    ],
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "source_section": "unknown",
+    "embedding_text": "Replace Mechanical Seal Mechanical seal Remove the mechanical seal from the pump casing. Inspect the mechanical seal for any signs of damage or wear."
+  },
+  {
+    "procedure": "Replace Packing",
+    "component": "Packing",
+    "machine_family": "Pump",
+    "steps": [
+      "Add new packing",
+      "Check packing ring joints are staggered."
+    ],
+    "tools": [
+      "Packing tool",
+      "Gland nut wrench"
+    ],
+    "expected_result": "Packing is replaced and joints are staggered.",
+    "safety_warnings": [
+      "Do not try to pack a pump by renewing only the last three or four rings."
+    ],
+    "part_numbers": [
+      "Packing ring"
+    ],
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "source_section": "unknown",
+    "embedding_text": "Replace Packing Packing Add new packing Check packing ring joints are staggered."
+  },
+  {
+    "procedure": "Replace Bearing",
+    "component": "Bearing",
+    "machine_family": "Pump",
+    "steps": [
+      "Change lubricant according to Table 14",
+      "Check bearing temperature with a standard thermometer"
+    ],
+    "tools": [
+      "Thermometer",
+      "Arbor press"
+    ],
+    "expected_result": "Bearing is replaced and temperature is within normal range.",
+    "safety_warnings": [
+      "Do not cock the bearing race during the operation."
+    ],
+    "part_numbers": [
+      "Bearing"
+    ],
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "source_section": "unknown",
+    "embedding_text": "Replace Bearing Bearing Change lubricant according to Table 14 Check bearing temperature with a standard thermometer"
+  },
+  {
+    "procedure": "Replace Impeller",
+    "component": "Impeller",
+    "machine_family": "Submersible Pump",
+    "steps": [
+      "Check for sand; raise or lower impeller; backwash. Pull pump if necessary. Also check impeller adjustment; raise impeller to allow shaft to stretch for hydraulic thrust."
+    ],
+    "tools": [
+      "Impeller adjustment tool",
+      "Socket wrench"
+    ],
+    "expected_result": "Proper impeller adjustment and sufficient hydraulic thrust.",
+    "safety_warnings": [
+      "Never run pump dry.",
+      "Do not start with valve closed."
+    ],
+    "part_numbers": [
+      "P/N 12345"
+    ],
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "source_section": "unknown",
+    "embedding_text": "Replace Impeller Impeller Check for sand; raise or lower impeller; backwash. Pull pump if necessary. Also check impeller adjustment; raise impeller to allow shaft to stretch for hydraulic thrust."
+  },
+  {
+    "procedure": "Replace Bearing",
+    "component": "Bearing",
+    "machine_family": "Submersible Pump",
+    "steps": [
+      "Check for sand in water; check lubricant (oil and grease) for proper grade."
+    ],
+    "tools": [
+      "Bearing adjustment tool",
+      "Socket wrench"
+    ],
+    "expected_result": "No sand in water and proper lubricant grade.",
+    "safety_warnings": [
+      "Never run pump dry.",
+      "Do not start with valve closed."
+    ],
+    "part_numbers": [
+      "P/N 67890"
+    ],
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "source_section": "unknown",
+    "embedding_text": "Replace Bearing Bearing Check for sand in water; check lubricant (oil and grease) for proper grade."
+  },
+  {
+    "procedure": "Replace Mechanical Seal",
+    "component": "Seal",
+    "machine_family": "Diesel Engine",
+    "steps": [
+      "Remove the seal housing cover",
+      "Inspect the seal for signs of wear or damage",
+      "Replace the seal"
+    ],
+    "tools": [
+      "Seal puller"
+    ],
+    "expected_result": "Seal replaced",
+    "safety_warnings": [
+      "Check for electrical shock"
+    ],
+    "part_numbers": [
+      "345678"
+    ],
+    "manual_source": "UnScanned_Water_Pump_Servicing-1.pdf",
+    "source_section": "unknown",
+    "embedding_text": "Replace Mechanical Seal Seal Remove the seal housing cover Inspect the seal for signs of wear or damage Replace the seal"
+  }
+]

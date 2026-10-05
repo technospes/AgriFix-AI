@@ -1,0 +1,1469 @@
+[
+  {
+    "component": "Tiller Blade",
+    "procedure_ids": [
+      "144f867a79a2",
+      "23a7c0e61f3a"
+    ],
+    "fault_ids": [
+      "Tiller blade does not rotate",
+      "machine tilts when farming"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "tiller shaft",
+      "tiller blade mounting system"
+    ],
+    "embedding_text": "Tiller Blade tiller shaft tiller blade mounting system Tiller blade does not rotate machine tilts when farming"
+  },
+  {
+    "component": "Ignition Coil",
+    "procedure_ids": [
+      "144f867a79a2"
+    ],
+    "fault_ids": [
+      "Power tiller will not start"
+    ],
+    "spec_ids": [
+      "voltage:ignition coil"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "ignition module"
+    ],
+    "embedding_text": "Ignition Coil ignition module Power tiller will not start"
+  },
+  {
+    "component": "Hydraulic Pump",
+    "procedure_ids": [
+      "165d32039d2e"
+    ],
+    "fault_ids": [
+      "Tiller does not move"
+    ],
+    "spec_ids": [
+      "pressure:hydraulic pump"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "tiller cylinder"
+    ],
+    "embedding_text": "Hydraulic Pump tiller cylinder Tiller does not move"
+  },
+  {
+    "component": "Primary Filter",
+    "procedure_ids": [
+      "ce0dd0d0e6f9"
+    ],
+    "fault_ids": [
+      "Engine sputters and loses power"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "engine cylinders"
+    ],
+    "embedding_text": "Primary Filter engine cylinders Engine sputters and loses power"
+  },
+  {
+    "component": "Hand Clutch",
+    "procedure_ids": [
+      "ce0dd0d0e6f9"
+    ],
+    "fault_ids": [
+      "Engine does not engage with transmission gears"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "transmission gears"
+    ],
+    "embedding_text": "Hand Clutch transmission gears Engine does not engage with transmission gears"
+  },
+  {
+    "component": "Clutch-Brake Handle",
+    "procedure_ids": [
+      "89b1ac6986f4"
+    ],
+    "fault_ids": [],
+    "spec_ids": [
+      "torque:clutch-brake handle"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "speed-changing lever, throttle"
+    ],
+    "embedding_text": "Clutch-Brake Handle speed-changing lever, throttle"
+  },
+  {
+    "component": "Speed-Changing Lever",
+    "procedure_ids": [
+      "89b1ac6986f4"
+    ],
+    "fault_ids": [],
+    "spec_ids": [
+      "torque:speed-changing lever"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "clutch-brake handle, throttle"
+    ],
+    "embedding_text": "Speed-Changing Lever clutch-brake handle, throttle"
+  },
+  {
+    "component": "Throttle",
+    "procedure_ids": [
+      "89b1ac6986f4"
+    ],
+    "fault_ids": [],
+    "spec_ids": [
+      "torque:throttle"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "clutch-brake handle, speed-changing lever"
+    ],
+    "embedding_text": "Throttle clutch-brake handle, speed-changing lever"
+  },
+  {
+    "component": "Steering Hand Grip",
+    "procedure_ids": [
+      "3664fa3bdaf0"
+    ],
+    "fault_ids": [
+      "Steering is affected on flat road"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "handlebars",
+      "pedals of the wheel"
+    ],
+    "embedding_text": "Steering Hand Grip handlebars pedals of the wheel Steering is affected on flat road"
+  },
+  {
+    "component": "Handlebars",
+    "procedure_ids": [
+      "3664fa3bdaf0"
+    ],
+    "fault_ids": [
+      "Steering is affected on steep slope"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "steering hand grip",
+      "pedals of the wheel"
+    ],
+    "embedding_text": "Handlebars steering hand grip pedals of the wheel Steering is affected on steep slope"
+  },
+  {
+    "component": "Pedals Of The Wheel",
+    "procedure_ids": [
+      "3664fa3bdaf0"
+    ],
+    "fault_ids": [
+      "Steering is affected on flat road"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "steering hand grip",
+      "handlebars"
+    ],
+    "embedding_text": "Pedals Of The Wheel steering hand grip handlebars Steering is affected on flat road"
+  },
+  {
+    "component": "Power Tiller",
+    "procedure_ids": [
+      "3664fa3bdaf0"
+    ],
+    "fault_ids": [
+      "Operating at high speed"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "steering hand grip",
+      "handlebars",
+      "pedals of the wheel"
+    ],
+    "embedding_text": "Power Tiller steering hand grip handlebars pedals of the wheel Operating at high speed"
+  },
+  {
+    "component": "Clutch",
+    "procedure_ids": [
+      "b33170dac873",
+      "48c866d9c4f8",
+      "9a9e561f8a35",
+      "72fce92ad178",
+      "5f014d27419e"
+    ],
+    "fault_ids": [
+      "Clutch engages but does not disengage",
+      "Clutch failure",
+      "Clutch does not engage",
+      "Clutch may not perform as well as before",
+      "Clutch fails to work"
+    ],
+    "spec_ids": [
+      "clearance:clutch"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "transmission",
+      "gearbox",
+      "gear box",
+      "clutch fork",
+      "friction piece",
+      "diesel engine",
+      "gear box main shaft",
+      "positioning gear",
+      "pushing plate"
+    ],
+    "embedding_text": "Clutch transmission gearbox gear box clutch fork Clutch engages but does not disengage Clutch failure Clutch does not engage"
+  },
+  {
+    "component": "Spark Plug",
+    "procedure_ids": [
+      "b33170dac873"
+    ],
+    "fault_ids": [
+      "Engine does not start"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "engine"
+    ],
+    "embedding_text": "Spark Plug engine Engine does not start"
+  },
+  {
+    "component": "Tiller Transmission",
+    "procedure_ids": [
+      "fdea3a6e045a",
+      "d841e8aa1318"
+    ],
+    "fault_ids": [
+      "Wheels turning but tines not turning",
+      "not turning"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "engine",
+      "tines"
+    ],
+    "embedding_text": "Tiller Transmission engine tines Wheels turning but tines not turning not turning"
+  },
+  {
+    "component": "Carburetor",
+    "procedure_ids": [
+      "fdea3a6e045a"
+    ],
+    "fault_ids": [
+      "Engine not starting at all"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "engine",
+      "fuel line"
+    ],
+    "embedding_text": "Carburetor engine fuel line Engine not starting at all"
+  },
+  {
+    "component": "Decompression Device",
+    "procedure_ids": [
+      "d841e8aa1318"
+    ],
+    "fault_ids": [
+      "Decompression device failure"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "engine"
+    ],
+    "embedding_text": "Decompression Device engine Decompression device failure"
+  },
+  {
+    "component": "Fuel System",
+    "procedure_ids": [
+      "d841e8aa1318"
+    ],
+    "fault_ids": [
+      "The fuel system develops troubles"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "engine"
+    ],
+    "embedding_text": "Fuel System engine The fuel system develops troubles"
+  },
+  {
+    "component": "Cylinder Head Gasket",
+    "procedure_ids": [
+      "d841e8aa1318"
+    ],
+    "fault_ids": [
+      "Compression pressure in the cylinder is insufficient"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "engine"
+    ],
+    "embedding_text": "Cylinder Head Gasket engine Compression pressure in the cylinder is insufficient"
+  },
+  {
+    "component": "Piston Rings",
+    "procedure_ids": [
+      "d841e8aa1318"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "engine"
+    ],
+    "embedding_text": "Piston Rings engine"
+  },
+  {
+    "component": "Air Filter",
+    "procedure_ids": [
+      "d841e8aa1318"
+    ],
+    "fault_ids": [
+      "Air filter choked up"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "engine"
+    ],
+    "embedding_text": "Air Filter engine Air filter choked up"
+  },
+  {
+    "component": "Governor Spring",
+    "procedure_ids": [
+      "d841e8aa1318"
+    ],
+    "fault_ids": [
+      "Engine speed is too low"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "engine"
+    ],
+    "embedding_text": "Governor Spring engine Engine speed is too low"
+  },
+  {
+    "component": "Tines",
+    "procedure_ids": [
+      "82ea14e8d878"
+    ],
+    "fault_ids": [
+      "tines jarring up or becoming rusted"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "rotavator frame"
+    ],
+    "embedding_text": "Tines rotavator frame tines jarring up or becoming rusted"
+  },
+  {
+    "component": "Fuel Filter",
+    "procedure_ids": [
+      "82ea14e8d878",
+      "9a9e561f8a35"
+    ],
+    "fault_ids": [
+      "engine performance decreases",
+      "Engine stalls"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "fuel tank",
+      "engine"
+    ],
+    "embedding_text": "Fuel Filter fuel tank engine engine performance decreases Engine stalls"
+  },
+  {
+    "component": "Gearbox",
+    "procedure_ids": [
+      "8c9a9c88f724"
+    ],
+    "fault_ids": [
+      "machine shakes violently"
+    ],
+    "spec_ids": [
+      "torque:gearbox"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "transmission",
+      "engine",
+      "diesel engine crankcase"
+    ],
+    "embedding_text": "Gearbox transmission engine diesel engine crankcase machine shakes violently"
+  },
+  {
+    "component": "Battery",
+    "procedure_ids": [
+      "8c9a9c88f724",
+      "645e9323ed0c"
+    ],
+    "fault_ids": [
+      "machine does not start",
+      "Machine does not start",
+      "motor hums"
+    ],
+    "spec_ids": [
+      "voltage:battery"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "starter motor",
+      "alternator",
+      "diesel engine"
+    ],
+    "embedding_text": "Battery starter motor alternator diesel engine machine does not start Machine does not start motor hums"
+  },
+  {
+    "component": "Capacitor",
+    "procedure_ids": [
+      "48c866d9c4f8"
+    ],
+    "fault_ids": [
+      "Motor hums"
+    ],
+    "spec_ids": [
+      "capacitor_rating:capacitor"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "motor"
+    ],
+    "embedding_text": "Capacitor motor Motor hums"
+  },
+  {
+    "component": "Alternator",
+    "procedure_ids": [
+      "46492d162b01"
+    ],
+    "fault_ids": [
+      "Motor hums but does not rotate"
+    ],
+    "spec_ids": [
+      "torque:alternator"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "battery, starter motor"
+    ],
+    "embedding_text": "Alternator battery, starter motor Motor hums but does not rotate"
+  },
+  {
+    "component": "Shift Bar",
+    "procedure_ids": [
+      "723c5851b62a"
+    ],
+    "fault_ids": [
+      "Shift bar does not move to neutral position"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "rotary blades"
+    ],
+    "embedding_text": "Shift Bar rotary blades Shift bar does not move to neutral position"
+  },
+  {
+    "component": "Engine",
+    "procedure_ids": [
+      "723c5851b62a"
+    ],
+    "fault_ids": [
+      "Abnormal shaking of the machine"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "engine block"
+    ],
+    "embedding_text": "Engine engine block Abnormal shaking of the machine"
+  },
+  {
+    "component": "Bolts",
+    "procedure_ids": [
+      "6e17b299a983",
+      "502e8d847d97"
+    ],
+    "fault_ids": [
+      "Machine does not start",
+      "Bolts loosen during operation"
+    ],
+    "spec_ids": [
+      "torque:bolts"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "engine",
+      "engine block"
+    ],
+    "embedding_text": "Bolts engine engine block Machine does not start Bolts loosen during operation"
+  },
+  {
+    "component": "Gear Transmission",
+    "procedure_ids": [
+      "119d8e1b105a"
+    ],
+    "fault_ids": [
+      "Blades do not rotate"
+    ],
+    "spec_ids": [
+      "clearance:gear transmission"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "engine, transmission"
+    ],
+    "embedding_text": "Gear Transmission engine, transmission Blades do not rotate"
+  },
+  {
+    "component": "Speeder Rod",
+    "procedure_ids": [
+      "645e9323ed0c"
+    ],
+    "fault_ids": [
+      "vibration"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "transmission assembly"
+    ],
+    "embedding_text": "Speeder Rod transmission assembly vibration"
+  },
+  {
+    "component": "M8*55 Screw Bolts",
+    "procedure_ids": [
+      "08ab1c176cf8"
+    ],
+    "fault_ids": [],
+    "spec_ids": [
+      "torque:m8*55 screw bolts"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "output shaft",
+      "revolving farming device",
+      "step box hexagonal shaft",
+      "tilling blades"
+    ],
+    "embedding_text": "M8*55 Screw Bolts output shaft revolving farming device step box hexagonal shaft tilling blades"
+  },
+  {
+    "component": "Shaft",
+    "procedure_ids": [
+      "11a2800a0eb7"
+    ],
+    "fault_ids": [
+      "vibration"
+    ],
+    "spec_ids": [
+      "clearance:shaft"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "coupling",
+      "motor"
+    ],
+    "embedding_text": "Shaft coupling motor vibration"
+  },
+  {
+    "component": "Motor",
+    "procedure_ids": [
+      "11a2800a0eb7"
+    ],
+    "fault_ids": [
+      "motor hums"
+    ],
+    "spec_ids": [
+      "capacitor_rating:motor"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "shaft",
+      "coupling"
+    ],
+    "embedding_text": "Motor shaft coupling motor hums"
+  },
+  {
+    "component": "Ditcher",
+    "procedure_ids": [
+      "8d065dcbc126"
+    ],
+    "fault_ids": [
+      "Ditcher does not adjust to proper width and height"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "ditching system"
+    ],
+    "embedding_text": "Ditcher ditching system Ditcher does not adjust to proper width and height"
+  },
+  {
+    "component": "Transmission Shaft",
+    "procedure_ids": [
+      "937c0bd69469"
+    ],
+    "fault_ids": [
+      "machine can do the transportation job"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "wagon box forearm",
+      "wheels"
+    ],
+    "embedding_text": "Transmission Shaft wagon box forearm wheels machine can do the transportation job"
+  },
+  {
+    "component": "Gear-Box",
+    "procedure_ids": [
+      "2aab49aaf17e"
+    ],
+    "fault_ids": [
+      "vibration",
+      "noise"
+    ],
+    "spec_ids": [
+      "torque:gear-box"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "main shaft",
+      "belt pulley or coupling"
+    ],
+    "embedding_text": "Gear-Box main shaft belt pulley or coupling vibration noise"
+  },
+  {
+    "component": "Belt Pulley Or Coupling",
+    "procedure_ids": [
+      "2aab49aaf17e"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "gear-box's main shaft"
+    ],
+    "embedding_text": "Belt Pulley Or Coupling gear-box's main shaft"
+  },
+  {
+    "component": "Hexagonal Axle",
+    "procedure_ids": [
+      "78481f98d8c2"
+    ],
+    "fault_ids": [
+      "Machine does not move"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "step box axle hole"
+    ],
+    "embedding_text": "Hexagonal Axle step box axle hole Machine does not move"
+  },
+  {
+    "component": "Wheels",
+    "procedure_ids": [
+      "1dc958e13ad6"
+    ],
+    "fault_ids": [
+      "vibration",
+      "noise"
+    ],
+    "spec_ids": [
+      "torque:wheels"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "hexagonal axle ends"
+    ],
+    "embedding_text": "Wheels hexagonal axle ends vibration noise"
+  },
+  {
+    "component": "Connecting Frame",
+    "procedure_ids": [
+      "1dc958e13ad6"
+    ],
+    "fault_ids": [],
+    "spec_ids": [
+      "torque:connecting frame"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "trailer"
+    ],
+    "embedding_text": "Connecting Frame trailer"
+  },
+  {
+    "component": "Armrest",
+    "procedure_ids": [
+      "1dc958e13ad6"
+    ],
+    "fault_ids": [],
+    "spec_ids": [
+      "torque:armrest"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "armrest connection piece"
+    ],
+    "embedding_text": "Armrest armrest connection piece"
+  },
+  {
+    "component": "Shift Lever",
+    "procedure_ids": [
+      "1dc958e13ad6"
+    ],
+    "fault_ids": [],
+    "spec_ids": [
+      "torque:shift lever"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "support block of the shift arm"
+    ],
+    "embedding_text": "Shift Lever support block of the shift arm"
+  },
+  {
+    "component": "Clutch Cable",
+    "procedure_ids": [
+      "601c449fe1df",
+      "5f014d27419e"
+    ],
+    "fault_ids": [
+      "Clutch handle cannot reset",
+      "Clutch cable is not well adjusted"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "clutch fork arm seat",
+      "clutch cable seat",
+      "clutch"
+    ],
+    "embedding_text": "Clutch Cable clutch fork arm seat clutch cable seat clutch Clutch handle cannot reset Clutch cable is not well adjusted"
+  },
+  {
+    "component": "Reversing Cable",
+    "procedure_ids": [
+      "601c449fe1df"
+    ],
+    "fault_ids": [
+      "Reversing handle cannot reset"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "reversing cable fork shaft",
+      "reversing cable seat"
+    ],
+    "embedding_text": "Reversing Cable reversing cable fork shaft reversing cable seat Reversing handle cannot reset"
+  },
+  {
+    "component": "Throttle Cable",
+    "procedure_ids": [
+      "601c449fe1df"
+    ],
+    "fault_ids": [
+      "Throttle handle cannot reset"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "throttle adjustment board",
+      "throttle switch"
+    ],
+    "embedding_text": "Throttle Cable throttle adjustment board throttle switch Throttle handle cannot reset"
+  },
+  {
+    "component": "Connection Bolts",
+    "procedure_ids": [
+      "601c449fe1df"
+    ],
+    "fault_ids": [
+      "Machine vibrates"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "flange and diesel engine",
+      "flange and gear box"
+    ],
+    "embedding_text": "Connection Bolts flange and diesel engine flange and gear box Machine vibrates"
+  },
+  {
+    "component": "Diesel Engine",
+    "procedure_ids": [
+      "f49a23fcabc7"
+    ],
+    "fault_ids": [
+      "diesel engine hums but does not rotate"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Diesel Engine diesel engine hums but does not rotate"
+  },
+  {
+    "component": "M8*55 Bolt",
+    "procedure_ids": [
+      "188365c01009"
+    ],
+    "fault_ids": [
+      "loose blades"
+    ],
+    "spec_ids": [
+      "torque:m8*55 bolt"
+    ],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "M8*55 Bolt loose blades"
+  },
+  {
+    "component": "Tilling Blades",
+    "procedure_ids": [
+      "188365c01009"
+    ],
+    "fault_ids": [
+      "uneven tilling"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "step box hexagonal shaft",
+      "m8*55 bolt"
+    ],
+    "embedding_text": "Tilling Blades step box hexagonal shaft m8*55 bolt uneven tilling"
+  },
+  {
+    "component": "Opening Width",
+    "procedure_ids": [
+      "188365c01009"
+    ],
+    "fault_ids": [
+      "inadequate opening"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "opener"
+    ],
+    "embedding_text": "Opening Width opener inadequate opening"
+  },
+  {
+    "component": "Opening Depth",
+    "procedure_ids": [
+      "188365c01009"
+    ],
+    "fault_ids": [
+      "inadequate opening"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "opener"
+    ],
+    "embedding_text": "Opening Depth opener inadequate opening"
+  },
+  {
+    "component": "Sucking Depth",
+    "procedure_ids": [
+      "188365c01009"
+    ],
+    "fault_ids": [
+      "inadequate tilling"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "paddy land tilling blades"
+    ],
+    "embedding_text": "Sucking Depth paddy land tilling blades inadequate tilling"
+  },
+  {
+    "component": "Rated Load",
+    "procedure_ids": [
+      "188365c01009"
+    ],
+    "fault_ids": [
+      "overloading"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "wagon box forearm"
+    ],
+    "embedding_text": "Rated Load wagon box forearm overloading"
+  },
+  {
+    "component": "Speed",
+    "procedure_ids": [
+      "188365c01009"
+    ],
+    "fault_ids": [
+      "inadequate speed"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "diesel engine"
+    ],
+    "embedding_text": "Speed diesel engine inadequate speed"
+  },
+  {
+    "component": "Air Cleaner",
+    "procedure_ids": [
+      "23a7c0e61f3a"
+    ],
+    "fault_ids": [
+      "sponge or wire mesh dirty"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "engine"
+    ],
+    "embedding_text": "Air Cleaner engine sponge or wire mesh dirty"
+  },
+  {
+    "component": "Diesel Engine Oil",
+    "procedure_ids": [
+      "23a7c0e61f3a"
+    ],
+    "fault_ids": [
+      "oil levels low"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "diesel engine"
+    ],
+    "embedding_text": "Diesel Engine Oil diesel engine oil levels low"
+  },
+  {
+    "component": "Parts",
+    "procedure_ids": [
+      "502e8d847d97"
+    ],
+    "fault_ids": [
+      "Parts wear out during operation"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "engine block"
+    ],
+    "embedding_text": "Parts engine block Parts wear out during operation"
+  },
+  {
+    "component": "Gear Box",
+    "procedure_ids": [
+      "8608d0be7f62"
+    ],
+    "fault_ids": [
+      "Gear box leaks oil"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Gear Box Gear box leaks oil"
+  },
+  {
+    "component": "Diesel Engine Crankcase",
+    "procedure_ids": [
+      "8608d0be7f62"
+    ],
+    "fault_ids": [
+      "Diesel engine crankcase leaks oil"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "gear box"
+    ],
+    "embedding_text": "Diesel Engine Crankcase gear box Diesel engine crankcase leaks oil"
+  },
+  {
+    "component": "Bevel Gear",
+    "procedure_ids": [
+      "1b86ad6f23d6"
+    ],
+    "fault_ids": [
+      "abnormal sound"
+    ],
+    "spec_ids": [
+      "clearance:bevel gear"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "gear box",
+      "step box"
+    ],
+    "embedding_text": "Bevel Gear gear box step box abnormal sound"
+  },
+  {
+    "component": "Step Box Gear",
+    "procedure_ids": [
+      "1b86ad6f23d6"
+    ],
+    "fault_ids": [],
+    "spec_ids": [
+      "clearance:step box gear"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "gear box",
+      "step box"
+    ],
+    "embedding_text": "Step Box Gear gear box step box"
+  },
+  {
+    "component": "Reversing Gears",
+    "procedure_ids": [
+      "1b86ad6f23d6"
+    ],
+    "fault_ids": [
+      "cannot reverse normally"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "gear box",
+      "reversing handle"
+    ],
+    "embedding_text": "Reversing Gears gear box reversing handle cannot reverse normally"
+  },
+  {
+    "component": "Accelerator Cable",
+    "procedure_ids": [
+      "d9c552830de1"
+    ],
+    "fault_ids": [
+      "Diesel engine not in good performance when turning up or down the accelerator switch"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "accelerator switch"
+    ],
+    "embedding_text": "Accelerator Cable accelerator switch Diesel engine not in good performance when turning up or down the accelerator switch"
+  },
+  {
+    "component": "Adjustment Screw",
+    "procedure_ids": [
+      "15785cc1d75a"
+    ],
+    "fault_ids": [
+      "Up and down adjustment is not working"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "adjustment lever"
+    ],
+    "embedding_text": "Adjustment Screw adjustment lever Up and down adjustment is not working"
+  },
+  {
+    "component": "Armrest Handle Assembly",
+    "procedure_ids": [
+      "a8d3b63901bc"
+    ],
+    "fault_ids": [
+      "armrest handle assembly not engaging"
+    ],
+    "spec_ids": [
+      "clearance:armrest handle assembly"
+    ],
+    "image_ids": [],
+    "connected_components": [
+      "armrest base"
+    ],
+    "embedding_text": "Armrest Handle Assembly armrest base armrest handle assembly not engaging"
+  },
+  {
+    "component": "Locknut Handle",
+    "procedure_ids": [
+      "a8d3b63901bc"
+    ],
+    "fault_ids": [
+      "armrest not moving left or right"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "armrest base"
+    ],
+    "embedding_text": "Locknut Handle armrest base armrest not moving left or right"
+  },
+  {
+    "component": "Main Shaft",
+    "procedure_ids": [
+      "5592284bdfa1"
+    ],
+    "fault_ids": [
+      "Shift failure"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "gear box cover"
+    ],
+    "embedding_text": "Main Shaft gear box cover Shift failure"
+  },
+  {
+    "component": "Main Shaft Positioning Spring",
+    "procedure_ids": [
+      "5592284bdfa1"
+    ],
+    "fault_ids": [
+      "Main shaft positioning spring failure"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "gear box cover"
+    ],
+    "embedding_text": "Main Shaft Positioning Spring gear box cover Main shaft positioning spring failure"
+  },
+  {
+    "component": "Reversing Fork",
+    "procedure_ids": [
+      "5592284bdfa1"
+    ],
+    "fault_ids": [
+      "Reversing fork is blocked"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "reversing pushing plate"
+    ],
+    "embedding_text": "Reversing Fork reversing pushing plate Reversing fork is blocked"
+  },
+  {
+    "component": "Reversing Shaft",
+    "procedure_ids": [
+      "5592284bdfa1"
+    ],
+    "fault_ids": [
+      "Reversing shaft is loosen"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "reversing shaft back bolts"
+    ],
+    "embedding_text": "Reversing Shaft reversing shaft back bolts Reversing shaft is loosen"
+  },
+  {
+    "component": "Reversing Shaft O-Ring",
+    "procedure_ids": [
+      "5592284bdfa1"
+    ],
+    "fault_ids": [
+      "Reversing shaft O-ring failure"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "reversing shaft"
+    ],
+    "embedding_text": "Reversing Shaft O-Ring reversing shaft Reversing shaft O-ring failure"
+  },
+  {
+    "component": "Gear Box Oil",
+    "procedure_ids": [
+      "5592284bdfa1"
+    ],
+    "fault_ids": [
+      "Gear box oil leakage"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "gear box"
+    ],
+    "embedding_text": "Gear Box Oil gear box Gear box oil leakage"
+  },
+  {
+    "component": "Gear",
+    "procedure_ids": [
+      "f1268234485b"
+    ],
+    "fault_ids": [
+      "Too loud noise from the gear"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "gear box connection"
+    ],
+    "embedding_text": "Gear gear box connection Too loud noise from the gear"
+  },
+  {
+    "component": "Gear Box Connection",
+    "procedure_ids": [
+      "f1268234485b"
+    ],
+    "fault_ids": [
+      "Oil leakage of the gear box connection"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "gear box connection"
+    ],
+    "embedding_text": "Gear Box Connection gear box connection Oil leakage of the gear box connection"
+  },
+  {
+    "component": "Oil Seal",
+    "procedure_ids": [
+      "f1268234485b"
+    ],
+    "fault_ids": [
+      "Oil leakage of the output shaft casing"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "output shaft casing"
+    ],
+    "embedding_text": "Oil Seal output shaft casing Oil leakage of the output shaft casing"
+  },
+  {
+    "component": "Shaft Casing",
+    "procedure_ids": [
+      "f1268234485b"
+    ],
+    "fault_ids": [
+      "Serious oil leakage of the hexagonal hole in the shaft casing"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "shaft casing"
+    ],
+    "embedding_text": "Shaft Casing shaft casing Serious oil leakage of the hexagonal hole in the shaft casing"
+  },
+  {
+    "component": "O- Ring",
+    "procedure_ids": [
+      "f1268234485b"
+    ],
+    "fault_ids": [
+      "Oil leakage of the drain hole"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "drain hole"
+    ],
+    "embedding_text": "O- Ring drain hole Oil leakage of the drain hole"
+  },
+  {
+    "component": "Step Box Padding",
+    "procedure_ids": [
+      "f1268234485b"
+    ],
+    "fault_ids": [
+      "Leakage of the step box"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "step box"
+    ],
+    "embedding_text": "Step Box Padding step box Leakage of the step box"
+  },
+  {
+    "component": "Blade",
+    "procedure_ids": [
+      "1c4341cdefbe"
+    ],
+    "fault_ids": [
+      "blade is broken"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "rotavator"
+    ],
+    "embedding_text": "Blade rotavator blade is broken"
+  },
+  {
+    "component": "Manipulation Cable",
+    "procedure_ids": [
+      "1c4341cdefbe"
+    ],
+    "fault_ids": [
+      "manipulation cable is broken"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "rotavator"
+    ],
+    "embedding_text": "Manipulation Cable rotavator manipulation cable is broken"
+  },
+  {
+    "component": "Solid Wrench",
+    "procedure_ids": [
+      "c0d007db143f"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "bolt"
+    ],
+    "embedding_text": "Solid Wrench bolt"
+  },
+  {
+    "component": "Hex Bolt Wrench",
+    "procedure_ids": [
+      "c0d007db143f"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "bolt"
+    ],
+    "embedding_text": "Hex Bolt Wrench bolt"
+  },
+  {
+    "component": "Two-Use Screwdriver",
+    "procedure_ids": [
+      "c0d007db143f"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "di bolt"
+    ],
+    "embedding_text": "Two-Use Screwdriver di bolt"
+  },
+  {
+    "component": "Srd178F/186F/Sr186Fa",
+    "procedure_ids": [
+      "c0d007db143f"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "t tl t"
+    ],
+    "embedding_text": "Srd178F/186F/Sr186Fa t tl t"
+  },
+  {
+    "component": "Srd178/186Fa",
+    "procedure_ids": [
+      "c0d007db143f"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Srd178/186Fa"
+  },
+  {
+    "component": "Sr1Z-135(D)/Sr1Z-105(D)",
+    "procedure_ids": [
+      "c0d007db143f"
+    ],
+    "fault_ids": [],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "t tl t"
+    ],
+    "embedding_text": "Sr1Z-135(D)/Sr1Z-105(D) t tl t"
+  },
+  {
+    "component": "Paddy Wheel Piece",
+    "procedure_ids": [
+      "87c42283b3af"
+    ],
+    "fault_ids": [
+      "Paddy wheel piece does not rotate"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "gearbox, engine"
+    ],
+    "embedding_text": "Paddy Wheel Piece gearbox, engine Paddy wheel piece does not rotate"
+  },
+  {
+    "component": "Fuel Pump",
+    "procedure_ids": [
+      "87c42283b3af"
+    ],
+    "fault_ids": [
+      "Fuel pump does not prime"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [
+      "engine, fuel tank"
+    ],
+    "embedding_text": "Fuel Pump engine, fuel tank Fuel pump does not prime"
+  },
+  {
+    "component": "Bolt",
+    "procedure_ids": [],
+    "fault_ids": [
+      "Tightening or loosening the corresponding bolt"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Bolt Tightening or loosening the corresponding bolt"
+  },
+  {
+    "component": "Di bolt",
+    "procedure_ids": [],
+    "fault_ids": [
+      "Tightening or loosening the di bolt"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "Di bolt Tightening or loosening the di bolt"
+  },
+  {
+    "component": "T tl t",
+    "procedure_ids": [],
+    "fault_ids": [
+      "Helping to know the t tl t"
+    ],
+    "spec_ids": [],
+    "image_ids": [],
+    "connected_components": [],
+    "embedding_text": "T tl t Helping to know the t tl t"
+  }
+]

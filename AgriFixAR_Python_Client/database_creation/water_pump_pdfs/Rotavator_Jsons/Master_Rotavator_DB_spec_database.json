@@ -1,0 +1,102 @@
+[
+  {
+    "component": "Pto Drive Shaft",
+    "spec_type": "clearance",
+    "value": "150",
+    "unit": "mm",
+    "acceptable_range": "",
+    "source_page": "**Attaching the Rotavator to the tractor**",
+    "manual_source": "Rotavator_Manual.pdf",
+    "failure_if_out_of_range": [
+      "PTO shaft bottoms out or separates during operation"
+    ],
+    "repair_actions": [
+      "Place Rotavator on a firm level surface and adjust depth control equipment until the Gearbox Input Shaft is horizontal.",
+      "Position tractor at a distance from the Rotavator to ensure a minimum of 150 mm (6 inches) engagement of the male half of the PTO shaft in the female tube."
+    ],
+    "embedding_text": "Pto Drive Shaft clearance 150 mm PTO shaft bottoms out or separates during operation",
+    "parameter": "clearance",
+    "page": "**Attaching the Rotavator to the tractor**",
+    "if_out_of_range": [
+      "PTO shaft bottoms out or separates during operation"
+    ]
+  },
+  {
+    "component": "Pto Drive Shaft",
+    "spec_type": "clearance",
+    "value": "50",
+    "unit": "mm",
+    "acceptable_range": "",
+    "source_page": "**ROTAVATOR 310 / 320**",
+    "manual_source": "Rotavator_Manual.pdf",
+    "failure_if_out_of_range": [
+      "PTO shaft bottoms out",
+      "PTO shaft separates",
+      "PTO shaft exceeds maximum operating angle"
+    ],
+    "repair_actions": [
+      "Attach PTO Drive Shaft to tractor ensuring quick release pin engages spline shaft groove.",
+      "Attach stabiliser bar or check chains to limit sway to 50 mm (2”).",
+      "Lift Rotavator until PTO Drive Shaft attains an angle of 40o and set limit stop on hydraulic lift control quadrant."
+    ],
+    "embedding_text": "Pto Drive Shaft clearance 50 mm PTO shaft bottoms out PTO shaft separates",
+    "parameter": "clearance",
+    "page": "**ROTAVATOR 310 / 320**",
+    "if_out_of_range": [
+      "PTO shaft bottoms out",
+      "PTO shaft separates",
+      "PTO shaft exceeds maximum operating angle"
+    ]
+  },
+  {
+    "component": "Blade Bolt",
+    "spec_type": "torque",
+    "value": "200",
+    "unit": "N·m",
+    "acceptable_range": "",
+    "source_page": "**Blading standard rotors**",
+    "manual_source": "Rotavator_Manual.pdf",
+    "failure_if_out_of_range": [
+      "Blade detachment",
+      "Rotor flange damage",
+      "Excessive noise"
+    ],
+    "repair_actions": [
+      "Tighten blade nuts to a torque of 200 Nm."
+    ],
+    "embedding_text": "Blade Bolt torque 200 N·m Blade detachment Rotor flange damage",
+    "parameter": "torque",
+    "page": "**Blading standard rotors**",
+    "if_out_of_range": [
+      "Blade detachment",
+      "Rotor flange damage",
+      "Excessive noise"
+    ]
+  },
+  {
+    "component": "Howard Blade Bolt",
+    "spec_type": "torque",
+    "value": "200",
+    "unit": "N·m",
+    "acceptable_range": "",
+    "source_page": "**ROTAVATOR 310 / 320**",
+    "manual_source": "Rotavator_Manual.pdf",
+    "failure_if_out_of_range": [
+      "Blade detachment",
+      "Excessive vibration",
+      "Damage to rotor flange"
+    ],
+    "repair_actions": [
+      "Insert Howard blade bolt through blade and flange, ensuring bolt head is against the blade and spring washer/nut are against the flange.",
+      "Tighten the nut to a torque of 200 Nm."
+    ],
+    "embedding_text": "Howard Blade Bolt torque 200 N·m Blade detachment Excessive vibration",
+    "parameter": "torque",
+    "page": "**ROTAVATOR 310 / 320**",
+    "if_out_of_range": [
+      "Blade detachment",
+      "Excessive vibration",
+      "Damage to rotor flange"
+    ]
+  }
+]

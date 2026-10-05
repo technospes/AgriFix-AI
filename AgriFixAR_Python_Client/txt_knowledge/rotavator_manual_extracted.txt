@@ -1,0 +1,2517 @@
+# AgriFix Knowledge Base — ROTAVATOR (Gemini Vision OCR)
+
+🔹 Chunk 1
+PROBLEM: Operator's Manual Identification
+MACHINE: rotavator
+SYMPTOM: N/A (This is a cover page for an operator's manual)
+STEPS:
+N/A
+
+DIAGRAM PARTS:
+N/A
+
+TEXT EXTRACTED:
+Mahindra TRACTORS
+OPERATOR'S MANUAL
+Max 26XLT SHUTTLE
+Max 26XLT HST
+Mahindra TRACTORS
+Max 26XLT SHUTTLE/HST
+The Mahindra Group - Mahindra USA, Inc. - 9020 Jackrabbit Road - Houston, Texas 77095 - 1-281-449-7771 - www.mahindrausa.com
+
+🔹 Chunk 2
+PROBLEM: Understanding the purpose and usage of the tractor manual
+MACHINE: rotavator
+SYMPTOM: N/A (General introductory information)
+STEPS:
+This manual has been prepared to assist you in following the correct procedure for break-in, operation and maintenance of your new Mahindra tractor.
+
+Your tractor has been designed and built to give maximum performance, with good fuel economy and ease of operation under a wide variety of operating conditions. Prior to delivery, the tractor was carefully inspected, both at the factory and by your Mahindra dealer, to ensure that it reaches you in optimum condition. To maintain this condition and ensure trouble free performance, it is important that the routine service, as specified in this manual, are carried out at the recommended intervals.
+
+Read this manual carefully and keep it in a convenient place for future reference. If at any time you require advice concerning your tractor, do not hesitate to contact your authorised Mahindra dealer. He has trained personnel, genuine Mahindra parts and necessary equipment to undertake all your service requirements.
+
+Mahindra USA Inc's. policy is one of continuous improvement, and the right to change prices, specifications or equipment at any time without notice is reserved.
+
+All data given in this book is subject to production variations. Dimension & weight are approximate only and the illustrations do not necessarily show tractors in standard condition. For exact information about any particular tractor, please consult your Mahindra dealer.
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 3
+PROBLEM: Identification of Engine Manual and Governor System
+MACHINE: rotavator
+SYMPTOM: N/A (This is a cover page/title page)
+STEPS:
+N/A
+
+DIAGRAM PARTS:
+N/A
+
+TEXT CONTENT:
+October 2017
+Pub.No.99610-62110
+
+MITSUBISHI
+DIESEL ENGINE
+SL-SERIES
+ELECTRIC GOVERNOR
+(EPA PART1039: NONROAD DIESEL ENGINES)
+(CARB ARTICLE4: OFF-ROAD DIESEL ENGINES AND EQUIPMENTS)
+
+MITSUBISHI HEAVY INDUSTRIES
+ENGINE & TURBOCHARGER, LTD.
+
+🔹 Chunk 4
+PROBLEM: Understanding Limited Warranty Terms and Conditions
+MACHINE: rotavator
+SYMPTOM: N/A (This page contains legal warranty information, not mechanical repair instructions)
+STEPS:
+During the warranty period, Mitsubishi Heavy Industries Engine & Turbocharger, Ltd.(MHIET) will repair and replace any defective products, which are returned, if such defective are found to be manufacturing defects by investigation. For warranty period, contact your MHIET dealer.
+Mitsubishi Heavy Industries Engine & Turbocharger, Ltd.(MHIET) warranty is limited to the compensation work of repair or replacement of parts.
+The warranty coverage is effective for the original purchaser only. Those to whom ownership is later transferred are not provided with the warranty. However, the warranty coverage is effective for the ultimate purchaser and each subsequent purchaser for emission-related parts.
+Mitsubishi Heavy Industries Engine & Turbocharger, Ltd.makes no warranties, either expressed or implied, except as provided in this manual, including, but not limited to, warranties as to marketability, merchantability, fitness for a particular purpose or use, or against infringement of any patent.
+Mitsubishi Heavy Industries Engine & Turbocharger, Ltd.will not be liable for any damages or consequential damages, including, but not limited to, damages or other costs resulting from any abuse, misuse, misapplication of the engine and devices which supplied by us.
+Mitsubishi Heavy Industries Engine & Turbocharger, Ltd.will not be liable for any damages or personal injuries resulting from any modification, without our written permission, of the engine and devices which supplied by us.
+Mitsubishi Heavy Industries Engine & Turbocharger, Ltd.will not be liable for any damages or production losses caused by the use of fuel, engine oil and/or long life coolant (LLC) that we are not recommended.
+The owner of the engine is responsible for performing regular maintenance described in this manual.
+When performing the maintenance, follow the instructions in the service manual published by Mitsubishi Heavy Industries Engine & Turbocharger, Ltd.
+Mitsubishi Heavy Industries Engine & Turbocharger, Ltd.may deny the warranty coverage if the engine or a part of the engine has failed due to inadequate or improper maintenance.
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 5
+PROBLEM: Understanding Emission Warranty Coverage
+MACHINE: rotavator
+SYMPTOM: Determining warranty eligibility and duration for engine emission systems
+STEPS:
+1. Verify that the engine is certified to the emission regulation of the U.S. Environmental Protection Agency.
+2. Ensure the engine meets two conditions: it is designed, built, and equipped to conform to applicable regulations at the time of sale, and it is free from defects in materials and workmanship.
+3. Determine the warranty period by identifying the engine's certification type, maximum power (kW), and rated speed.
+4. Compare the determined emission warranty period against the standard Mitsubishi Heavy Industries Engine & Turbocharger, Ltd. warranty period; the longer of the two applies.
+5. Note that the warranty period begins on the date the new non-road, stationary and emergency stationary engine is delivered to the ultimate purchaser.
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 6
+PROBLEM: Warranty Coverage for Emission-Related Components
+MACHINE: rotavator
+SYMPTOM: Defective engine parts affecting emission levels
+STEPS:
+Warranty Parts
+Mitsubishi Heavy Industries Engine & Turbocharger, Ltd. warrants the parts which will increase the emission of pollutants when they become defective.
+The followings are examples.
+I All the engine parts relating to the systems below are included in the exhaust-gas related components:
+1.Air-induction system
+2.Fuel system
+3.Ignition system
+4.Exhaust gas recirculation systems
+II The parts below are also included in the exhaust-gas related components:
+1.After-treatment devices
+2.Crankcase ventilation valves
+3.Sensors
+4.Electronic control units
+III The parts below also included in the evaporative emission gas related components:
+1.Fuel tank
+2.Fuel cap
+3.Fuel Line
+4.Fuel Line Fittings
+5.Clamps*
+6.Pressure Relief Valves*
+7.Control Valves*
+8.Control Solenoids*
+9.Electric Controls*
+10.Vacuum Control Diaphragms*
+11.Control Cables*
+12.Control Linkages*
+13.Purge Valves
+14.Vapor Hoses
+15.Liquid/Vapor Separator
+16.Carbon canister
+17.Canister Mounting Brackets
+18.Carburetor Purge Port Connector
+* Parts related to evaporation-emission-gas control system
+Owner's Responsibility
+*The owner of the engine is responsible for the performance of the required maintenance listed in this operation manual.
+*In accordance with 40 CFR 1068.115, Mitsubishi Heavy Industries Engine & Turbocharger, Ltd. makes no warranties if the operator caused the problem through improper maintenance or use.
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 7
+PROBLEM: Understanding California Emission Control Warranty Rights and Obligations
+MACHINE: rotavator
+SYMPTOM: N/A (This is a legal warranty statement document)
+STEPS:
+(a) The warranty period shall begin on the date the engine or equipment is delivered to an ultimate purchaser. The use of alternate fuels shall not void the warranties on any engine certified to use such fuel.
+(b) Mitsubishi Heavy Industries Engine & Turbocharger, Ltd. of each off-road compression-ignition engine shall warrant to the ultimate purchaser and each subsequent purchaser of the engine registered in the state of California the engine is:
+(1) Designed, built and equipped so as to conform with all applicable regulations adopted by the Air Resources Board pursuant to its authority in Chapters 1 and 2,Part 5,Division 26 of the Health and Safety Code; and.
+(2) Free from defects in materials and workmanship which cause the failure of a warranted part to be identical in all material respects to the parts as described in Mitsubishi Heavy Industries Engine & Turbocharger, Ltd.'s application for certification for a period of 5 years or 3,000 hours of operation, whichever occurs first, for all engines rated at 19kW and greater, except as noted below. In the absence of a device to measure hours of use, the engine shall be warranted for a period of 5 years. For all engines rated less than 19 kW, and for constant-speed engines rated under 37 kW with rated speeds higher than or equal to 3,000 min-1, the period of 2 years or 1,500 hours of operation, whichever occurs first, shall apply. In the absence of a device to measure hours of use, the engine shall be warranted for a period of 2 years.
+(c) The warranty on emission-related parts shall be interpreted as follows:
+(1) Any warranted part which is not scheduled for replacement as required maintenance in the written instructions required by Subsection (e) shall be warranted for the warranty period defined in Subsection (b) (2). If any such part fails during the period of warranty coverage, it shall be repaired or replaced by Mitsubishi Heavy Industries Engine & Turbocharger, Ltd. according to Subsection (4) below. Any such part repaired or replaced under the war-ranty shall be warranted for the remaining warranty period.
+(2) Any warranted part which is scheduled only for regular inspection in the written instructions required by Sub-
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 8
+PROBLEM: Warranty Coverage and Warranted Parts List
+MACHINE: rotavator
+SYMPTOM: Clarification of warranty obligations and identification of covered engine components
+STEPS:
+(3) Any warranted part which is scheduled for replacement as required maintenance in the written instructions required in Subsection (e) shall be warranted for the period of time prior to the first scheduled replacement point for that part. If the part fails prior to the first scheduled replacement, the part shall be repaired or replaced by Mitsubishi Heavy Industries Engine & Turbocharger, Ltd. according to Subsection (4) below. Any such part repaired or replaced under the warranty shall be warranted for the remaining warranty period.
+(4) Repair or replacement of any warranted part under the warranty provisions of this article shall be performed at no charge to the owner at a warranty station.
+(5) Notwithstanding the provisions of Subsection (4) above, warranty services or repairs shall be provided at all Mitsubishi Heavy Industries Engine & Turbocharger, Ltd. distribution centers that are franchised to service the subject engines.
+(6) The owner shall not be charged for diagnostic labor that leads to the determination that a warranted part is in fact defective, provided that such diagnostic work is performed at a warranty station.
+(7) Mitsubishi Heavy Industries Engine & Turbocharger, Ltd. shall be liable for damages to other engine components proximately caused by failure under warranty of any warranted part.
+(8) Throughout the engine's warranty period defined in Subsection (b) (2), Mitsubishi Heavy Industries Engine & Turbocharger, Ltd. shall maintain a supply of warranted parts sufficient to meet the expected demand for such parts.
+(9) Any replacement part, as defined in Section 1900(b) (13), Title 13, may be used in the performance of any maintenance or repairs and must be provided without charge to the owner. It is not necessary for replacement parts to be the same brand or by the same manufacturer as the original part sold with the engine. Such use shall not reduce the warranty obligations of Mitsubishi Heavy Industries Engine & Turbocharger, Ltd.
+(10) Add-on or modified parts, as defined in Section 1900(b)(1) and (b)(10), Title 13, that are not exempted by the Air Resources Board may not be used. The use of any non-exempted add-on or modified parts shall be grounds for disallowing a warranty claim made in accordance with this article. Mitsubishi Heavy Industries Engine & Turbocharger, Ltd. shall not be liable under this article to warrant failures of warranted parts caused by the use of a non-exempted add-on or modified part.
+(11) The Executive Officer may request and, in such case, Mitsubishi Heavy Industries Engine & Turbocharger, Ltd. shall provide, any documents which describe that Mitsubishi Heavy Industries Engine & Turbocharger, Ltd.'s warranty procedures or policies.
+(d) Warranted parts list.
+(1) Fuel metering system.
+(A) Fuel injection system.
+(B) Air/fuel ratio feedback and control system.
+(C) Cold start enrichment system.
+(2) Air induction system
+(A) Controlled hot air intake system.
+(B) Intake manifold.
+(C) Heat riser valve and assembly.
+(D) Turbocharger/supercharger systems.
+(E) Charged air cooling systems.
+(3) Exhaust gas recirculation (EGR) system
+(A) EGR valve body, and carburetor spacer if applicable.
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 9
+PROBLEM: Identification of Emission Control System Components
+MACHINE: rotavator
+SYMPTOM: Excessive exhaust emissions or failure to meet emission standards
+STEPS:
+(B) EGR rate feedback and control system.
+(4) Air injection system
+(A) Air pump or pulse valve.
+(B) Valves affecting distribution of flow.
+(C) Distribution manifold.
+(5) Catalyst or thermal reactor system
+(A) Catalytic converter.
+(B) Thermal reactor.
+(C) Exhaust manifold.
+(6) Particulate controls
+(A) Traps, filters, precipitators, and any other devices used to capture particulate emissions.
+(B) Regenerators, oxidizers, fuel additive devices, and any other device used to regenerate or aid in the regeneration of the particulate control device.
+(C) Control device enclosures and manifolding.
+(D) Smoke puff limiters.
+(7) Advances oxides of nitrogen (NOx) controls
+(A) Nox absorbers.
+(B) Lean NOx catalysts.
+(C) Selective catalyst reduction.
+(D) Reductant (urea/fuel) containers/dispensing systems.
+(8) Positive crankcase ventilation (PCV) system
+(A) PCV valve.
+(B) Oil filler cap.
+(9) Miscellaneous items used in above systems
+(A) Vacuum, temperature, and time sensitive valves and switches.
+(B) Electronic control units, sensors, solenoids, and wiring harnesses.
+(C) Hoses, belts, connectors, assemblies, clamps, fittings, tubing, sealing gaskets or devices, and mounting hardware.
+(D) Pulleys, belts and idlers.
+(E) Emission control information labels.
+(F) Any other part with the primary purpose of reducing emissions or that can increase emissions during failure without significantly degrading engine performance.
+(e) Mitsubishi Heavy Industries Engine & Turbocharger, Ltd. shall furnish with each new engine written instructions for the maintenance and use of the engine by the owner.
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 10
+PROBLEM: Understanding Owner's Warranty Responsibilities
+MACHINE: rotavator
+SYMPTOM: N/A (This page contains legal and warranty policy information, not mechanical repair instructions)
+STEPS:
+*As the off-road engine owner, you are responsible for the performance of the required maintenance listed in your owner's manual. Mitsubishi Heavy Industries Engine & Turbocharger, Ltd. recommends that you retain all receipts covering maintenance on your off-road engine, but Mitsubishi Heavy Industries Engine & Turbocharger, Ltd. cannot deny warranty solely for the lack of receipts or for your failure to ensure the performance of all scheduled maintenance.
+*As the off-road engine owner, you should, however, be aware that our company may deny your warranty coverage if your off-road engine or a part has failed due to abuse, neglect, improper maintenance or unapproved modifications.
+*Your engine is designed to operate on diesel fuel only. Use of any other fuel may result in your engine no longer operating in compliance with California's emissions requirements.
+*You are responsible for initiating the warranty process. The ARB suggests that you present your off-road engine to a Mitsubishi Heavy Industries Engine & Turbocharger, Ltd. dealer or distributor dealer as soon as problem exists. The warranty repairs should be completed by the dealer or distributor as expeditiously as possible.
+If you have any questions regarding your warranty rights and responsibilities, you should contact Mitsubishi Turbocharger and Engine America, Inc. at 1-630-268-0750.
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 11
+PROBLEM: Understanding Manual Introduction and Safety Protocols
+MACHINE: rotavator
+SYMPTOM: N/A (General introductory information)
+STEPS:
+Read this manual before you start the engine or operate your tractor. If you need any more information, see your Mahindra dealer.
+This instruction manual contains information on the operation, lubrication and maintenance of your tractor. The information contained is comprehensive and essential, and is designed to assist you, even if unexperienced, in utilizing your tractor.
+How well your tractor continues to give satisfactory performance depends greatly upon the manner in which it is operated. It is, therefore, requested that this manual be read carefully and kept ready for use so that the operation and maintenance service will properly be carried out in order to keep the tractor in top mechanical condition at all times.
+Should any information as to your tractor be required, consult your local dealer or distributor stating the machine and engine serial numbers of the tractor concerned. We are sure you will be happy with your tractor.
+
+SAFETY ALERT SYMBOL
+This safety alert symbol indicates important safety messages in this manual.
+When you see this symbol, carefully read the message that follows and be alert to the possibility of personal injury or death.
+Safety decals on this machine which use the words DANGER, WARNING, CAUTION, IMPORTANT or NOTE, are defined as follows:
+DANGER Indicates an immediately hazardous situation which, if not avoided, could result in death or serious injury.
+WARNING Indicates an potentially hazardous situation which, if not avoided, could result in death or serious injury.
+CAUTION Indicates an potentially hazardous situation which, if not avoided, could result in minor or moderate injury.
+IMPORTANT Indicates that equipment or property damage could result if instructions are not followed.
+NOTE Gives helpful information.
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 12
+PROBLEM: [OCR FAILED]
+MACHINE: rotavator
+
+🔹 Chunk 13
+PROBLEM: Navigating the manual to locate specific maintenance and repair procedures
+MACHINE: rotavator
+SYMPTOM: Need to locate specific service, adjustment, or maintenance information within the manual
+STEPS:
+HITCH SYSTEM ADJUSTMENTS.................................................................................................. 53
+HITCH OPERATION.................................................................................................................... 56
+REMOTE HYDRAULIC CONTROL VALVE (IF EQUIPPED)........................................................... 59
+REMOTE HYDRAULICS OPERATION......................................................................................... 60
+HYDRAULIC BLOCK.................................................................................................................. 61
+TIRES/WHEELS/SPACING/BALLAST......................................................................................... 63
+TIRE AND RIM EQUIPMENT...................................................................................................... 63
+WHEEL MOUNTING TORQUES................................................................................................. 66
+TOE-IN ADJUSTMENT............................................................................................................... 66
+TIRE SIZE COMBINATIONS....................................................................................................... 67
+TRACTOR BALLAST.................................................................................................................. 68
+LUBRICATION AND MAINTENANCE......................................................................................... 69
+PERIODICAL INSPECTION AND MAINTENANCE LIST............................................................. 70
+OIL SUPPLY, LUBRICATION AND WATER SUPPLY LIST.......................................................... 72
+OIL SUPPLY, OIL LEVEL CHECK, GREASE SUPPLY, FILTERS CHANGE................................ 73
+OIL SUPPLY, OIL LEVEL CHECK, GREASE SUPPLY................................................................ 75
+HOOD......................................................................................................................................... 76
+SERVICE HOUR INTERVAL....................................................................................................... 76
+ENGINE LUBRICATION............................................................................................................. 79
+ENGINE COOLANT.................................................................................................................... 82
+FUEL SYSTEM........................................................................................................................... 85
+AIR INDUCTION SYSTEM......................................................................................................... 88
+TRANSMISSION AND HYDRAULIC LUBRICATION................................................................... 90
+HOSES....................................................................................................................................... 94
+FRONT AXLE LUBRICATION (MFD).......................................................................................... 94
+COOLING SYSTEM.................................................................................................................... 96
+CLUTCH PEDAL ADJUSTMENT................................................................................................. 98
+BRAKE PEDAL ADJUSTMENT................................................................................................... 99
+RAISE STOP SETTING POSITION............................................................................................ 100
+ELECTRICAL SYSTEM.............................................................................................................. 101
+GENERAL SERVICE INFORMATION......................................................................................... 101
+SPECIFICATIONS...................................................................................................................... 102
+BATTERY................................................................................................................................... 102
+FUSES....................................................................................................................................... 105
+LONG-TERM STORAGE............................................................................................................ 108
+STORING THE TRACTOR......................................................................................................... 108
+REMOVING FROM STORAGE................................................................................................... 109
+CAUTION AT VEHICLE WASHING............................................................................................. 109
+TROUBLESHOOTING................................................................................................................ 111
+SPECIFICATIONS...................................................................................................................... 115
+SPECIFICATION TABLE............................................................................................................ 115
+SPEED CHART.......................................................................................................................... 116
+APPENDIX TABLE..................................................................................................................... 117
+CONSUMABLES........................................................................................................................ 117
+ATTACHMENT........................................................................................................................... 118
+DETAIL INDEX........................................................................................................................... 119
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 14
+PROBLEM: Identifying and recording machine serial numbers
+MACHINE: rotavator
+SYMPTOM: Need to provide machine identification to a dealer for parts or service
+STEPS:
+Write your machine model name and serial numbers of major components on the lines provided.
+If needed, give these numbers to your dealer when you need parts or information for your machine.
+1. TRACTOR MODEL NUMBER ________________________________________________
+2. TRACTOR SERIAL NUMBER ________________________________________________
+3. ENGINE SERIAL NUMBER _________________________________________________
+4. ROPS SERIAL NUMBER ___________________________________________________
+
+DIAGRAM PARTS:
+TRACTOR MODEL NUMBER AND SERIAL NUMBER PLATE (No number provided)
+ROPS SERIAL NUMBER PLATE (No number provided)
+ENGINE SERIAL NUMBER (No number provided)
+
+🔹 Chunk 15
+PROBLEM: [OCR FAILED]
+MACHINE: rotavator
+
+🔹 Chunk 16
+PROBLEM: [OCR FAILED]
+MACHINE: rotavator
+
+🔹 Chunk 17
+PROBLEM: Operating the tractor safely and leaving the vehicle
+MACHINE: rotavator
+SYMPTOM: General safety and operational procedures
+STEPS:
+SAFETY/DECALS
+Always operate the tractor at the proper speeds which enable you to keep the tractor in complete control.
+To start traveling, lower the engine speed and release the clutch pedal slowly.
+Slow down when operating the tractor on rough round.
+Never attempt to jump on or off from moving tractor.
+3. Traveling on Roads and Streets
+For traveling on roads and streets, be sure to lock both brake pedals together before driving to prevent either brake from acting independently.
+Never operate the differential lock while driving at high speed or traveling on the road. For driving the 4WD tractor on the road, be sure to place the 4WD shift lever in OFF position.
+4. Steering and Turning the Tractor
+Slow down your tractor and disengage the differential lock before going into a turn, being careful to prevent any attachments mounted on the front or rear from hitting anyone or anything.
+5. Towing and Operating on Hills
+For towing work on downward slope, place the shift lever in low speed and use engine brake.
+Never try to reduce the speed with brake only. Towing a heavy object on a hill is highly hazardous. Widen the tread of the tractor and mount the wheel weight or chassis weight to increase the stability and operate with extra precaution.
+When operating the tractor on either a steep slope or flat ground, be sure to not to suddenly steer, brake, clutch or operate attachments.
+DO NOT operate the tractor at the edge of cliff or slope. Be particularly careful right after the rain when soil is soft and may give way easily.
+
+LEAVING THE TRACTOR
+1. Before leaving the tractor, stop the engine, remove the key, apply the parking brake and make sure that the engine has come to a complete stop, and any attachment is completely touching the ground.
+2. DO NOT leave the operator's seat when driving.
+
+IMPLEMENTS
+1. For towing, be sure to use the drawbar only. Set the hitch point below the center line of the rear axle. When using a chain, never try to move forward abruptly.
+2. Avoid operating the tractor on an extreme slope that appears hazardous, when forced to
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 18
+PROBLEM: Safety Procedures for PTO Operation and Maintenance
+MACHINE: rotavator
+SYMPTOM: General safety compliance and maintenance precautions
+STEPS:
+PTO OPERATION
+1. Always stop the engine before connecting or disconnecting the drive shaft of implements.
+2. Guards for PTO shaft and implement drive shaft must be fitted.
+3. High-inertia implements do not stop the motion immediately when the PTO is disengaged. Clean and adjust it only after the implement fully stops.
+4. Cover the PTO shaft with a guard when not using.
+
+BASIC SAFETY REQUIREMENTS FOR MAINTENANCE
+Always follow these maintenance instructions before operating the tractor:
+1. Immediately repair the head lights and work lamps required to conform to traffic regulations where the tractor is operated.
+2. Keep tractor steps clean to avoid accidents due to slippage.
+3. Be sure to engage the brake and lower any attachment or implement before disassembling any part.
+4. Never adjust or service the tractor when it is in motion or while the engine is running. Always adjust the brake or clutch properly in accordance with the adjusting procedure in the instruction book.
+5. DO NOT remove the radiator cap while the engine is running. Shut down the engine and wait until it cools sufficiently. For removal, turn the cap to the first stop to relieve pressure. To replace the coolant, use the coolant recovery tank.
+6. Hydraulic oil or fuel escaping under pressure can penetrate the skin, causing serious injury. Before disconnecting oil or fuel lines, be sure to relieve all pressure. Before restoring pressure after repair, be sure all connections are tight and all hydraulic components are in
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 19
+PROBLEM: [OCR FAILED]
+MACHINE: rotavator
+
+🔹 Chunk 20
+PROBLEM: [OCR FAILED]
+MACHINE: rotavator
+
+🔹 Chunk 21
+PROBLEM: Installing and maintaining safety decals
+MACHINE: rotavator
+SYMPTOM: Decals are destroyed, lost, painted over, or cannot be read
+STEPS:
+IMPORTANT: Install new decals if the old decals are destroyed, lost, painted over or can not be read. When parts are replaced that have decals, make sure you install a new decal with each new part.
+NOTE: New decals are available from your Dealer.
+
+DIAGRAM PARTS:
+(1) WARNING: EXPLOSION AND INJURY CAN RESULT FROM USE OF STARTING AIDS WITH HOT GLOW PLUGS. DO NOT INJECT GASOLINE OR ETHER IN AIR INTAKE.
+(2) WARNING: BATTERIES CONTAIN ACID AND EXPLOSIVE GAS. EXPLOSION CAN RESULT FROM SPARKS, FLAMES, OR WRONG CABLE CONNECTIONS. TO CONNECT JUMPER CABLES OR CHARGER, SEE MANUAL(S) FOR THE CORRECT PROCEDURE. FAILURE TO FOLLOW THE ABOVE INSTRUCTIONS CAN CAUSE SERIOUS PERSONAL INJURY OR DEATH
+(3) WARNING: AVOID INJURY OR DEATH BEFORE STARTING ENGINE. Read operator's manual for safety, information and operating instructions. Read all tractor safety signs. Be sure other people are clear of tractor and equipment. Be sure all gears shifted are in neutral or park and all PTO controls are off. Start engine only from seat. Shields are for your protection. Keep them in place. OPERATION: With ROPS always buckle and adjust seat belt. No riders on tractor or equipment. Keep hands, feet and clothing away from power driven parts. For road travel couple brake pedals, use flashing warning lamps unless prohibited by law, and keep SMV emblem visible. TRACTORS CAN BE UPSET. Reduce speed on turns and rough ground. Use a steep slope. Avoid rear upset. Pull only from drawbar, never higher. WHEN TRACTOR HAS STOPPED: Engage park lock or brake. Lower implement to ground. Disengage PTO, stop engine and wait for all movement to stop before servicing or clearing any part.
+
+🔹 Chunk 22
+PROBLEM: Identification and placement of safety decals
+MACHINE: rotavator
+SYMPTOM: Missing or damaged safety warning and caution labels
+STEPS:
+1. Locate the position of the decal on the machine as indicated by the arrows in the diagrams.
+2. Match the decal to the corresponding Parts No. and Parts name provided in the Decals list.
+3. Ensure the correct label is applied to the specified area as noted in the Remarks column.
+
+DIAGRAM PARTS:
+(4) WARNING ROTATING MACHINE PARTS STAY CLEAR,KEEP SHIELDS INSTALLED TO HELP PROTECT FROM CLOTHING ENTANGLEMENT AND INJURY.
+(5) WARNING When improperly operated this tractor can rollover or upset Use of ROPS and seat belt minimize the possibility of injury or death if rollover or upset occurs.For low clearance use only the ROPS can be lowered.NO protection is provided in this position and the seat belt should not be fastened.For all other uses secure ROPS in upright position and fasten seat belt.
+(6) CAUTION DO NOT TOUCH MUFFLER (HIGH TEMPERATURE)
+
+Decals list
+No. 1: 1904 2746 000, LABEL, WARNING, Air cleaner
+No. 2: 1904 2759 000, LABEL, WARNING, Bonnet
+No. 3: 1957 2726 000, LABEL, WARNING, Center cover
+No. 4: 1904 2761 000, LABEL, WARNING, PTO cover
+No. 5: 1904 2765 001, LABEL, WARNING, ROPS
+No. 6: 1901 8732 000, LABEL, CAUTION, Muffler
+
+🔹 Chunk 23
+PROBLEM: Operating and Positioning the Roll Over Protective Structure (ROPS)
+MACHINE: rotavator
+SYMPTOM: Need to adjust ROPS height for restricted clearance or ensure operator safety
+STEPS:
+- Be sure to fix the ROPS frame in the upright position and fasten the seat belt when operating the tractor in any place other than the one where the height is restricted.
+- Otherwise, it could cause an accident, resulting in injury or death when the tractor rolls over or turns over due to improper operation.
+- Do not fasten the seat belt with the ROPS in the lowered position.
+- Otherwise, it could cause an accident, resulting in injury or death when the tractor rolls over or turns over due to improper operation.
+- For normal operation, including transport, always use the foldable ROPS in the secured upright position with a fastened seat belt for full rollover protection.
+
+DIAGRAM PARTS:
+No labeled parts or reference numbers are present in the diagram.
+
+🔹 Chunk 24
+PROBLEM: Adjusting the ROPS (Roll Over Protective Structure) for Low Clearance Operations
+MACHINE: rotavator
+SYMPTOM: Need to operate the tractor in low-clearance environments such as buildings, orchards, or vineyards.
+STEPS:
+1. For low clearance operation, such as operating in buildings, orchards or vineyards, the ROPS can be lowered and secured in the lowered position.
+2. No rollover protection is provided in the lowered positions and the seat belt should not be fastened.
+3. When the low clearance operation is completed, return the ROPS to the secured upright position for all other tractor uses and transport.
+4. When the ROPS frame is in the lowered position, make sure there is clearance between the frame and hitch mounted equipment.
+5. Slowly raise the hitch to maximum height to check for necessary clearance.
+6. For drawbar attached and/or PTO driven equipment, check for clearance including turning corners.
+
+DIAGRAM PARTS:
+SECOND POSITION
+STORED POSITION
+
+🔹 Chunk 25
+PROBLEM: Maintaining and Replacing ROPS (Rollover Protective Structure)
+MACHINE: rotavator
+SYMPTOM: ROPS damage following a tractor accident
+STEPS:
+Tractor Roll Over
+ROPS is a special safety unit. After an accident, The ROPS must be replaced so that you will get the same protection as a new ROPS.
+ROPS, the seat, the seat belts and all the mounting, accessories and wiring inside the operator's protective area must be carefully checked after a tractor accident and all parts with damage should be replaced immediately. DO NOT TRY TO MAKE REPAIRS WELDING THE ROPS.
+
+Safety Rules
+1. Do not make modification to the ROPS. Example, welding an accessory to the ROPS, or drilling a hole in the ROPS.
+2. Special fasteners are used to install the operator protective parts. Replacement parts must be the same as given in the Parts Catalog for your tractor.
+
+ROPS Label
+1. ROPS is equipped with a ROPS label.
+2. The label contains the ROPS serial number and applicable standards.
+
+DIAGRAM PARTS:
+Mahindra (Brand Name)
+MAX26, MAX26H (Tractor Models)
+Agricultural Tractors (Equipment Type)
+1928-C (Serial Number/Model Identifier)
+TYPE-CERTIFICATION FOR ROLLOVER PROTECTIVE STRUCTURES (Certification Text)
+
+🔹 Chunk 26
+PROBLEM: Understanding Orientation and Safety Terminology
+MACHINE: rotavator
+SYMPTOM: Confusion regarding directional instructions or safety warnings in the manual
+STEPS:
+■ Left-Hand and Right-Hand
+Expressions such as LEFT, RIGHT, FRONT, or REAR used in this manual should be understood in accordance with following rules:
+FRONT means the front grille end while REAR means the lifting arm end of the tractor. LEFT or RIGHT means the left or right hand side of the tractor looking forward from operator's seat.
+
+■ Definition of Signs
+Item to be followed are indicated with the following signs in this instruction manual.
+▲ DANGER ▲ WARNING ▲ CAUTION : important items for safety are categorized in three levels and described. Please be sure to read thoroughly
+● NOTE: Points to bring out the full performance of the machine are described. If not followed, it may cause machine damage.
+
+DIAGRAM PARTS:
+Turn Left (Counterclockwise)
+Turn Right (Clockwise)
+REAR
+LEFT
+RIGHT
+FRONT
+
+🔹 Chunk 27
+PROBLEM: Adjusting the Operators Seat and Checking the Safety Switch
+MACHINE: rotavator
+SYMPTOM: Seat position needs adjustment or the operator presence safety switch needs verification
+STEPS:
+Adjusting Seat
+1. Sit on seat.
+2. Pull the lever upward to unlock seat position.
+3. Slide the seat forward or rearward to the required position.
+4. Release lever to look seat in position.
+
+Checking the switch
+(1) Sit on the operator's seat
+(2) Apply the parking brake.
+(3) Shift the all operating control lever to "N" or "OFF".
+(4) Depress the clutch pedal.
+(5) Start the engine.
+(6) Shift the Mid PTO lever to "ON". (If Mid PTO equipped)
+(7) Leave the operator's seat.
+(8) Make sure the engine must shut off. In case the Mid PTO is disengaged, the engine will remain running if you stand up.
+
+DIAGRAM PARTS:
+SEAT ADJUSTING LEVER
+
+🔹 Chunk 28
+PROBLEM: Steering Column Tilt Adjustment
+MACHINE: rotavator
+SYMPTOM: Operator requires a different steering wheel angle for comfort or operation
+STEPS:
+1. Move the lever fully downward to disengage the latch from the column.
+2. Move the steering wheel rearward or forward to the required position, then return the lever upward to lock the steering column.
+3. Make sure that the lock is engaged.
+
+DIAGRAM PARTS:
+STEERING COLUMN TILT LEVER
+
+🔹 Chunk 29
+PROBLEM: Understanding Instruments and Indicators
+MACHINE: rotavator
+SYMPTOM: Operator needs to interpret tachometer and hour meter readings for PTO operation
+STEPS:
+The tachometer displays "Engine rotational speed / minute" (RPM).
+The symbol of the shape of the cogwheel directs the speed that uses appropriate PTO.
+The hour meter displays the engine driving time.
+White line [A] shows the 540 rpm of the Rear PTO speed.
+White line [B] shows the 2000 rpm of the MID PTO speed.
+
+DIAGRAM PARTS:
+(1) Tachometer and Hour Meter
+(2) Instrument cluster
+(3) Tachometer needle
+(4) Indicator lights
+(5) Indicator lights
+(6) Indicator lights
+(7) Hour meter display
+
+🔹 Chunk 30
+PROBLEM: Understanding Instrument Panel Indicators and Gauges
+MACHINE: rotavator
+SYMPTOM: Monitoring engine temperature, fuel level, turn signals, glow plug status, and battery charge
+STEPS:
+(2) Engine Coolant Temperature Gauge
+The gauge indicates the coolant temperature when the starter key switch is in ON position. If the engine overheats, the pointer turns the up side into ♠ position area. In this case, stop the engine immediately and check for the cause.
+
+(3) Fuel Gauge
+The meter shows how much fuel is in the tank.
+NOTE: The pointer can be in lowest position when the starter key switch is in the OFF position. To get a fuel level indication, turn the starter key switch to the ON position.
+
+(4) Turn Signal Indicators
+The LH indicator on the TACHOMETER will operate when the turn signal switch is moved to downward. The RH indicator will operate when the switch is moved to upward.
+Both indicators will operate ON and OFF when hazard switch is pushed down.
+
+(5) Engine Glow Plug Indicator
+This signal indicates the correct functioning of the glow plug circuit. When 10 seconds after the starter key switch turns to the ON position, or when the engine starts, the glow plug indicator lamp will be turned off.
+
+(6) Charge Indicator
+The charge indicator shows the battery is being discharged. If the lamp illuminates during operation, stop the engine and check for the cause.
+
+DIAGRAM PARTS:
+Engine Coolant Temperature Gauge icon (thermometer symbol)
+Fuel Gauge icon (fuel pump symbol)
+Turn Signal indicator panel (TACHOMETER)
+Engine Glow Plug Indicator icon (coil symbol)
+Charge Indicator icon (battery symbol)
+
+🔹 Chunk 31
+PROBLEM: Responding to Engine Oil Pressure Indicator
+MACHINE: rotavator
+SYMPTOM: Low engine oil pressure
+STEPS:
+The engine oil pressure indicator shows low engine oil pressure. If the engine oil pressure drops below its normal pressure, the engine oil pressure indicator will turn on. Shut off the engine immediately. Check for the cause.
+
+DIAGRAM PARTS:
+Engine Oil Pressure Indicator (7)
+
+🔹 Chunk 32
+PROBLEM: [OCR FAILED]
+MACHINE: rotavator
+
+🔹 Chunk 33
+PROBLEM: Operating Instrument Controls
+MACHINE: rotavator
+SYMPTOM: Difficulty adjusting engine speed or operating lighting systems
+STEPS:
+(2) Engine Speed Control Lever
+Pull the engine speed control lever to the rearward to increase the engine speed.
+Push the engine speed control lever forward to decrease the engine speed.
+
+(3) Lamp Switch
+Two position switch as follows:
+ALL lamps are OFF. (Turn signal, hazard signal and flasher lamps can be turned on.)
+First position clockwise illuminates head lamps, instrument panel and rear red lamp.
+
+(4) Hazard Switch
+To flash the Flasher Lamps whenever the tractor is operated or traveling on roads.
+
+DIAGRAM PARTS:
+ENGINE SPEED CONTROL LEVER
+LAMP SWITCH
+HAZARD SWITCH
+
+🔹 Chunk 34
+PROBLEM: Operating Turn Signal and Horn Controls
+MACHINE: rotavator
+SYMPTOM: Inability to signal turns or sound the horn
+STEPS:
+(5) Turn Signal Switch
+To indicate that you are going to turn the tractor to the RIGHT, move the turn signal switch to upward. To indicate that you are going to turn the tractor to the LEFT, move the turn signal switch to downward. Center position is OFF.
+
+Turn Signal with Hazard switch ON
+When the turn signal switch is moved to upward, the RH flasher lamp will blink, and the LH lamp will stay ON.
+When the turn signal switch is moved to downward, the LH flasher lamp will blink, and the RH lamp will stay ON.
+
+Turn Signal with Hazard switch OFF
+When the turn signal switch is returned to the center position, both flasher lamps will illuminate ON and OFF.
+
+(6) Horn Switch
+Press the horn switch to energize the horn.
+
+IMPORTANT: When towing an implement or wagon by the tractor, the complete rear area warning system (amber warning lamps, rear red lamp and SMV emblem) must be easily seen by any vehicle operator coming near the tractor.
+
+DIAGRAM PARTS:
+TURN SIGNAL SWITCH
+HORN SWITCH
+
+🔹 Chunk 35
+PROBLEM: Operating Control Levers and Pedals
+MACHINE: rotavator
+SYMPTOM: Difficulty controlling engine speed or vehicle travel speed
+STEPS:
+(1) Accelerator Pedal (Shuttle Type Only)
+Use this pedal when operating the tractor on the road. Push the pedal down to increase engine speed.
+NOTE: The engine speed control lever must be set to give the slowest engine speed when the throttle pedal is used.
+
+(2) Speed Ratio Control Pedal (HST Type Only)
+The control pedal is centralized to the neutral position by spring load. Push down on the front pedal to increase forward speed. Push down on the rear pedal to increase reverse speed.
+
+DIAGRAM PARTS:
+Accelerator Pedal (1)
+Speed Ratio Control Pedal (2)
+Control Levers (3)
+Control Levers (7)
+
+🔹 Chunk 36
+PROBLEM: Operating and Locking the Brake Pedals
+MACHINE: rotavator
+SYMPTOM: Difficulty steering in soft soil or inability to stop both wheels simultaneously on the road
+STEPS:
+(3) Brake Pedals
+- Push the RH brake pedal down to slow or stop the RH rear tractor wheel, push the LH brake pedal down to slow or stop the LH rear wheel. The tractor will turn in the direction of the wheel that is slowed or stopped.
+
+(4) Brake Pedal Lock
+- Be sure to lock the 2 brake pedals by using the brake pedal lock to step on the pedals simultaneously when travelling on a road.
+- When operating the tractor with extra weight applied or in a bad traction condition such as mud or ice, apply brake earlier than usual. Liquid in the tires, ballast weight on the machine or wheels, or tank filled with fertilizer, herbicide or insecticide, etc. will cause extra weight. Otherwise, it could cause an accident due to increased stopping distance.
+
+DIAGRAM PARTS:
+(3) Brake Pedals
+(4) Brake Pedal Lock
+LH BRAKE
+RH BRAKE
+LOCK
+REMOVE
+BRAKE PEDAL (LEFT SIDE)
+BRAKE PEDAL (RIGHT SIDE)
+
+🔹 Chunk 37
+PROBLEM: Operating Park Brake, Speed Lock, and Clutch Pedal
+MACHINE: rotavator
+SYMPTOM: Difficulty in parking, maintaining constant travel speed, or engaging gears
+STEPS:
+(5) Park Brake Lever
+1. The park brake must be on to prevent movement of the tractor during stationary power takeoff work or when the tractor is parked. To engage the park brake, lock the brake pedals together, push down on the brake pedals and move the park brake lever upward. Push the brake pedal down to release the park brake.
+2. Before getting off the tractor, disengage the PTO, lower all implements to the ground, place all control levers in their neutral positions, set the parking brake, stop the engine and remove the key.
+3. If it is necessary to park on an incline, be sure to check the wheels to prevent accidental rolling of the machine.
+
+(6) Speed Lock Lever (HST Type Only)
+To keep a constant forward travel speed, move the lever fully upward, while holding the speed ratio control pedal at the desired speed. It does not work in reverse.
+
+(7) Clutch Pedal
+The clutch must be disengaged when starting the engine, stopping the tractor, storing the tractor and operating the following levers, gear shift lever, range shift lever Rear PTO lever, MID PTO lever, MFD lever, shuttle shift lever (Shuttle Type).
+
+[HST Type]
+It is free on engine brake with the range lever engaged, be sure set the parking brake.
+
+DIAGRAM PARTS:
+Park Brake Lever (5)
+Speed Lock Lever (6)
+Clutch Pedal (7)
+Brake Pedal (labeled in diagram)
+
+🔹 Chunk 38
+PROBLEM: Operating Clutch Lock Latch and Differential Lock Pedal
+MACHINE: rotavator
+SYMPTOM: Difficulty engaging differential lock or need for long-term clutch storage
+STEPS:
+(8) Clutch Lock Latch
+For long term storage, lock the clutch pedal in the disengaged position. This will prevent the clutch disc from sticking to the engine flywheel.
+
+(9) DIFFERENTIAL LOCK PEDAL
+Push the pedal down to engage the differential lock. A spring inside of the differential lock pushes it out of engagement when pedal is released.
+
+NOTE: When engaging the differential lock, push the clutch pedal down or bring speed ratio control pedal to Neutral, to stop the wheels that are rotating, then push the differential lock pedal. Do not operate the differential lock pedal while the wheels are rotating.
+
+WARNING
+- Do not engage the differential lock when travelling on a road or operating at a high speed.
+Otherwise, the steering will be disabled, causing an accident.
+
+DIAGRAM PARTS:
+Clutch Lock Latch (8)
+DIFFERENTIAL LOCK PEDAL (9)
+Control lever (10)
+Control lever (11)
+
+🔹 Chunk 39
+PROBLEM: Operating MFD Control Lever, Hydraulic Flow Control Knob, and Gear Shift Lever
+MACHINE: rotavator
+SYMPTOM: Difficulty engaging 4WD, improper hitch lowering speed, or inability to shift transmission gears
+STEPS:
+(10) MFD Control Lever
+To engage the MFD (Mechanical Front Drive), move the MFD control lever upward. Move the lever downward to disengage MFD (drive to the rear wheels only).
+IMPORTANT: The clutch pedal must be pushed down to operate the MFD lever.
+
+(11) Hydraulic Flow Control Knob
+Use the hydraulic flow control knob to adjust the hitch lowering speed. Adjust the lowering speed to provide smooth operation of the hitch with the implement being used. Turn the knob fully clockwise to lock the hitch in position. See Hitch Lowering Speed Adjustment in this manual for more information.
+
+(12) Gear Shift Lever (Shuttle Type Only)
+The gear shift lever is used to shift the transmission gears into any of four speeds.
+
+DIAGRAM PARTS:
+MFD Control Lever (10)
+Hydraulic Flow Control Knob (11)
+Gear Shift Lever (12)
+Control Lever (13)
+Control Lever (14)
+Seat (15)
+Seat (17)
+
+🔹 Chunk 40
+PROBLEM: Operating Range Shift, Shuttle Shift, and Rear PTO Levers
+MACHINE: rotavator
+SYMPTOM: Difficulty shifting transmission ranges, changing direction, or engaging the PTO
+STEPS:
+(13) Range Shift Lever
+[Shuttle Type]
+Move the range shift lever forward to place the transmission in H range. Move the lever rearward to place the transmission in L range.
+[HST Type]
+Move the range shift lever forward to place the transmission in H range. Move the lever to the rearward to place the transmission in L range. The center position between L and H places the transmission in N.
+
+(14) Shuttle Shift Lever
+(Shuttle Type Only)
+The shuttle shift lever is used to shift the transmission gear into forward of reverse position. Move the shuttle shift lever forward (F position) to the forward position. Move the shuttle shift lever rearward (R position) to the reverse position. The center position between F and R places the transmission in N position (Neutral).
+NOTE: Be sure the shuttle shift lever is in N (Engine start) position when starting the engine.
+
+(15) Rear PTO Lever
+Move the lever forward to engage the Rear PTO. Move the lever rearward to disengage the Rear PTO.
+NOTE: Be sure the Rear PTO lever is in OFF position when starting the engine.
+
+DIAGRAM PARTS:
+Range Shift Lever (13)
+Shuttle Shift Lever (14)
+Rear PTO Lever (15)
+
+🔹 Chunk 41
+PROBLEM: Operating Instrument/Controls
+MACHINE: rotavator
+SYMPTOM: Difficulty engaging or controlling the Mid PTO, Three point hitch, or Remote Hydraulic system.
+
+STEPS:
+(16) Mid PTO Lever (IF EQUIPPED)
+Move the lever forward to engage the Mid PTO. Move the lever rearward to disengage the Mid PTO.
+NOTE:
+1. Be sure the Mid PTO lever is in OFF position when starting the engine.
+2. The Rear and Mid PTO shaft can be operated at the same time.
+3. When not using the Mid PTO shaft, cover the shaft with the Mid PTO cover.
+
+(17) Hitch Control Lever
+Use this lever to control the position of the hitch. Move the lever forward to lower the Three point hitch. Move the lever to the rearward to raise the Three point hitch.
+
+(18) Remote Hydraulic Control Lever with Float Position (IF EQUIPPED)
+A double acting remote control valve is available for your tractor. The remote hydraulic control lever which operates the remote control valve is located on the RH side fender.
+See "remote hydraulic control valve" in this manual for more information.
+
+DIAGRAM PARTS:
+Mid PTO Lever (16)
+Hitch Control Lever (17)
+REMOTE HYDRAULIC CONTROL LEVER WITH FLOAT POSITION (18)
+
+🔹 Chunk 42
+PROBLEM: Performing pre-start checks and maintenance
+MACHINE: rotavator
+SYMPTOM: Routine maintenance required before starting the engine
+STEPS:
+1. Make sure all persons who operate or do maintenance on the tractor understand that clean fuel is important.
+2. Check all lubrication fittings for grease as given in the Lubrication Chart.
+3. Check the oil level in the engine crankcase. Check the oil level in the transmission.
+4. Check the tractor fuel tank is filled with clean fuel that has the specifications given in this manual.
+NOTE: Clean around the fuel tank cap before you remove cap.
+5. Check the fuel system, cooling system and engine oil pan for leaks.
+6. Check the fan belt is adjusted correctly.
+7. Remove any water or sediment from the fuel filter cup.
+8. Check the air pressure of the tires.
+9. Make sure the PTO safety guard is installed.
+10. Check the coolant level in the radiator and reservoir bottle. Add water and ethylene glycol coolant as needed.
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 43
+PROBLEM: Performing the initial run-in procedure and post-operation bolt torque checks
+MACHINE: rotavator
+SYMPTOM: New engine break-in or maintenance required after the first 10 hours of operation
+STEPS:
+RUN - IN PROCEDURE
+If run-in instructions for a new engine are not followed, you can cause damage to position rings and cylinder walls.
+LOAD
+Never operate an engine immediately under full load. Allow the engine to warm up before operating it at full load. Run-in the engine carefully as shown in the table.
+1st Hour: Engine Speed Control Lever Position: Fully advanced. Load: Maintain engine speed 100 RPM above full load governed speed.
+2nd Through 5th Hour: Engine Speed Control Lever Position: Fully advanced. Load: Full load governed speed with occasional short periods of lighter load.
+NO LOAD
+Do not run the engine at idle speed. When not operating the engine with a load, you can keep the correct engine operating temperature if you run the engine at approximately 1500 RPM.
+FRONT FRAME BOLTS
+After the first 10 hours of operation, check the front frame bolts. Tighten the bolts to the torque shown below.
+Front frame mounting torques
+Size M12x30,35, 12Bolts ............... 107.8 N·m (80Lb·ft)
+LOWER LINK BRACKET BOLTS (P53)
+After the first 10 hours of operation, check the Lower Link Bracket bolts.
+Tighten the bolts to the torque shown below.
+Size M12, 4Bolts ............... 83 to 93 N·m (62 to 69 Lb·ft)
+Size M14, 4Bolts ............... 120 to 130 N·m (89 to 96 Lb·ft)
+REAR WHEEL BOLTS
+After the first 10 hours of operation, check the rear wheel bolts. Tighten all wheel bolts to the torque give in the Wheel Mounting Torques in this manual. (P66)
+FRONT WHEEL BOLTS
+After the first 10 hours of operation, check the front wheel bolts. Tighten the bolts to the torques shown in the Wheel Mounting Torques in this manual. (P66)
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 44
+PROBLEM: Normal Starting Procedure
+MACHINE: rotavator
+SYMPTOM: Engine will not start or safety interlock prevents operation
+STEPS:
+1. Put the gear shift lever in the Neutral position (Shuttle Type) or the Speed Lock Lever to be released (HST Type).
+
+DIAGRAM PARTS:
+NEUTRAL POSITION (indicated by arrow pointing to gear shift lever)
+
+🔹 Chunk 45
+PROBLEM: Starting the Engine
+MACHINE: rotavator
+SYMPTOM: Engine fails to start or requires proper startup procedure
+STEPS:
+2. Put the REAR PTO and MID PTO control levers (if equipped) in the OFF (Engine start) position.
+3. Put the SHUTTLE lever in the N (Engine start) slot (Shuttle Type).
+4. HST control pedal in the N position (Engine start) (HST Type).
+5. Put the engine speed control lever at the low speed position.
+6. Push the clutch pedal down.
+7. Turn the starter key switch to the heat & ON position. Wait until the glow plug indicator lamp is put out.
+
+DIAGRAM PARTS:
+OFF POSITION (no number)
+N POSITION (no number)
+ENGINE SPEED CONTROL LEVER (no number)
+CLUTCH PEDAL (no number)
+
+🔹 Chunk 46
+PROBLEM: [OCR FAILED]
+MACHINE: rotavator
+
+🔹 Chunk 47
+PROBLEM: [OCR FAILED]
+MACHINE: rotavator
+
+🔹 Chunk 48
+PROBLEM: Warming the engine/transmission and stopping the engine
+MACHINE: rotavator
+SYMPTOM: Engine overheating or cold start operational issues
+STEPS:
+10. WARMING THE ENGINE AND TRANSMISSION.
+A. To heat the transmission oil to operating temperature, run the engine at 1500 RPM for approximately five minutes.
+11. KEEP THE ENGINE AT CORRECT OPERATING TEMPERATURE.
+A. Never run the engine below 1500 RPM.
+B. Put a cover in front of the grille to control the amount of air going through the radiator.
+12. STOPPING THE ENGINE
+A. Run the engine at slow speed for a short period of time. This will permit the engine temperature to decrease gradually before stopping the engine.
+STOPPING THE ENGINE
+1. Move the engine speed control lever to run engine at low speed position for three to five minutes to decrease the temperature of engine.
+2. Put the REAR PTO control lever, MID PTO control lever (if equipped) and the range shift lever in the OFF or N (neutral) position.
+
+DIAGRAM PARTS:
+LOW (label for engine speed control lever position)
+REAR PTO LEVER (label for lever)
+
+🔹 Chunk 49
+PROBLEM: Folding the ROPS Frame
+MACHINE: rotavator
+SYMPTOM: Need to lower the ROPS frame for clearance or storage
+STEPS:
+3. Turn key switch to OFF position. Remove the key.
+1. Loosen the lock nut and the lock bolt.
+2. Remove the lock pin from the position pin.
+
+DIAGRAM PARTS:
+ROPS BAR
+LOCK BOLT
+LOCK NUT
+LOCK PIN
+POSITION PIN
+
+🔹 Chunk 50
+PROBLEM: Adjusting the ROPS bar position
+MACHINE: rotavator
+SYMPTOM: Need to lower the ROPS bar for clearance or storage
+STEPS:
+3. While holding the ROPS bar CAREFULLY remove the position pins.
+4. Down the ROPS bar slowly for the second position. While holding the ROPS bar carefully install the position pins.
+5. Install the lock pin to the position pin.
+6. Remove the lock pin from the position pin.
+7. While holding the ROPS bar CAREFULLY remove the position pins.
+
+DIAGRAM PARTS:
+POSITION PIN
+LOCK PIN
+
+🔹 Chunk 51
+PROBLEM: Folding and Adjusting the Foldable ROPS (Roll-Over Protective Structure)
+MACHINE: rotavator
+SYMPTOM: ROPS bar is loose or needs to be lowered for storage/clearance
+STEPS:
+8. Down the ROPS bar slowly from the second position.
+While holding the ROPS bar carefully install the position pins.
+9. Install the lock pin to the position pin.
+Adjustment of Foldable ROPS.
+If you feel less friction when the ROPS is at the upright position, tighten the Lock Nut until you feel the right friction in the movement.
+
+DIAGRAM PARTS:
+POSITION PIN
+LOCK NUT
+LOCK PIN
+
+🔹 Chunk 52
+PROBLEM: Towing the tractor
+MACHINE: rotavator
+SYMPTOM: Tractor engine failure or inability to move under its own power
+STEPS:
+1. Make sure all controls are in the neutral position and the park brake is disengaged.
+2. Use a rigid tow bar and safety chains to pull the tractor. Attach the tow bar and safety chains to the front tow hook.
+3. Do not pull the tractor faster than 5 km/h (3 mph).
+4. Disengage the mechanical front drive (MFD).
+5. Disengage the differential lock.
+6. [Shuttle Type] Make sure the shuttle lever and the main shift lever are placed in the neutral position. [HST Type] Make sure the HST pedal and the sub shift lever are placed in the neutral position.
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 53
+PROBLEM: [OCR FAILED]
+MACHINE: rotavator
+
+🔹 Chunk 54
+PROBLEM: Operating the Gear Drive Transmission (Shuttle Type)
+MACHINE: rotavator
+SYMPTOM: Difficulty shifting gears or changing direction while operating the tractor
+STEPS:
+1. Push the clutch pedal and stop the tractor. Move the gear shift lever to the gear needed.
+2. Move the range shift lever to the position needed, H, L (The tractor must be stopped before the range lever is operated.)
+3. Move the shuttle lever to Forward or Reverse position.
+4. Release the clutch pedal slowly.
+
+DIAGRAM PARTS:
+[Shuttle lever]
+[Range shift lever, Gear shift lever]
+RANGE SHIFT LEVER
+GEAR SHIFT LEVER
+
+🔹 Chunk 55
+PROBLEM: Operating the Hydrostatic Drive Transmission
+MACHINE: rotavator
+SYMPTOM: Difficulty shifting gears or controlling tractor speed/direction
+STEPS:
+1. Push the clutch pedal fully and stop the tractor. Move the range shift lever to the position needed, H or L.
+2. Release the clutch pedal slowly.
+3. Operate the speed ratio control pedal to move the tractor. To shift from reverse to forward or from forward to reverse, reduce the speed and switch to depress the speed ratio control pedal one from the other.
+
+DIAGRAM PARTS:
+RANGE SHIFT LEVER
+SPEED RATIO CONTROL PEDAL
+(REVERSE)
+(FORWARD)
+
+🔹 Chunk 56
+PROBLEM: Operating the Hydrostatic Speed Lock Lever
+MACHINE: rotavator
+SYMPTOM: Inability to maintain a constant forward speed without continuous pedal pressure
+STEPS:
+1. Determine forward speed as you need by pressing the speed ratio control pedal forward.
+2. Move the lock lever upward to lock the position of the pedal. (It can keep the forward speed constant).
+3. Remove your foot from the pedal.
+4. To release the lock, move the lock lever downward.
+5. Increase of forward speed, speed ratio can be obtained to max. speed by pressing the pedal forward while the lock lever is in lock position. However, decrease of forward speed ratio or change to reverse speed can not be obtained, while the lock lever is in lock position.
+6. To decrease forward speed ratio or change to reverse speed, put your foot on the pedal first, then release the lock lever. Control speed ratio or direction with the foot pedal.
+
+NOTE:
+1. The lock lever can not be released by pressing the brake pedal.
+2. The lock lever can not be released by pressing the hydrostatic speed ratio control pedal.
+3. Make sure to keep the lock lever in the off position when starting the tractor.
+4. Return the lock lever to the off position when stopping the tractor.
+NOTE: The speed ratio control pedal will return to neutral position and the tractor will stop if your foot is not on the pedal.
+
+DIAGRAM PARTS:
+LOCK POSITION (no number)
+RELEASE POSITION (no number)
+
+🔹 Chunk 57
+PROBLEM: Engaging and Disengaging the Mechanical Front Drive (4WD)
+MACHINE: rotavator
+SYMPTOM: Difficulty engaging or disengaging the 4WD system
+STEPS:
+To engage the 4WD:
+1. Press the clutch pedal down, stop the tractor and move the 4WD control lever up to the ON position.
+
+IF THE 4WD IS DIFFICULT TO ENGAGE, DO THE FOLLOWING:
+1. Push the clutch pedal.
+2. Move the range shift lever to L range.
+3. Release the clutch pedal slowly, move the tractor forward or rearward small amount.
+4. Move the 4WD control lever up until fully engaged with proper force.
+
+To disengage the 4WD:
+1. Push the clutch pedal, stop the tractor and move the 4WD control lever down to the OFF position.
+
+IF THE 4WD IS DIFFICULT TO DISENGAGE, DO THE FOLLOWING:
+1. Move the range shift lever to L range.
+2. Slowly release and press the clutch pedal to move the tractor forward or rearward small amount.
+3. Push the clutch pedal and stop the tractor.
+4. Move the 4WD control lever down until completely disengaged.
+
+DIAGRAM PARTS:
+4WD (label indicating upward position)
+2WD (label indicating downward position)
+
+🔹 Chunk 58
+PROBLEM: Operating the Differential Lock
+MACHINE: rotavator
+SYMPTOM: Loss of traction in one rear wheel or need for straight-line steering
+STEPS:
+TO ENGAGE THE DIFFERENTIAL LOCK:
+Depress and hold the differential lock pedal down.
+
+IMPORTANT: Do not engage the differential lock while one rear wheel is rotating and the other rear wheel is stopped. Always stop the wheel that is rotating and then engage the differential lock.
+
+IMPORTANT: When you engage or disengage the differential lock, the front wheels must be in the straight forward position. Before turning the tractor, disengage the differential lock.
+
+TO DISENGAGE THE DIFFERENTIAL LOCK:
+The differential lock will disengage when the differential lock pedal is released. If the differential lock does not disengage easily, push down on either brake pedal instantaneously.
+
+WARNING:
+- Do not engage the differential lock when travelling on a road or operating at a high speed.
+Otherwise, the steering will be disabled, causing an accident.
+
+DIAGRAM PARTS:
+DIFFERENTIAL LOCK PEDAL (Shuttle Type)
+DIFFERENTIAL LOCK PEDAL (HST Type)
+
+🔹 Chunk 59
+PROBLEM: Engaging and Disengaging the Rear PTO
+MACHINE: rotavator
+SYMPTOM: Inability to start or stop the PTO-driven implement
+STEPS:
+ENGAGE THE REAR PTO AS FOLLOWS:
+1. Push the clutch pedal fully.
+2. Move the PTO control lever to the ON position.
+3. Release the clutch pedal slowly.
+
+DISENGAGE THE REAR PTO AS FOLLOWS:
+1. Push the clutch pedal fully.
+2. Move the PTO control lever to the OFF (Engine Start) position.
+3. Release the clutch pedal slowly.
+
+DIAGRAM PARTS:
+REAR PTO SHAFT
+CLUTCH PEDAL
+REAR PTO CONTROL LEVER
+
+🔹 Chunk 60
+PROBLEM: Operating the Mid Power Take Off (PTO)
+MACHINE: rotavator
+SYMPTOM: Inability to engage or disengage the Mid PTO shaft
+STEPS:
+DISENGAGE THE MID PTO AS FOLLOWS:
+1. Push the clutch pedal fully.
+2. Move the Mid PTO control lever to the OFF (Engine Start) position.
+3. Release the clutch pedal.
+
+ENGAGE THE MID PTO AS FOLLOWS:
+1. Push the clutch pedal fully.
+2. Move the Mid PTO control lever to the ON position.
+3. Release the clutch pedal slowly.
+
+DIAGRAM PARTS:
+MID PTO SHAFT
+CLUTCH PEDAL
+MID PTO LEVER
+
+🔹 Chunk 61
+PROBLEM: Operating Stationary Rear PTO
+MACHINE: rotavator
+SYMPTOM: Inability to safely engage or operate stationary implements like chippers or pumps
+STEPS:
+1. Set the blocks at the tires.
+2. Sit on the operator's seat.
+3. Apply the parking brake.
+4. Make sure the all operating control levers are in "N" or "OFF".
+5. Depress the clutch pedal and start the engine.
+6. Shift the Rear PTO control lever to "ON".
+7. Adjust the proper engine speed for the Rear PTO work.
+8. Leave the operator's seat.
+
+DIAGRAM PARTS:
+REAR PTO GUARD
+MID PTO COVER
+REAR PTO CONTROL LEVER
+MID PTO CONTROL LEVER
+
+🔹 Chunk 62
+PROBLEM: Connecting Implements to the Tractor
+MACHINE: rotavator
+SYMPTOM: Difficulty attaching or aligning implements to the tractor hitch or PTO shaft
+STEPS:
+Three Point Hitch Connecting Implements
+1. Connect the implement to the hitch. See THREE POINT HITCH SYSTEM in this manual.
+2. Connect the implement driveline to the tractor.
+3. Check the driveline for correct length and for free telescopic movement by lifting and lowering hitch system. The correct length is important to prevent the driveline from hitting bottom or from separating in any tractor implement operating position.
+
+Drawbar Connecting Implements
+1. Connect the implement hitch to the drawer with a hardened steel pin. Make sure the pin is securely held in place with a cotter pin or lock pin and does not make contact with the implement driveline.
+2. Connect the implement hitch to the tractor drawbar before connecting the implement driveline to the PTO.
+3. Connect the implement driveline to the tractor. Check the driveline for correct length and for free telescopic movement. The correct length is important to prevent the driveline from hitting bottom or from separating in any tractor or implement operating position.
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 63
+PROBLEM: Operating the Tractor Drawbar
+MACHINE: rotavator
+SYMPTOM: Difficulty connecting pull-behind implements or maintaining tractor stability during towing
+STEPS:
+- Your tractor is equipped with a drawbar. Use the drawbar for connecting all pull-behind implements.
+- When a heavy implement is installed to the drawbar, add front end weights to the tractor to keep balance. Otherwise, the tractor could roll backward.
+- Engage the clutch smoothly and use the brakes cautiously during traction.
+- When the implement is raised, the implement may not stabile. Travel slowly, regardless of how much ballast is used. Otherwise, it could cause an accident due to jerking and jackknifing.
+- Be sure to use the drawbar for traction. Use 3 Point hitch only with a traction implement designed for its use not as a drawbar.
+- Never pull other points other than above. If not use the drawbar or 3 point hitch, rear upset may happen.
+
+DIAGRAM PARTS:
+- DRAWBAR OPERATING POSITION
+- STORAGE PIN HOLE (WITHOUT MID PTO)
+- DRAWBAR HITCH CONNECTING PIN HOLE
+- IMPLEMENT CONNECTING PIN HOLE
+
+🔹 Chunk 64
+PROBLEM: Connecting Implement to Drawbar
+MACHINE: rotavator
+SYMPTOM: Difficulty attaching pull-behind implements or risk of stress on tractor/implement components.
+STEPS:
+1. Connect pull-behind implements to the drawbar only.
+2. Use a hardened steel hitch pin to connect the implement to the drawbar. Make sure the pin is held securely in place with a lock pin.
+3. When working with the drawbar, raise the lower links as high as possible to prevent interference between the lower links and the implement.
+
+DIAGRAM PARTS:
+STORAGE POSITION (WITH MID PTO)
+STORAGE POSITION (WITHOUT MID PTO)
+TRACTOR DRAWBAR
+IMPLEMENT HITCH
+LOCK PIN
+IMPLEMENT HITCH WITH CLEVIS
+
+🔹 Chunk 65
+PROBLEM: Setting up the drawbar and safety chain for towing
+MACHINE: rotavator
+SYMPTOM: Improper hitch distance or lack of auxiliary connection for highway towing
+STEPS:
+4. The drawbar provides the standard hitch distance from the end of the PTO shaft to the centerline of the rear hole in the drawbar. This is necessary for safe PTO operation of trailing type equipment.
+SAFETY CHAIN: When towing equipment on a highway, use a safety chain as an auxiliary connection between the tractor and the towed equipment. The safety chain must have a rating greater than the gross load of the towed equipment. Connect the chain to the tractor drawbar support and the towed equipment as shown in the illustration. Check the adjustment of the safety chain by turning the tractor completely to the right and left. Adjust the chain as necessary.
+IMPORTANT: The maximum fixed drawbar vertical load is 325 kg(715 lbs)
+
+DIAGRAM PARTS:
+REAR PTO SHAFT
+DRAWBAR
+A (Dimension)
+SAFETY CHAIN
+
+🔹 Chunk 66
+PROBLEM: Adjusting the Three Point Hitch System
+MACHINE: rotavator
+SYMPTOM: Implement not working at the correct depth or failing to follow the shape of the ground
+STEPS:
+Lift Links
+1. Connect the lift links to the tractor and to the lower links. Make sure the lift links are installed on the proper side as shown.
+2. The RH side lift link is adjustable by the turnbuckle to obtain the desired position of the hitch point.
+Turn the turnbuckle clockwise to shorten the link or counterclockwise to lengthen the link.
+IMPORTANT: After the lift link is adjusted, make sure the locknut is tightened against the turnbuckle.
+
+DIAGRAM PARTS:
+UPPER LINK
+LIFT LINKS
+LOWER LINKS
+STABILIZERS
+M14, 4 BOLTS
+LOCKNUT
+RH LIFT LINK
+M12, 4 BOLTS
+TURN BUCKLE
+LH LIFT LINK
+
+🔹 Chunk 67
+PROBLEM: Adjusting the Upper Link and Stabilizer
+MACHINE: rotavator
+SYMPTOM: Excessive lateral swing of the hitch or incorrect implement leveling/depth
+STEPS:
+Upper Link:
+1. The length A of the upper link can be adjusted from 446 to 695 mm (17.6 to 27.4 inches).
+2. Turn the turnbuckle clockwise to shorten the link or counterclockwise to lengthen the link.
+3. IMPORTANT: After the upper link is correctly adjusted, make sure the lock nut is tightened against the turnbuckle.
+
+Stabilizer:
+1. When side movement of the hitch is undesirable or hazardous, the lateral swing is adjusted by the turnbuckle on the stabilizer.
+2. Turn the turnbuckle clockwise to lengthen the stabilizer or counterclockwise to shorten the stabilizer.
+3. IMPORTANT: After making final adjustments carefully raise the implement to make sure that there is proper clearance between the implement and tractor components.
+4. NOTE: Make sure the lock pin is installed after adjusting the stabilizer.
+
+DIAGRAM PARTS:
+LOCK NUT
+TURNBUCKLE
+UPPER LINK
+HOOK
+LOCK PIN
+STABILIZER
+A (Length)
+
+🔹 Chunk 68
+PROBLEM: Hitching the implement using Telescopic Lower Links
+MACHINE: rotavator
+SYMPTOM: Difficulty aligning or connecting the tractor lower links to the implement pins
+STEPS:
+1. Slowly back tractor into position to align the telescopic lower links with implement pins.
+2. Park tractor safely.
+3. Press the bracket (D) in telescopic lower link and pull link (E) to extend as needed.
+4. Connect telescopic lower links to the implement. Sit on Operator's seat and start engine.
+5. Back tractor until each lock lever snaps and secures each telescopic lower link in the lock position.
+
+DIAGRAM PARTS:
+bracket (D)
+link (E)
+
+🔹 Chunk 69
+PROBLEM: Connecting and Disconnecting Implement from Hitch
+MACHINE: rotavator
+SYMPTOM: Need to attach or detach the rotavator from the tractor 3-point hitch
+STEPS:
+Connecting Implement to Hitch
+NOTE: Be sure the tractor and implement are on level ground.
+1. Put the drawbar in the storage position.
+2. Slowly move the tractor backwards to the implement.
+3. When the hitch points on the tractor and implement are in the correct position, stop the tractor.
+4. Apply the park brake and stop the engine.
+5. Connect the implement to the Upper and Lower Links.
+6. Adjust the Upper and Lower Links as necessary. See Hitch System Adjustments in this manual.
+
+Disconnecting Implement from Hitch
+To disconnect an implement from the hitch, use the following procedure:
+NOTE: Be sure the tractor and implement are on level ground.
+1. Stop the tractor completely and apply the park brake.
+2. Disengage the PTO, lower the implement to the ground.
+3. Gear Drive: Place the gear shift and range shift levers in Neutral.
+Hydrostatic Drive: Release the speed lock lever, and place the range shift lever in Neutral.
+4. Stop the engine and remove the key from the key switch before leaving the tractor.
+5. Disconnect the implement from the hitch.
+NOTE: Be sure the tractor and implement are stable and free from any tendency to roll over.
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 70
+PROBLEM: Operating and Adjusting the Hitch Control Lever
+MACHINE: rotavator
+SYMPTOM: Difficulty in raising or lowering the implement or inability to return to a consistent operating position.
+STEPS:
+- The hitch control lever is used to raise or lower the implement mounted to the three point hitch.
+- To raise the hitch, move the lever to the rear.
+- To lower the hitch, move the lever forward.
+- Adjustable stops are provided for use whenever it is desirable to return the hitch control lever to the same operating position.
+- IMPORTANT: The position of the raise stop should not be set so rearward that a insufficient free play of the lift arms is available at the highest position when hitch control lever is moved until the lever is reached to the raise stop.
+
+DIAGRAM PARTS:
+- HITCH CONTROL LEVER
+- RAISE
+- STOP
+- LOWER
+- RAISE STOP
+- LOWER STOP
+
+🔹 Chunk 71
+PROBLEM: Hitch Lowering Speed Adjustment
+MACHINE: rotavator
+SYMPTOM: Implement lowers too quickly or too slowly, or needs to be locked in a raised position.
+STEPS:
+1. Move the hitch control lever forward to lower the implements.
+2. Turn the hydraulic flow control knob to adjust the lowering speed. Turn the knob counter clockwise to increase the lowering speed. Turn the knob clockwise to decrease the speed or lock the hitch.
+3. After adjusting the speed, raise the hitch and then lower it to check the speed.
+
+DIAGRAM PARTS:
+HYDRAULIC FLOW CONTROL KNOB (labeled with FAST, SLOW, and LOCK positions)
+
+🔹 Chunk 72
+PROBLEM: Connecting and Configuring the Remote Hydraulic Control Valve
+MACHINE: rotavator
+SYMPTOM: Implement does not lower or raise correctly when using the hydraulic control lever
+STEPS:
+1. Connect the implement hoses to the remote hydraulic couplers so that the implement lowers when the control lever is pushed forward and raises when the lever is pulled rearward.
+2. Switch the hoses if the implement works in the opposite way.
+
+DIAGRAM PARTS:
+HYDRAULIC COUPLERS
+REMOTE HYDRAULIC CONTROL LEVER
+
+🔹 Chunk 73
+PROBLEM: [OCR FAILED]
+MACHINE: rotavator
+
+🔹 Chunk 74
+PROBLEM: Configuring the Hydraulic Block for Loader Use
+MACHINE: rotavator
+SYMPTOM: Need to connect or disconnect external hydraulic loader equipment
+STEPS:
+1. Remove the Plug P when the loader and the hydraulic block are used.
+2. Installing plug 1 to the Rc1/4. (tightening torque 21to29N·m{15to21Lb·ft})
+3. (Do not close the port in the hydraulic block when there is no plug 1.)
+4. When Remote attachment is not installed, remove plug1. Afterwards, install Plug P. (tightening torque 49to58.8N·m{35to44 Lb·ft})
+5. When the above is neglected, the hydraulic apparatus will be disadvantaged.
+6. Plug 1 is provided by the Loader manufacturer.
+
+DIAGRAM PARTS:
+section A-A (A-A)
+section B-B (B-B)
+Rc1/4 (Rc1/4)
+PLUG 1 (PLUG 1)
+PLUG P (PLUG P)
+
+🔹 Chunk 75
+PROBLEM: [OCR FAILED]
+MACHINE: rotavator
+
+🔹 Chunk 76
+PROBLEM: [OCR FAILED]
+MACHINE: rotavator
+
+🔹 Chunk 77
+PROBLEM: Determining Tire Load Capacity and Inflation Specifications
+MACHINE: rotavator
+SYMPTOM: Uncertainty regarding correct tire pressure or maximum weight capacity for different tire types
+STEPS:
+1. Identify the tire position (FRONT or REAR) and the specific tire type (AG. TIRES, IND. TIRES, or TURF TIRES).
+2. Locate the corresponding TIRE SIZE and TIRE RATING in the provided tables.
+3. Observe the MAX. LOAD CAPACITY AT MAX. INFLATION PRESURE and the required INFLATION PRESURE for the selected tire.
+4. Ensure the tire is inflated to the specified pressure and do not exceed the maximum load capacity listed.
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 78
+PROBLEM: [OCR FAILED]
+MACHINE: rotavator
+
+🔹 Chunk 79
+PROBLEM: [OCR FAILED]
+MACHINE: rotavator
+
+🔹 Chunk 80
+PROBLEM: Adjusting the toe-in
+MACHINE: rotavator
+SYMPTOM: Incorrect steering alignment or uneven tire wear
+STEPS:
+TO ADJUST THE TOE-IN, USE THE FOLLOWING PROCEDURE:
+Adjust the rods to be equal the dimensions A on both side.
+1. Loosen the lock nut at the rod end.
+2. Turn the rod end to shorten or lengthen.
+3. Lock the lock nuts.
+Tightening torque
+........... 147 to 166 N•m(109 to 123Lb•ft)
+
+DIAGRAM PARTS:
+LOCK NUT
+BOLT
+FILL HOLE
+ROD END
+ROD
+A
+
+🔹 Chunk 81
+PROBLEM: Adjusting Tractor Ballast
+MACHINE: rotavator
+SYMPTOM: Poor steering control, front end instability, or excessive tire slippage
+STEPS:
+- Ballast for your tractor includes front-end weights, rear wheel weights and liquid ballast in the rear tires.
+- Front-end weights improve the steering characteristic when heavy hitch loads cause a movement of tractor weight from the front to the rear wheels.
+- Rear wheel weights and adding liquid to the rear tires increase traction by putting weight on the driving wheels.
+- Use front-end weights as needed to provide effective steering control and front end stability and to achieve maximum operating efficiency and tractor filed performance.
+- Front-end weights can be mounted on the front-end bracket of the tractor with locking bolts and nuts.
+- The weights, locking bolts and nuts are available from your Dealer.
+- A maximum of three weights at 22 kg (49 lbs) each can be installed, depending on implement application and soil conditions.
+
+DIAGRAM PARTS:
+FRONT END WEIGHT
+BRACKET
+TOO MUCH BALLAST
+CORRECT BALLAST
+TOO LITTLE BALLAST
+
+🔹 Chunk 82
+PROBLEM: [OCR FAILED]
+MACHINE: rotavator
+
+🔹 Chunk 83
+PROBLEM: Periodical Inspection and Maintenance
+MACHINE: rotavator
+SYMPTOM: Routine maintenance scheduling to ensure correct functions and safe operating conditions.
+STEPS:
+Perform inspection and maintenance referring to the "Periodical Inspection and Maintenance List" so that the correct functions are performed and the safe condition is maintained at all times. This "Periodical Inspection and Maintenance List" is referential. Adjust as necessary in case of errors.
+
+DIAGRAM PARTS:
+None. (The page contains a table, not a mechanical diagram with labeled parts.)
+
+🔹 Chunk 84
+PROBLEM: [OCR FAILED]
+MACHINE: rotavator
+
+🔹 Chunk 85
+PROBLEM: Oil Supply, Lubrication and Water Supply Maintenance
+MACHINE: rotavator
+SYMPTOM: Routine maintenance, fluid level checks, or fluid replacement requirements
+STEPS:
+System Capacities:
+Engine Oil
+without filter change: 3.4 QTS / 3.2 Liters
+with filter change: 3.9 QTS / 3.7 Liters
+Fuel tank: 6 Gallons / 23 Liters
+Coolant
+Engine and radiator: 5.3 QTS / 5.0 Liters
+coolant bottle: 0.6 QTS / 0.6 Liters
+Transmission Oil
+gear drive: 23.2 QTS / 22 Liters
+hydrostatic drive: 24.3 QTS / 23 Liters
+Front Axle
+MFD: 4.2 QTS / 4.0 Liters
+
+Lubrication Table:
+Engine: Engine Oil, API Classification CF. Ambient temperature ranges from -25°C (-14°F) to 30°C (86°F). Grade Single 5W, 10W, 20W, 20, 30, 40. Grade Multi 5W-20, 10W-30, 15W-40, 20W-40. Description: Use high Grade Diesel Oil, Engine Oil. Recommendation Oil Brand: (For 15W 40 oil) Mahindra SAE 15W-40 Diesel engine oil, Citgo-Citgard 500 15W 40, Exxon-XD3Extra 15W40, Chevron-Delo 400 15W 40, Mobile-Devlac 1300 15W 40, Shell-Rotella T 15W 40, Texaco-Ursa Super Plus 15W 40.
+
+Transmission oil front diff. oil: Hydraulic Transmission Fluid. Recommendation Oil Brand: Mahindra Universal Tractor Hydraulic Fluid, Citgo-Transgard Tractor Hydraulic Fluids, Exxon-Torque Fluid 56, Chevron Chevron 1000 THF, Mobil-Mobil Fluid 424, Shell Donax TD, Texaco-THD oil Special.
+
+Grease Nipple: Grease. Description: Use good grade grease, designed for pin and bushings on agricultural equipment. Lithium or aluminium complex type grease with high viscosity base oil, takiness and molybdenum disulfide are suitable. Grease approved for the NL GI certification make GC-LB are recommended.
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 86
+PROBLEM: Lubrication and Maintenance Procedures
+MACHINE: rotavator
+SYMPTOM: Routine maintenance required for engine oil, fuel filters, and coolant system
+STEPS:
+(1) ENGINE OIL CHANGE 100HRS
+(2) ENGINE OIL - DRAIN
+(3) ENGINE OIL - CHECK DAILY
+(4) ENGINE OIL FILTER - CHANGE 100HRS
+(5) FUEL FILTER - CHECK DAILY
+(6) COOLANT RESERVOIR - CHECK DAILY
+(7) COOLANT DRAIN, FLUSH, FILL 1000HRS OR YEARLY
+
+DIAGRAM PARTS:
+(1) ENGINE OIL CHANGE
+(2) ENGINE OIL - DRAIN
+(3) ENGINE OIL - CHECK
+(4) ENGINE OIL FILTER - CHANGE
+(5) FUEL FILTER - CHECK
+(6) COOLANT RESERVOIR - CHECK
+(7) COOLANT DRAIN, FLUSH, FILL
+(8) ENGINE OIL FILLER CAP
+(9) HYDRAULIC OIL FILLER CAP
+(10) HYDRAULIC OIL LEVEL GAUGE
+(11) REAR AXLE OIL DRAIN PLUG
+(12) TRANSMISSION OIL DRAIN PLUG
+(13) TRANSMISSION OIL FILTER
+(14) TRANSMISSION OIL FILLER CAP
+
+🔹 Chunk 87
+PROBLEM: Lubrication and Maintenance Procedures
+MACHINE: rotavator
+SYMPTOM: Routine maintenance requirements for fluids, filters, and lubrication points
+STEPS:
+(8) AIR CLEANER - CHANGE WHEN NECESSARY
+(9) TRANSMISSION OIL - CHECK DAILY (HST DRIVE)
+(10) TRANSMISSION OIL - CHECK DAILY (GEAR DRIVE)
+(11) TRANSMISSION OIL - DRAIN
+(12) HYDRAULIC FILTER - CHANGE 300HRS
+(13) HST FILTER - CHANGE 300HRS (HST DRIVE)
+(14) BRAKE PEDAL - GREASE 10HRS
+
+DIAGRAM PARTS:
+(1) Air cleaner
+(2) Hydraulic filter
+(3) Transmission oil check (Gear drive)
+(4) Transmission oil check (HST drive)
+(5) Transmission oil drain
+(6) Engine oil filter
+(7) Transmission oil filler
+(8) Air cleaner
+(9) Transmission oil check (HST drive)
+(10) Transmission oil check (Gear drive)
+(11) Transmission oil drain
+(12) Hydraulic filter
+(13) HST filter
+(14) Brake pedal grease point
+
+🔹 Chunk 88
+PROBLEM: Lubrication and Maintenance of Front Axle and Engine Frame
+MACHINE: rotavator
+SYMPTOM: Routine maintenance required for oil levels, grease points, and bolt tightness
+STEPS:
+(1) FRONT AXLE OIL - CHANGE 300HRS
+(2) FRONT AXLE OIL - DRAIN 300HRS
+(3) FRONT AXLE OIL - CHECK 300HRS
+(4) TIE ROD END - GREASE 10HRS
+(5) ENGINE FRAME BOLTS - CHECK RH SIX PIECES 50HRS
+(6) ENGINE FRAME BOLTS - CHECK LH SIX PIECES 50HRS
+USE NLGI NO.2 MULTIPURPOSE LITHIUM GREASE.
+
+DIAGRAM PARTS:
+(1) FRONT AXLE OIL - CHANGE
+(2) FRONT AXLE OIL - DRAIN
+(3) FRONT AXLE OIL - CHECK
+(4) TIE ROD END - GREASE
+(5) ENGINE FRAME BOLTS - CHECK RH
+(6) ENGINE FRAME BOLTS - CHECK LH
+
+🔹 Chunk 89
+PROBLEM: Opening and Closing the Hood
+MACHINE: rotavator
+SYMPTOM: Need to access internal components for maintenance or inspection
+STEPS:
+Opening the Hood
+1. Pull the lever to release the hood.
+2. Lift the hood upwards by holding its bottom with both hands until the prop-rod is fixed securely.
+
+Closing the Hood
+1. To close the hood, hold the hood and release the prop-rod by pushing its.
+2. In closing the hood, use both hands and operate slowly.
+3. Press the hood downwards with both hands until it locks securely.
+
+DIAGRAM PARTS:
+HOOD LEVER
+LABEL
+
+🔹 Chunk 90
+PROBLEM: Performing Initial 50-Hour Maintenance Service
+MACHINE: rotavator
+SYMPTOM: Reaching the 50-hour operational milestone requiring initial fluid and filter maintenance
+STEPS:
+1. Engine Oil
+Drain all the oil from the crankcase while the engine is warm and refill with new oil to the upper Notch (full) on the engine oil dipstick. See Engine Oil Change in this manual.
+2. Engine Oil Filter
+Replace the engine oil filter. See Engine Oil Filter in this manual.
+3. Transmission & Hydraulic System
+(1) Transmission Oil
+Check the level of the transmission oil. Add the specified fluid as needed to maintain proper level. See Transmission Oil Level (Gear Drive) or Transmission Oil Level (Hydrostatic Drive) in this manual.
+(2) Hydrostatic System Filter (Hydrostatic Drive)
+Replace the filter with a new one. See Hydrostatic System Filter in this manual.
+(3) Hydraulic Filter
+Replace filter with a new one. See Hydraulic Filter in this manual.
+4. Front Axle Lubricant (MFD)
+Change the oil. See FRONT AXLE LUBRICATION (MFD) in this manual.
+5. Radiator Core
+Inspect the radiator core and clean if necessary. See COOLING SYSTEM in this manual.
+
+DIAGRAM PARTS:
+ENGINE HOUR METER (no number)
+540 (no number)
+2000 (no number)
+x1000rpm (no number)
+
+🔹 Chunk 91
+PROBLEM: Lubrication and Maintenance Inspections
+MACHINE: rotavator
+SYMPTOM: Routine engine maintenance, air intake leaks, or cooling system/charging issues
+STEPS:
+6. Hoses and Connections between Air Cleaner and Manifold.
+Inspect for loose fit or leakage. See AIR INDUCTION SYSTEM in this manual.
+7. Water Pump, Fan and Alternator Belt Tension.
+Check the belt for tension, replace if necessary. See Fan Belt Adjustment in this manual.
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 92
+PROBLEM: Engine Lubrication Maintenance and Oil Level Checking
+MACHINE: rotavator
+SYMPTOM: Routine maintenance or low oil level warning
+STEPS:
+- Service Specifications
+- Oil Level Check Interval: Daily
+- Oil Change Interval: Every 100 hours (See NOTE)
+- Oil Type: See Lubrication Table in this manual.
+- Oil Capacity:
+- Without Filter Change: 3.2 Liters (3.4 QTS)
+- With Filter Change: 3.7 Liters (3.9 QTS)
+- NOTE: Change the engine oil after the first 50 hours of operation and then use the regular change interval. Change the engine oil more frequently when the operating conditions are severe, such as, operating in very high or very low ambient temperatures, very dusty.
+- Engine Oil Level: To check the engine oil level, put the tractor on level ground and stop the engine. Pull the dipstick out, wipe the dipstick with a dry cloth and install the dipstick to check the oil level. If the oil level is below the A (Add) mark, add oil to raise the oil level to the F (Full) mark.
+- Do not raise the oil level above the F (Full) mark.
+- IMPORTANT: The level should be checked before starting or 5 minutes after the engine has been shut off.
+
+DIAGRAM PARTS:
+- ENGINE OIL DIPSTICK
+- FULL MARK
+- ADD MARK
+
+🔹 Chunk 93
+PROBLEM: Engine Oil Change
+MACHINE: rotavator
+SYMPTOM: Routine maintenance required to ensure engine lubrication and performance.
+STEPS:
+1. Remove the oil pan drain plug and drain the oil from the engine.
+2. See Engine Oil Filter in this manual, if the filter needs to be changed.
+3. Install the drain plug in the oil pan. Tighten the plug to a torque of 50 to 60 N·m (36 to 43 Lb·ft).
+4. Put the correct type and amount of new oil into the engine. See Engine Oil Selection in this manual for the recommendation of oil type.
+5. Start the engine. Operate the engine for five minutes at 1200 rpm. Check for oil leaks at the filter base and drain plug.
+6. Stop the engine. Wait approximately five minutes for the oil return to the oil pan. Check the oil level on the dipstick and add oil if needed.
+
+DIAGRAM PARTS:
+DRAIN PLUG
+OIL FILL CAP
+
+🔹 Chunk 94
+PROBLEM: Changing the Engine Oil Filter
+MACHINE: rotavator
+SYMPTOM: Scheduled maintenance interval reached (100 hours) or initial break-in period (50 hours)
+STEPS:
+1. Drain the oil from the engine. See Engine Oil Change in this manual.
+2. Turn the oil filter counterclockwise to remove. Use a filter wrench, if necessary.
+3. Apply clean oil to the O-ring on the new filter.
+4. Install the filter. Turn the filter until the O-ring comes in contact with the case surface. Tighten the filter an additional 2/3 turns by hand.
+5. Put new oil in the engine. See Engine Oil Change in this manual.
+
+DIAGRAM PARTS:
+REMOVE (arrow indicating counterclockwise rotation)
+INSTALL (arrow indicating clockwise rotation)
+
+🔹 Chunk 95
+PROBLEM: Engine Coolant Maintenance and Pressure Cooling System Inspection
+MACHINE: rotavator
+SYMPTOM: Overheating, coolant loss, or routine maintenance interval reached
+STEPS:
+1. Daily before starting the engine, check the coolant level the coolant reserve bottle. The coolant level should be between the "FULL" and "LOW" lines when the engine is cool.
+2. Be sure to cool down the cooling system before removing the radiator cap. After cooling down, turn the radiator cap to the first notch and wait until the pressure is completely removed. Otherwise, hot coolant will blow out, causing burn injury.
+3. The pressure cap on a pressure cooling system has a control valve that operates as a SAFETY RELIEF VALVE to keep the pressure within the system operating range. Operating the engine without a pressure cap or with a pressure cap but not setting value to operate at the correct pressure can cause damage.
+4. A pressure cooling system decreases the loss of coolant caused by evaporation or boiling. The system must have good seals at the radiator cap, hoses and hose connections. It is important that you stop ALL LEAKS OF ANY SIZE as soon as the leaks are found. A small leak can become a large flow when pressure is increased in the cooling system. While the tractor is in operation, a weak hose can break and cause injury or damage. Check all hoses and hose connections with frequency. KEEP HOSES, HOSE CONNECTIONS AND PRESSURE CAP IN GOOD CONDITION.
+
+DIAGRAM PARTS:
+PRESSURE CAP
+
+🔹 Chunk 96
+PROBLEM: Maintaining and Selecting Coolant Solutions
+MACHINE: rotavator
+SYMPTOM: Overheating, corrosion, or improper coolant concentration
+STEPS:
+- Change the coolant solution at the change interval recommended in this manual (See Lubrication and service Chart).
+- Install only ethylene glycol coolant solution in the cooling system.
+- Use a good quality, high boiling point, ethylene glycol that does not have any additives to stop leaks.
+- Do not install any rust inhibitors that are not approved.
+- Do not use a low boiling point, alcohol type coolant solution.
+- Always have a minimum of 50 percent ethylene glycol coolant in the cooling system at all times and at all ambient temperature ranges.
+- Do not install more than 50 percent ethylene glycol in the cooling system unless the ambient air temperature will be less than -34°F.
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 97
+PROBLEM: Cleaning The Cooling System
+MACHINE: rotavator
+SYMPTOM: Contaminated coolant or scheduled maintenance interval reached
+STEPS:
+1. Remove the hose to drain the coolant. Close the plug after the system is empty.
+2. Install a good type of radiator cleaner and fill the system with clean water. Follow the instructions given with the radiator cleaner.
+3. Remove the radiator cleaner solution. Flush the system with clean water.
+4. Fill the cooling system with the coolant solution specified in this manual. Install coolant system treatment (if required). See Coolant Solutions in this manual for more information. (P83)
+5. Check the hoses, radiator, pump and water manifold for leaks.
+
+DIAGRAM PARTS:
+CLAMP
+HOSE
+CAP
+FULL
+LOW
+COOLANT RESERVE BOTTLE
+
+🔹 Chunk 98
+PROBLEM: Water Removal from the Filter Cup
+MACHINE: rotavator
+SYMPTOM: Presence of water or sediment in the fuel filter cup
+STEPS:
+- Before starting each day's work, check for water or sediment in the filter cup.
+- If water or sediment is in the cup, remove filter cup, clean and reinstall.
+- NOTE: Be careful not to allow dirt, water and other foreign materials to get into the filter when cleaning the cup.
+
+DIAGRAM PARTS:
+FILTER CUP
+
+🔹 Chunk 99
+PROBLEM: Fuel Filter Element Replacement
+MACHINE: rotavator
+SYMPTOM: Engine lacks power or requires routine maintenance to prevent fuel system contamination.
+STEPS:
+1. Clean the outside of the filter body and cup to prevent dirt or foreign materials from entering into the system.
+2. Loosen the filter cup. Remove filter cup. Remove old filter element and clean inside of filter cup.
+3. Install new filter element. Assemble filter cup and retaining nut to filter body.
+NOTE: Be sure O-ring is in place on the filter body and filter cup.
+4. Clean off the fuel from the engine. Start the engine to check for fuel leaks around the filter, lines and fittings.
+NOTE: If the engine does not have power with a full load after you have done the filter service and removed the air from the system, see your Dealer to find and correct the cause.
+
+DIAGRAM PARTS:
+FILTER ELEMENT
+FILTER CUP
+
+🔹 Chunk 100
+PROBLEM: Fuel System Air Removal
+MACHINE: rotavator
+SYMPTOM: Engine failure to start or run due to air in the fuel system
+STEPS:
+1. The starter switch is turned to the position of [ (glow plug symbol) ]. Air will be discharged if it holds in the position as it is for 30 seconds.
+
+DIAGRAM PARTS:
+NOZZLE
+INJECTION PUMP
+
+🔹 Chunk 101
+PROBLEM: Air Filter Element Removal and Maintenance
+MACHINE: rotavator
+SYMPTOM: Engine performance loss due to clogged air induction system or dusty operating conditions
+STEPS:
+1. Stop the engine.
+2. Open the hood and set the prop-rod.
+
+DIAGRAM PARTS:
+DUMP VALVE
+AIR CLEANER
+INLET HOSE
+STARTER SWITCH
+PROP-ROD
+
+🔹 Chunk 102
+PROBLEM: Servicing and Cleaning the Air Filter Element
+MACHINE: rotavator
+SYMPTOM: Reduced engine performance or clogged air intake requiring maintenance
+STEPS:
+3. When servicing the air filter element, unhook the clamp and remove element by pulling it straight out very carefully. Clean interior of canister.
+■ Element Cleaning
+Use clean, dry compressed air up and down the pleats on the clean side (inside) of the element.
+Continue this until the element is clean.
+4. After replacing the new or cleaned element, install and hook the clamp.
+NOTE: Never attempt to remove the element from the air cleaner while the engine is running.
+When installing the element, inspect the element gasket. If the gasket or element surface is damaged, replace the element immediately.
+NOTE:
+1. The paper element must be handled with care. Do not hit the element against a hard surface.
+2. Air pressure at the nozzle must not exceed 689 kPa (100 psi).
+3. It may be necessary to replace the element sooner if the time interval between servicing becomes short indicating the element dose not respond to cleaning (soot contaminated).
+
+DIAGRAM PARTS:
+CLAMP
+AIR FILTER ELEMENT
+
+🔹 Chunk 103
+PROBLEM: Transmission and Hydraulic Lubrication Maintenance
+MACHINE: rotavator
+SYMPTOM: Low transmission fluid levels, hydraulic leaks, or scheduled maintenance intervals
+STEPS:
+System Inspection
+Check the dump valve and the all hoses for cracks and wear. Replace if needed. All the connections on the hoses must be tight. All the gaskets must be in good condition and the bolts must be drawn up tight.
+NOTE: Inspect the hoses and connections after the first 50 hours of operation and replace when necessary.
+
+Transmission Oil Level [Shuttle Type]
+To check the transmission fluid level, put the tractor on level ground.
+Unscrew the filler cap with dipstick and wipe it clean. Check fluid by dipstick level, Do not screw in cap when checking. If the fluid level is below the lower line of the dipstick, add the recommended fluid to raise the fluid level between the F (Full) and L (Low) marked position.
+
+DIAGRAM PARTS:
+DUMP VALVE
+DIPSTICK
+
+🔹 Chunk 104
+PROBLEM: Transmission Oil Maintenance
+MACHINE: rotavator
+SYMPTOM: Routine maintenance or low transmission oil level
+STEPS:
+Transmission Oil Level [HST Type]
+1. Before checking the oil level of the hydrostatic drive tractor, run the engine for three to five minutes at 1500 RPM with the speed ratio control lever, range shift lever and PTO control lever in Neutral or OFF position. Afterwards, stop engine. Then check the oil level in the transmission.
+2. To check the transmission oil level, put the tractor on level ground.
+3. Check the oil level on the transmission dipstick. If the oil level is below the lower line of the dipstick, add the recommended oil to the transmission to raise the oil level to the F (FULL) marked position.
+
+Transmission Oil Change
+Oil Change Interval: Every 300 hours
+To change the transmission oil, use the following procedure:
+1. Put the tractor on level ground, apply the park brake and stop the engine. Move the range shift lever to L position.
+2. Remove the drain plugs from the transmission case. (3 pieces)
+3. Replace the hydraulic filter. See Hydraulic Filter in this manual.
+4. For the hydrostatic drive tractor, replace hydrostatic filter if needed, See Hydrostatic Filter (HST Type) in this manual.
+5. Install the drain plugs with a seal washer and tighten to a torque of 39 to 44 N·m (29 to 33 Lb·ft).
+NOTE: For best results, drain the oil when the oil is warm.
+
+DIAGRAM PARTS:
+DIPSTICK
+TRANSMISSION DRAIN PLUG
+
+🔹 Chunk 105
+PROBLEM: Lubrication and Hydraulic Filter Maintenance
+MACHINE: rotavator
+SYMPTOM: Scheduled maintenance interval reached or hydraulic system service required
+STEPS:
+6. Add the recommended oil through the fill hole and check the oil level.
+[Shuttle Type]
+[HST Type]
+7. Start the engine and check for leaks.
+8. Recheck the oil level after stopping the engine. If the oil level is low, add oil up to the specified level.
+
+CHANGE THE HYDRAULIC FILTER AS FOLLOWS:
+1. Put the tractor on level ground, move the range shift lever to the L position and apply the park brake.
+2. Put an oil canister under the hydraulic filter.
+3. Turn the filter counterclockwise to remove. Use a filter wrench if needed.
+4. Apply clean oil to the O-ring on the new filter.
+
+DIAGRAM PARTS:
+FILL HOLE (Shuttle Type)
+FILL HOLE (HST Type)
+HYDRAULIC FILTER
+
+🔹 Chunk 106
+PROBLEM: Changing the Hydraulic and Hydrostatic System Filters
+MACHINE: rotavator
+SYMPTOM: Routine maintenance interval reached (300 hours) or contaminated hydraulic/transmission fluid
+STEPS:
+5. Install the filter. Turn the filter until the O-ring comes in contact with the case surface. Tighten the filter an additional 2/3 turns by hand.
+IMPORTANT: DO NOT use a filter wrench to install the hydraulic filter. When the filter is too tight, you can cause damage to the O-ring and filter.
+6. Wipe around the hydraulic filter with a dry cloth.
+7. Change the transmission oil. See Transmission Oil Change in this manual.
+Hydrostatic System Filter [HST Type]
+Filter Change Interval ...............Every 300 hours (See NOTE)
+NOTE: Change the filter after the first 100 hours of operation and every 300 hours of operation thereafter. Replace the filter more frequently when operating under unusual dirt and dust conditions. Your Dealer has approved genuine filters. Do not use other type filters.
+When the transmission oil filter needs changing, change the filter as follows:
+1. Drain the transmission oil. See Transmission Oil Change in this manual.
+2. Remove the hydrostatic system filter by turning it counterclockwise. Use a filter wrench, if necessary.
+3. Apply clean oil to the O-ring on the new filter.
+4. Install the new filter. Turn the filter clock-wise until the O-ring comes in contact with the filter head surface. Tighten the filter an additional 2/3 turns by hand.
+5. Add the transmission oil through the fill port and check the oil level.
+6. Run the engine and check for leaks.
+7. After stopping the engine, check the oil level. If it is low, add clean oil.
+
+DIAGRAM PARTS:
+HEAD
+O-RING
+FILTER ASSEMBLY
+
+🔹 Chunk 107
+PROBLEM: Maintenance of Hoses and Front Axle Lubrication
+MACHINE: rotavator
+SYMPTOM: Fuel, water, or oil leaks; loose hose joints; low front axle oil level
+STEPS:
+HOSES
+- Check if fuel is leaking from damages (crack, torn part, looseness of joint) of the fuel hose, peeling of external material and joint, and if leaking, replace it immediately to prevent fire.
+- Check for looseness of joint of the radiator hose. If the radiator hose comes off during operation, hot water blows up.
+- Check for looseness of joint of the power steering hose and oil leakage. If oil leaks, the power steering does not function, causing an accident.
+- Check the fuel hose, radiator hose, and power steering hose for fuel, water, and oil leakage due to deterioration and damages and the tightening band for slackness.
+- After replacing the power steering hose, turn the steering wheel to left and right completely to release the air in the hydraulic circuit.
+- After the fuel hose is replaced, release the air. (see P87)
+
+FRONT AXLE LUBRICATION (MFD)
+- Change the oil after the first 100 hours of operation and then every 200 hours of operation.
+- To check the front axle oil level, put the tractor on level ground. Remove the oil level plugs located on the rear of the both gear cases. If the oil level is low, add the recommended oil type through the fill hole located on the RH side of axle housing until the oil begins to flow out of the level plugholes.
+
+DIAGRAM PARTS:
+DRAIN PLUG
+OIL LEVEL PLUG
+
+🔹 Chunk 108
+PROBLEM: Front Axle Oil Change
+MACHINE: rotavator
+SYMPTOM: Routine maintenance required to ensure proper lubrication of the front axle gear cases.
+STEPS:
+1. To change the front axle oil, put the tractor on level ground. Put the range lever in L, engage the park brake and stop the engine.
+2. Remove the fill cap located on the axle housing, the front axle drain plugs located on the bottom of both side gear cases to drain the oil.
+3. Install the both front axle drain plugs. Supply the oil of the specified quantity. Remove the ventilator cap of right side and left side.
+Tighten the ventilator cap, after oil flows out.(During 20 seconds, oil flows out after having removed a ventilator bolt.) Afterwards,remove the oil level plug and confirm that oil flows out.
+Finally, tighten the oil level check bolt.
+
+NOTE: For best results, drain the oil when the oil is warm.
+
+DIAGRAM PARTS:
+FILL HOLE
+DRAIN PLUG
+VENTILATOR BOLT
+
+🔹 Chunk 109
+PROBLEM: Cleaning the Radiator Screen and Adjusting the Fan Belt
+MACHINE: rotavator
+SYMPTOM: Overheating or engine cooling system maintenance
+STEPS:
+To clean the radiator screen, put the tractor on level ground, apply the park brake and stop the engine.
+1. Open the hood.
+2. Lift the radiator screen.
+3. Clean the radiator screen and the surrounding area.
+4. Install the radiator screen. Lower the hood.
+
+Fan Belt Adjustment:
+Measure the fan belt for correct tension. Check to see if the belt deflection is about 5mm (0.2 inch) when pushing the belt with 49N(5 kg) (11 lb) load at point (A).
+
+DIAGRAM PARTS:
+RADIATOR SCREEN
+FAN PULLEY
+ALTERNATOR PULLEY
+CRANK PULLEY
+(A) 5mm (0.197 inch) 49N (5kg) (11 lb)
+
+🔹 Chunk 110
+PROBLEM: Adjusting and Replacing the Fan Belt
+MACHINE: rotavator
+SYMPTOM: Loose or worn fan belt, or improper alternator output
+STEPS:
+To adjust the fan belt tension, loosen the adjusting bolt and pivot nut of the alternator. Move the alternator away from the engine until as shown above. Tighten the adjusting bolt and pivot nut to a torque of 16 N·m (12 Lb-ft).
+
+Fan Belt Replacement
+To replace the fan belt, use following procedure:
+1. Open Bonnet.
+2. Loosen the alternator-adjusting bolt.
+3. Loosen the alternator pivot nut and push the alternator toward the engine to remove the belt.
+4. Install new fan belt and adjust the belt tension. See Fan Belt Adjustment in this manual for instructions.
+
+NOTE: Too high tension will cause alternator and water pump bearing failure and belt wear.
+Too low tension will cause a decrease in alternator output and belt wear.
+
+DIAGRAM PARTS:
+ADJUSTING BOLT
+PIVOT NUT & BOLT
+FAN BELT
+
+🔹 Chunk 111
+PROBLEM: Clutch Pedal Adjustment
+MACHINE: rotavator
+SYMPTOM: Clutch disc wearing quickly or difficulty shifting transmission due to incorrect pedal free movement.
+STEPS:
+1. Put the tractor on level ground, move the range shift lever in the L position, apply the park brake, stop the engine and adjust the clutch pedal free movement as follows.
+2. Push the clutch pedal down by hand, to measure the amount of pedal free movement.
+3. The pedal free movement must be with in the specification shown above.
+4. Loosen the lock nut.
+5. Adjust the pedal free movement as necessary with the adjusting nuts on the clutch rod.
+6. To increase free movement, turn the nuts at inside.
+7. To decrease free movement, turn the nuts at outside.
+8. Tighten the lock nuts to the torque of 44 to 54 N·m (32 to 40 Lb·ft).
+
+DIAGRAM PARTS:
+CLUTCH PEDAL
+LOCK NUT
+ADJUSTING NUT
+CLUTCH ROD
+
+🔹 Chunk 112
+PROBLEM: BRAKE PEDAL ADJUSTMENT
+MACHINE: rotavator
+SYMPTOM: Incorrect brake pedal free movement or uneven braking between left and right pedals.
+STEPS:
+1. Put the tractor on level ground, move the range lever in the L position.
+2. Stop the engine.
+3. Confirm that the right and left brakes operate simultaneously by running the tractor.
+4. If not, adjust both of them by means of the brake rods.
+5. Loosen lock nut and rotate the brake rod to make a free play of 40 to 50 mm (1.57 to 1.97 inch.) at the brake pedal.
+6. With this free movement is obtained, tighten the lock nut.
+
+DIAGRAM PARTS:
+LOCKNUT
+ADJUSTING NUT
+BRAKE ROD
+
+🔹 Chunk 113
+PROBLEM: Adjusting the Raise Stop Setting Position
+MACHINE: rotavator
+SYMPTOM: Incorrect raise stop setting position causing potential hydraulic pump damage
+STEPS:
+1. Disconnect an implement from the hitch. (See Disconnecting Implement from Hitch in this manual.)
+2. Disconnect LH and RH lifts rods from the lift arms.
+3. Start the engine.
+4. Move the hitch control lever rearward to raise the lift arm to the maximum lifting position.
+5. With the arm so raised, stop the engine.
+6. Check a free play of the lift arm to be 5 to 10 mm at the top of the lift arm by hands.
+7. If the free play is insufficient, move the raise stop forward and check again with the same procedure as before.
+
+DIAGRAM PARTS:
+LIFT ARM
+HITCH CONTROL LEVER
+RAISE STOP
+Max. position by hand (A)
+Stop position by hydraulic
+5~10mm(0.2~0.4 in)
+
+🔹 Chunk 114
+PROBLEM: [OCR FAILED]
+MACHINE: rotavator
+
+🔹 Chunk 115
+PROBLEM: [OCR FAILED]
+MACHINE: rotavator
+
+🔹 Chunk 116
+PROBLEM: Connecting an auxiliary battery to the tractor
+MACHINE: rotavator
+SYMPTOM: Dead or discharged battery requiring an external power supply to start the engine
+STEPS:
+- When connecting an auxiliary battery or charger to the tractor battery, make sure you connect positive-to-positive and negative on the auxiliary battery to the tractor side rail as a ground.
+- Do not connect auxiliary battery cables across the terminals of the starter. Start the engine from the operator's seat.
+- Connect the positive (+) cable clamp of the auxiliary battery to the positive cable terminal of the tractor battery.
+- Connect the negative (-) cable clamp of the auxiliary battery to the tractor side rail as a ground.
+- IMPORTANT: Always connect the negative cable last and disconnect the negative cable first to avoid a spark at the battery. A spark can cause a battery explosion and cause injury.
+
+DIAGRAM PARTS:
+- NEGATIVE (-) TERMINAL
+- POSITIVE (+) TERMINAL
+
+🔹 Chunk 117
+PROBLEM: [OCR FAILED]
+MACHINE: rotavator
+
+🔹 Chunk 118
+PROBLEM: Battery Maintenance and Fuse Inspection
+MACHINE: rotavator
+SYMPTOM: Electrical system failure or battery not holding charge
+STEPS:
+1. Disconnect the negative (-) cable.
+2. Connect the voltmeter across battery terminals.
+3. If there is no voltage present, an open internal circuit is indicated. Replace the battery.
+4. If voltage is present, the battery is OK to charge the battery with a current of 4 amperes for 5 to 10 hours. To charge the battery quickly for urgent need, use a current of 25 amperes for 30 minutes or less. A current larger than specified will cause liquid overflow due to foaming.
+5. The specific gravity of electrolyte of a fully charged battery is 1.280 at 20 °C (68 °F).
+
+NOTE:
+1. If using a battery charger, be certain the charger is turned off before connecting to the battery.
+2. Charge the battery in a well ventilated area.
+3. Do not attempt to charge a frozen battery.
+
+When Battery is Not in Use:
+When the tractor is not in use, the battery will need a charge every three mouths to keep the specific gravity at or above 1.240. A storage battery not in use will slowly discharge. A battery that has discharged can freeze at low ambient temperature and cause damage to the battery and tractor.
+
+FUSES:
+When an error is recognized in electric system during operation, check the fuse.
+When opening the lid of the fuse box, push the lock part and the lid is opened.
+
+DIAGRAM PARTS:
+FUSE BOX (labeled in engine room diagram)
+(a) MAIN 15A
+(b) HAZARD-TURN LAMP 10A
+(c) ENGINE PANEL 10A
+(d) HEAD LAMP 15A
+(e) TURN SIGNAL TAIL LAMP 10A
+(f) HORN POWER OUTLET 10A
+
+🔹 Chunk 119
+PROBLEM: Fuse Replacement
+MACHINE: rotavator
+SYMPTOM: Electrical system failure or blown fuse
+STEPS:
+(1) Set the key to <O>.
+(2) Remove the fuse.
+(3) If the fuse shows as the X marked on the right side of the drawing, the fuse is burnt out.
+Replace with a spare fuse.
+
+NOTE: When opening the fuse box, hole the box as pressing the concave part of the box cover and pull frontward.
+If the fuse continues burnt out after replacement, request a check to the dealer.
+NOTE: Exchange of the fuse is performed by opening the lid.
+
+DIAGRAM PARTS:
+60A (9)
+
+🔹 Chunk 120
+PROBLEM: Replacement of Fuse (For Line Fuse)
+MACHINE: rotavator
+SYMPTOM: Electrical system failure or blown fuse
+STEPS:
+(1) Remove the battery (-) terminal.
+(2) If the fuse (for line fuse) shows as the X marked on the right side of the below drawing, the fuse is burnt out: Replace with a spare fuse (for line fuse)
+
+NOTE: If the fuse burnt out, request a check to the dealer.
+When opening the fuse box (for line fuse), pull out the lock to open.
+
+DIAGRAM PARTS:
+Good fuse (O)
+Burnt out fuse (X)
+
+WARNING: For fire prevention
+- Do not use a fuse with capacity different from the one for the attached fuse (for line fuse). Also, do not use a wire or wrapping foil in the place of the fuse (for line fuse). If used, it will cause a overheating of the wire.
+
+🔹 Chunk 121
+PROBLEM: [OCR FAILED]
+MACHINE: rotavator
+
+🔹 Chunk 122
+PROBLEM: [OCR FAILED]
+MACHINE: rotavator
+
+🔹 Chunk 123
+PROBLEM: Precautions for pressure washing the tractor
+MACHINE: rotavator
+SYMPTOM: Risk of electrical damage or engine start failure due to improper cleaning
+STEPS:
+1. When washing the tractor with pressure washer, DO NOT directly spray the water to the meter panel, steering column, battery and electric components. Cause damage to the electric components.
+2. DO NOT spray the water to the electric wiring part around the engine. It may cause an engine start failure.
+3. When washing the tractor with pressure washer, DO NOT directly spray the water to glass and roof (reduce water pressure).
+
+DIAGRAM PARTS:
+PRESSURE WASHER PROHIBITION
+
+🔹 Chunk 124
+PROBLEM: Troubleshooting Engine Starting Issues
+MACHINE: rotavator
+SYMPTOM: Engine does not start or starter does not rotate
+STEPS:
+1. Place the tractor on flat place, apply parking brake, lower the attachment, stop the engine, and wait until movement of each part stops when cleaning, inspecting, adjusting, and performing maintenance.
+2. When an error occurs, immediately determine the cause and take countermeasures not to worsen the status.
+3. If a cause cannot be determined, or error repeats after adjustment, contact the distributor and have it inspected.
+4. In that case, inform the model type and serial number along the trouble status.
+5. If starter does not rotate by turning the key:
+   - If clutch pedal is not pressed sufficiently: Step on the pedal completely.
+   - If battery discharge: Recharge or replace the battery.
+   - If removal, looseness, or corrosion of battery terminal: Clean the terminal, tighten firmly, and apply grease for corrosion prevention.
+   - If fuse (a), (c), or (g) is fusing: Check the wiring and replace the fuse.
+6. If starter rotates but engine does not start:
+   - If low fuel or empty in fuel tank: Refuel.
+   - If fuel filter clogging: Clean or replace the filter.
+   - If air entry in fuel system: Bleed air.
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 125
+PROBLEM: Troubleshooting Insufficient engine output and engine stop
+MACHINE: rotavator
+SYMPTOM: Engine rotation is irregular, engine stops during operation, overheating, or abnormal exhaust color.
+STEPS:
+1. Engine rotation is irregular: Bleed air, Clean or replace the filter, Tighten clamp and replace pipes, Repair at service dealer.
+2. Engine rotates excessively: Repair at service dealer.
+3. Engine suddenly stops during operation: Refuel and bleed air, Check the wiring and replace the fuse, Repair at service dealer and replace, Repair at service dealer.
+4. Engine is overheated: Clean the radiator screen, Feed coolant water, Adjust the belt tension or replace, Supply oil to the specified level.
+5. Exhaust gas of engine is white (except for immediately after start): Inspect and adjust.
+6. Exhaust gas of engine is black: Clean the element, Replace to specified type of fuel.
+7. Engine output failure: Clean the element, Check fuel system.
+8. Oil lamp is lit during operation: Supply to the specified amount, Replace to oil with appropriate viscosity, Replace the oil filter.
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 126
+PROBLEM: Troubleshooting Driving and Operating Unit and Power Steering
+MACHINE: rotavator
+SYMPTOM: Clutch slippage, brake failure, steering wheel rotation issues, or hydraulic circuit noise.
+STEPS:
+2. Driving and Operating Unit
+1. Tractor does not start. Brake is not applied.
+- Clutch slips: Adjust the play amount of pedal. Replace the clutch at service dealer.
+- Clutch cannot be engaged: Adjust the play amount of pedal. Repair at service dealer.
+- Poor braking or one side braking: Adjust the play amount of brake pedal. Replace the brake disc at service dealer. Step on the both brake pedals equally.
+- Poor return of brake pedals: Replace the spring. Lubricate.
+
+2. Power Steering
+- Steering wheel rotates idle: Supply transmission oil to the specified amount. Retighten or replace. Repair at service dealer.
+- Operation of steering wheel is stiff. Steering wheel cannot be controlled properly: Set the air pressure of both tires at the specified amount. Repair at service dealer. Replace oil or perform warm-up operation sufficiently.
+- Front wheels stagger (Excessive play amount of steering wheel): Retighten. Repair at service dealer. Check the oil level and bleed air.
+- Abnormal noise from hydraulic circuit: Supply transmission oil to the specified amount. Perform warm-up operation sufficiently. Replace hydraulic oil filter. Repair if pipes are deformed.
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 127
+PROBLEM: Troubleshooting Hydraulic and Electric Systems
+MACHINE: rotavator
+SYMPTOM: Abnormal hydraulic noise, lift arm failure, oil leaks, or electrical component failure.
+STEPS:
+1. For abnormal noise from hydraulic circuit: Supply transmission oil to the specified amount; Perform warm-up operation sufficiently; Replace hydraulic oil filter; Repair if pipes are deformed.
+2. For lift arm cannot be lifted: Supply transmission oil to the specified amount; Replace hydraulic oil filter; Repair gear pump at service dealer; Repair control valve at service dealer.
+3. For oil leakage in pipes: Retighten joints; Repair pipes at service dealer.
+4. For lift arm cannot be lowered: Set the flow control lever to the <FAST> position; Repair control valve at service dealer.
+5. For parts of electric components cannot be actuated: Check the wiring and replace each fuse.
+6. For lamp indicator cannot be lit or flickered: Replace each bulb.
+7. General electrical inspection: Inspect the disconnection of wiring connection, poor contact, and earth failure. Have it inspected when fusing repeats.
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 128
+PROBLEM: Reviewing Technical Specifications for Max26XLT Models
+MACHINE: rotavator
+SYMPTOM: N/A (This page provides technical reference data for maintenance and operation planning)
+STEPS:
+1. Locate the specific model (Max26XLT GEAR or Max26XLT HST) in the table columns.
+2. Identify the required category (Engine, Dimensions, Drive train, PTO type, Hydraulic unit, Capacities, or Tires) in the left-hand column.
+3. Cross-reference the category with the model column to determine the specific technical value or unit.
+
+DIAGRAM PARTS:
+None. This page contains a specification table only.
+
+🔹 Chunk 129
+PROBLEM: Determining operating speeds for Gear Drive and Hydrostatic Drive configurations
+MACHINE: rotavator
+SYMPTOM: N/A (This is a reference specification chart)
+STEPS:
+1. Identify the drive type (Gear Drive or Hydrostatic Drive).
+2. Locate the appropriate Range shift (L or H).
+3. For Gear Drive, select the specific Gear shift (1, 2, 3, or 4).
+4. Cross-reference with the Tire size (Rear) to find the corresponding Forward (F) and Reverse (R) speeds in mph (km/h).
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 130
+PROBLEM: Identifying Consumable Parts for Engine, Air Cleaner, and Hydraulic Line
+MACHINE: rotavator
+SYMPTOM: Routine maintenance or replacement of filters and belts
+STEPS:
+1. Refer to the APPENDIX TABLE for Engine consumables.
+2. Refer to the APPENDIX TABLE for Air cleaner and hydraulic line consumables.
+3. Match the reference number from the diagram to the corresponding Parts No., Parts name, Quantity, Type, and Remarks in the tables.
+
+DIAGRAM PARTS:
+1. Engine:
+FILTER ASSY, OIL (1)
+ELEMENT (2)
+V-BELT (3)
+
+2. Air cleaner and hydraulic line:
+FILTER (1)
+FILTER OIL (2)
+FILTER COMPO (3)
+
+🔹 Chunk 131
+PROBLEM: Identifying and Specifying Electric Components and Attachments
+MACHINE: rotavator
+SYMPTOM: Electrical system failure or need for equipment configuration
+STEPS:
+APPENDIX TABLE
+3. Electric components
+ATTACHMENT
+
+DIAGRAM PARTS:
+1 FUSE
+2,3 FUSE
+4 BULB LAMP
+5 BULB
+6 BULB
+7 BULB
+8 BULB
+
+🔹 Chunk 132
+PROBLEM: Locating specific maintenance and operational procedures in the manual
+MACHINE: rotavator
+SYMPTOM: N/A (This is an index page)
+STEPS:
+Refer to the page numbers listed in the DETAIL INDEX to find specific instructions for maintenance, operation, or troubleshooting.
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 133
+PROBLEM: Indexing of manual contents
+MACHINE: rotavator
+SYMPTOM: N/A (This page is an alphabetical index of manual topics)
+STEPS:
+Fuse Replacement..................................................106
+Fuses.......................................................................105
+G
+Gear Drive Transmission.......................................41
+Gear Shift Lever (Shuttle Type Only)...............26
+General Operating Safety Precaution..................2
+General Service Information..............................101
+Grill Screens and Radiator Area.........................96
+H
+Hazard Switch.......................................................20
+Hitch Control Lever.............................................28
+Hitch Control Lever.............................................57
+Hitch Lowering Speed Adjustment.....................58
+Hitch Operation...................................................56
+Hitch System Adjustments..................................53
+Holding and Adjustment.....................................36
+Hood......................................................................76
+Horn Switch..........................................................21
+How to Open/Close The Hood............................76
+How to Transport Tractor....................................40
+Hydraulic Block...................................................61
+Hydraulic Filter....................................................92
+Hydraulic Flow Control Knob............................26
+Hydrostatic Drive Transmission.........................42
+Hydrostatic Speed Lock Lever (HST Type Only)..43
+Hydrostatic System Filter (HST Type Drive)....93
+I
+Implements.............................................................4
+Inspection.............................................................94
+Instruments and Indicators.................................16
+Tachometer and Hour Meter..............................16
+Engine Coolant Temperature Gauge..................17
+Fuel Gauge...........................................................17
+Turn Signal Indicators.........................................17
+Engine Glow Plug Indicator...............................17
+Charge Indicator..................................................17
+Engine Oil Pressure Indicator............................18
+Instruments/Controls...........................................14
+Intended Use..........................................................3
+L
+Lamp Switch.........................................................20
+Leaving the Tractor...............................................4
+Left-Hand and Right-Hand.................................13
+Lift Links..............................................................53
+Line Fuse.............................................................106
+Long-Term Storage............................................108
+Low Clearence Positions.....................................11
+Lubrication and Maintenance.............................69
+Lubrication Table................................................72
+M
+Mechanical Front Drive (4WD)..........................44
+Mfd Control Lever...............................................26
+Mid PTO (Option)................................................47
+Mid PTO Lever (IF EQUIPPED)........................28
+N
+Normal Operating Position.................................10
+Normal Starting Procedure.................................31
+O
+Oil Supply, Lubrication and Water Supply List...72
+Oil Supply, Oil Level Check, Grease Supply...75
+Oil Supply, Oil Level Check, Grease Supply, Filters Change...73
+Operating Controls..............................................19
+Operating Instructions.........................................29
+Operation of the Tractor.......................................3
+Operators Seat.....................................................14
+P
+Park Brake Lever.................................................24
+Periodical Inspection and Maintenance List.....70
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 134
+PROBLEM: Index of Manual Contents (R-T)
+MACHINE: rotavator
+SYMPTOM: N/A (This is an index page)
+STEPS:
+Power Take Off (Mid PTO).................................47
+Power Take Off (Rear PTO)................................46
+Power Take Off Guards.......................................48
+Pressure Cooling System...................................81
+Prior to Use.........................................................13
+PTO Operating Safety.........................................49
+PTO Operation.....................................................5
+R
+Raise Stop Setting Position..............................100
+Range Shift Lever...............................................27
+Rear PTO............................................................46
+Rear PTO Control Lever.....................................27
+Remote Hydraulic Control Lever With Float Position (If Equipped)...28
+Remote Hydraulic Control Valve (If Equipped)...59
+Remote Hydraulics Operation............................60
+Removal and Installation Of Battery................104
+Removing from Storage....................................109
+Replacement of Fuse (For Line Fuse).............107
+Roll Over Protective Structure (ROPS)............10
+Foldable Rops Frame........................................10
+ROPS Label........................................................12
+Run-In Procedure...............................................30
+S
+Safety Chain.......................................................52
+Safety Precautions..............................................2
+Safety Rules.......................................................12
+Serial Number......................................................1
+Serial Number Locations.....................................1
+Service After First 50 Hours..............................77
+Service Hour Interval..........................................77
+Service Specifications
+Engine Lubrication.............................................79
+Engine Coolant..................................................82
+Fuel System.......................................................85
+Air Induction System..........................................88
+Transmission And Hydraulic Lubrication...........90
+Hoses.................................................................94
+Front Axle Lubrication (MTD)............................94
+Clutch Pedal Adjustment...................................98
+Brake Pedal Adjustment....................................99
+Shuttle Shift Lever.............................................27
+Specification Table..........................................115
+Specifications..................................................115
+Speed Chart.....................................................116
+Speed Lock Lever (HST Type Only)..................24
+Speed Ratio Control Pedal (HST Type Only)....22
+Stabilizer.............................................................54
+Starter Key Switch.............................................19
+Stationary Rear PTO Work................................48
+Steering Column Tilt..........................................15
+Stopping the Engine..........................................35
+Storing the Tractor...........................................108
+System Capacities.............................................72
+System Inspection.............................................90
+T
+Telescopic Lower Links (If Equipped)...............55
+Terms and Glossary...........................................13
+Three Point Hitch Connecting Implements.......49
+Three Point Hitch System..................................53
+Tire and Rim Equipment...................................63
+Tire Inflation Procedure....................................65
+Tire Inflation Specifications..............................63
+Tire Load Capacity............................................64
+Tire Size Combinations.....................................67
+Tires/Wheels/Spacing/Ballast...........................63
+Toe-In Adjustment.............................................66
+Towing the Tractor.............................................39
+Tractor Access.....................................................7
+Tractor Ballast...................................................68
+Tractor Roll Over...............................................12
+Transmission Oil Change..................................91
+Transmission Oil Level (Shuttle Type)..............90
+Transmission Oil Level (HST Type)...................91
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 135
+PROBLEM: Index of Manual Contents
+MACHINE: rotavator
+SYMPTOM: N/A (This is an index page)
+STEPS:
+Transmission Operation .................................41
+Transmission Operation .................................42
+Troubleshooting.............................................111
+Engine ...........................................................111
+Driving and Operating Unit ...........................113
+Hydraulic Unit ...............................................114
+Electric...........................................................114
+Turn Signal Switch.........................................21
+U
+Upper Link .....................................................54
+W
+Water Removal From the Filter Cup..............85
+Wheel Mounting Torques ...............................66
+When Battery Is Not In Use...........................105
+When Charging the Battery ...........................104
+
+DIAGRAM PARTS:
+None
+
+🔹 Chunk 136
+PROBLEM: Dismantling the Clutch Unit
+MACHINE: rotavator
+SYMPTOM: Clutch slippage or failure to disengage
+STEPS:
+1. Remove the clutch unit from the machine.
+2. Remove the six nuts (1) and spring washers (2) from the clutch cover (3).
+3. Remove the clutch cover (3) and the pressure plate (4).
+4. Remove the clutch plate (5).
+5. Remove the six springs (6) from the clutch housing (7).
+6. To remove the clutch housing (7), remove the circlip (8) and slide the housing off the shaft.
+
+DIAGRAM PARTS:
+nuts (1)
+spring washers (2)
+clutch cover (3)
+pressure plate (4)
+clutch plate (5)
+springs (6)
+clutch housing (7)
+circlip (8)
+
